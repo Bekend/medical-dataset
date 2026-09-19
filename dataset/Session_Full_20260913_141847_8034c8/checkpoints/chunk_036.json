@@ -1,0 +1,248 @@
+{
+  "chunk_index": 36,
+  "start_sec": 10800.0,
+  "end_sec": 11100.0,
+  "turns": [
+    {
+      "start": 10801.128,
+      "end": 10801.499,
+      "formatted_start": "03:00:01.128",
+      "formatted_end": "03:00:01.499",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10801.735,
+      "end": 10807.507,
+      "formatted_start": "03:00:01.735",
+      "formatted_end": "03:00:07.507",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10807.979,
+      "end": 10808.992,
+      "formatted_start": "03:00:07.979",
+      "formatted_end": "03:00:08.992",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10812.957,
+      "end": 10813.531,
+      "formatted_start": "03:00:12.957",
+      "formatted_end": "03:00:13.531",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10815.151,
+      "end": 10819.285,
+      "formatted_start": "03:00:15.151",
+      "formatted_end": "03:00:19.285",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10825.36,
+      "end": 10833.68,
+      "formatted_start": "03:00:25.360",
+      "formatted_end": "03:00:33.680",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10902.766,
+      "end": 10910.866,
+      "formatted_start": "03:01:42.766",
+      "formatted_end": "03:01:50.866",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10913.802,
+      "end": 10917.667,
+      "formatted_start": "03:01:53.802",
+      "formatted_end": "03:01:57.667",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10919.422,
+      "end": 10920.198,
+      "formatted_start": "03:01:59.422",
+      "formatted_end": "03:02:00.198",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10921.48,
+      "end": 10925.463,
+      "formatted_start": "03:02:01.480",
+      "formatted_end": "03:02:05.463",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 10800.0,
+      "end": 10808.0,
+      "formatted_start": "03:00:00.000",
+      "formatted_end": "03:00:08.000",
+      "text": "اگر خانم مادم گوشی رو برداره با من همه آیند بیاد، خوب میشه. من از این دوباره زنگ میزنم بهش؟ آره، بردارو گوشی."
+    },
+    {
+      "id": 1,
+      "start": 10808.0,
+      "end": 10822.0,
+      "formatted_start": "03:00:08.000",
+      "formatted_end": "03:00:22.000",
+      "text": "جانم. بله، بله، چشم. بله، از من، از من. بله."
+    },
+    {
+      "id": 2,
+      "start": 10822.0,
+      "end": 10822.5,
+      "formatted_start": "03:00:22.000",
+      "formatted_end": "03:00:22.500",
+      "text": "بله"
+    },
+    {
+      "id": 3,
+      "start": 10825.38,
+      "end": 10827.28,
+      "formatted_start": "03:00:25.380",
+      "formatted_end": "03:00:27.280",
+      "text": "نه به موبایل هم زنگ نزن"
+    },
+    {
+      "id": 4,
+      "start": 10827.28,
+      "end": 10830.1,
+      "formatted_start": "03:00:27.280",
+      "formatted_end": "03:00:30.100",
+      "text": "من میخوام با یه گوشی دیگه باشیم به موبایل کار کنم"
+    },
+    {
+      "id": 5,
+      "start": 10830.1,
+      "end": 10831.18,
+      "formatted_start": "03:00:30.100",
+      "formatted_end": "03:00:31.180",
+      "text": "خودم زنگ نزنم"
+    },
+    {
+      "id": 6,
+      "start": 10831.18,
+      "end": 10832.78,
+      "formatted_start": "03:00:31.180",
+      "formatted_end": "03:00:32.780",
+      "text": "چند دقیقه زنگ نزن چشم"
+    },
+    {
+      "id": 7,
+      "start": 10832.78,
+      "end": 10833.78,
+      "formatted_start": "03:00:32.780",
+      "formatted_end": "03:00:33.780",
+      "text": "برون شوید"
+    },
+    {
+      "id": 8,
+      "start": 10852.0,
+      "end": 10872.0,
+      "formatted_start": "03:00:52.000",
+      "formatted_end": "03:01:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 10872.0,
+      "end": 10901.98,
+      "formatted_start": "03:01:12.000",
+      "formatted_end": "03:01:41.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 10902.0,
+      "end": 10907.0,
+      "formatted_start": "03:01:42.000",
+      "formatted_end": "03:01:47.000",
+      "text": "بله بله پونزده هم که میزنم دویست و هشتاده یک و هفتصد میشه"
+    },
+    {
+      "id": 11,
+      "start": 10907.0,
+      "end": 10911.0,
+      "formatted_start": "03:01:47.000",
+      "formatted_end": "03:01:51.000",
+      "text": "شونزده هم دویست نوید چهار میشه"
+    },
+    {
+      "id": 12,
+      "start": 10911.0,
+      "end": 10918.0,
+      "formatted_start": "03:01:51.000",
+      "formatted_end": "03:01:58.000",
+      "text": "دویست و هشتاده یک و هفتصد داشته چشم"
+    },
+    {
+      "id": 13,
+      "start": 10918.0,
+      "end": 10923.0,
+      "formatted_start": "03:01:58.000",
+      "formatted_end": "03:02:03.000",
+      "text": "پونزده هم شد باشه اما چیز شد بهش تماس میگیرم"
+    },
+    {
+      "id": 14,
+      "start": 10923.0,
+      "end": 10926.0,
+      "formatted_start": "03:02:03.000",
+      "formatted_end": "03:02:06.000",
+      "text": "یک گره پاشه یا باید برویم خدا باشم"
+    },
+    {
+      "id": 15,
+      "start": 10932.0,
+      "end": 10961.98,
+      "formatted_start": "03:02:12.000",
+      "formatted_end": "03:02:41.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 16,
+      "start": 10962.0,
+      "end": 10991.98,
+      "formatted_start": "03:02:42.000",
+      "formatted_end": "03:03:11.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 17,
+      "start": 10992.0,
+      "end": 11021.98,
+      "formatted_start": "03:03:12.000",
+      "formatted_end": "03:03:41.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 18,
+      "start": 11022.0,
+      "end": 11050.0,
+      "formatted_start": "03:03:42.000",
+      "formatted_end": "03:04:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 11052.0,
+      "end": 11081.98,
+      "formatted_start": "03:04:12.000",
+      "formatted_end": "03:04:41.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 20,
+      "start": 11082.0,
+      "end": 11100.0,
+      "formatted_start": "03:04:42.000",
+      "formatted_end": "03:05:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
