@@ -1,0 +1,118 @@
+{
+  "chunk_index": 17,
+  "start_sec": 5100.0,
+  "end_sec": 5400.0,
+  "turns": [
+    {
+      "start": 5108.553,
+      "end": 5109.042,
+      "formatted_start": "01:25:08.553",
+      "formatted_end": "01:25:09.042",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5180.339,
+      "end": 5180.896,
+      "formatted_start": "01:26:20.339",
+      "formatted_end": "01:26:20.896",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5243.097,
+      "end": 5243.89,
+      "formatted_start": "01:27:23.097",
+      "formatted_end": "01:27:23.890",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5317.178,
+      "end": 5318.326,
+      "formatted_start": "01:28:37.178",
+      "formatted_end": "01:28:38.326",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 5100.0,
+      "end": 5102.0,
+      "formatted_start": "01:25:00.000",
+      "formatted_end": "01:25:02.000",
+      "text": "مدیشه باید باید برداری کنید."
+    },
+    {
+      "id": 1,
+      "start": 5130.0,
+      "end": 5159.98,
+      "formatted_start": "01:25:30.000",
+      "formatted_end": "01:25:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 5160.0,
+      "end": 5180.0,
+      "formatted_start": "01:26:00.000",
+      "formatted_end": "01:26:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 5190.0,
+      "end": 5219.98,
+      "formatted_start": "01:26:30.000",
+      "formatted_end": "01:26:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 5220.0,
+      "end": 5248.0,
+      "formatted_start": "01:27:00.000",
+      "formatted_end": "01:27:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 5250.0,
+      "end": 5272.0,
+      "formatted_start": "01:27:30.000",
+      "formatted_end": "01:27:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 5280.0,
+      "end": 5309.98,
+      "formatted_start": "01:28:00.000",
+      "formatted_end": "01:28:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 5310.0,
+      "end": 5339.98,
+      "formatted_start": "01:28:30.000",
+      "formatted_end": "01:28:59.980",
+      "text": "موسیقی در موسیقی دیگه"
+    },
+    {
+      "id": 8,
+      "start": 5340.0,
+      "end": 5350.0,
+      "formatted_start": "01:29:00.000",
+      "formatted_end": "01:29:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 5370.0,
+      "end": 5372.0,
+      "formatted_start": "01:29:30.000",
+      "formatted_end": "01:29:32.000",
+      "text": "موسیقی در موسیقی دیگر"
+    }
+  ],
+  "status": "completed"
+}

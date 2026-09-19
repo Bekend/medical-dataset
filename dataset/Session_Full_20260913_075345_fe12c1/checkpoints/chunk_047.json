@@ -1,0 +1,118 @@
+{
+  "chunk_index": 47,
+  "start_sec": 14100.0,
+  "end_sec": 14399.32,
+  "turns": [
+    {
+      "start": 14100.166,
+      "end": 14104.79,
+      "formatted_start": "03:55:00.166",
+      "formatted_end": "03:55:04.790",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14285.302,
+      "end": 14286.382,
+      "formatted_start": "03:58:05.302",
+      "formatted_end": "03:58:06.382",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14289.132,
+      "end": 14290.027,
+      "formatted_start": "03:58:09.132",
+      "formatted_end": "03:58:10.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14348.38,
+      "end": 14348.903,
+      "formatted_start": "03:59:08.380",
+      "formatted_end": "03:59:08.903",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 14100.0,
+      "end": 14102.0,
+      "formatted_start": "03:55:00.000",
+      "formatted_end": "03:55:02.000",
+      "text": "مدیشه باید برداری کنید."
+    },
+    {
+      "id": 1,
+      "start": 14130.0,
+      "end": 14140.0,
+      "formatted_start": "03:55:30.000",
+      "formatted_end": "03:55:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 14160.0,
+      "end": 14178.0,
+      "formatted_start": "03:56:00.000",
+      "formatted_end": "03:56:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 14178.0,
+      "end": 14207.0,
+      "formatted_start": "03:56:18.000",
+      "formatted_end": "03:56:47.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 14208.0,
+      "end": 14230.0,
+      "formatted_start": "03:56:48.000",
+      "formatted_end": "03:57:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 14230.0,
+      "end": 14258.0,
+      "formatted_start": "03:57:10.000",
+      "formatted_end": "03:57:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 14258.0,
+      "end": 14285.0,
+      "formatted_start": "03:57:38.000",
+      "formatted_end": "03:58:05.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 14315.0,
+      "end": 14325.0,
+      "formatted_start": "03:58:35.000",
+      "formatted_end": "03:58:45.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 14345.0,
+      "end": 14374.98,
+      "formatted_start": "03:59:05.000",
+      "formatted_end": "03:59:34.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 9,
+      "start": 14375.0,
+      "end": 14399.0,
+      "formatted_start": "03:59:35.000",
+      "formatted_end": "03:59:59.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
