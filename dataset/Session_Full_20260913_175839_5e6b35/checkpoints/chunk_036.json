@@ -1,0 +1,240 @@
+{
+  "chunk_index": 36,
+  "start_sec": 10800.0,
+  "end_sec": 11100.0,
+  "turns": [
+    {
+      "start": 10800.2,
+      "end": 10801.027,
+      "formatted_start": "03:00:00.200",
+      "formatted_end": "03:00:01.027",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10801.043,
+      "end": 10802.714,
+      "formatted_start": "03:00:01.043",
+      "formatted_end": "03:00:02.714",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10819.977,
+      "end": 10820.382,
+      "formatted_start": "03:00:19.977",
+      "formatted_end": "03:00:20.382",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10821.968,
+      "end": 10822.508,
+      "formatted_start": "03:00:21.968",
+      "formatted_end": "03:00:22.508",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10823.943,
+      "end": 10824.854,
+      "formatted_start": "03:00:23.943",
+      "formatted_end": "03:00:24.854",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10830.642,
+      "end": 10835.03,
+      "formatted_start": "03:00:30.642",
+      "formatted_end": "03:00:35.030",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10835.03,
+      "end": 10840.852,
+      "formatted_start": "03:00:35.030",
+      "formatted_end": "03:00:40.852",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10838.422,
+      "end": 10838.962,
+      "formatted_start": "03:00:38.422",
+      "formatted_end": "03:00:38.962",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10839.957,
+      "end": 10840.463,
+      "formatted_start": "03:00:39.957",
+      "formatted_end": "03:00:40.463",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 10840.936,
+      "end": 10841.611,
+      "formatted_start": "03:00:40.936",
+      "formatted_end": "03:00:41.611",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10841.611,
+      "end": 10851.027,
+      "formatted_start": "03:00:41.611",
+      "formatted_end": "03:00:51.027",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 10841.628,
+      "end": 10842.353,
+      "formatted_start": "03:00:41.628",
+      "formatted_end": "03:00:42.353",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10844.986,
+      "end": 10848.31,
+      "formatted_start": "03:00:44.986",
+      "formatted_end": "03:00:48.310",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10851.044,
+      "end": 10853.221,
+      "formatted_start": "03:00:51.044",
+      "formatted_end": "03:00:53.221",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 10921.48,
+      "end": 10923.387,
+      "formatted_start": "03:02:01.480",
+      "formatted_end": "03:02:03.387",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 11054.27,
+      "end": 11055.923,
+      "formatted_start": "03:04:14.270",
+      "formatted_end": "03:04:15.923",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11057.088,
+      "end": 11058.202,
+      "formatted_start": "03:04:17.088",
+      "formatted_end": "03:04:18.202",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11060.024,
+      "end": 11065.795,
+      "formatted_start": "03:04:20.024",
+      "formatted_end": "03:04:25.795",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 10800.0,
+      "end": 10802.0,
+      "formatted_start": "03:00:00.000",
+      "formatted_end": "03:00:02.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 1,
+      "start": 10830.0,
+      "end": 10849.74,
+      "formatted_start": "03:00:30.000",
+      "formatted_end": "03:00:49.740",
+      "text": "از اینجا باید بردازی بردازی دستش میتونید شکر مستقبل میشه"
+    },
+    {
+      "id": 2,
+      "start": 10860.0,
+      "end": 10870.0,
+      "formatted_start": "03:01:00.000",
+      "formatted_end": "03:01:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 10890.0,
+      "end": 10918.0,
+      "formatted_start": "03:01:30.000",
+      "formatted_end": "03:01:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 10920.0,
+      "end": 10949.98,
+      "formatted_start": "03:02:00.000",
+      "formatted_end": "03:02:29.980",
+      "text": "بسیار شکر میکنم"
+    },
+    {
+      "id": 5,
+      "start": 10950.0,
+      "end": 10979.98,
+      "formatted_start": "03:02:30.000",
+      "formatted_end": "03:02:59.980",
+      "text": "موسیقی در موسیقی دیگه"
+    },
+    {
+      "id": 6,
+      "start": 10980.0,
+      "end": 11009.98,
+      "formatted_start": "03:03:00.000",
+      "formatted_end": "03:03:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 7,
+      "start": 11010.0,
+      "end": 11012.0,
+      "formatted_start": "03:03:30.000",
+      "formatted_end": "03:03:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 11040.0,
+      "end": 11055.68,
+      "formatted_start": "03:04:00.000",
+      "formatted_end": "03:04:15.680",
+      "text": "خانم بارانی"
+    },
+    {
+      "id": 9,
+      "start": 11055.68,
+      "end": 11061.68,
+      "formatted_start": "03:04:15.680",
+      "formatted_end": "03:04:21.680",
+      "text": "خانم مقدم هست؟"
+    },
+    {
+      "id": 10,
+      "start": 11061.68,
+      "end": 11063.68,
+      "formatted_start": "03:04:21.680",
+      "formatted_end": "03:04:23.680",
+      "text": "خانم مقدم سریع بیایید"
+    },
+    {
+      "id": 11,
+      "start": 11063.68,
+      "end": 11065.68,
+      "formatted_start": "03:04:23.680",
+      "formatted_end": "03:04:25.680",
+      "text": "شونشو نگهدونید"
+    },
+    {
+      "id": 12,
+      "start": 11065.68,
+      "end": 11067.68,
+      "formatted_start": "03:04:25.680",
+      "formatted_end": "03:04:27.680",
+      "text": "باید برداریم"
+    }
+  ],
+  "status": "completed"
+}
