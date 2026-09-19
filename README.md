@@ -7,6 +7,11 @@
 [![Tasks: STT & Diarization & Clinical NLP](https://img.shields.io/badge/Tasks-STT%20%7C%20Diarization%20%7C%20NLP-purple.svg)](#)
 
 ---
+مشخصات پژوهش و تیم تحقیق (Research Credits)
+پژوهشگر و گردآورنده: سید شهاب‌الدین حسینی بای
+Researcher & Data Collector: Seyyed Shahabeddin Hosseini Bay
+اساتید راهنما: دکتر رضا یزدی، دکتر مهدی یعقوبی
+Supervisors: Dr. Reza Yazdi & Dr. Mehdi Yaghoobi
 
 ## 📑 فهرست مطالب / Table of Contents
 1. [بخش فارسی / Persian Section](#-بخش-فارسی-persian-documentation)
