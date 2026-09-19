@@ -1,0 +1,312 @@
+{
+  "chunk_index": 12,
+  "start_sec": 3600.0,
+  "end_sec": 3900.0,
+  "turns": [
+    {
+      "start": 3674.838,
+      "end": 3676.036,
+      "formatted_start": "01:01:14.838",
+      "formatted_end": "01:01:16.036",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3703.255,
+      "end": 3709.027,
+      "formatted_start": "01:01:43.255",
+      "formatted_end": "01:01:49.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3710.056,
+      "end": 3710.832,
+      "formatted_start": "01:01:50.056",
+      "formatted_end": "01:01:50.832",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3733.327,
+      "end": 3754.218,
+      "formatted_start": "01:02:13.327",
+      "formatted_end": "01:02:34.218",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3737.393,
+      "end": 3738.44,
+      "formatted_start": "01:02:17.393",
+      "formatted_end": "01:02:18.440",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3743.249,
+      "end": 3743.738,
+      "formatted_start": "01:02:23.249",
+      "formatted_end": "01:02:23.738",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3746.54,
+      "end": 3749.037,
+      "formatted_start": "01:02:26.540",
+      "formatted_end": "01:02:29.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3754.336,
+      "end": 3756.327,
+      "formatted_start": "01:02:34.336",
+      "formatted_end": "01:02:36.327",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3759.82,
+      "end": 3761.39,
+      "formatted_start": "01:02:39.820",
+      "formatted_end": "01:02:41.390",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3809.078,
+      "end": 3810.412,
+      "formatted_start": "01:03:29.078",
+      "formatted_end": "01:03:30.412",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3821.6,
+      "end": 3822.545,
+      "formatted_start": "01:03:41.600",
+      "formatted_end": "01:03:42.545",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3825.734,
+      "end": 3827.54,
+      "formatted_start": "01:03:45.734",
+      "formatted_end": "01:03:47.540",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3847.739,
+      "end": 3849.038,
+      "formatted_start": "01:04:07.739",
+      "formatted_end": "01:04:09.038",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3854.962,
+      "end": 3858.742,
+      "formatted_start": "01:04:14.962",
+      "formatted_end": "01:04:18.742",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3858.877,
+      "end": 3865.036,
+      "formatted_start": "01:04:18.877",
+      "formatted_end": "01:04:25.036",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3861.948,
+      "end": 3863.551,
+      "formatted_start": "01:04:21.948",
+      "formatted_end": "01:04:23.551",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3865.424,
+      "end": 3866.808,
+      "formatted_start": "01:04:25.424",
+      "formatted_end": "01:04:26.808",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3886.113,
+      "end": 3888.458,
+      "formatted_start": "01:04:46.113",
+      "formatted_end": "01:04:48.458",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3600.0,
+      "end": 3628.0,
+      "formatted_start": "01:00:00.000",
+      "formatted_end": "01:00:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 3630.0,
+      "end": 3650.0,
+      "formatted_start": "01:00:30.000",
+      "formatted_end": "01:00:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3650.0,
+      "end": 3660.0,
+      "formatted_start": "01:00:50.000",
+      "formatted_end": "01:01:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3680.0,
+      "end": 3703.0,
+      "formatted_start": "01:01:20.000",
+      "formatted_end": "01:01:43.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 3703.0,
+      "end": 3705.0,
+      "formatted_start": "01:01:43.000",
+      "formatted_end": "01:01:45.000",
+      "text": "شاگه چرا بررکس بوشید اونو؟"
+    },
+    {
+      "id": 5,
+      "start": 3705.0,
+      "end": 3733.0,
+      "formatted_start": "01:01:45.000",
+      "formatted_end": "01:02:13.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 3733.0,
+      "end": 3735.0,
+      "formatted_start": "01:02:13.000",
+      "formatted_end": "01:02:15.000",
+      "text": "بگیرم اینجا"
+    },
+    {
+      "id": 7,
+      "start": 3735.0,
+      "end": 3737.0,
+      "formatted_start": "01:02:15.000",
+      "formatted_end": "01:02:17.000",
+      "text": "سلامت بگیرم"
+    },
+    {
+      "id": 8,
+      "start": 3737.0,
+      "end": 3739.0,
+      "formatted_start": "01:02:17.000",
+      "formatted_end": "01:02:19.000",
+      "text": "خواهش بگیرم"
+    },
+    {
+      "id": 9,
+      "start": 3739.0,
+      "end": 3743.0,
+      "formatted_start": "01:02:19.000",
+      "formatted_end": "01:02:23.000",
+      "text": "از برسو بارو شما را جازم و باید چرا تا دردی مرسان فراغانی را برگیرم"
+    },
+    {
+      "id": 10,
+      "start": 3743.0,
+      "end": 3745.0,
+      "formatted_start": "01:02:23.000",
+      "formatted_end": "01:02:25.000",
+      "text": "خواهش بگیرم"
+    },
+    {
+      "id": 11,
+      "start": 3745.0,
+      "end": 3747.0,
+      "formatted_start": "01:02:25.000",
+      "formatted_end": "01:02:27.000",
+      "text": "خواهش بگیرم"
+    },
+    {
+      "id": 12,
+      "start": 3747.0,
+      "end": 3749.0,
+      "formatted_start": "01:02:27.000",
+      "formatted_end": "01:02:29.000",
+      "text": "این در پیش پشت"
+    },
+    {
+      "id": 13,
+      "start": 3749.0,
+      "end": 3751.0,
+      "formatted_start": "01:02:29.000",
+      "formatted_end": "01:02:31.000",
+      "text": "حدیرش پیشون باید بینداخت"
+    },
+    {
+      "id": 14,
+      "start": 3751.0,
+      "end": 3753.0,
+      "formatted_start": "01:02:31.000",
+      "formatted_end": "01:02:33.000",
+      "text": "این موبایت تنشوشی چند را در حشیف تشوشی"
+    },
+    {
+      "id": 15,
+      "start": 3753.0,
+      "end": 3755.0,
+      "formatted_start": "01:02:33.000",
+      "formatted_end": "01:02:35.000",
+      "text": "منشون بیاد باید بینداخت"
+    },
+    {
+      "id": 16,
+      "start": 3755.0,
+      "end": 3757.0,
+      "formatted_start": "01:02:35.000",
+      "formatted_end": "01:02:37.000",
+      "text": "باید درکه برم"
+    },
+    {
+      "id": 17,
+      "start": 3759.0,
+      "end": 3761.0,
+      "formatted_start": "01:02:39.000",
+      "formatted_end": "01:02:41.000",
+      "text": "پامسامین برق اومد"
+    },
+    {
+      "id": 18,
+      "start": 3791.0,
+      "end": 3819.0,
+      "formatted_start": "01:03:11.000",
+      "formatted_end": "01:03:39.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 3821.0,
+      "end": 3849.0,
+      "formatted_start": "01:03:41.000",
+      "formatted_end": "01:04:09.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 3849.0,
+      "end": 3851.0,
+      "formatted_start": "01:04:09.000",
+      "formatted_end": "01:04:11.000",
+      "text": "خداحافظ"
+    },
+    {
+      "id": 21,
+      "start": 3879.0,
+      "end": 3900.0,
+      "formatted_start": "01:04:39.000",
+      "formatted_end": "01:05:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

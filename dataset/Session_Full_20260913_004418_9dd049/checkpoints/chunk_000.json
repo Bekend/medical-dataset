@@ -1,0 +1,450 @@
+{
+  "chunk_index": 0,
+  "start_sec": 0.0,
+  "end_sec": 300.0,
+  "turns": [
+    {
+      "start": 1.027,
+      "end": 2.005,
+      "formatted_start": "00:00:01.027",
+      "formatted_end": "00:00:02.005",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2.798,
+      "end": 4.587,
+      "formatted_start": "00:00:02.798",
+      "formatted_end": "00:00:04.587",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5.903,
+      "end": 13.919,
+      "formatted_start": "00:00:05.903",
+      "formatted_end": "00:00:13.919",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.231,
+      "end": 21.395,
+      "formatted_start": "00:00:16.231",
+      "formatted_end": "00:00:21.395",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23.048,
+      "end": 25.141,
+      "formatted_start": "00:00:23.048",
+      "formatted_end": "00:00:25.141",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23.69,
+      "end": 24.044,
+      "formatted_start": "00:00:23.690",
+      "formatted_end": "00:00:24.044",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 30.085,
+      "end": 30.963,
+      "formatted_start": "00:00:30.085",
+      "formatted_end": "00:00:30.963",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 33.882,
+      "end": 34.979,
+      "formatted_start": "00:00:33.882",
+      "formatted_end": "00:00:34.979",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 38.354,
+      "end": 38.928,
+      "formatted_start": "00:00:38.354",
+      "formatted_end": "00:00:38.928",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 41.071,
+      "end": 41.813,
+      "formatted_start": "00:00:41.071",
+      "formatted_end": "00:00:41.813",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 42.809,
+      "end": 43.72,
+      "formatted_start": "00:00:42.809",
+      "formatted_end": "00:00:43.720",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 45.678,
+      "end": 46.741,
+      "formatted_start": "00:00:45.678",
+      "formatted_end": "00:00:46.741",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.968,
+      "end": 49.677,
+      "formatted_start": "00:00:48.968",
+      "formatted_end": "00:00:49.677",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 79.394,
+      "end": 80.272,
+      "formatted_start": "00:01:19.394",
+      "formatted_end": "00:01:20.272",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 86.212,
+      "end": 87.882,
+      "formatted_start": "00:01:26.212",
+      "formatted_end": "00:01:27.882",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 92.827,
+      "end": 94.177,
+      "formatted_start": "00:01:32.827",
+      "formatted_end": "00:01:34.177",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 94.531,
+      "end": 96.033,
+      "formatted_start": "00:01:34.531",
+      "formatted_end": "00:01:36.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 96.1,
+      "end": 96.522,
+      "formatted_start": "00:01:36.100",
+      "formatted_end": "00:01:36.522",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 96.539,
+      "end": 96.995,
+      "formatted_start": "00:01:36.539",
+      "formatted_end": "00:01:36.995",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 99.678,
+      "end": 102.462,
+      "formatted_start": "00:01:39.678",
+      "formatted_end": "00:01:42.462",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 105.719,
+      "end": 110.123,
+      "formatted_start": "00:01:45.719",
+      "formatted_end": "00:01:50.123",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 110.41,
+      "end": 119.101,
+      "formatted_start": "00:01:50.410",
+      "formatted_end": "00:01:59.101",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 193.807,
+      "end": 194.954,
+      "formatted_start": "00:03:13.807",
+      "formatted_end": "00:03:14.954",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 195.764,
+      "end": 197.03,
+      "formatted_start": "00:03:15.764",
+      "formatted_end": "00:03:17.030",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 197.823,
+      "end": 200.489,
+      "formatted_start": "00:03:17.823",
+      "formatted_end": "00:03:20.489",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 255.653,
+      "end": 256.582,
+      "formatted_start": "00:04:15.653",
+      "formatted_end": "00:04:16.582",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 268.546,
+      "end": 269.035,
+      "formatted_start": "00:04:28.546",
+      "formatted_end": "00:04:29.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 270.132,
+      "end": 271.027,
+      "formatted_start": "00:04:30.132",
+      "formatted_end": "00:04:31.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 279.346,
+      "end": 281.084,
+      "formatted_start": "00:04:39.346",
+      "formatted_end": "00:04:41.084",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 284.088,
+      "end": 285.64,
+      "formatted_start": "00:04:44.088",
+      "formatted_end": "00:04:45.640",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 285.995,
+      "end": 287.159,
+      "formatted_start": "00:04:45.995",
+      "formatted_end": "00:04:47.159",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 290.095,
+      "end": 292.913,
+      "formatted_start": "00:04:50.095",
+      "formatted_end": "00:04:52.913",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.98,
+      "formatted_start": "00:00:00.000",
+      "formatted_end": "00:00:29.980",
+      "text": "مردوی بیمار، گفتگو بین دکتر و بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 32.0,
+      "formatted_start": "00:00:30.000",
+      "formatted_end": "00:00:32.000",
+      "text": "با چه کنه یه نیست؟"
+    },
+    {
+      "id": 2,
+      "start": 33.76,
+      "end": 35.76,
+      "formatted_start": "00:00:33.760",
+      "formatted_end": "00:00:35.760",
+      "text": "با چه کنه یه نیست؟"
+    },
+    {
+      "id": 3,
+      "start": 38.32,
+      "end": 39.32,
+      "formatted_start": "00:00:38.320",
+      "formatted_end": "00:00:39.320",
+      "text": "ها"
+    },
+    {
+      "id": 4,
+      "start": 41.12,
+      "end": 42.12,
+      "formatted_start": "00:00:41.120",
+      "formatted_end": "00:00:42.120",
+      "text": "چنان"
+    },
+    {
+      "id": 5,
+      "start": 42.96,
+      "end": 43.96,
+      "formatted_start": "00:00:42.960",
+      "formatted_end": "00:00:43.960",
+      "text": "یک طور"
+    },
+    {
+      "id": 6,
+      "start": 45.76,
+      "end": 46.76,
+      "formatted_start": "00:00:45.760",
+      "formatted_end": "00:00:46.760",
+      "text": "میره چنان"
+    },
+    {
+      "id": 7,
+      "start": 48.96,
+      "end": 49.96,
+      "formatted_start": "00:00:48.960",
+      "formatted_end": "00:00:49.960",
+      "text": "چنان"
+    },
+    {
+      "id": 8,
+      "start": 51.96,
+      "end": 52.96,
+      "formatted_start": "00:00:51.960",
+      "formatted_end": "00:00:52.960",
+      "text": "یه نیست"
+    },
+    {
+      "id": 9,
+      "start": 57.44,
+      "end": 58.84,
+      "formatted_start": "00:00:57.440",
+      "formatted_end": "00:00:58.840",
+      "text": "میره اون طور ها چنان"
+    },
+    {
+      "id": 10,
+      "start": 60.0,
+      "end": 80.0,
+      "formatted_start": "00:01:00.000",
+      "formatted_end": "00:01:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 90.0,
+      "end": 100.0,
+      "formatted_start": "00:01:30.000",
+      "formatted_end": "00:01:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 120.0,
+      "end": 140.0,
+      "formatted_start": "00:02:00.000",
+      "formatted_end": "00:02:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 140.0,
+      "end": 162.0,
+      "formatted_start": "00:02:20.000",
+      "formatted_end": "00:02:42.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 162.0,
+      "end": 172.0,
+      "formatted_start": "00:02:42.000",
+      "formatted_end": "00:02:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 192.0,
+      "end": 220.0,
+      "formatted_start": "00:03:12.000",
+      "formatted_end": "00:03:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 222.0,
+      "end": 250.0,
+      "formatted_start": "00:03:42.000",
+      "formatted_end": "00:04:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 250.0,
+      "end": 253.0,
+      "formatted_start": "00:04:10.000",
+      "formatted_end": "00:04:13.000",
+      "text": "مرد شکنید و درست دارید."
+    },
+    {
+      "id": 18,
+      "start": 254.0,
+      "end": 257.0,
+      "formatted_start": "00:04:14.000",
+      "formatted_end": "00:04:17.000",
+      "text": "هر گره هایی که با شما باید بردارید،"
+    },
+    {
+      "id": 19,
+      "start": 258.0,
+      "end": 260.0,
+      "formatted_start": "00:04:18.000",
+      "formatted_end": "00:04:20.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 20,
+      "start": 261.0,
+      "end": 263.0,
+      "formatted_start": "00:04:21.000",
+      "formatted_end": "00:04:23.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 21,
+      "start": 264.0,
+      "end": 266.0,
+      "formatted_start": "00:04:24.000",
+      "formatted_end": "00:04:26.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 22,
+      "start": 267.0,
+      "end": 269.0,
+      "formatted_start": "00:04:27.000",
+      "formatted_end": "00:04:29.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 23,
+      "start": 270.0,
+      "end": 272.0,
+      "formatted_start": "00:04:30.000",
+      "formatted_end": "00:04:32.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 24,
+      "start": 273.0,
+      "end": 275.0,
+      "formatted_start": "00:04:33.000",
+      "formatted_end": "00:04:35.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 25,
+      "start": 276.0,
+      "end": 278.0,
+      "formatted_start": "00:04:36.000",
+      "formatted_end": "00:04:38.000",
+      "text": "با شما باید بردارید،"
+    },
+    {
+      "id": 26,
+      "start": 278.0,
+      "end": 300.0,
+      "formatted_start": "00:04:38.000",
+      "formatted_end": "00:05:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
