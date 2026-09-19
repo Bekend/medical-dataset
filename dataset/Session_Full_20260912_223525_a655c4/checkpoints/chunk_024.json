@@ -1,0 +1,444 @@
+{
+  "chunk_index": 24,
+  "start_sec": 7200.0,
+  "end_sec": 7500.0,
+  "turns": [
+    {
+      "start": 7200.031,
+      "end": 7201.027,
+      "formatted_start": "02:00:00.031",
+      "formatted_end": "02:00:01.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7201.988,
+      "end": 7206.005,
+      "formatted_start": "02:00:01.988",
+      "formatted_end": "02:00:06.005",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7207.456,
+      "end": 7209.11,
+      "formatted_start": "02:00:07.456",
+      "formatted_end": "02:00:09.110",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7215.488,
+      "end": 7216.417,
+      "formatted_start": "02:00:15.488",
+      "formatted_end": "02:00:16.417",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7255.685,
+      "end": 7260.14,
+      "formatted_start": "02:00:55.685",
+      "formatted_end": "02:01:00.140",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7261.152,
+      "end": 7265.118,
+      "formatted_start": "02:01:01.152",
+      "formatted_end": "02:01:05.118",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7266.417,
+      "end": 7270.822,
+      "formatted_start": "02:01:06.417",
+      "formatted_end": "02:01:10.822",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7272.053,
+      "end": 7273.268,
+      "formatted_start": "02:01:12.053",
+      "formatted_end": "02:01:13.268",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7318.882,
+      "end": 7321.261,
+      "formatted_start": "02:01:58.882",
+      "formatted_end": "02:02:01.261",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7351.163,
+      "end": 7361.778,
+      "formatted_start": "02:02:31.163",
+      "formatted_end": "02:02:41.778",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7440.77,
+      "end": 7445.039,
+      "formatted_start": "02:04:00.770",
+      "formatted_end": "02:04:05.039",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7440.854,
+      "end": 7441.394,
+      "formatted_start": "02:04:00.854",
+      "formatted_end": "02:04:01.394",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7445.9,
+      "end": 7447.03,
+      "formatted_start": "02:04:05.900",
+      "formatted_end": "02:04:07.030",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7456.97,
+      "end": 7459.973,
+      "formatted_start": "02:04:16.970",
+      "formatted_end": "02:04:19.973",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7459.973,
+      "end": 7463.669,
+      "formatted_start": "02:04:19.973",
+      "formatted_end": "02:04:23.669",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7463.669,
+      "end": 7464.479,
+      "formatted_start": "02:04:23.669",
+      "formatted_end": "02:04:24.479",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7464.479,
+      "end": 7472.292,
+      "formatted_start": "02:04:24.479",
+      "formatted_end": "02:04:32.292",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7472.393,
+      "end": 7472.832,
+      "formatted_start": "02:04:32.393",
+      "formatted_end": "02:04:32.832",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7473.153,
+      "end": 7479.903,
+      "formatted_start": "02:04:33.153",
+      "formatted_end": "02:04:39.903",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7480.19,
+      "end": 7493.977,
+      "formatted_start": "02:04:40.190",
+      "formatted_end": "02:04:53.977",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7493.977,
+      "end": 7496.963,
+      "formatted_start": "02:04:53.977",
+      "formatted_end": "02:04:56.963",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7496.963,
+      "end": 7499.967,
+      "formatted_start": "02:04:56.963",
+      "formatted_end": "02:04:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7200.0,
+      "end": 7202.0,
+      "formatted_start": "02:00:00.000",
+      "formatted_end": "02:00:02.000",
+      "text": "مدیشه باید باید برداری کنید."
+    },
+    {
+      "id": 1,
+      "start": 7230.0,
+      "end": 7255.0,
+      "formatted_start": "02:00:30.000",
+      "formatted_end": "02:00:55.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 7255.0,
+      "end": 7265.1,
+      "formatted_start": "02:00:55.000",
+      "formatted_end": "02:01:05.100",
+      "text": "یز یا مبونی، گرد آسمونی"
+    },
+    {
+      "id": 3,
+      "start": 7265.1,
+      "end": 7275.0,
+      "formatted_start": "02:01:05.100",
+      "formatted_end": "02:01:15.000",
+      "text": "نه حالی کشمیونه، مخصوصی مردمونی"
+    },
+    {
+      "id": 4,
+      "start": 7275.0,
+      "end": 7284.1,
+      "formatted_start": "02:01:15.000",
+      "formatted_end": "02:01:24.100",
+      "text": "یز یا مبونی، گرد آسمونی"
+    },
+    {
+      "id": 5,
+      "start": 7284.1,
+      "end": 7313.1,
+      "formatted_start": "02:01:24.100",
+      "formatted_end": "02:01:53.100",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 7314.1,
+      "end": 7334.1,
+      "formatted_start": "02:01:54.100",
+      "formatted_end": "02:02:14.100",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 7334.1,
+      "end": 7363.1,
+      "formatted_start": "02:02:14.100",
+      "formatted_end": "02:02:43.100",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 7364.1,
+      "end": 7393.1,
+      "formatted_start": "02:02:44.100",
+      "formatted_end": "02:03:13.100",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 7393.1,
+      "end": 7423.08,
+      "formatted_start": "02:03:13.100",
+      "formatted_end": "02:03:43.080",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 7423.1,
+      "end": 7441.1,
+      "formatted_start": "02:03:43.100",
+      "formatted_end": "02:04:01.100",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 7441.1,
+      "end": 7459.1,
+      "formatted_start": "02:04:01.100",
+      "formatted_end": "02:04:19.100",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 7459.1,
+      "end": 7464.1,
+      "formatted_start": "02:04:19.100",
+      "formatted_end": "02:04:24.100",
+      "text": "اوه هر وقتی بیدی بچه ها در مورد عدد پی ازش سوال باشه"
+    },
+    {
+      "id": 13,
+      "start": 7464.1,
+      "end": 7465.1,
+      "formatted_start": "02:04:24.100",
+      "formatted_end": "02:04:25.100",
+      "text": "از درم"
+    },
+    {
+      "id": 14,
+      "start": 7465.1,
+      "end": 7468.1,
+      "formatted_start": "02:04:25.100",
+      "formatted_end": "02:04:28.100",
+      "text": "برای ماهی نیستش که اندامت رو مردم ببینند چه وضع شده"
+    },
+    {
+      "id": 15,
+      "start": 7468.1,
+      "end": 7470.1,
+      "formatted_start": "02:04:28.100",
+      "formatted_end": "02:04:30.100",
+      "text": "چی میگن این زیره این پیرنده پشتیه؟"
+    },
+    {
+      "id": 16,
+      "start": 7470.1,
+      "end": 7472.1,
+      "formatted_start": "02:04:30.100",
+      "formatted_end": "02:04:32.100",
+      "text": "کراپ این کراپ گرد سیره بالاش مردمه چی اسمش؟"
+    },
+    {
+      "id": 17,
+      "start": 7472.1,
+      "end": 7473.1,
+      "formatted_start": "02:04:32.100",
+      "formatted_end": "02:04:33.100",
+      "text": "کراپ دیدی"
+    },
+    {
+      "id": 18,
+      "start": 7473.1,
+      "end": 7474.1,
+      "formatted_start": "02:04:33.100",
+      "formatted_end": "02:04:34.100",
+      "text": "کراپ نیم سیره"
+    },
+    {
+      "id": 19,
+      "start": 7474.1,
+      "end": 7477.1,
+      "formatted_start": "02:04:34.100",
+      "formatted_end": "02:04:37.100",
+      "text": "آهان داره اگه یه سریعه بخواهند بردی کنند"
+    },
+    {
+      "id": 20,
+      "start": 7477.1,
+      "end": 7480.1,
+      "formatted_start": "02:04:37.100",
+      "formatted_end": "02:04:40.100",
+      "text": "باید رمز مردم بردن و بیرون بردن"
+    },
+    {
+      "id": 21,
+      "start": 7480.1,
+      "end": 7482.76,
+      "formatted_start": "02:04:40.100",
+      "formatted_end": "02:04:42.760",
+      "text": "وقتی خانم یه جویه می باشه که جبه را جوه بشه بهش"
+    },
+    {
+      "id": 22,
+      "start": 7482.76,
+      "end": 7484.68,
+      "formatted_start": "02:04:42.760",
+      "formatted_end": "02:04:44.680",
+      "text": "چرا اون یکی اجازه نداره نگاه کنه"
+    },
+    {
+      "id": 23,
+      "start": 7484.68,
+      "end": 7485.76,
+      "formatted_start": "02:04:44.680",
+      "formatted_end": "02:04:45.760",
+      "text": "اون که اجازه داره دیگه"
+    },
+    {
+      "id": 24,
+      "start": 7485.76,
+      "end": 7487.64,
+      "formatted_start": "02:04:45.760",
+      "formatted_end": "02:04:47.640",
+      "text": "ما در 1400 سله"
+    },
+    {
+      "id": 25,
+      "start": 7487.64,
+      "end": 7489.28,
+      "formatted_start": "02:04:47.640",
+      "formatted_end": "02:04:49.280",
+      "text": "خانمان هم گوشیده هم"
+    },
+    {
+      "id": 26,
+      "start": 7489.28,
+      "end": 7490.36,
+      "formatted_start": "02:04:49.280",
+      "formatted_end": "02:04:50.360",
+      "text": "هم بارهش کرده"
+    },
+    {
+      "id": 27,
+      "start": 7490.36,
+      "end": 7491.46,
+      "formatted_start": "02:04:50.360",
+      "formatted_end": "02:04:51.460",
+      "text": "من هیچ کار نکردم"
+    },
+    {
+      "id": 28,
+      "start": 7491.46,
+      "end": 7493.34,
+      "formatted_start": "02:04:51.460",
+      "formatted_end": "02:04:53.340",
+      "text": "هنوز تا دیگه درست شده"
+    },
+    {
+      "id": 29,
+      "start": 7493.34,
+      "end": 7495.92,
+      "formatted_start": "02:04:53.340",
+      "formatted_end": "02:04:55.920",
+      "text": "من برای اون مهم نیستش که اندامت مردم دیدن"
+    },
+    {
+      "id": 30,
+      "start": 7495.92,
+      "end": 7496.72,
+      "formatted_start": "02:04:55.920",
+      "formatted_end": "02:04:56.720",
+      "text": "نگاه کنن"
+    },
+    {
+      "id": 31,
+      "start": 7496.72,
+      "end": 7497.62,
+      "formatted_start": "02:04:56.720",
+      "formatted_end": "02:04:57.620",
+      "text": "نشونت دیدن"
+    },
+    {
+      "id": 32,
+      "start": 7497.62,
+      "end": 7498.94,
+      "formatted_start": "02:04:57.620",
+      "formatted_end": "02:04:58.940",
+      "text": "یه احساس فردی داشته ماشد"
+    },
+    {
+      "id": 33,
+      "start": 7498.94,
+      "end": 7499.48,
+      "formatted_start": "02:04:58.940",
+      "formatted_end": "02:04:59.480",
+      "text": "از بردی"
+    },
+    {
+      "id": 34,
+      "start": 7499.48,
+      "end": 7499.96,
+      "formatted_start": "02:04:59.480",
+      "formatted_end": "02:04:59.960",
+      "text": "نمیدونم"
+    }
+  ],
+  "status": "completed"
+}

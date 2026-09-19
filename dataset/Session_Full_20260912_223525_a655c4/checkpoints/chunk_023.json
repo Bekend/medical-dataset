@@ -1,0 +1,669 @@
+{
+  "chunk_index": 23,
+  "start_sec": 6900.0,
+  "end_sec": 7200.0,
+  "turns": [
+    {
+      "start": 6912.434,
+      "end": 6914.645,
+      "formatted_start": "01:55:12.434",
+      "formatted_end": "01:55:14.645",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6915.083,
+      "end": 6916.028,
+      "formatted_start": "01:55:15.083",
+      "formatted_end": "01:55:16.028",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6918.357,
+      "end": 6930.929,
+      "formatted_start": "01:55:18.357",
+      "formatted_end": "01:55:30.929",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6929.63,
+      "end": 6929.984,
+      "formatted_start": "01:55:29.630",
+      "formatted_end": "01:55:29.984",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6932.279,
+      "end": 6933.95,
+      "formatted_start": "01:55:32.279",
+      "formatted_end": "01:55:33.950",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6950.757,
+      "end": 6951.618,
+      "formatted_start": "01:55:50.757",
+      "formatted_end": "01:55:51.618",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6953.845,
+      "end": 6956.731,
+      "formatted_start": "01:55:53.845",
+      "formatted_end": "01:55:56.731",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6991.342,
+      "end": 6992.742,
+      "formatted_start": "01:56:31.342",
+      "formatted_end": "01:56:32.742",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7045.966,
+      "end": 7059.112,
+      "formatted_start": "01:57:25.966",
+      "formatted_end": "01:57:39.112",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7059.888,
+      "end": 7064.495,
+      "formatted_start": "01:57:39.888",
+      "formatted_end": "01:57:44.495",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7064.545,
+      "end": 7066.216,
+      "formatted_start": "01:57:44.545",
+      "formatted_end": "01:57:46.216",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7066.435,
+      "end": 7068.038,
+      "formatted_start": "01:57:46.435",
+      "formatted_end": "01:57:48.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7081.64,
+      "end": 7083.023,
+      "formatted_start": "01:58:01.640",
+      "formatted_end": "01:58:03.023",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7083.293,
+      "end": 7088.575,
+      "formatted_start": "01:58:03.293",
+      "formatted_end": "01:58:08.575",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7089.098,
+      "end": 7092.035,
+      "formatted_start": "01:58:09.098",
+      "formatted_end": "01:58:12.035",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7104.978,
+      "end": 7105.383,
+      "formatted_start": "01:58:24.978",
+      "formatted_end": "01:58:25.383",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7152.97,
+      "end": 7154.033,
+      "formatted_start": "01:59:12.970",
+      "formatted_end": "01:59:14.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7154.033,
+      "end": 7156.902,
+      "formatted_start": "01:59:14.033",
+      "formatted_end": "01:59:16.902",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7157.172,
+      "end": 7158.404,
+      "formatted_start": "01:59:17.172",
+      "formatted_end": "01:59:18.404",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7160.227,
+      "end": 7162.91,
+      "formatted_start": "01:59:20.227",
+      "formatted_end": "01:59:22.910",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7162.91,
+      "end": 7164.125,
+      "formatted_start": "01:59:22.910",
+      "formatted_end": "01:59:24.125",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7166.048,
+      "end": 7167.23,
+      "formatted_start": "01:59:26.048",
+      "formatted_end": "01:59:27.230",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7167.82,
+      "end": 7170.318,
+      "formatted_start": "01:59:27.820",
+      "formatted_end": "01:59:30.318",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7168.073,
+      "end": 7169.153,
+      "formatted_start": "01:59:28.073",
+      "formatted_end": "01:59:29.153",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7169.727,
+      "end": 7170.942,
+      "formatted_start": "01:59:29.727",
+      "formatted_end": "01:59:30.942",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7171.043,
+      "end": 7172.883,
+      "formatted_start": "01:59:31.043",
+      "formatted_end": "01:59:32.883",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7173.187,
+      "end": 7175.92,
+      "formatted_start": "01:59:33.187",
+      "formatted_end": "01:59:35.920",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7175.92,
+      "end": 7176.882,
+      "formatted_start": "01:59:35.920",
+      "formatted_end": "01:59:36.882",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7176.848,
+      "end": 7178.468,
+      "formatted_start": "01:59:36.848",
+      "formatted_end": "01:59:38.468",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6900.0,
+      "end": 6929.98,
+      "formatted_start": "01:55:00.000",
+      "formatted_end": "01:55:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6930.0,
+      "end": 6960.0,
+      "formatted_start": "01:55:30.000",
+      "formatted_end": "01:56:00.000",
+      "text": "باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید بای"
+    },
+    {
+      "id": 2,
+      "start": 6960.0,
+      "end": 6964.4,
+      "formatted_start": "01:56:00.000",
+      "formatted_end": "01:56:04.400",
+      "text": "قابل بست قابل به جایی میگن مثل کف همین صد"
+    },
+    {
+      "id": 3,
+      "start": 6964.4,
+      "end": 6967.0,
+      "formatted_start": "01:56:04.400",
+      "formatted_end": "01:56:07.000",
+      "text": "مثل اینجا ترسان حساب خانه آن"
+    },
+    {
+      "id": 4,
+      "start": 6967.0,
+      "end": 6969.4,
+      "formatted_start": "01:56:07.000",
+      "formatted_end": "01:56:09.400",
+      "text": "که این موقعی که به دنیا میاد"
+    },
+    {
+      "id": 5,
+      "start": 6969.4,
+      "end": 6974.2,
+      "formatted_start": "01:56:09.400",
+      "formatted_end": "01:56:14.200",
+      "text": "از زمانی که ممیز میشه و بعدت که در موقع تقریبی میشه دیگه بیشتر"
+    },
+    {
+      "id": 6,
+      "start": 6974.2,
+      "end": 6977.2,
+      "formatted_start": "01:56:14.200",
+      "formatted_end": "01:56:17.200",
+      "text": "از زمانی که ممیز میشه مثل به هیل کافر"
+    },
+    {
+      "id": 7,
+      "start": 6977.2,
+      "end": 6980.2,
+      "formatted_start": "01:56:17.200",
+      "formatted_end": "01:56:20.200",
+      "text": "مثلا اگه نموثاله که در دوستی بده"
+    },
+    {
+      "id": 8,
+      "start": 6980.2,
+      "end": 6984.2,
+      "formatted_start": "01:56:20.200",
+      "formatted_end": "01:56:24.200",
+      "text": "اینو میدونی که همین حد که بعدت دوستی بده اینو چرا نجاتده"
+    },
+    {
+      "id": 9,
+      "start": 6984.2,
+      "end": 6988.94,
+      "formatted_start": "01:56:24.200",
+      "formatted_end": "01:56:28.940",
+      "text": "یا میدونی ایدران که پررماله نمیدونه داد و زنده چرا داد زنده این بردیشون میدونست"
+    },
+    {
+      "id": 10,
+      "start": 6988.94,
+      "end": 6990.9,
+      "formatted_start": "01:56:28.940",
+      "formatted_end": "01:56:30.900",
+      "text": "همون براش حساب میشه"
+    },
+    {
+      "id": 11,
+      "start": 6990.9,
+      "end": 6994.68,
+      "formatted_start": "01:56:30.900",
+      "formatted_end": "01:56:34.680",
+      "text": "و یه اون در جهنم شکل میگیره همون زمان"
+    },
+    {
+      "id": 12,
+      "start": 6994.68,
+      "end": 6996.7,
+      "formatted_start": "01:56:34.680",
+      "formatted_end": "01:56:36.700",
+      "text": "فریان بزن سرمانه شکل میگیره"
+    },
+    {
+      "id": 13,
+      "start": 6996.7,
+      "end": 6999.68,
+      "formatted_start": "01:56:36.700",
+      "formatted_end": "01:56:39.680",
+      "text": "و بزنگ باید بیره دسته بردید"
+    },
+    {
+      "id": 14,
+      "start": 6999.68,
+      "end": 7004.0,
+      "formatted_start": "01:56:39.680",
+      "formatted_end": "01:56:44.000",
+      "text": "این نظر بگیره در بلیش و جهنم"
+    },
+    {
+      "id": 15,
+      "start": 7004.0,
+      "end": 7007.08,
+      "formatted_start": "01:56:44.000",
+      "formatted_end": "01:56:47.080",
+      "text": "و اینم خود مایی که داره شکل"
+    },
+    {
+      "id": 16,
+      "start": 7007.08,
+      "end": 7010.9,
+      "formatted_start": "01:56:47.080",
+      "formatted_end": "01:56:50.900",
+      "text": "خداورد به هیچ نرسی به هیچ احلی"
+    },
+    {
+      "id": 17,
+      "start": 7010.9,
+      "end": 7012.54,
+      "formatted_start": "01:56:50.900",
+      "formatted_end": "01:56:52.540",
+      "text": "زمان نمیدونه"
+    },
+    {
+      "id": 18,
+      "start": 7012.54,
+      "end": 7014.54,
+      "formatted_start": "01:56:52.540",
+      "formatted_end": "01:56:54.540",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 7042.54,
+      "end": 7044.54,
+      "formatted_start": "01:57:22.540",
+      "formatted_end": "01:57:24.540",
+      "text": "که این موقعی که به دنیا میاد"
+    },
+    {
+      "id": 20,
+      "start": 7044.54,
+      "end": 7046.54,
+      "formatted_start": "01:57:24.540",
+      "formatted_end": "01:57:26.540",
+      "text": "از زمانی که ممیز میشه"
+    },
+    {
+      "id": 21,
+      "start": 7046.54,
+      "end": 7048.54,
+      "formatted_start": "01:57:26.540",
+      "formatted_end": "01:57:28.540",
+      "text": "و بعدت که نرم به ترین میشن"
+    },
+    {
+      "id": 22,
+      "start": 7048.54,
+      "end": 7050.54,
+      "formatted_start": "01:57:28.540",
+      "formatted_end": "01:57:30.540",
+      "text": "یه بیشتر از زمانی"
+    },
+    {
+      "id": 23,
+      "start": 7050.54,
+      "end": 7052.54,
+      "formatted_start": "01:57:30.540",
+      "formatted_end": "01:57:32.540",
+      "text": "ممیز میشه نسبت در یک کار"
+    },
+    {
+      "id": 24,
+      "start": 7052.54,
+      "end": 7054.54,
+      "formatted_start": "01:57:32.540",
+      "formatted_end": "01:57:34.540",
+      "text": "مثلا یه بچه نه ساله میدونه"
+    },
+    {
+      "id": 25,
+      "start": 7054.54,
+      "end": 7056.54,
+      "formatted_start": "01:57:34.540",
+      "formatted_end": "01:57:36.540",
+      "text": "دوزگی بده اینو میدونی که"
+    },
+    {
+      "id": 26,
+      "start": 7056.54,
+      "end": 7058.54,
+      "formatted_start": "01:57:36.540",
+      "formatted_end": "01:57:38.540",
+      "text": "نمیانت که بعدت دوزگی بده"
+    },
+    {
+      "id": 27,
+      "start": 7058.54,
+      "end": 7060.54,
+      "formatted_start": "01:57:38.540",
+      "formatted_end": "01:57:40.540",
+      "text": "اینشو هران جاده داره"
+    },
+    {
+      "id": 28,
+      "start": 7060.54,
+      "end": 7062.54,
+      "formatted_start": "01:57:40.540",
+      "formatted_end": "01:57:42.540",
+      "text": "یا میدونه اعتراض با پدر مالت"
+    },
+    {
+      "id": 29,
+      "start": 7062.54,
+      "end": 7064.54,
+      "formatted_start": "01:57:42.540",
+      "formatted_end": "01:57:44.540",
+      "text": "نرم دار بزن چرا دار زده این بعدیشو میدونست"
+    },
+    {
+      "id": 30,
+      "start": 7064.54,
+      "end": 7066.54,
+      "formatted_start": "01:57:44.540",
+      "formatted_end": "01:57:46.540",
+      "text": "همون براش حساب میشه"
+    },
+    {
+      "id": 31,
+      "start": 7066.54,
+      "end": 7069.98,
+      "formatted_start": "01:57:46.540",
+      "formatted_end": "01:57:49.980",
+      "text": "و یه او در جهنم او شکل میگیره همون زمان"
+    },
+    {
+      "id": 32,
+      "start": 7069.98,
+      "end": 7072.7,
+      "formatted_start": "01:57:49.980",
+      "formatted_end": "01:57:52.700",
+      "text": "فریاد میزن سر مادر شکل میگیره در جهنم"
+    },
+    {
+      "id": 33,
+      "start": 7072.7,
+      "end": 7075.26,
+      "formatted_start": "01:57:52.700",
+      "formatted_end": "01:57:55.260",
+      "text": "و پوز پایی بکنه میره دست مادر رو بیبسه"
+    },
+    {
+      "id": 34,
+      "start": 7075.26,
+      "end": 7077.82,
+      "formatted_start": "01:57:55.260",
+      "formatted_end": "01:57:57.820",
+      "text": "این نظره میره در بهشت وجودیه"
+    },
+    {
+      "id": 35,
+      "start": 7077.82,
+      "end": 7079.3,
+      "formatted_start": "01:57:57.820",
+      "formatted_end": "01:57:59.300",
+      "text": "در بهشت و جهنم"
+    },
+    {
+      "id": 36,
+      "start": 7079.3,
+      "end": 7082.54,
+      "formatted_start": "01:57:59.300",
+      "formatted_end": "01:58:02.540",
+      "text": "و اینم خود مایی که داریم شکل میدیم"
+    },
+    {
+      "id": 37,
+      "start": 7083.14,
+      "end": 7087.86,
+      "formatted_start": "01:58:03.140",
+      "formatted_end": "01:58:07.860",
+      "text": "خداوند به هیچ نفسی به هیچ اخلی سر نمی کنه"
+    },
+    {
+      "id": 38,
+      "start": 7087.86,
+      "end": 7088.38,
+      "formatted_start": "01:58:07.860",
+      "formatted_end": "01:58:08.380",
+      "text": "ابدا"
+    },
+    {
+      "id": 39,
+      "start": 7088.38,
+      "end": 7090.36,
+      "formatted_start": "01:58:08.380",
+      "formatted_end": "01:58:10.360",
+      "text": "خداوند برام بی نکنه"
+    },
+    {
+      "id": 40,
+      "start": 7090.36,
+      "end": 7091.3,
+      "formatted_start": "01:58:10.360",
+      "formatted_end": "01:58:11.300",
+      "text": "این کار رو نکنه"
+    },
+    {
+      "id": 41,
+      "start": 7091.3,
+      "end": 7105.3,
+      "formatted_start": "01:58:11.300",
+      "formatted_end": "01:58:25.300",
+      "text": "موسیقی"
+    },
+    {
+      "id": 42,
+      "start": 7121.3,
+      "end": 7146.3,
+      "formatted_start": "01:58:41.300",
+      "formatted_end": "01:59:06.300",
+      "text": "موسیقی"
+    },
+    {
+      "id": 43,
+      "start": 7146.3,
+      "end": 7148.3,
+      "formatted_start": "01:59:06.300",
+      "formatted_end": "01:59:08.300",
+      "text": "آهستگی رو تبقی کنید"
+    },
+    {
+      "id": 44,
+      "start": 7148.3,
+      "end": 7150.3,
+      "formatted_start": "01:59:08.300",
+      "formatted_end": "01:59:10.300",
+      "text": "آهست خوردن"
+    },
+    {
+      "id": 45,
+      "start": 7150.3,
+      "end": 7152.3,
+      "formatted_start": "01:59:10.300",
+      "formatted_end": "01:59:12.300",
+      "text": "آهست هم زدن"
+    },
+    {
+      "id": 46,
+      "start": 7152.3,
+      "end": 7154.3,
+      "formatted_start": "01:59:12.300",
+      "formatted_end": "01:59:14.300",
+      "text": "آهست راه رفتن"
+    },
+    {
+      "id": 47,
+      "start": 7154.3,
+      "end": 7156.3,
+      "formatted_start": "01:59:14.300",
+      "formatted_end": "01:59:16.300",
+      "text": "اینجا اونجای ندرد کلیه هست یا نه؟"
+    },
+    {
+      "id": 48,
+      "start": 7156.3,
+      "end": 7158.3,
+      "formatted_start": "01:59:16.300",
+      "formatted_end": "01:59:18.300",
+      "text": "یه دردی میزنیم"
+    },
+    {
+      "id": 49,
+      "start": 7160.3,
+      "end": 7162.3,
+      "formatted_start": "01:59:20.300",
+      "formatted_end": "01:59:22.300",
+      "text": "به قسمت جلو درد متشکر میشه"
+    },
+    {
+      "id": 50,
+      "start": 7162.3,
+      "end": 7164.3,
+      "formatted_start": "01:59:22.300",
+      "formatted_end": "01:59:24.300",
+      "text": "نه نه نه"
+    },
+    {
+      "id": 51,
+      "start": 7166.3,
+      "end": 7168.3,
+      "formatted_start": "01:59:26.300",
+      "formatted_end": "01:59:28.300",
+      "text": "اینجا درد داره؟"
+    },
+    {
+      "id": 52,
+      "start": 7168.3,
+      "end": 7170.3,
+      "formatted_start": "01:59:28.300",
+      "formatted_end": "01:59:30.300",
+      "text": "نه نه"
+    },
+    {
+      "id": 53,
+      "start": 7170.3,
+      "end": 7172.3,
+      "formatted_start": "01:59:30.300",
+      "formatted_end": "01:59:32.300",
+      "text": "آره آره آره"
+    },
+    {
+      "id": 54,
+      "start": 7172.3,
+      "end": 7174.3,
+      "formatted_start": "01:59:32.300",
+      "formatted_end": "01:59:34.300",
+      "text": "یعنی با ضربه درد کرده؟"
+    },
+    {
+      "id": 55,
+      "start": 7174.3,
+      "end": 7176.3,
+      "formatted_start": "01:59:34.300",
+      "formatted_end": "01:59:36.300",
+      "text": "با زربت ساشون"
+    },
+    {
+      "id": 56,
+      "start": 7176.3,
+      "end": 7178.3,
+      "formatted_start": "01:59:36.300",
+      "formatted_end": "01:59:38.300",
+      "text": "یه سنوی آزمای شده"
+    }
+  ],
+  "status": "completed"
+}
