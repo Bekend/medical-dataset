@@ -1,0 +1,919 @@
+{
+  "chunk_index": 40,
+  "start_sec": 12000.0,
+  "end_sec": 12300.0,
+  "turns": [
+    {
+      "start": 12000.925,
+      "end": 12002.174,
+      "formatted_start": "03:20:00.925",
+      "formatted_end": "03:20:02.174",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12003.777,
+      "end": 12008.468,
+      "formatted_start": "03:20:03.777",
+      "formatted_end": "03:20:08.468",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12009.802,
+      "end": 12013.143,
+      "formatted_start": "03:20:09.802",
+      "formatted_end": "03:20:13.143",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12013.987,
+      "end": 12018.104,
+      "formatted_start": "03:20:13.987",
+      "formatted_end": "03:20:18.104",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12018.762,
+      "end": 12020.973,
+      "formatted_start": "03:20:18.762",
+      "formatted_end": "03:20:20.973",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12021.091,
+      "end": 12025.411,
+      "formatted_start": "03:20:21.091",
+      "formatted_end": "03:20:25.411",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12025.698,
+      "end": 12030.676,
+      "formatted_start": "03:20:25.698",
+      "formatted_end": "03:20:30.676",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12031.25,
+      "end": 12042.016,
+      "formatted_start": "03:20:31.250",
+      "formatted_end": "03:20:42.016",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12043.282,
+      "end": 12049.34,
+      "formatted_start": "03:20:43.282",
+      "formatted_end": "03:20:49.340",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12049.88,
+      "end": 12053.828,
+      "formatted_start": "03:20:49.880",
+      "formatted_end": "03:20:53.828",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12055.887,
+      "end": 12056.798,
+      "formatted_start": "03:20:55.887",
+      "formatted_end": "03:20:56.798",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12057.963,
+      "end": 12060.865,
+      "formatted_start": "03:20:57.963",
+      "formatted_end": "03:21:00.865",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12061.169,
+      "end": 12063.734,
+      "formatted_start": "03:21:01.169",
+      "formatted_end": "03:21:03.734",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12068.122,
+      "end": 12071.024,
+      "formatted_start": "03:21:08.122",
+      "formatted_end": "03:21:11.024",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12071.969,
+      "end": 12073.032,
+      "formatted_start": "03:21:11.969",
+      "formatted_end": "03:21:13.032",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12074.838,
+      "end": 12076.036,
+      "formatted_start": "03:21:14.838",
+      "formatted_end": "03:21:16.036",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12076.238,
+      "end": 12077.622,
+      "formatted_start": "03:21:16.238",
+      "formatted_end": "03:21:17.622",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12094.143,
+      "end": 12095.341,
+      "formatted_start": "03:21:34.143",
+      "formatted_end": "03:21:35.341",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12095.645,
+      "end": 12096.91,
+      "formatted_start": "03:21:35.645",
+      "formatted_end": "03:21:36.910",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12097.703,
+      "end": 12099.779,
+      "formatted_start": "03:21:37.703",
+      "formatted_end": "03:21:39.779",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12101.551,
+      "end": 12104.504,
+      "formatted_start": "03:21:41.551",
+      "formatted_end": "03:21:44.504",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12104.74,
+      "end": 12107.153,
+      "formatted_start": "03:21:44.740",
+      "formatted_end": "03:21:47.153",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12108.419,
+      "end": 12114.157,
+      "formatted_start": "03:21:48.419",
+      "formatted_end": "03:21:54.157",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12114.663,
+      "end": 12115.355,
+      "formatted_start": "03:21:54.663",
+      "formatted_end": "03:21:55.355",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12116.536,
+      "end": 12117.582,
+      "formatted_start": "03:21:56.536",
+      "formatted_end": "03:21:57.582",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12118.105,
+      "end": 12119.692,
+      "formatted_start": "03:21:58.105",
+      "formatted_end": "03:21:59.692",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12119.928,
+      "end": 12127.049,
+      "formatted_start": "03:21:59.928",
+      "formatted_end": "03:22:07.049",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12127.538,
+      "end": 12129.344,
+      "formatted_start": "03:22:07.538",
+      "formatted_end": "03:22:09.344",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12132.787,
+      "end": 12135.52,
+      "formatted_start": "03:22:12.787",
+      "formatted_end": "03:22:15.520",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12144.97,
+      "end": 12153.458,
+      "formatted_start": "03:22:24.970",
+      "formatted_end": "03:22:33.458",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12153.796,
+      "end": 12165.946,
+      "formatted_start": "03:22:33.796",
+      "formatted_end": "03:22:45.946",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12167.414,
+      "end": 12177.05,
+      "formatted_start": "03:22:47.414",
+      "formatted_end": "03:22:57.050",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12177.353,
+      "end": 12180.222,
+      "formatted_start": "03:22:57.353",
+      "formatted_end": "03:23:00.222",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12180.442,
+      "end": 12184.863,
+      "formatted_start": "03:23:00.442",
+      "formatted_end": "03:23:04.863",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12186.027,
+      "end": 12195.848,
+      "formatted_start": "03:23:06.027",
+      "formatted_end": "03:23:15.848",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12197.924,
+      "end": 12198.903,
+      "formatted_start": "03:23:17.924",
+      "formatted_end": "03:23:18.903",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12199.072,
+      "end": 12200.32,
+      "formatted_start": "03:23:19.072",
+      "formatted_end": "03:23:20.320",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12201.299,
+      "end": 12206.024,
+      "formatted_start": "03:23:21.299",
+      "formatted_end": "03:23:26.024",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12206.378,
+      "end": 12207.863,
+      "formatted_start": "03:23:26.378",
+      "formatted_end": "03:23:27.863",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12208.1,
+      "end": 12209.922,
+      "formatted_start": "03:23:28.100",
+      "formatted_end": "03:23:29.922",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12210.53,
+      "end": 12215.609,
+      "formatted_start": "03:23:30.530",
+      "formatted_end": "03:23:35.609",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12215.93,
+      "end": 12217.212,
+      "formatted_start": "03:23:35.930",
+      "formatted_end": "03:23:37.212",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12218.495,
+      "end": 12218.933,
+      "formatted_start": "03:23:38.495",
+      "formatted_end": "03:23:38.933",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12220.823,
+      "end": 12221.212,
+      "formatted_start": "03:23:40.823",
+      "formatted_end": "03:23:41.212",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12222.933,
+      "end": 12225.852,
+      "formatted_start": "03:23:42.933",
+      "formatted_end": "03:23:45.852",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12227.557,
+      "end": 12228.603,
+      "formatted_start": "03:23:47.557",
+      "formatted_end": "03:23:48.603",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12228.974,
+      "end": 12229.868,
+      "formatted_start": "03:23:48.974",
+      "formatted_end": "03:23:49.868",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12230.932,
+      "end": 12239.538,
+      "formatted_start": "03:23:50.932",
+      "formatted_end": "03:23:59.538",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12239.639,
+      "end": 12240.027,
+      "formatted_start": "03:23:59.639",
+      "formatted_end": "03:24:00.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12286.602,
+      "end": 12287.294,
+      "formatted_start": "03:24:46.602",
+      "formatted_end": "03:24:47.294",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12287.716,
+      "end": 12288.273,
+      "formatted_start": "03:24:47.716",
+      "formatted_end": "03:24:48.273",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12000.0,
+      "end": 12025.22,
+      "formatted_start": "03:20:00.000",
+      "formatted_end": "03:20:25.220",
+      "text": "آب هم از آب کنید. خب اگر اینجور باشه، اون وقت ارزش های اخلاقی، اگر اینها رو به این صورت تلقید کنید، اون وقت در واقع اینکار ارزش ها خودشون کوچند، خودشون صفرند، خودشون هیچند، ما اومدیم به شون رویتیت داریم."
+    },
+    {
+      "id": 1,
+      "start": 12025.22,
+      "end": 12042.22,
+      "formatted_start": "03:20:25.220",
+      "formatted_end": "03:20:42.220",
+      "text": "ما اومده اینکه قبلی درست کرده ایم برای درست گفتن، ما اومده اینکه خصوصی درست کرده ایم برای راست گفتن و هم اجماع کرده ایم یا قرارداد کرده ایم یا قرارداد پیشتر انجام گرفته رو بهش رضا داده ایم."
+    },
+    {
+      "id": 2,
+      "start": 12042.22,
+      "end": 12049.22,
+      "formatted_start": "03:20:42.220",
+      "formatted_end": "03:20:49.220",
+      "text": "وگرنه خود درست گفتن مبهی نداره، خود راست گفتن را مصدی نداره."
+    },
+    {
+      "id": 3,
+      "start": 12049.22,
+      "end": 12063.22,
+      "formatted_start": "03:20:49.220",
+      "formatted_end": "03:21:03.220",
+      "text": "خب اگر اینجور باشه، این یک روایت از بیمعناییز می‌گیرد، که بهش می‌گیم نیلیزم، یک روایت دو هم وجود داره از این بیمعنایی که بهش می‌گیم ابزوردیزم،"
+    },
+    {
+      "id": 4,
+      "start": 12063.22,
+      "end": 12071.48,
+      "formatted_start": "03:21:03.220",
+      "formatted_end": "03:21:11.480",
+      "text": "خب در حضور دید من باز یک نوع بیمعنایی وجود داره"
+    },
+    {
+      "id": 5,
+      "start": 12071.48,
+      "end": 12074.36,
+      "formatted_start": "03:21:11.480",
+      "formatted_end": "03:21:14.360",
+      "text": "ولی خب بیمعنایی به اون امقی نیست"
+    },
+    {
+      "id": 6,
+      "start": 12074.36,
+      "end": 12076.32,
+      "formatted_start": "03:21:14.360",
+      "formatted_end": "03:21:16.320",
+      "text": "که در نیلیز میتونه"
+    },
+    {
+      "id": 7,
+      "start": 12076.32,
+      "end": 12079.64,
+      "formatted_start": "03:21:16.320",
+      "formatted_end": "03:21:19.640",
+      "text": "در حضور دید میگی کسانی مثل البرکامو"
+    },
+    {
+      "id": 8,
+      "start": 12079.64,
+      "end": 12082.88,
+      "formatted_start": "03:21:19.640",
+      "formatted_end": "03:21:22.880",
+      "text": "اون دانه اول بودیم قائلش"
+    },
+    {
+      "id": 9,
+      "start": 12082.88,
+      "end": 12087.28,
+      "formatted_start": "03:21:22.880",
+      "formatted_end": "03:21:27.280",
+      "text": "و کسانی مثل موژین یونسکو و میان فاکر"
+    },
+    {
+      "id": 10,
+      "start": 12087.28,
+      "end": 12090.56,
+      "formatted_start": "03:21:27.280",
+      "formatted_end": "03:21:30.560",
+      "text": "اینها بهش قائلن"
+    },
+    {
+      "id": 11,
+      "start": 12090.56,
+      "end": 12097.56,
+      "formatted_start": "03:21:30.560",
+      "formatted_end": "03:21:37.560",
+      "text": "در افزاق دیگر گفته می شود که معقولیتی نداره زندگی این جهان"
+    },
+    {
+      "id": 12,
+      "start": 12097.56,
+      "end": 12100.56,
+      "formatted_start": "03:21:37.560",
+      "formatted_end": "03:21:40.560",
+      "text": "زندگی انسانی معقول نیست"
+    },
+    {
+      "id": 13,
+      "start": 12100.56,
+      "end": 12107.56,
+      "formatted_start": "03:21:40.560",
+      "formatted_end": "03:21:47.560",
+      "text": "یعنی قابل محاسبه و اونم محاسبه معتبر نیست"
+    },
+    {
+      "id": 14,
+      "start": 12107.56,
+      "end": 12110.56,
+      "formatted_start": "03:21:47.560",
+      "formatted_end": "03:21:50.560",
+      "text": "آدم که انتظاراتی داره از هستی"
+    },
+    {
+      "id": 15,
+      "start": 12110.56,
+      "end": 12114.56,
+      "formatted_start": "03:21:50.560",
+      "formatted_end": "03:21:54.560",
+      "text": "باید ایچ کنید انتظاراتی برای برداشت کنید نیست"
+    },
+    {
+      "id": 16,
+      "start": 12114.56,
+      "end": 12126.82,
+      "formatted_start": "03:21:54.560",
+      "formatted_end": "03:22:06.820",
+      "text": "مثلا آدم انتظار داره که در جهان اگر معقوم، در جهان اگر کسی سعی کوشش کرد موفق بشه"
+    },
+    {
+      "id": 17,
+      "start": 12126.82,
+      "end": 12129.32,
+      "formatted_start": "03:22:06.820",
+      "formatted_end": "03:22:09.320",
+      "text": "برای همونش از اینه در بار"
+    },
+    {
+      "id": 18,
+      "start": 12129.32,
+      "end": 12142.04,
+      "formatted_start": "03:22:09.320",
+      "formatted_end": "03:22:22.040",
+      "text": "انتظار بودن که اگر کسی خادم بشه، اهل خدمت بشه، مورد ارزش و اعتبار قائد بشه"
+    },
+    {
+      "id": 19,
+      "start": 12142.04,
+      "end": 12147.68,
+      "formatted_start": "03:22:22.040",
+      "formatted_end": "03:22:27.680",
+      "text": "و برای خائلان ارزو کنم اعتبار و عرضش خائل نباشید"
+    },
+    {
+      "id": 20,
+      "start": 12147.68,
+      "end": 12149.16,
+      "formatted_start": "03:22:27.680",
+      "formatted_end": "03:22:29.160",
+      "text": "اما همه چیزی هم نیست"
+    },
+    {
+      "id": 21,
+      "start": 12149.16,
+      "end": 12153.4,
+      "formatted_start": "03:22:29.160",
+      "formatted_end": "03:22:33.400",
+      "text": "چقدر خادمانی به بشریت آمدند و رفتند"
+    },
+    {
+      "id": 22,
+      "start": 12153.4,
+      "end": 12157.16,
+      "formatted_start": "03:22:33.400",
+      "formatted_end": "03:22:37.160",
+      "text": "و کسی سر سوزنی براشون وقتی خائل نبود"
+    },
+    {
+      "id": 23,
+      "start": 12157.16,
+      "end": 12159.5,
+      "formatted_start": "03:22:37.160",
+      "formatted_end": "03:22:39.500",
+      "text": "و چقدر خائلانی براشون وقتی خواهدند و رفتند"
+    },
+    {
+      "id": 24,
+      "start": 12159.5,
+      "end": 12162.66,
+      "formatted_start": "03:22:39.500",
+      "formatted_end": "03:22:42.660",
+      "text": "و چرا همه ما براشون احترام قائل بودیم"
+    },
+    {
+      "id": 25,
+      "start": 12162.66,
+      "end": 12164.32,
+      "formatted_start": "03:22:42.660",
+      "formatted_end": "03:22:44.320",
+      "text": "و پیش ما آبرومندونند"
+    },
+    {
+      "id": 26,
+      "start": 12164.32,
+      "end": 12166.02,
+      "formatted_start": "03:22:44.320",
+      "formatted_end": "03:22:46.020",
+      "text": "اعتباری نیست"
+    },
+    {
+      "id": 27,
+      "start": 12166.02,
+      "end": 12169.72,
+      "formatted_start": "03:22:46.020",
+      "formatted_end": "03:22:49.720",
+      "text": "آدم انتظار داره که اگر پدر و مادر"
+    },
+    {
+      "id": 28,
+      "start": 12169.72,
+      "end": 12173.72,
+      "formatted_start": "03:22:49.720",
+      "formatted_end": "03:22:53.720",
+      "text": "از اینکه از اینکه تمام جد و جهدشون رو برای تربیت فرزندشون کردن"
+    },
+    {
+      "id": 29,
+      "start": 12173.72,
+      "end": 12177.72,
+      "formatted_start": "03:22:53.720",
+      "formatted_end": "03:22:57.720",
+      "text": "فرزندشون انسان سالمی بار بیاد"
+    },
+    {
+      "id": 30,
+      "start": 12177.72,
+      "end": 12179.72,
+      "formatted_start": "03:22:57.720",
+      "formatted_end": "03:22:59.720",
+      "text": "ولی نه، اینجورم نیست نظر من"
+    },
+    {
+      "id": 31,
+      "start": 12179.72,
+      "end": 12185.72,
+      "formatted_start": "03:22:59.720",
+      "formatted_end": "03:23:05.720",
+      "text": "و از اون طرف میگیم اگر پدر و مادر کاملا سهلنگار بودند"
+    },
+    {
+      "id": 32,
+      "start": 12185.72,
+      "end": 12190.72,
+      "formatted_start": "03:23:05.720",
+      "formatted_end": "03:23:10.720",
+      "text": "نرسید و هیچ اقتناعی به تربیت بچه هاشون نداشتند"
+    },
+    {
+      "id": 33,
+      "start": 12190.72,
+      "end": 12193.72,
+      "formatted_start": "03:23:10.720",
+      "formatted_end": "03:23:13.720",
+      "text": "بچه هاشون یه بچه های ناسالمی هستند"
+    },
+    {
+      "id": 34,
+      "start": 12193.72,
+      "end": 12197.72,
+      "formatted_start": "03:23:13.720",
+      "formatted_end": "03:23:17.720",
+      "text": "آب در بیان ولی افتباه عکسشون رو میبینید"
+    },
+    {
+      "id": 35,
+      "start": 12197.72,
+      "end": 12200.72,
+      "formatted_start": "03:23:17.720",
+      "formatted_end": "03:23:20.720",
+      "text": "نمیتونیم چونکه بگذاریم"
+    },
+    {
+      "id": 36,
+      "start": 12200.72,
+      "end": 12205.72,
+      "formatted_start": "03:23:20.720",
+      "formatted_end": "03:23:25.720",
+      "text": "نداریم جهان انسانی جهان معقولی نیست برخلاف جهان فیزیک"
+    },
+    {
+      "id": 37,
+      "start": 12205.72,
+      "end": 12209.72,
+      "formatted_start": "03:23:25.720",
+      "formatted_end": "03:23:29.720",
+      "text": "برخلاف جهان شیمی برخلاف جهان زیستجناسی"
+    },
+    {
+      "id": 38,
+      "start": 12209.72,
+      "end": 12215.72,
+      "formatted_start": "03:23:29.720",
+      "formatted_end": "03:23:35.720",
+      "text": "جهان روای شناسی و جامعه شناسی این دو جهان که جهان انسانی هست"
+    },
+    {
+      "id": 39,
+      "start": 12215.72,
+      "end": 12219.72,
+      "formatted_start": "03:23:35.720",
+      "formatted_end": "03:23:39.720",
+      "text": "این ها معقولیتشون براشون حاکم نیست"
+    },
+    {
+      "id": 40,
+      "start": 12219.72,
+      "end": 12221.72,
+      "formatted_start": "03:23:39.720",
+      "formatted_end": "03:23:41.720",
+      "text": "نداریم کنیم"
+    },
+    {
+      "id": 41,
+      "start": 12221.72,
+      "end": 12225.72,
+      "formatted_start": "03:23:41.720",
+      "formatted_end": "03:23:45.720",
+      "text": "خب این همکر باشی با ضدیم شد بیمعنا"
+    },
+    {
+      "id": 42,
+      "start": 12225.72,
+      "end": 12232.78,
+      "formatted_start": "03:23:45.720",
+      "formatted_end": "03:23:52.780",
+      "text": "چون میبینید این آدم چی اگر بکنه حتما به نتیجه میرسه"
+    },
+    {
+      "id": 43,
+      "start": 12232.78,
+      "end": 12236.7,
+      "formatted_start": "03:23:52.780",
+      "formatted_end": "03:23:56.700",
+      "text": "و اگر چه کار رو نکرد حتما به نتیجه نمیرسه"
+    },
+    {
+      "id": 44,
+      "start": 12236.7,
+      "end": 12239.48,
+      "formatted_start": "03:23:56.700",
+      "formatted_end": "03:23:59.480",
+      "text": "همه چی تابع چی خواهد بود"
+    },
+    {
+      "id": 45,
+      "start": 12239.48,
+      "end": 12243.9,
+      "formatted_start": "03:23:59.480",
+      "formatted_end": "03:24:03.900",
+      "text": "خانم نمیخواد تابع استفاده کنم که تابع فلسفی دقیقی نیست"
+    },
+    {
+      "id": 46,
+      "start": 12243.9,
+      "end": 12245.86,
+      "formatted_start": "03:24:03.900",
+      "formatted_end": "03:24:05.860",
+      "text": "ولی اگر همه چیز تابع شانسه"
+    },
+    {
+      "id": 47,
+      "start": 12245.86,
+      "end": 12248.54,
+      "formatted_start": "03:24:05.860",
+      "formatted_end": "03:24:08.540",
+      "text": "همه چیز تابع تصادفه"
+    },
+    {
+      "id": 48,
+      "start": 12248.54,
+      "end": 12250.22,
+      "formatted_start": "03:24:08.540",
+      "formatted_end": "03:24:10.220",
+      "text": "معناهی برگهانه"
+    },
+    {
+      "id": 49,
+      "start": 12250.22,
+      "end": 12251.98,
+      "formatted_start": "03:24:10.220",
+      "formatted_end": "03:24:11.980",
+      "text": "انسانی حاکم نیست"
+    },
+    {
+      "id": 50,
+      "start": 12251.98,
+      "end": 12252.96,
+      "formatted_start": "03:24:11.980",
+      "formatted_end": "03:24:12.960",
+      "text": "شانسی"
+    },
+    {
+      "id": 51,
+      "start": 12252.96,
+      "end": 12257.26,
+      "formatted_start": "03:24:12.960",
+      "formatted_end": "03:24:17.260",
+      "text": "یه وقت تو اهمالکاری ولی بچه بسیار خوبی بود"
+    },
+    {
+      "id": 52,
+      "start": 12257.26,
+      "end": 12258.7,
+      "formatted_start": "03:24:17.260",
+      "formatted_end": "03:24:18.700",
+      "text": "بار میاد از تو"
+    },
+    {
+      "id": 53,
+      "start": 12258.7,
+      "end": 12261.72,
+      "formatted_start": "03:24:18.700",
+      "formatted_end": "03:24:21.720",
+      "text": "یه وقت هم تو بسیار جدی و سایی"
+    },
+    {
+      "id": 54,
+      "start": 12261.72,
+      "end": 12265.04,
+      "formatted_start": "03:24:21.720",
+      "formatted_end": "03:24:25.040",
+      "text": "و سرسنزنی که کهورت و کاهلی نداری"
+    },
+    {
+      "id": 55,
+      "start": 12265.04,
+      "end": 12266.5,
+      "formatted_start": "03:24:25.040",
+      "formatted_end": "03:24:26.500",
+      "text": "ولی با این همه چرا"
+    },
+    {
+      "id": 56,
+      "start": 12282.96,
+      "end": 12286.96,
+      "formatted_start": "03:24:42.960",
+      "formatted_end": "03:24:46.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 57,
+      "start": 12286.96,
+      "end": 12288.96,
+      "formatted_start": "03:24:46.960",
+      "formatted_end": "03:24:48.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 58,
+      "start": 12288.96,
+      "end": 12290.96,
+      "formatted_start": "03:24:48.960",
+      "formatted_end": "03:24:50.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 59,
+      "start": 12290.96,
+      "end": 12292.96,
+      "formatted_start": "03:24:50.960",
+      "formatted_end": "03:24:52.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 60,
+      "start": 12292.96,
+      "end": 12294.96,
+      "formatted_start": "03:24:52.960",
+      "formatted_end": "03:24:54.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 61,
+      "start": 12294.96,
+      "end": 12296.96,
+      "formatted_start": "03:24:54.960",
+      "formatted_end": "03:24:56.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 62,
+      "start": 12296.96,
+      "end": 12298.96,
+      "formatted_start": "03:24:56.960",
+      "formatted_end": "03:24:58.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 63,
+      "start": 12298.96,
+      "end": 12300.96,
+      "formatted_start": "03:24:58.960",
+      "formatted_end": "03:25:00.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 64,
+      "start": 12300.96,
+      "end": 12302.96,
+      "formatted_start": "03:25:00.960",
+      "formatted_end": "03:25:02.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 65,
+      "start": 12302.96,
+      "end": 12304.96,
+      "formatted_start": "03:25:02.960",
+      "formatted_end": "03:25:04.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 66,
+      "start": 12304.96,
+      "end": 12306.96,
+      "formatted_start": "03:25:04.960",
+      "formatted_end": "03:25:06.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 67,
+      "start": 12306.96,
+      "end": 12308.96,
+      "formatted_start": "03:25:06.960",
+      "formatted_end": "03:25:08.960",
+      "text": "موسیقی"
+    },
+    {
+      "id": 68,
+      "start": 12308.96,
+      "end": 12310.96,
+      "formatted_start": "03:25:08.960",
+      "formatted_end": "03:25:10.960",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

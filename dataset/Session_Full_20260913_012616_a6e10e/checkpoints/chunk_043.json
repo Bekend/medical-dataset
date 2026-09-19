@@ -1,0 +1,974 @@
+{
+  "chunk_index": 43,
+  "start_sec": 12900.0,
+  "end_sec": 13200.0,
+  "turns": [
+    {
+      "start": 12925.968,
+      "end": 12928.6,
+      "formatted_start": "03:35:25.968",
+      "formatted_end": "03:35:28.600",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12929.292,
+      "end": 12933.41,
+      "formatted_start": "03:35:29.292",
+      "formatted_end": "03:35:33.410",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12933.697,
+      "end": 12935.587,
+      "formatted_start": "03:35:33.697",
+      "formatted_end": "03:35:35.587",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12935.755,
+      "end": 12937.088,
+      "formatted_start": "03:35:35.755",
+      "formatted_end": "03:35:37.088",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12965.962,
+      "end": 12966.333,
+      "formatted_start": "03:36:05.962",
+      "formatted_end": "03:36:06.333",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12967.447,
+      "end": 12968.257,
+      "formatted_start": "03:36:07.447",
+      "formatted_end": "03:36:08.257",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12968.999,
+      "end": 12970.923,
+      "formatted_start": "03:36:08.999",
+      "formatted_end": "03:36:10.923",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12972.914,
+      "end": 12977.302,
+      "formatted_start": "03:36:12.914",
+      "formatted_end": "03:36:17.302",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12978.297,
+      "end": 12979.225,
+      "formatted_start": "03:36:18.297",
+      "formatted_end": "03:36:19.225",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12979.647,
+      "end": 12980.035,
+      "formatted_start": "03:36:19.647",
+      "formatted_end": "03:36:20.035",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12993.974,
+      "end": 12994.717,
+      "formatted_start": "03:36:33.974",
+      "formatted_end": "03:36:34.717",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12999.188,
+      "end": 13001.939,
+      "formatted_start": "03:36:39.188",
+      "formatted_end": "03:36:41.939",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13004.555,
+      "end": 13005.027,
+      "formatted_start": "03:36:44.555",
+      "formatted_end": "03:36:45.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13013.971,
+      "end": 13014.781,
+      "formatted_start": "03:36:53.971",
+      "formatted_end": "03:36:54.781",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13019.692,
+      "end": 13023.725,
+      "formatted_start": "03:36:59.692",
+      "formatted_end": "03:37:03.725",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13025.345,
+      "end": 13037.579,
+      "formatted_start": "03:37:05.345",
+      "formatted_end": "03:37:17.579",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13038.288,
+      "end": 13039.756,
+      "formatted_start": "03:37:18.288",
+      "formatted_end": "03:37:19.756",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13051.028,
+      "end": 13051.737,
+      "formatted_start": "03:37:31.028",
+      "formatted_end": "03:37:31.737",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13051.94,
+      "end": 13053.087,
+      "formatted_start": "03:37:31.940",
+      "formatted_end": "03:37:33.087",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13053.357,
+      "end": 13054.623,
+      "formatted_start": "03:37:33.357",
+      "formatted_end": "03:37:34.623",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13067.971,
+      "end": 13068.477,
+      "formatted_start": "03:37:47.971",
+      "formatted_end": "03:37:48.477",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13069.321,
+      "end": 13070.03,
+      "formatted_start": "03:37:49.321",
+      "formatted_end": "03:37:50.030",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13070.705,
+      "end": 13072.308,
+      "formatted_start": "03:37:50.705",
+      "formatted_end": "03:37:52.308",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13072.51,
+      "end": 13073.708,
+      "formatted_start": "03:37:52.510",
+      "formatted_end": "03:37:53.708",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13074.704,
+      "end": 13075.379,
+      "formatted_start": "03:37:54.704",
+      "formatted_end": "03:37:55.379",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13076.543,
+      "end": 13078.822,
+      "formatted_start": "03:37:56.543",
+      "formatted_end": "03:37:58.822",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13079.902,
+      "end": 13081.235,
+      "formatted_start": "03:37:59.902",
+      "formatted_end": "03:38:01.235",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13082.112,
+      "end": 13085.943,
+      "formatted_start": "03:38:02.112",
+      "formatted_end": "03:38:05.943",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13086.685,
+      "end": 13088.643,
+      "formatted_start": "03:38:06.685",
+      "formatted_end": "03:38:08.643",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13088.913,
+      "end": 13096.557,
+      "formatted_start": "03:38:08.913",
+      "formatted_end": "03:38:16.557",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13098.042,
+      "end": 13107.712,
+      "formatted_start": "03:38:18.042",
+      "formatted_end": "03:38:27.712",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13108.437,
+      "end": 13110.175,
+      "formatted_start": "03:38:28.437",
+      "formatted_end": "03:38:30.175",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13110.277,
+      "end": 13115.17,
+      "formatted_start": "03:38:30.277",
+      "formatted_end": "03:38:35.170",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13115.17,
+      "end": 13115.795,
+      "formatted_start": "03:38:35.170",
+      "formatted_end": "03:38:35.795",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13126.966,
+      "end": 13128.468,
+      "formatted_start": "03:38:46.966",
+      "formatted_end": "03:38:48.468",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13132.18,
+      "end": 13134.745,
+      "formatted_start": "03:38:52.180",
+      "formatted_end": "03:38:54.745",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13135.252,
+      "end": 13136.365,
+      "formatted_start": "03:38:55.252",
+      "formatted_end": "03:38:56.365",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13138.222,
+      "end": 13143.976,
+      "formatted_start": "03:38:58.222",
+      "formatted_end": "03:39:03.976",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13146.085,
+      "end": 13146.98,
+      "formatted_start": "03:39:06.085",
+      "formatted_end": "03:39:06.980",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13147.081,
+      "end": 13149.123,
+      "formatted_start": "03:39:07.081",
+      "formatted_end": "03:39:09.123",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13149.578,
+      "end": 13151.3,
+      "formatted_start": "03:39:09.578",
+      "formatted_end": "03:39:11.300",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13152.768,
+      "end": 13154.658,
+      "formatted_start": "03:39:12.768",
+      "formatted_end": "03:39:14.658",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13155.35,
+      "end": 13157.577,
+      "formatted_start": "03:39:15.350",
+      "formatted_end": "03:39:17.577",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13157.763,
+      "end": 13158.843,
+      "formatted_start": "03:39:17.763",
+      "formatted_end": "03:39:18.843",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13164.462,
+      "end": 13165.424,
+      "formatted_start": "03:39:24.462",
+      "formatted_end": "03:39:25.424",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13166.723,
+      "end": 13167.719,
+      "formatted_start": "03:39:26.723",
+      "formatted_end": "03:39:27.719",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13170.335,
+      "end": 13172.562,
+      "formatted_start": "03:39:30.335",
+      "formatted_end": "03:39:32.562",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13172.984,
+      "end": 13175.431,
+      "formatted_start": "03:39:32.984",
+      "formatted_end": "03:39:35.431",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13175.583,
+      "end": 13176.545,
+      "formatted_start": "03:39:35.583",
+      "formatted_end": "03:39:36.545",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13177.962,
+      "end": 13178.688,
+      "formatted_start": "03:39:37.962",
+      "formatted_end": "03:39:38.688",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13179.295,
+      "end": 13184.493,
+      "formatted_start": "03:39:39.295",
+      "formatted_end": "03:39:44.493",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13185.708,
+      "end": 13189.032,
+      "formatted_start": "03:39:45.708",
+      "formatted_end": "03:39:49.032",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12900.0,
+      "end": 12906.0,
+      "formatted_start": "03:35:00.000",
+      "formatted_end": "03:35:06.000",
+      "text": "از هزار سالگیری می توانند از مرگم استقبال کنند و ناراحت نمی شوند."
+    },
+    {
+      "id": 1,
+      "start": 12906.0,
+      "end": 12915.0,
+      "formatted_start": "03:35:06.000",
+      "formatted_end": "03:35:15.000",
+      "text": "این دسته ستموم، البته تعدادشون به لحاظ آماری، خیلی برنامه و کمتری هستند، ولی هستند آنها اینجایی."
+    },
+    {
+      "id": 2,
+      "start": 12915.0,
+      "end": 12925.0,
+      "formatted_start": "03:35:15.000",
+      "formatted_end": "03:35:25.000",
+      "text": "این دسته چهار رو متصبر می دهید، که بگیم، نمی توانند زندگی کنند و نمی توانند بدینند."
+    },
+    {
+      "id": 3,
+      "start": 12925.0,
+      "end": 12931.0,
+      "formatted_start": "03:35:25.000",
+      "formatted_end": "03:35:31.000",
+      "text": "پس ما از لحاظ این تقسیم چهارم هم به سه دسته تقسیم میشیم"
+    },
+    {
+      "id": 4,
+      "start": 12931.0,
+      "end": 12937.0,
+      "formatted_start": "03:35:31.000",
+      "formatted_end": "03:35:37.000",
+      "text": "کسانی که نمیتونن زندگی کنن، بلی نمیتونن بمیرن"
+    },
+    {
+      "id": 5,
+      "start": 12937.0,
+      "end": 12944.0,
+      "formatted_start": "03:35:37.000",
+      "formatted_end": "03:35:44.000",
+      "text": "کسانی که اینا نه، میتونن بمیرن، اما نمیتونن زندگی کنن"
+    },
+    {
+      "id": 6,
+      "start": 12944.0,
+      "end": 12948.0,
+      "formatted_start": "03:35:44.000",
+      "formatted_end": "03:35:48.000",
+      "text": "اینا اینایی هست که بالقوهت دلشون رو باید خودکشی کنن"
+    },
+    {
+      "id": 7,
+      "start": 12948.0,
+      "end": 12953.0,
+      "formatted_start": "03:35:48.000",
+      "formatted_end": "03:35:53.000",
+      "text": "حالا که به فعلا خودکشی بکنن یا به خاطر مرمانه ای نباشن"
+    },
+    {
+      "id": 8,
+      "start": 12953.0,
+      "end": 12960.0,
+      "formatted_start": "03:35:53.000",
+      "formatted_end": "03:36:00.000",
+      "text": "باید دسته سه مرکزانی هستن که هم میتونن زندگی بدن و هم میتونن دمیرن"
+    },
+    {
+      "id": 9,
+      "start": 12960.0,
+      "end": 12968.0,
+      "formatted_start": "03:36:00.000",
+      "formatted_end": "03:36:08.000",
+      "text": "هر دو براشون مطلوبه ممکنه زندگی براشون مطلوبتر از مرگم باشه"
+    },
+    {
+      "id": 10,
+      "start": 12968.0,
+      "end": 12974.0,
+      "formatted_start": "03:36:08.000",
+      "formatted_end": "03:36:14.000",
+      "text": "اما باز مرگم براشون مطلوبه و نامطلوب نیست"
+    },
+    {
+      "id": 11,
+      "start": 12974.0,
+      "end": 12979.0,
+      "formatted_start": "03:36:14.000",
+      "formatted_end": "03:36:19.000",
+      "text": "قدرت هر دو رو دارن بنابراین از هر دو در واقع خوشی میبینن"
+    },
+    {
+      "id": 12,
+      "start": 12979.0,
+      "end": 12982.7,
+      "formatted_start": "03:36:19.000",
+      "formatted_end": "03:36:22.700",
+      "text": "از هر دو با ناخوشی مواجه نمیشن"
+    },
+    {
+      "id": 13,
+      "start": 12982.7,
+      "end": 12985.02,
+      "formatted_start": "03:36:22.700",
+      "formatted_end": "03:36:25.020",
+      "text": "این را بهتمادان دسته دید"
+    },
+    {
+      "id": 14,
+      "start": 12985.02,
+      "end": 12988.2,
+      "formatted_start": "03:36:25.020",
+      "formatted_end": "03:36:28.200",
+      "text": "سه با بود دسته چهاران"
+    },
+    {
+      "id": 15,
+      "start": 12988.2,
+      "end": 12989.62,
+      "formatted_start": "03:36:28.200",
+      "formatted_end": "03:36:29.620",
+      "text": "گفتیم نردید"
+    },
+    {
+      "id": 16,
+      "start": 12989.62,
+      "end": 12989.92,
+      "formatted_start": "03:36:29.620",
+      "formatted_end": "03:36:29.920",
+      "text": "خب"
+    },
+    {
+      "id": 17,
+      "start": 12989.92,
+      "end": 12994.6,
+      "formatted_start": "03:36:29.920",
+      "formatted_end": "03:36:34.600",
+      "text": "حالا این تقسیم من دید چهاران رو کردیم"
+    },
+    {
+      "id": 18,
+      "start": 12994.6,
+      "end": 13001.8,
+      "formatted_start": "03:36:34.600",
+      "formatted_end": "03:36:41.800",
+      "text": "اگر شما بخواید در این زندگی"
+    },
+    {
+      "id": 19,
+      "start": 13001.8,
+      "end": 13006.72,
+      "formatted_start": "03:36:41.800",
+      "formatted_end": "03:36:46.720",
+      "text": "در این زندگی که الان داریم"
+    },
+    {
+      "id": 20,
+      "start": 13006.72,
+      "end": 13014.72,
+      "formatted_start": "03:36:46.720",
+      "formatted_end": "03:36:54.720",
+      "text": "اگر در زندگی بگید بدتر زندگی رو که می کنی؟"
+    },
+    {
+      "id": 21,
+      "start": 13019.72,
+      "end": 13022.72,
+      "formatted_start": "03:36:59.720",
+      "formatted_end": "03:37:02.720",
+      "text": "ناخوشایم تر زندگی رو که می کنی؟"
+    },
+    {
+      "id": 22,
+      "start": 13024.72,
+      "end": 13026.72,
+      "formatted_start": "03:37:04.720",
+      "formatted_end": "03:37:06.720",
+      "text": "اونوقت جوابش اینه"
+    },
+    {
+      "id": 23,
+      "start": 13026.72,
+      "end": 13029.72,
+      "formatted_start": "03:37:06.720",
+      "formatted_end": "03:37:09.720",
+      "text": "کسی ناخوشایم تر زندگی رو می کنه؟"
+    },
+    {
+      "id": 24,
+      "start": 13029.72,
+      "end": 13032.72,
+      "formatted_start": "03:37:09.720",
+      "formatted_end": "03:37:12.720",
+      "text": "که به لحاظ تقسیم بندی اول"
+    },
+    {
+      "id": 25,
+      "start": 13032.72,
+      "end": 13043.72,
+      "formatted_start": "03:37:12.720",
+      "formatted_end": "03:37:23.720",
+      "text": "اولیه اول یعنی به لحاظ این که آیا نازر زندگیه و آمل زندگی یا فقط آمل زندگیه؟"
+    },
+    {
+      "id": 26,
+      "start": 13045.72,
+      "end": 13054.72,
+      "formatted_start": "03:37:25.720",
+      "formatted_end": "03:37:34.720",
+      "text": "اونی که در زندگی فقط آمل نیست علاوه بر آمل بودن نازر هم هست"
+    },
+    {
+      "id": 27,
+      "start": 13054.72,
+      "end": 13056.72,
+      "formatted_start": "03:37:34.720",
+      "formatted_end": "03:37:36.720",
+      "text": "هست"
+    },
+    {
+      "id": 28,
+      "start": 13056.72,
+      "end": 13058.72,
+      "formatted_start": "03:37:36.720",
+      "formatted_end": "03:37:38.720",
+      "text": "یک"
+    },
+    {
+      "id": 29,
+      "start": 13058.72,
+      "end": 13060.72,
+      "formatted_start": "03:37:38.720",
+      "formatted_end": "03:37:40.720",
+      "text": "در تقسیم بندی دو گو"
+    },
+    {
+      "id": 30,
+      "start": 13060.72,
+      "end": 13064.72,
+      "formatted_start": "03:37:40.720",
+      "formatted_end": "03:37:44.720",
+      "text": "که اهل شهوانیت و اهل معنویت"
+    },
+    {
+      "id": 31,
+      "start": 13064.72,
+      "end": 13066.72,
+      "formatted_start": "03:37:44.720",
+      "formatted_end": "03:37:46.720",
+      "text": "رو گفتیم میدون تقسیم بندی شو"
+    },
+    {
+      "id": 32,
+      "start": 13066.72,
+      "end": 13068.72,
+      "formatted_start": "03:37:46.720",
+      "formatted_end": "03:37:48.720",
+      "text": "هست"
+    },
+    {
+      "id": 33,
+      "start": 13068.72,
+      "end": 13071.72,
+      "formatted_start": "03:37:48.720",
+      "formatted_end": "03:37:51.720",
+      "text": "آدم هم اهل شهوانیت باشه"
+    },
+    {
+      "id": 34,
+      "start": 13071.72,
+      "end": 13073.72,
+      "formatted_start": "03:37:51.720",
+      "formatted_end": "03:37:53.720",
+      "text": "هم اهل معنویت باشه"
+    },
+    {
+      "id": 35,
+      "start": 13073.72,
+      "end": 13075.72,
+      "formatted_start": "03:37:53.720",
+      "formatted_end": "03:37:55.720",
+      "text": "اهل هر دو باشه"
+    },
+    {
+      "id": 36,
+      "start": 13075.72,
+      "end": 13078.72,
+      "formatted_start": "03:37:55.720",
+      "formatted_end": "03:37:58.720",
+      "text": "نه شهوانی صرف باشه"
+    },
+    {
+      "id": 37,
+      "start": 13078.72,
+      "end": 13081.72,
+      "formatted_start": "03:37:58.720",
+      "formatted_end": "03:38:01.720",
+      "text": "نه معنوی صرف باشه"
+    },
+    {
+      "id": 38,
+      "start": 13081.72,
+      "end": 13083.72,
+      "formatted_start": "03:38:01.720",
+      "formatted_end": "03:38:03.720",
+      "text": "هم شهوانی باشه"
+    },
+    {
+      "id": 39,
+      "start": 13083.72,
+      "end": 13086.06,
+      "formatted_start": "03:38:03.720",
+      "formatted_end": "03:38:06.060",
+      "text": "و هم معنی بودیم"
+    },
+    {
+      "id": 40,
+      "start": 13086.06,
+      "end": 13088.44,
+      "formatted_start": "03:38:06.060",
+      "formatted_end": "03:38:08.440",
+      "text": "اینم برای تقسیم بندگی بود"
+    },
+    {
+      "id": 41,
+      "start": 13088.44,
+      "end": 13091.04,
+      "formatted_start": "03:38:08.440",
+      "formatted_end": "03:38:11.040",
+      "text": "به دراز تقسیم بندگی سه بون"
+    },
+    {
+      "id": 42,
+      "start": 13091.04,
+      "end": 13093.48,
+      "formatted_start": "03:38:11.040",
+      "formatted_end": "03:38:13.480",
+      "text": "که زندگی رو بی معنا ببینه"
+    },
+    {
+      "id": 43,
+      "start": 13093.48,
+      "end": 13094.5,
+      "formatted_start": "03:38:13.480",
+      "formatted_end": "03:38:14.500",
+      "text": "یا با معنا"
+    },
+    {
+      "id": 44,
+      "start": 13094.5,
+      "end": 13097.04,
+      "formatted_start": "03:38:14.500",
+      "formatted_end": "03:38:17.040",
+      "text": "زندگی رو بی معنا ببینه"
+    },
+    {
+      "id": 45,
+      "start": 13097.04,
+      "end": 13100.36,
+      "formatted_start": "03:38:17.040",
+      "formatted_end": "03:38:20.360",
+      "text": "و از دراز تقسیم بندگی چهارون"
+    },
+    {
+      "id": 46,
+      "start": 13100.36,
+      "end": 13102.58,
+      "formatted_start": "03:38:20.360",
+      "formatted_end": "03:38:22.580",
+      "text": "که آیا میتونه زندگی بکنه"
+    },
+    {
+      "id": 47,
+      "start": 13102.58,
+      "end": 13103.72,
+      "formatted_start": "03:38:22.580",
+      "formatted_end": "03:38:23.720",
+      "text": "و نمیتونه بمیره"
+    },
+    {
+      "id": 48,
+      "start": 13103.72,
+      "end": 13105.26,
+      "formatted_start": "03:38:23.720",
+      "formatted_end": "03:38:25.260",
+      "text": "یا نمیتونه زندگی کنه"
+    },
+    {
+      "id": 49,
+      "start": 13105.26,
+      "end": 13106.4,
+      "formatted_start": "03:38:25.260",
+      "formatted_end": "03:38:26.400",
+      "text": "و میتونه بمیره"
+    },
+    {
+      "id": 50,
+      "start": 13106.4,
+      "end": 13107.32,
+      "formatted_start": "03:38:26.400",
+      "formatted_end": "03:38:27.320",
+      "text": "یا"
+    },
+    {
+      "id": 51,
+      "start": 13107.32,
+      "end": 13110.6,
+      "formatted_start": "03:38:27.320",
+      "formatted_end": "03:38:30.600",
+      "text": "ارز کنم که"
+    },
+    {
+      "id": 52,
+      "start": 13110.6,
+      "end": 13112.3,
+      "formatted_start": "03:38:30.600",
+      "formatted_end": "03:38:32.300",
+      "text": "هم میتونه زندگی کنه"
+    },
+    {
+      "id": 53,
+      "start": 13112.3,
+      "end": 13113.52,
+      "formatted_start": "03:38:32.300",
+      "formatted_end": "03:38:33.520",
+      "text": "و هم میتونه ببینه"
+    },
+    {
+      "id": 54,
+      "start": 13113.52,
+      "end": 13123.62,
+      "formatted_start": "03:38:33.520",
+      "formatted_end": "03:38:43.620",
+      "text": "این کسی باشه که نه این میتونه زندگی بکنه با سختی"
+    },
+    {
+      "id": 55,
+      "start": 13123.62,
+      "end": 13128.96,
+      "formatted_start": "03:38:43.620",
+      "formatted_end": "03:38:48.960",
+      "text": "اما نیمیتونه بگیر براش مدن همگیزه"
+    },
+    {
+      "id": 56,
+      "start": 13128.96,
+      "end": 13136.56,
+      "formatted_start": "03:38:48.960",
+      "formatted_end": "03:38:56.560",
+      "text": "زندگی رو هم میتونه تهم بکنه اما نمیتونه بگیر"
+    },
+    {
+      "id": 57,
+      "start": 13136.56,
+      "end": 13140.78,
+      "formatted_start": "03:38:56.560",
+      "formatted_end": "03:39:00.780",
+      "text": "اگر شما تو این چهارزه تقسیم بردی"
+    },
+    {
+      "id": 58,
+      "start": 13140.78,
+      "end": 13143.88,
+      "formatted_start": "03:39:00.780",
+      "formatted_end": "03:39:03.880",
+      "text": "تو تقسیم بردی اول از اونای باشید که فقط"
+    },
+    {
+      "id": 59,
+      "start": 13143.88,
+      "end": 13147.08,
+      "formatted_start": "03:39:03.880",
+      "formatted_end": "03:39:07.080",
+      "text": "ما آمل نباشید"
+    },
+    {
+      "id": 60,
+      "start": 13147.08,
+      "end": 13151.4,
+      "formatted_start": "03:39:07.080",
+      "formatted_end": "03:39:11.400",
+      "text": "بلکه علاوه بر آمل بودن نازر زندگی هم باشید"
+    },
+    {
+      "id": 61,
+      "start": 13151.4,
+      "end": 13154.62,
+      "formatted_start": "03:39:11.400",
+      "formatted_end": "03:39:14.620",
+      "text": "و تو تقسیم بردی دوممم"
+    },
+    {
+      "id": 62,
+      "start": 13154.62,
+      "end": 13157.14,
+      "formatted_start": "03:39:14.620",
+      "formatted_end": "03:39:17.140",
+      "text": "هم اهل من"
+    },
+    {
+      "id": 63,
+      "start": 13157.14,
+      "end": 13165.28,
+      "formatted_start": "03:39:17.140",
+      "formatted_end": "03:39:25.280",
+      "text": "جنم شاد"
+    },
+    {
+      "id": 64,
+      "start": 13165.28,
+      "end": 13167.24,
+      "formatted_start": "03:39:25.280",
+      "formatted_end": "03:39:27.240",
+      "text": "سلام"
+    },
+    {
+      "id": 65,
+      "start": 13167.24,
+      "end": 13167.28,
+      "formatted_start": "03:39:27.240",
+      "formatted_end": "03:39:27.280",
+      "text": "سلام"
+    },
+    {
+      "id": 66,
+      "start": 13167.28,
+      "end": 13173.1,
+      "formatted_start": "03:39:27.280",
+      "formatted_end": "03:39:33.100",
+      "text": "آره دیگه من صبح ایت گفتم دیگه"
+    },
+    {
+      "id": 67,
+      "start": 13173.1,
+      "end": 13174.18,
+      "formatted_start": "03:39:33.100",
+      "formatted_end": "03:39:34.180",
+      "text": "تو جا کفشیه"
+    },
+    {
+      "id": 68,
+      "start": 13174.18,
+      "end": 13175.24,
+      "formatted_start": "03:39:34.180",
+      "formatted_end": "03:39:35.240",
+      "text": "تو جا کفشیه"
+    },
+    {
+      "id": 69,
+      "start": 13175.84,
+      "end": 13176.5,
+      "formatted_start": "03:39:35.840",
+      "formatted_end": "03:39:36.500",
+      "text": "آره آره"
+    },
+    {
+      "id": 70,
+      "start": 13176.5,
+      "end": 13182.38,
+      "formatted_start": "03:39:36.500",
+      "formatted_end": "03:39:42.380",
+      "text": "نبیت باشین هم اهل شهوانی هست"
+    },
+    {
+      "id": 71,
+      "start": 13182.38,
+      "end": 13184.36,
+      "formatted_start": "03:39:42.380",
+      "formatted_end": "03:39:44.360",
+      "text": "هم لذت رو بخواهی هم معناه"
+    },
+    {
+      "id": 72,
+      "start": 13184.36,
+      "end": 13190.54,
+      "formatted_start": "03:39:44.360",
+      "formatted_end": "03:39:50.540",
+      "text": "و تو تقسیم بندی سه بوم هم زندگی رو بی معناه و بی ارزش ببینیم"
+    },
+    {
+      "id": 73,
+      "start": 13190.54,
+      "end": 13198.0,
+      "formatted_start": "03:39:50.540",
+      "formatted_end": "03:39:58.000",
+      "text": "و تو تقسیم بندی چهارمه بتونید با سختی یک جوی زندگی کنید و این به هیچ خیلی منطقه مرگوی پذیرید"
+    },
+    {
+      "id": 74,
+      "start": 13198.0,
+      "end": 13199.56,
+      "formatted_start": "03:39:58.000",
+      "formatted_end": "03:39:59.560",
+      "text": "مرخ شما"
+    }
+  ],
+  "status": "completed"
+}
