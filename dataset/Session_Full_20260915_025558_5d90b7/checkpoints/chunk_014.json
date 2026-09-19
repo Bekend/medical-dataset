@@ -1,0 +1,188 @@
+{
+  "chunk_index": 14,
+  "start_sec": 4200.0,
+  "end_sec": 4500.0,
+  "turns": [
+    {
+      "start": 4329.614,
+      "end": 4329.968,
+      "formatted_start": "01:12:09.614",
+      "formatted_end": "01:12:09.968",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4331.572,
+      "end": 4332.027,
+      "formatted_start": "01:12:11.572",
+      "formatted_end": "01:12:12.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4336.094,
+      "end": 4336.803,
+      "formatted_start": "01:12:16.094",
+      "formatted_end": "01:12:16.803",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4342.692,
+      "end": 4344.11,
+      "formatted_start": "01:12:22.692",
+      "formatted_end": "01:12:24.110",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4347.147,
+      "end": 4351.872,
+      "formatted_start": "01:12:27.147",
+      "formatted_end": "01:12:31.872",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4352.598,
+      "end": 4357.795,
+      "formatted_start": "01:12:32.598",
+      "formatted_end": "01:12:37.795",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4200.0,
+      "end": 4230.0,
+      "formatted_start": "01:10:00.000",
+      "formatted_end": "01:10:30.000",
+      "text": "مردی که بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بی"
+    },
+    {
+      "id": 1,
+      "start": 4230.0,
+      "end": 4259.98,
+      "formatted_start": "01:10:30.000",
+      "formatted_end": "01:10:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4260.0,
+      "end": 4289.98,
+      "formatted_start": "01:11:00.000",
+      "formatted_end": "01:11:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 4290.0,
+      "end": 4319.98,
+      "formatted_start": "01:11:30.000",
+      "formatted_end": "01:11:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4320.0,
+      "end": 4330.0,
+      "formatted_start": "01:12:00.000",
+      "formatted_end": "01:12:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4350.0,
+      "end": 4352.0,
+      "formatted_start": "01:12:30.000",
+      "formatted_end": "01:12:32.000",
+      "text": "یک بیت در یک نظر پشت باشم"
+    },
+    {
+      "id": 6,
+      "start": 4352.0,
+      "end": 4354.0,
+      "formatted_start": "01:12:32.000",
+      "formatted_end": "01:12:34.000",
+      "text": "خریش بودم"
+    },
+    {
+      "id": 7,
+      "start": 4354.0,
+      "end": 4356.0,
+      "formatted_start": "01:12:34.000",
+      "formatted_end": "01:12:36.000",
+      "text": "زنگ باشه"
+    },
+    {
+      "id": 8,
+      "start": 4356.0,
+      "end": 4358.0,
+      "formatted_start": "01:12:36.000",
+      "formatted_end": "01:12:38.000",
+      "text": "خریش بودم"
+    },
+    {
+      "id": 9,
+      "start": 4358.0,
+      "end": 4360.0,
+      "formatted_start": "01:12:38.000",
+      "formatted_end": "01:12:40.000",
+      "text": "پاده بسرم باشم"
+    },
+    {
+      "id": 10,
+      "start": 4360.0,
+      "end": 4362.0,
+      "formatted_start": "01:12:40.000",
+      "formatted_end": "01:12:42.000",
+      "text": "پاده نگهنده"
+    },
+    {
+      "id": 11,
+      "start": 4380.0,
+      "end": 4382.0,
+      "formatted_start": "01:13:00.000",
+      "formatted_end": "01:13:02.000",
+      "text": "مردم را بردارید."
+    },
+    {
+      "id": 12,
+      "start": 4382.0,
+      "end": 4384.0,
+      "formatted_start": "01:13:02.000",
+      "formatted_end": "01:13:04.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 4412.0,
+      "end": 4441.98,
+      "formatted_start": "01:13:32.000",
+      "formatted_end": "01:14:01.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 4442.0,
+      "end": 4462.0,
+      "formatted_start": "01:14:02.000",
+      "formatted_end": "01:14:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 4462.0,
+      "end": 4491.98,
+      "formatted_start": "01:14:22.000",
+      "formatted_end": "01:14:51.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 4492.0,
+      "end": 4500.0,
+      "formatted_start": "01:14:52.000",
+      "formatted_end": "01:15:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

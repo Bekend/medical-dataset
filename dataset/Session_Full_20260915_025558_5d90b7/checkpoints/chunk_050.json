@@ -1,0 +1,329 @@
+{
+  "chunk_index": 50,
+  "start_sec": 15000.0,
+  "end_sec": 15300.0,
+  "turns": [
+    {
+      "start": 15027.436,
+      "end": 15042.32,
+      "formatted_start": "04:10:27.436",
+      "formatted_end": "04:10:42.320",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15043.062,
+      "end": 15045.391,
+      "formatted_start": "04:10:43.062",
+      "formatted_end": "04:10:45.391",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15074.163,
+      "end": 15075.175,
+      "formatted_start": "04:11:14.163",
+      "formatted_end": "04:11:15.175",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15125.092,
+      "end": 15125.615,
+      "formatted_start": "04:12:05.092",
+      "formatted_end": "04:12:05.615",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15126.138,
+      "end": 15126.965,
+      "formatted_start": "04:12:06.138",
+      "formatted_end": "04:12:06.965",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15126.965,
+      "end": 15127.623,
+      "formatted_start": "04:12:06.965",
+      "formatted_end": "04:12:07.623",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 15127.623,
+      "end": 15127.977,
+      "formatted_start": "04:12:07.623",
+      "formatted_end": "04:12:07.977",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15128.72,
+      "end": 15130.711,
+      "formatted_start": "04:12:08.720",
+      "formatted_end": "04:12:10.711",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15130.711,
+      "end": 15135.385,
+      "formatted_start": "04:12:10.711",
+      "formatted_end": "04:12:15.385",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 15201.417,
+      "end": 15207.037,
+      "formatted_start": "04:13:21.417",
+      "formatted_end": "04:13:27.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15216.976,
+      "end": 15219.457,
+      "formatted_start": "04:13:36.976",
+      "formatted_end": "04:13:39.457",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15220.587,
+      "end": 15224.08,
+      "formatted_start": "04:13:40.587",
+      "formatted_end": "04:13:44.080",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15224.62,
+      "end": 15228.029,
+      "formatted_start": "04:13:44.620",
+      "formatted_end": "04:13:48.029",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15241.192,
+      "end": 15241.664,
+      "formatted_start": "04:14:01.192",
+      "formatted_end": "04:14:01.664",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15242.373,
+      "end": 15243.875,
+      "formatted_start": "04:14:02.373",
+      "formatted_end": "04:14:03.875",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15245.242,
+      "end": 15245.731,
+      "formatted_start": "04:14:05.242",
+      "formatted_end": "04:14:05.731",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15245.967,
+      "end": 15247.03,
+      "formatted_start": "04:14:05.967",
+      "formatted_end": "04:14:07.030",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 15000.0,
+      "end": 15028.0,
+      "formatted_start": "04:10:00.000",
+      "formatted_end": "04:10:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 15030.0,
+      "end": 15050.0,
+      "formatted_start": "04:10:30.000",
+      "formatted_end": "04:10:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 15050.0,
+      "end": 15060.0,
+      "formatted_start": "04:10:50.000",
+      "formatted_end": "04:11:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 15080.0,
+      "end": 15082.0,
+      "formatted_start": "04:11:20.000",
+      "formatted_end": "04:11:22.000",
+      "text": "مردم مردم"
+    },
+    {
+      "id": 4,
+      "start": 15082.0,
+      "end": 15083.0,
+      "formatted_start": "04:11:22.000",
+      "formatted_end": "04:11:23.000",
+      "text": "مردم"
+    },
+    {
+      "id": 5,
+      "start": 15083.0,
+      "end": 15085.0,
+      "formatted_start": "04:11:23.000",
+      "formatted_end": "04:11:25.000",
+      "text": "اون رو بگذارید"
+    },
+    {
+      "id": 6,
+      "start": 15085.0,
+      "end": 15086.0,
+      "formatted_start": "04:11:25.000",
+      "formatted_end": "04:11:26.000",
+      "text": "این"
+    },
+    {
+      "id": 7,
+      "start": 15086.0,
+      "end": 15088.0,
+      "formatted_start": "04:11:26.000",
+      "formatted_end": "04:11:28.000",
+      "text": "مردم"
+    },
+    {
+      "id": 8,
+      "start": 15088.0,
+      "end": 15090.0,
+      "formatted_start": "04:11:28.000",
+      "formatted_end": "04:11:30.000",
+      "text": "مردم"
+    },
+    {
+      "id": 9,
+      "start": 15090.0,
+      "end": 15092.0,
+      "formatted_start": "04:11:30.000",
+      "formatted_end": "04:11:32.000",
+      "text": "مردم"
+    },
+    {
+      "id": 10,
+      "start": 15092.0,
+      "end": 15094.0,
+      "formatted_start": "04:11:32.000",
+      "formatted_end": "04:11:34.000",
+      "text": "مردم"
+    },
+    {
+      "id": 11,
+      "start": 15094.0,
+      "end": 15096.0,
+      "formatted_start": "04:11:34.000",
+      "formatted_end": "04:11:36.000",
+      "text": "مردم"
+    },
+    {
+      "id": 12,
+      "start": 15096.0,
+      "end": 15098.0,
+      "formatted_start": "04:11:36.000",
+      "formatted_end": "04:11:38.000",
+      "text": "مردم"
+    },
+    {
+      "id": 13,
+      "start": 15098.0,
+      "end": 15100.0,
+      "formatted_start": "04:11:38.000",
+      "formatted_end": "04:11:40.000",
+      "text": "مردم"
+    },
+    {
+      "id": 14,
+      "start": 15100.0,
+      "end": 15102.0,
+      "formatted_start": "04:11:40.000",
+      "formatted_end": "04:11:42.000",
+      "text": "مردم"
+    },
+    {
+      "id": 15,
+      "start": 15102.0,
+      "end": 15104.0,
+      "formatted_start": "04:11:42.000",
+      "formatted_end": "04:11:44.000",
+      "text": "مردم"
+    },
+    {
+      "id": 16,
+      "start": 15104.0,
+      "end": 15106.0,
+      "formatted_start": "04:11:44.000",
+      "formatted_end": "04:11:46.000",
+      "text": "مردم"
+    },
+    {
+      "id": 17,
+      "start": 15106.0,
+      "end": 15108.0,
+      "formatted_start": "04:11:46.000",
+      "formatted_end": "04:11:48.000",
+      "text": "مردم"
+    },
+    {
+      "id": 18,
+      "start": 15108.0,
+      "end": 15118.0,
+      "formatted_start": "04:11:48.000",
+      "formatted_end": "04:11:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 15138.0,
+      "end": 15148.0,
+      "formatted_start": "04:12:18.000",
+      "formatted_end": "04:12:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 15168.0,
+      "end": 15188.0,
+      "formatted_start": "04:12:48.000",
+      "formatted_end": "04:13:08.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 15188.0,
+      "end": 15218.0,
+      "formatted_start": "04:13:08.000",
+      "formatted_end": "04:13:38.000",
+      "text": "مردانی با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با"
+    },
+    {
+      "id": 22,
+      "start": 15218.0,
+      "end": 15228.0,
+      "formatted_start": "04:13:38.000",
+      "formatted_end": "04:13:48.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 15248.0,
+      "end": 15276.0,
+      "formatted_start": "04:14:08.000",
+      "formatted_end": "04:14:36.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 24,
+      "start": 15278.0,
+      "end": 15300.0,
+      "formatted_start": "04:14:38.000",
+      "formatted_end": "04:15:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
