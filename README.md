@@ -6,7 +6,8 @@
 [![Language: Persian (Farsi)](https://img.shields.io/badge/Language-Persian%20(fa)-orange.svg)](#)
 [![Tasks: STT & Diarization & Clinical NLP](https://img.shields.io/badge/Tasks-STT%20%7C%20Diarization%20%7C%20NLP-purple.svg)](#)
 
----### مشخصات پژوهش و دست‌اندرکاران (Research Credits)
+---
+### مشخصات پژوهش و دست‌اندرکاران (Research Credits)
 * **پژوهشگر و گردآورنده (Researcher & Data Collector):** سید شهاب‌الدین حسینی بای (*Seyyed Shahabeddin Hosseini Bay*)
 * **اساتید راهنما (Supervisors):**
   * جناب آقای دکتر رضا یزدی (*Dr. Reza Yazdi*)
