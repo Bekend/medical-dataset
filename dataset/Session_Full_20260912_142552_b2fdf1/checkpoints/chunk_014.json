@@ -1,0 +1,112 @@
+{
+  "chunk_index": 14,
+  "start_sec": 4200.0,
+  "end_sec": 4500.0,
+  "turns": [
+    {
+      "start": 4220.095,
+      "end": 4221.023,
+      "formatted_start": "01:10:20.095",
+      "formatted_end": "01:10:21.023",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4241.172,
+      "end": 4245.307,
+      "formatted_start": "01:10:41.172",
+      "formatted_end": "01:10:45.307",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4200.0,
+      "end": 4210.0,
+      "formatted_start": "01:10:00.000",
+      "formatted_end": "01:10:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 4230.0,
+      "end": 4254.0,
+      "formatted_start": "01:10:30.000",
+      "formatted_end": "01:10:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4260.0,
+      "end": 4280.0,
+      "formatted_start": "01:11:00.000",
+      "formatted_end": "01:11:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 4280.0,
+      "end": 4300.0,
+      "formatted_start": "01:11:20.000",
+      "formatted_end": "01:11:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4300.0,
+      "end": 4310.0,
+      "formatted_start": "01:11:40.000",
+      "formatted_end": "01:11:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4330.0,
+      "end": 4350.0,
+      "formatted_start": "01:12:10.000",
+      "formatted_end": "01:12:30.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 4360.0,
+      "end": 4380.0,
+      "formatted_start": "01:12:40.000",
+      "formatted_end": "01:13:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4380.0,
+      "end": 4390.0,
+      "formatted_start": "01:13:00.000",
+      "formatted_end": "01:13:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 4410.0,
+      "end": 4420.0,
+      "formatted_start": "01:13:30.000",
+      "formatted_end": "01:13:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4440.0,
+      "end": 4469.0,
+      "formatted_start": "01:14:00.000",
+      "formatted_end": "01:14:29.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 4470.0,
+      "end": 4499.0,
+      "formatted_start": "01:14:30.000",
+      "formatted_end": "01:14:59.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

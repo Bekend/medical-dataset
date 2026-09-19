@@ -1,0 +1,271 @@
+{
+  "chunk_index": 1,
+  "start_sec": 300.0,
+  "end_sec": 600.0,
+  "turns": [
+    {
+      "start": 300.031,
+      "end": 328.313,
+      "formatted_start": "00:05:00.031",
+      "formatted_end": "00:05:28.313",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 303.001,
+      "end": 303.558,
+      "formatted_start": "00:05:03.001",
+      "formatted_end": "00:05:03.558",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 304.891,
+      "end": 305.6,
+      "formatted_start": "00:05:04.891",
+      "formatted_end": "00:05:05.600",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 325.394,
+      "end": 326.018,
+      "formatted_start": "00:05:25.394",
+      "formatted_end": "00:05:26.018",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 343.13,
+      "end": 348.968,
+      "formatted_start": "00:05:43.130",
+      "formatted_end": "00:05:48.968",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 361.81,
+      "end": 366.434,
+      "formatted_start": "00:06:01.810",
+      "formatted_end": "00:06:06.434",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 419.793,
+      "end": 420.265,
+      "formatted_start": "00:06:59.793",
+      "formatted_end": "00:07:00.265",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 454.049,
+      "end": 454.775,
+      "formatted_start": "00:07:34.049",
+      "formatted_end": "00:07:34.775",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 460.377,
+      "end": 461.39,
+      "formatted_start": "00:07:40.377",
+      "formatted_end": "00:07:41.390",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 465.322,
+      "end": 465.862,
+      "formatted_start": "00:07:45.322",
+      "formatted_end": "00:07:45.862",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 469.422,
+      "end": 471.076,
+      "formatted_start": "00:07:49.422",
+      "formatted_end": "00:07:51.076",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 472.004,
+      "end": 476.864,
+      "formatted_start": "00:07:52.004",
+      "formatted_end": "00:07:56.864",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 477.843,
+      "end": 481.184,
+      "formatted_start": "00:07:57.843",
+      "formatted_end": "00:08:01.184",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 490.972,
+      "end": 492.17,
+      "formatted_start": "00:08:10.972",
+      "formatted_end": "00:08:12.170",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 493.756,
+      "end": 500.962,
+      "formatted_start": "00:08:13.756",
+      "formatted_end": "00:08:20.962",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 571.955,
+      "end": 577.574,
+      "formatted_start": "00:09:31.955",
+      "formatted_end": "00:09:37.574",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 578.182,
+      "end": 579.025,
+      "formatted_start": "00:09:38.182",
+      "formatted_end": "00:09:39.025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 591.53,
+      "end": 591.968,
+      "formatted_start": "00:09:51.530",
+      "formatted_end": "00:09:51.968",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 594.128,
+      "end": 595.968,
+      "formatted_start": "00:09:54.128",
+      "formatted_end": "00:09:55.968",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 300.0,
+      "end": 330.0,
+      "formatted_start": "00:05:00.000",
+      "formatted_end": "00:05:30.000",
+      "text": "از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا، از اینجا"
+    },
+    {
+      "id": 1,
+      "start": 330.0,
+      "end": 343.0,
+      "formatted_start": "00:05:30.000",
+      "formatted_end": "00:05:43.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 343.0,
+      "end": 346.06,
+      "formatted_start": "00:05:43.000",
+      "formatted_end": "00:05:46.060",
+      "text": "خانسمیر سا ساعت هفت بیشتر نیست ما"
+    },
+    {
+      "id": 3,
+      "start": 346.06,
+      "end": 349.0,
+      "formatted_start": "00:05:46.060",
+      "formatted_end": "00:05:49.000",
+      "text": "این روز جلسه هفت هفت رو میدونیم"
+    },
+    {
+      "id": 4,
+      "start": 349.0,
+      "end": 355.0,
+      "formatted_start": "00:05:49.000",
+      "formatted_end": "00:05:55.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 360.0,
+      "end": 362.0,
+      "formatted_start": "00:06:00.000",
+      "formatted_end": "00:06:02.000",
+      "text": "خوش نیست مورد؟"
+    },
+    {
+      "id": 6,
+      "start": 362.0,
+      "end": 364.0,
+      "formatted_start": "00:06:02.000",
+      "formatted_end": "00:06:04.000",
+      "text": "یه فهم خوش نیست"
+    },
+    {
+      "id": 7,
+      "start": 364.0,
+      "end": 366.0,
+      "formatted_start": "00:06:04.000",
+      "formatted_end": "00:06:06.000",
+      "text": "خوش نیست"
+    },
+    {
+      "id": 8,
+      "start": 390.0,
+      "end": 418.0,
+      "formatted_start": "00:06:30.000",
+      "formatted_end": "00:06:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 450.0,
+      "end": 460.0,
+      "formatted_start": "00:07:30.000",
+      "formatted_end": "00:07:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 480.0,
+      "end": 508.0,
+      "formatted_start": "00:08:00.000",
+      "formatted_end": "00:08:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 510.0,
+      "end": 538.0,
+      "formatted_start": "00:08:30.000",
+      "formatted_end": "00:08:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 540.0,
+      "end": 566.0,
+      "formatted_start": "00:09:00.000",
+      "formatted_end": "00:09:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 566.0,
+      "end": 594.0,
+      "formatted_start": "00:09:26.000",
+      "formatted_end": "00:09:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 596.0,
+      "end": 598.0,
+      "formatted_start": "00:09:56.000",
+      "formatted_end": "00:09:58.000",
+      "text": "اوه"
+    },
+    {
+      "id": 15,
+      "start": 598.0,
+      "end": 600.0,
+      "formatted_start": "00:09:58.000",
+      "formatted_end": "00:10:00.000",
+      "text": "سه تکی چیست"
+    }
+  ],
+  "status": "completed"
+}
