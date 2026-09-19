@@ -1,0 +1,283 @@
+{
+  "chunk_index": 63,
+  "start_sec": 18900.0,
+  "end_sec": 19200.0,
+  "turns": [
+    {
+      "start": 18900.031,
+      "end": 18903.811,
+      "formatted_start": "05:15:00.031",
+      "formatted_end": "05:15:03.811",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18905.65,
+      "end": 18911.911,
+      "formatted_start": "05:15:05.650",
+      "formatted_end": "05:15:11.911",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18906.224,
+      "end": 18906.713,
+      "formatted_start": "05:15:06.224",
+      "formatted_end": "05:15:06.713",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 18917.75,
+      "end": 18920.045,
+      "formatted_start": "05:15:17.750",
+      "formatted_end": "05:15:20.045",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18921.665,
+      "end": 18923.099,
+      "formatted_start": "05:15:21.665",
+      "formatted_end": "05:15:23.099",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18927.875,
+      "end": 18929.579,
+      "formatted_start": "05:15:27.875",
+      "formatted_end": "05:15:29.579",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18938.202,
+      "end": 18939.957,
+      "formatted_start": "05:15:38.202",
+      "formatted_end": "05:15:39.957",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18940.362,
+      "end": 18942.033,
+      "formatted_start": "05:15:40.362",
+      "formatted_end": "05:15:42.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19132.788,
+      "end": 19158.033,
+      "formatted_start": "05:18:52.788",
+      "formatted_end": "05:19:18.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 19132.957,
+      "end": 19133.497,
+      "formatted_start": "05:18:52.957",
+      "formatted_end": "05:18:53.497",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19133.952,
+      "end": 19134.357,
+      "formatted_start": "05:18:53.952",
+      "formatted_end": "05:18:54.357",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 19158.033,
+      "end": 19182.957,
+      "formatted_start": "05:19:18.033",
+      "formatted_end": "05:19:42.957",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 19183.025,
+      "end": 19184.999,
+      "formatted_start": "05:19:43.025",
+      "formatted_end": "05:19:44.999",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 19185.522,
+      "end": 19193.977,
+      "formatted_start": "05:19:45.522",
+      "formatted_end": "05:19:53.977",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 19193.977,
+      "end": 19199.377,
+      "formatted_start": "05:19:53.977",
+      "formatted_end": "05:19:59.377",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 18900.0,
+      "end": 18929.98,
+      "formatted_start": "05:15:00.000",
+      "formatted_end": "05:15:29.980",
+      "text": "بیمار بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 18930.0,
+      "end": 18959.98,
+      "formatted_start": "05:15:30.000",
+      "formatted_end": "05:15:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 18960.0,
+      "end": 18970.0,
+      "formatted_start": "05:16:00.000",
+      "formatted_end": "05:16:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 18990.0,
+      "end": 19019.0,
+      "formatted_start": "05:16:30.000",
+      "formatted_end": "05:16:59.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 19020.0,
+      "end": 19049.98,
+      "formatted_start": "05:17:00.000",
+      "formatted_end": "05:17:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 19050.0,
+      "end": 19060.0,
+      "formatted_start": "05:17:30.000",
+      "formatted_end": "05:17:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 19080.0,
+      "end": 19109.98,
+      "formatted_start": "05:18:00.000",
+      "formatted_end": "05:18:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 7,
+      "start": 19110.0,
+      "end": 19138.0,
+      "formatted_start": "05:18:30.000",
+      "formatted_end": "05:18:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 19140.0,
+      "end": 19142.0,
+      "formatted_start": "05:19:00.000",
+      "formatted_end": "05:19:02.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 9,
+      "start": 19142.0,
+      "end": 19144.0,
+      "formatted_start": "05:19:02.000",
+      "formatted_end": "05:19:04.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 10,
+      "start": 19144.0,
+      "end": 19146.0,
+      "formatted_start": "05:19:04.000",
+      "formatted_end": "05:19:06.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 11,
+      "start": 19146.0,
+      "end": 19148.0,
+      "formatted_start": "05:19:06.000",
+      "formatted_end": "05:19:08.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 12,
+      "start": 19148.0,
+      "end": 19150.0,
+      "formatted_start": "05:19:08.000",
+      "formatted_end": "05:19:10.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 13,
+      "start": 19150.0,
+      "end": 19152.0,
+      "formatted_start": "05:19:10.000",
+      "formatted_end": "05:19:12.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 14,
+      "start": 19152.0,
+      "end": 19154.0,
+      "formatted_start": "05:19:12.000",
+      "formatted_end": "05:19:14.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 15,
+      "start": 19154.0,
+      "end": 19156.0,
+      "formatted_start": "05:19:14.000",
+      "formatted_end": "05:19:16.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 16,
+      "start": 19156.0,
+      "end": 19158.0,
+      "formatted_start": "05:19:16.000",
+      "formatted_end": "05:19:18.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 17,
+      "start": 19158.0,
+      "end": 19160.0,
+      "formatted_start": "05:19:18.000",
+      "formatted_end": "05:19:20.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 18,
+      "start": 19160.0,
+      "end": 19162.0,
+      "formatted_start": "05:19:20.000",
+      "formatted_end": "05:19:22.000",
+      "text": "این بیشتر باید بردارید."
+    },
+    {
+      "id": 19,
+      "start": 19162.0,
+      "end": 19172.0,
+      "formatted_start": "05:19:22.000",
+      "formatted_end": "05:19:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 19192.0,
+      "end": 19200.0,
+      "formatted_start": "05:19:52.000",
+      "formatted_end": "05:20:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
