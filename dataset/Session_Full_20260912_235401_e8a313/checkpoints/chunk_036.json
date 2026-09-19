@@ -1,0 +1,186 @@
+{
+  "chunk_index": 36,
+  "start_sec": 10800.0,
+  "end_sec": 11100.0,
+  "turns": [
+    {
+      "start": 11065.829,
+      "end": 11066.386,
+      "formatted_start": "03:04:25.829",
+      "formatted_end": "03:04:26.386",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11068.107,
+      "end": 11068.782,
+      "formatted_start": "03:04:28.107",
+      "formatted_end": "03:04:28.782",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11070.284,
+      "end": 11072.14,
+      "formatted_start": "03:04:30.284",
+      "formatted_end": "03:04:32.140",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11072.849,
+      "end": 11073.642,
+      "formatted_start": "03:04:32.849",
+      "formatted_end": "03:04:33.642",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11076.342,
+      "end": 11081.776,
+      "formatted_start": "03:04:36.342",
+      "formatted_end": "03:04:41.776",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11085.05,
+      "end": 11088.408,
+      "formatted_start": "03:04:45.050",
+      "formatted_end": "03:04:48.408",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11090.602,
+      "end": 11095.36,
+      "formatted_start": "03:04:50.602",
+      "formatted_end": "03:04:55.360",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11098.668,
+      "end": 11099.967,
+      "formatted_start": "03:04:58.668",
+      "formatted_end": "03:04:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 10800.0,
+      "end": 10829.98,
+      "formatted_start": "03:00:00.000",
+      "formatted_end": "03:00:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 10830.0,
+      "end": 10859.98,
+      "formatted_start": "03:00:30.000",
+      "formatted_end": "03:00:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 10860.0,
+      "end": 10889.98,
+      "formatted_start": "03:01:00.000",
+      "formatted_end": "03:01:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 10890.0,
+      "end": 10919.98,
+      "formatted_start": "03:01:30.000",
+      "formatted_end": "03:01:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 10920.0,
+      "end": 10949.98,
+      "formatted_start": "03:02:00.000",
+      "formatted_end": "03:02:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 10950.0,
+      "end": 10960.0,
+      "formatted_start": "03:02:30.000",
+      "formatted_end": "03:02:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 10980.0,
+      "end": 11006.0,
+      "formatted_start": "03:03:00.000",
+      "formatted_end": "03:03:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 11006.0,
+      "end": 11035.98,
+      "formatted_start": "03:03:26.000",
+      "formatted_end": "03:03:55.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 11036.0,
+      "end": 11065.0,
+      "formatted_start": "03:03:56.000",
+      "formatted_end": "03:04:25.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 11065.0,
+      "end": 11073.0,
+      "formatted_start": "03:04:25.000",
+      "formatted_end": "03:04:33.000",
+      "text": "بله بفهمید؟ سبب بفهمید خواهش می کنید"
+    },
+    {
+      "id": 10,
+      "start": 11073.0,
+      "end": 11082.0,
+      "formatted_start": "03:04:33.000",
+      "formatted_end": "03:04:42.000",
+      "text": "به نامه؟ خانم یوسف صاحب تا ساعت یک پیشتر بیستیم بعد از دورم پنج تا هفت"
+    },
+    {
+      "id": 11,
+      "start": 11082.0,
+      "end": 11089.0,
+      "formatted_start": "03:04:42.000",
+      "formatted_end": "03:04:49.000",
+      "text": "الان هستیم ولی قبل یک باید اینجا خودتونو برسیم"
+    },
+    {
+      "id": 12,
+      "start": 11089.0,
+      "end": 11093.0,
+      "formatted_start": "03:04:49.000",
+      "formatted_end": "03:04:53.000",
+      "text": "نه نه بیاریم پس سریع تر بیاریم"
+    },
+    {
+      "id": 13,
+      "start": 11093.0,
+      "end": 11095.0,
+      "formatted_start": "03:04:53.000",
+      "formatted_end": "03:04:55.000",
+      "text": "از یک رد نشد خدافز"
+    },
+    {
+      "id": 14,
+      "start": 11095.0,
+      "end": 11100.0,
+      "formatted_start": "03:04:55.000",
+      "formatted_end": "03:05:00.000",
+      "text": "سلامتو ساده"
+    }
+  ],
+  "status": "completed"
+}

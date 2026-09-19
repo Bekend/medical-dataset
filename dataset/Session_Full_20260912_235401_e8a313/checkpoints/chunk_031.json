@@ -1,0 +1,403 @@
+{
+  "chunk_index": 31,
+  "start_sec": 9300.0,
+  "end_sec": 9600.0,
+  "turns": [
+    {
+      "start": 9428.703,
+      "end": 9440.802,
+      "formatted_start": "02:37:08.703",
+      "formatted_end": "02:37:20.802",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9507.121,
+      "end": 9517.432,
+      "formatted_start": "02:38:27.121",
+      "formatted_end": "02:38:37.432",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9518.883,
+      "end": 9519.98,
+      "formatted_start": "02:38:38.883",
+      "formatted_end": "02:38:39.980",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9522.697,
+      "end": 9533.395,
+      "formatted_start": "02:38:42.697",
+      "formatted_end": "02:38:53.395",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9533.969,
+      "end": 9536.821,
+      "formatted_start": "02:38:53.969",
+      "formatted_end": "02:38:56.821",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9547.587,
+      "end": 9548.212,
+      "formatted_start": "02:39:07.587",
+      "formatted_end": "02:39:08.212",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9549.41,
+      "end": 9562.927,
+      "formatted_start": "02:39:09.410",
+      "formatted_end": "02:39:22.927",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9554.725,
+      "end": 9555.282,
+      "formatted_start": "02:39:14.725",
+      "formatted_end": "02:39:15.282",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9563.264,
+      "end": 9564.125,
+      "formatted_start": "02:39:23.264",
+      "formatted_end": "02:39:24.125",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9564.158,
+      "end": 9565.323,
+      "formatted_start": "02:39:24.158",
+      "formatted_end": "02:39:25.323",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9566.673,
+      "end": 9567.972,
+      "formatted_start": "02:39:26.673",
+      "formatted_end": "02:39:27.972",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9569.457,
+      "end": 9583.7,
+      "formatted_start": "02:39:29.457",
+      "formatted_end": "02:39:43.700",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9581.725,
+      "end": 9582.586,
+      "formatted_start": "02:39:41.725",
+      "formatted_end": "02:39:42.586",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9584.915,
+      "end": 9585.337,
+      "formatted_start": "02:39:44.915",
+      "formatted_end": "02:39:45.337",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9586.99,
+      "end": 9590.838,
+      "formatted_start": "02:39:46.990",
+      "formatted_end": "02:39:50.838",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9300.0,
+      "end": 9320.0,
+      "formatted_start": "02:35:00.000",
+      "formatted_end": "02:35:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 9330.0,
+      "end": 9340.0,
+      "formatted_start": "02:35:30.000",
+      "formatted_end": "02:35:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 9360.0,
+      "end": 9389.98,
+      "formatted_start": "02:36:00.000",
+      "formatted_end": "02:36:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 9390.0,
+      "end": 9400.0,
+      "formatted_start": "02:36:30.000",
+      "formatted_end": "02:36:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 9420.0,
+      "end": 9432.32,
+      "formatted_start": "02:37:00.000",
+      "formatted_end": "02:37:12.320",
+      "text": "سبت تو شرکت های سهامی خواستی"
+    },
+    {
+      "id": 5,
+      "start": 9432.32,
+      "end": 9441.32,
+      "formatted_start": "02:37:12.320",
+      "formatted_end": "02:37:21.320",
+      "text": "آیا بازلست و یکی از ازاری حیط مدیره با هم فهمید باشن مشکلی دارد یا نه؟"
+    },
+    {
+      "id": 6,
+      "start": 9441.32,
+      "end": 9471.3,
+      "formatted_start": "02:37:21.320",
+      "formatted_end": "02:37:51.300",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 9471.32,
+      "end": 9491.32,
+      "formatted_start": "02:37:51.320",
+      "formatted_end": "02:38:11.320",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 9491.32,
+      "end": 9517.16,
+      "formatted_start": "02:38:11.320",
+      "formatted_end": "02:38:37.160",
+      "text": "در صورتی که در مجمع عمولی شرکت ها بازر اسبایی که از اعضای یک مدیر و فرمید باشند"
+    },
+    {
+      "id": 9,
+      "start": 9517.16,
+      "end": 9531.46,
+      "formatted_start": "02:38:37.160",
+      "formatted_end": "02:38:51.460",
+      "text": "این کمار 2 تا نوشتم واسه هاستره را 50 روزی 1 تا 2 تا می توانید استفاده کنید"
+    },
+    {
+      "id": 10,
+      "start": 9531.46,
+      "end": 9533.46,
+      "formatted_start": "02:38:51.460",
+      "formatted_end": "02:38:53.460",
+      "text": "کمارم روزی 3 باید نوشتم"
+    },
+    {
+      "id": 11,
+      "start": 9533.46,
+      "end": 9535.46,
+      "formatted_start": "02:38:53.460",
+      "formatted_end": "02:38:55.460",
+      "text": "روزی 3 باید برده برده"
+    },
+    {
+      "id": 12,
+      "start": 9535.46,
+      "end": 9537.46,
+      "formatted_start": "02:38:55.460",
+      "formatted_end": "02:38:57.460",
+      "text": "در صورت آیشون کنم"
+    },
+    {
+      "id": 13,
+      "start": 9547.16,
+      "end": 9549.16,
+      "formatted_start": "02:39:07.160",
+      "formatted_end": "02:39:09.160",
+      "text": "بخونید"
+    },
+    {
+      "id": 14,
+      "start": 9549.16,
+      "end": 9550.16,
+      "formatted_start": "02:39:09.160",
+      "formatted_end": "02:39:10.160",
+      "text": "خب"
+    },
+    {
+      "id": 15,
+      "start": 9550.16,
+      "end": 9554.16,
+      "formatted_start": "02:39:10.160",
+      "formatted_end": "02:39:14.160",
+      "text": "ببینید این شیاف اگه شکمش کار نکرد روزی یه دونه بزنید"
+    },
+    {
+      "id": 16,
+      "start": 9554.16,
+      "end": 9555.16,
+      "formatted_start": "02:39:14.160",
+      "formatted_end": "02:39:15.160",
+      "text": "یه دونه بزنیم"
+    },
+    {
+      "id": 17,
+      "start": 9555.16,
+      "end": 9557.16,
+      "formatted_start": "02:39:15.160",
+      "formatted_end": "02:39:17.160",
+      "text": "بعد این شروط"
+    },
+    {
+      "id": 18,
+      "start": 9557.16,
+      "end": 9560.16,
+      "formatted_start": "02:39:17.160",
+      "formatted_end": "02:39:20.160",
+      "text": "نصف شروط آبیجوی سر شده تا این بالا بریزید"
+    },
+    {
+      "id": 19,
+      "start": 9560.16,
+      "end": 9563.16,
+      "formatted_start": "02:39:20.160",
+      "formatted_end": "02:39:23.160",
+      "text": "روزی دو بار صبح و شب به بچه بیدید"
+    },
+    {
+      "id": 20,
+      "start": 9563.16,
+      "end": 9564.16,
+      "formatted_start": "02:39:23.160",
+      "formatted_end": "02:39:24.160",
+      "text": "روزی دو بار؟"
+    },
+    {
+      "id": 21,
+      "start": 9564.16,
+      "end": 9566.16,
+      "formatted_start": "02:39:24.160",
+      "formatted_end": "02:39:26.160",
+      "text": "بله درش آب بازید"
+    },
+    {
+      "id": 22,
+      "start": 9566.16,
+      "end": 9567.16,
+      "formatted_start": "02:39:26.160",
+      "formatted_end": "02:39:27.160",
+      "text": "هم"
+    },
+    {
+      "id": 23,
+      "start": 9567.16,
+      "end": 9570.16,
+      "formatted_start": "02:39:27.160",
+      "formatted_end": "02:39:30.160",
+      "text": "این نصف بتایید"
+    },
+    {
+      "id": 24,
+      "start": 9570.16,
+      "end": 9572.16,
+      "formatted_start": "02:39:30.160",
+      "formatted_end": "02:39:32.160",
+      "text": "آب بریزید پر کنید"
+    },
+    {
+      "id": 25,
+      "start": 9572.16,
+      "end": 9573.16,
+      "formatted_start": "02:39:32.160",
+      "formatted_end": "02:39:33.160",
+      "text": "پرش کنید"
+    },
+    {
+      "id": 26,
+      "start": 9573.16,
+      "end": 9574.16,
+      "formatted_start": "02:39:33.160",
+      "formatted_end": "02:39:34.160",
+      "text": "بله"
+    },
+    {
+      "id": 27,
+      "start": 9574.16,
+      "end": 9576.98,
+      "formatted_start": "02:39:34.160",
+      "formatted_end": "02:39:36.980",
+      "text": "برام فروزت می کنیم از افتاری بی بردم"
+    },
+    {
+      "id": 28,
+      "start": 9576.98,
+      "end": 9580.88,
+      "formatted_start": "02:39:36.980",
+      "formatted_end": "02:39:40.880",
+      "text": "اول اینها رو بینیم اگه کارکنس یا فروزت می کنیم اگه اینو مقاومت داره فروزت می کنیم"
+    },
+    {
+      "id": 29,
+      "start": 9580.88,
+      "end": 9581.88,
+      "formatted_start": "02:39:40.880",
+      "formatted_end": "02:39:41.880",
+      "text": "باشه مردم"
+    },
+    {
+      "id": 30,
+      "start": 9581.88,
+      "end": 9582.88,
+      "formatted_start": "02:39:41.880",
+      "formatted_end": "02:39:42.880",
+      "text": "خیلی مردم"
+    },
+    {
+      "id": 31,
+      "start": 9582.88,
+      "end": 9583.88,
+      "formatted_start": "02:39:42.880",
+      "formatted_end": "02:39:43.880",
+      "text": "خداحش میکنم"
+    },
+    {
+      "id": 32,
+      "start": 9583.88,
+      "end": 9584.88,
+      "formatted_start": "02:39:43.880",
+      "formatted_end": "02:39:44.880",
+      "text": "خداحش میکنم"
+    },
+    {
+      "id": 33,
+      "start": 9584.88,
+      "end": 9586.88,
+      "formatted_start": "02:39:44.880",
+      "formatted_end": "02:39:46.880",
+      "text": "آقایی دیگه این رو همه مردم داری؟"
+    },
+    {
+      "id": 34,
+      "start": 9586.88,
+      "end": 9590.16,
+      "formatted_start": "02:39:46.880",
+      "formatted_end": "02:39:50.160",
+      "text": "حامس رو همین یک چند لحظه صبر کن یک چند دقیقه درم میزن دارم"
+    },
+    {
+      "id": 35,
+      "start": 9590.16,
+      "end": 9591.16,
+      "formatted_start": "02:39:50.160",
+      "formatted_end": "02:39:51.160",
+      "text": "درم"
+    }
+  ],
+  "status": "completed"
+}

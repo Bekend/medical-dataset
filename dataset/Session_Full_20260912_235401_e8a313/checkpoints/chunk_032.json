@@ -1,0 +1,251 @@
+{
+  "chunk_index": 32,
+  "start_sec": 9600.0,
+  "end_sec": 9900.0,
+  "turns": [
+    {
+      "start": 9611.101,
+      "end": 9611.641,
+      "formatted_start": "02:40:11.101",
+      "formatted_end": "02:40:11.641",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9613.345,
+      "end": 9616.889,
+      "formatted_start": "02:40:13.345",
+      "formatted_end": "02:40:16.889",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9624.82,
+      "end": 9626.474,
+      "formatted_start": "02:40:24.820",
+      "formatted_end": "02:40:26.474",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9627.554,
+      "end": 9628.533,
+      "formatted_start": "02:40:27.554",
+      "formatted_end": "02:40:28.533",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9641.543,
+      "end": 9657.575,
+      "formatted_start": "02:40:41.543",
+      "formatted_end": "02:40:57.575",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9657.676,
+      "end": 9668.932,
+      "formatted_start": "02:40:57.676",
+      "formatted_end": "02:41:08.932",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9780.307,
+      "end": 9780.88,
+      "formatted_start": "02:43:00.307",
+      "formatted_end": "02:43:00.880",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9600.0,
+      "end": 9602.0,
+      "formatted_start": "02:40:00.000",
+      "formatted_end": "02:40:02.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 1,
+      "start": 9602.0,
+      "end": 9604.0,
+      "formatted_start": "02:40:02.000",
+      "formatted_end": "02:40:04.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 2,
+      "start": 9604.0,
+      "end": 9606.0,
+      "formatted_start": "02:40:04.000",
+      "formatted_end": "02:40:06.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 3,
+      "start": 9606.0,
+      "end": 9608.0,
+      "formatted_start": "02:40:06.000",
+      "formatted_end": "02:40:08.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 4,
+      "start": 9608.0,
+      "end": 9610.0,
+      "formatted_start": "02:40:08.000",
+      "formatted_end": "02:40:10.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 5,
+      "start": 9610.0,
+      "end": 9612.0,
+      "formatted_start": "02:40:10.000",
+      "formatted_end": "02:40:12.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 6,
+      "start": 9612.0,
+      "end": 9614.0,
+      "formatted_start": "02:40:12.000",
+      "formatted_end": "02:40:14.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 7,
+      "start": 9614.0,
+      "end": 9616.0,
+      "formatted_start": "02:40:14.000",
+      "formatted_end": "02:40:16.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 8,
+      "start": 9616.0,
+      "end": 9618.0,
+      "formatted_start": "02:40:16.000",
+      "formatted_end": "02:40:18.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 9,
+      "start": 9618.0,
+      "end": 9620.0,
+      "formatted_start": "02:40:18.000",
+      "formatted_end": "02:40:20.000",
+      "text": "برنامه بزرگیرده بردارید."
+    },
+    {
+      "id": 10,
+      "start": 9620.0,
+      "end": 9626.42,
+      "formatted_start": "02:40:20.000",
+      "formatted_end": "02:40:26.420",
+      "text": "خدا بیان کنه و تصمیم میگید"
+    },
+    {
+      "id": 11,
+      "start": 9626.42,
+      "end": 9628.48,
+      "formatted_start": "02:40:26.420",
+      "formatted_end": "02:40:28.480",
+      "text": "باشه خدا فضل"
+    },
+    {
+      "id": 12,
+      "start": 9628.48,
+      "end": 9645.26,
+      "formatted_start": "02:40:28.480",
+      "formatted_end": "02:40:45.260",
+      "text": "در صورتی که در مجموعه اونوی شرکت ها"
+    },
+    {
+      "id": 13,
+      "start": 9645.26,
+      "end": 9653.16,
+      "formatted_start": "02:40:45.260",
+      "formatted_end": "02:40:53.160",
+      "text": "بازرس و یکی از اعضای حیات مدیده با هم نصفت نزدیک داشته باشند"
+    },
+    {
+      "id": 14,
+      "start": 9653.16,
+      "end": 9662.76,
+      "formatted_start": "02:40:53.160",
+      "formatted_end": "02:41:02.760",
+      "text": "در اینکه موارد چه اتفاقی رفته ها یا تمام انتخابات اعضای حیات مدیده هم تفتال است"
+    },
+    {
+      "id": 15,
+      "start": 9662.76,
+      "end": 9668.46,
+      "formatted_start": "02:41:02.760",
+      "formatted_end": "02:41:08.460",
+      "text": "یا نه فقط بازرس تفتال است و باید بازرس جدید انتخاب شود"
+    },
+    {
+      "id": 16,
+      "start": 9675.26,
+      "end": 9705.24,
+      "formatted_start": "02:41:15.260",
+      "formatted_end": "02:41:45.240",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 9705.26,
+      "end": 9733.26,
+      "formatted_start": "02:41:45.260",
+      "formatted_end": "02:42:13.260",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 9735.26,
+      "end": 9764.26,
+      "formatted_start": "02:42:15.260",
+      "formatted_end": "02:42:44.260",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 9765.26,
+      "end": 9793.26,
+      "formatted_start": "02:42:45.260",
+      "formatted_end": "02:43:13.260",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 9795.26,
+      "end": 9825.24,
+      "formatted_start": "02:43:15.260",
+      "formatted_end": "02:43:45.240",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 9825.26,
+      "end": 9855.24,
+      "formatted_start": "02:43:45.260",
+      "formatted_end": "02:44:15.240",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 9855.26,
+      "end": 9881.26,
+      "formatted_start": "02:44:15.260",
+      "formatted_end": "02:44:41.260",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 9885.26,
+      "end": 9900.26,
+      "formatted_start": "02:44:45.260",
+      "formatted_end": "02:45:00.260",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
