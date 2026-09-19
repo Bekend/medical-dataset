@@ -1,0 +1,300 @@
+{
+  "chunk_index": 15,
+  "start_sec": 4500.0,
+  "end_sec": 4800.0,
+  "turns": [
+    {
+      "start": 4529.36,
+      "end": 4530.035,
+      "formatted_start": "01:15:29.360",
+      "formatted_end": "01:15:30.035",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4566.502,
+      "end": 4567.261,
+      "formatted_start": "01:16:06.502",
+      "formatted_end": "01:16:07.261",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4614.055,
+      "end": 4614.578,
+      "formatted_start": "01:16:54.055",
+      "formatted_end": "01:16:54.578",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4617.228,
+      "end": 4618.358,
+      "formatted_start": "01:16:57.228",
+      "formatted_end": "01:16:58.358",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4635.706,
+      "end": 4638.862,
+      "formatted_start": "01:17:15.706",
+      "formatted_end": "01:17:18.862",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4641.292,
+      "end": 4643.738,
+      "formatted_start": "01:17:21.292",
+      "formatted_end": "01:17:23.738",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4644.751,
+      "end": 4645.814,
+      "formatted_start": "01:17:24.751",
+      "formatted_end": "01:17:25.814",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4646.422,
+      "end": 4647.67,
+      "formatted_start": "01:17:26.422",
+      "formatted_end": "01:17:27.670",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4765.964,
+      "end": 4768.951,
+      "formatted_start": "01:19:25.964",
+      "formatted_end": "01:19:28.951",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 4768.968,
+      "end": 4775.937,
+      "formatted_start": "01:19:28.968",
+      "formatted_end": "01:19:35.937",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 4780.78,
+      "end": 4782.299,
+      "formatted_start": "01:19:40.780",
+      "formatted_end": "01:19:42.299",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4787.969,
+      "end": 4788.728,
+      "formatted_start": "01:19:47.969",
+      "formatted_end": "01:19:48.728",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4790.753,
+      "end": 4793.723,
+      "formatted_start": "01:19:50.753",
+      "formatted_end": "01:19:53.723",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4794.466,
+      "end": 4795.968,
+      "formatted_start": "01:19:54.466",
+      "formatted_end": "01:19:55.968",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4500.0,
+      "end": 4529.98,
+      "formatted_start": "01:15:00.000",
+      "formatted_end": "01:15:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 4530.0,
+      "end": 4552.0,
+      "formatted_start": "01:15:30.000",
+      "formatted_end": "01:15:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4552.0,
+      "end": 4562.0,
+      "formatted_start": "01:15:52.000",
+      "formatted_end": "01:16:02.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 4582.0,
+      "end": 4611.98,
+      "formatted_start": "01:16:22.000",
+      "formatted_end": "01:16:51.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 4,
+      "start": 4612.0,
+      "end": 4636.0,
+      "formatted_start": "01:16:52.000",
+      "formatted_end": "01:17:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4636.0,
+      "end": 4638.0,
+      "formatted_start": "01:17:16.000",
+      "formatted_end": "01:17:18.000",
+      "text": "این کار را به خودتون برداشت"
+    },
+    {
+      "id": 6,
+      "start": 4638.0,
+      "end": 4640.0,
+      "formatted_start": "01:17:18.000",
+      "formatted_end": "01:17:20.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 7,
+      "start": 4640.0,
+      "end": 4642.0,
+      "formatted_start": "01:17:20.000",
+      "formatted_end": "01:17:22.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 8,
+      "start": 4642.0,
+      "end": 4644.0,
+      "formatted_start": "01:17:22.000",
+      "formatted_end": "01:17:24.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 9,
+      "start": 4644.0,
+      "end": 4646.0,
+      "formatted_start": "01:17:24.000",
+      "formatted_end": "01:17:26.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 10,
+      "start": 4646.0,
+      "end": 4648.0,
+      "formatted_start": "01:17:26.000",
+      "formatted_end": "01:17:28.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 11,
+      "start": 4648.0,
+      "end": 4650.0,
+      "formatted_start": "01:17:28.000",
+      "formatted_end": "01:17:30.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 12,
+      "start": 4650.0,
+      "end": 4652.0,
+      "formatted_start": "01:17:30.000",
+      "formatted_end": "01:17:32.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 13,
+      "start": 4652.0,
+      "end": 4654.0,
+      "formatted_start": "01:17:32.000",
+      "formatted_end": "01:17:34.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 14,
+      "start": 4654.0,
+      "end": 4656.0,
+      "formatted_start": "01:17:34.000",
+      "formatted_end": "01:17:36.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 15,
+      "start": 4656.0,
+      "end": 4658.0,
+      "formatted_start": "01:17:36.000",
+      "formatted_end": "01:17:38.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 16,
+      "start": 4658.0,
+      "end": 4660.0,
+      "formatted_start": "01:17:38.000",
+      "formatted_end": "01:17:40.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 17,
+      "start": 4660.0,
+      "end": 4662.0,
+      "formatted_start": "01:17:40.000",
+      "formatted_end": "01:17:42.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 18,
+      "start": 4662.0,
+      "end": 4664.0,
+      "formatted_start": "01:17:42.000",
+      "formatted_end": "01:17:44.000",
+      "text": "و به خودتون برداشت"
+    },
+    {
+      "id": 19,
+      "start": 4664.0,
+      "end": 4693.98,
+      "formatted_start": "01:17:44.000",
+      "formatted_end": "01:18:13.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 4694.0,
+      "end": 4723.98,
+      "formatted_start": "01:18:14.000",
+      "formatted_end": "01:18:43.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 21,
+      "start": 4724.0,
+      "end": 4753.98,
+      "formatted_start": "01:18:44.000",
+      "formatted_end": "01:19:13.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 4754.0,
+      "end": 4764.0,
+      "formatted_start": "01:19:14.000",
+      "formatted_end": "01:19:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 4784.0,
+      "end": 4800.0,
+      "formatted_start": "01:19:44.000",
+      "formatted_end": "01:20:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
