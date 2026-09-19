@@ -1,0 +1,160 @@
+{
+  "chunk_index": 4,
+  "start_sec": 1200.0,
+  "end_sec": 1500.0,
+  "turns": [
+    {
+      "start": 1267.97,
+      "end": 1276.137,
+      "formatted_start": "00:21:07.970",
+      "formatted_end": "00:21:16.137",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 1273.032,
+      "end": 1273.505,
+      "formatted_start": "00:21:13.032",
+      "formatted_end": "00:21:13.505",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1274.028,
+      "end": 1278.044,
+      "formatted_start": "00:21:14.028",
+      "formatted_end": "00:21:18.044",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1278.382,
+      "end": 1282.837,
+      "formatted_start": "00:21:18.382",
+      "formatted_end": "00:21:22.837",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1278.938,
+      "end": 1280.761,
+      "formatted_start": "00:21:18.938",
+      "formatted_end": "00:21:20.761",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1282.465,
+      "end": 1286.026,
+      "formatted_start": "00:21:22.465",
+      "formatted_end": "00:21:26.026",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1287.376,
+      "end": 1288.962,
+      "formatted_start": "00:21:27.376",
+      "formatted_end": "00:21:28.962",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1336.027,
+      "end": 1339.199,
+      "formatted_start": "00:22:16.027",
+      "formatted_end": "00:22:19.199",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1339.165,
+      "end": 1345.038,
+      "formatted_start": "00:22:19.165",
+      "formatted_end": "00:22:25.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1343.097,
+      "end": 1343.89,
+      "formatted_start": "00:22:23.097",
+      "formatted_end": "00:22:23.890",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1200.0,
+      "end": 1229.98,
+      "formatted_start": "00:20:00.000",
+      "formatted_end": "00:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 1230.0,
+      "end": 1259.98,
+      "formatted_start": "00:20:30.000",
+      "formatted_end": "00:20:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 1260.0,
+      "end": 1289.98,
+      "formatted_start": "00:21:00.000",
+      "formatted_end": "00:21:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 1290.0,
+      "end": 1292.0,
+      "formatted_start": "00:21:30.000",
+      "formatted_end": "00:21:32.000",
+      "text": "برگردید"
+    },
+    {
+      "id": 4,
+      "start": 1320.0,
+      "end": 1348.0,
+      "formatted_start": "00:22:00.000",
+      "formatted_end": "00:22:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 1350.0,
+      "end": 1352.0,
+      "formatted_start": "00:22:30.000",
+      "formatted_end": "00:22:32.000",
+      "text": "برای اینجا باید بردارید."
+    },
+    {
+      "id": 6,
+      "start": 1382.0,
+      "end": 1411.98,
+      "formatted_start": "00:23:02.000",
+      "formatted_end": "00:23:31.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 7,
+      "start": 1412.0,
+      "end": 1441.98,
+      "formatted_start": "00:23:32.000",
+      "formatted_end": "00:24:01.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 1442.0,
+      "end": 1471.98,
+      "formatted_start": "00:24:02.000",
+      "formatted_end": "00:24:31.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 1472.0,
+      "end": 1500.0,
+      "formatted_start": "00:24:32.000",
+      "formatted_end": "00:25:00.000",
+      "text": "مردم در اینجا با اینکه از اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با این"
+    }
+  ],
+  "status": "completed"
+}
