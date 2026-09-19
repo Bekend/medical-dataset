@@ -1,0 +1,399 @@
+{
+  "chunk_index": 56,
+  "start_sec": 16800.0,
+  "end_sec": 17100.0,
+  "turns": [
+    {
+      "start": 16800.031,
+      "end": 16801.027,
+      "formatted_start": "04:40:00.031",
+      "formatted_end": "04:40:01.027",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 16801.988,
+      "end": 16803.507,
+      "formatted_start": "04:40:01.988",
+      "formatted_end": "04:40:03.507",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 16806.089,
+      "end": 16808.468,
+      "formatted_start": "04:40:06.089",
+      "formatted_end": "04:40:08.468",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 16809.852,
+      "end": 16810.426,
+      "formatted_start": "04:40:09.852",
+      "formatted_end": "04:40:10.426",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 16811.877,
+      "end": 16813.413,
+      "formatted_start": "04:40:11.877",
+      "formatted_end": "04:40:13.413",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 16821.175,
+      "end": 16823.268,
+      "formatted_start": "04:40:21.175",
+      "formatted_end": "04:40:23.268",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16824.179,
+      "end": 16824.77,
+      "formatted_start": "04:40:24.179",
+      "formatted_end": "04:40:24.770",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16825.563,
+      "end": 16826.879,
+      "formatted_start": "04:40:25.563",
+      "formatted_end": "04:40:26.879",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16829.36,
+      "end": 16833.629,
+      "formatted_start": "04:40:29.360",
+      "formatted_end": "04:40:33.629",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16833.882,
+      "end": 16834.642,
+      "formatted_start": "04:40:33.882",
+      "formatted_end": "04:40:34.642",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16836.363,
+      "end": 16840.058,
+      "formatted_start": "04:40:36.363",
+      "formatted_end": "04:40:40.058",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 16840.598,
+      "end": 16844.851,
+      "formatted_start": "04:40:40.598",
+      "formatted_end": "04:40:44.851",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 16845.577,
+      "end": 16848.074,
+      "formatted_start": "04:40:45.577",
+      "formatted_end": "04:40:48.074",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 16848.361,
+      "end": 16861.203,
+      "formatted_start": "04:40:48.361",
+      "formatted_end": "04:41:01.203",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 16862.097,
+      "end": 16863.346,
+      "formatted_start": "04:41:02.097",
+      "formatted_end": "04:41:03.346",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17082.974,
+      "end": 17083.649,
+      "formatted_start": "04:44:42.974",
+      "formatted_end": "04:44:43.649",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 17085.37,
+      "end": 17086.18,
+      "formatted_start": "04:44:45.370",
+      "formatted_end": "04:44:46.180",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 17086.619,
+      "end": 17098.567,
+      "formatted_start": "04:44:46.619",
+      "formatted_end": "04:44:58.567",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 17098.972,
+      "end": 17099.967,
+      "formatted_start": "04:44:58.972",
+      "formatted_end": "04:44:59.967",
+      "speaker": "SPEAKER_03"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 16800.0,
+      "end": 16806.0,
+      "formatted_start": "04:40:00.000",
+      "formatted_end": "04:40:06.000",
+      "text": "باید بردارید که از این مطب پزشکی را بردارید."
+    },
+    {
+      "id": 1,
+      "start": 16806.0,
+      "end": 16812.0,
+      "formatted_start": "04:40:06.000",
+      "formatted_end": "04:40:12.000",
+      "text": "باید بردارید که از این مطب پزشکی را بردارید."
+    },
+    {
+      "id": 2,
+      "start": 16812.0,
+      "end": 16818.0,
+      "formatted_start": "04:40:12.000",
+      "formatted_end": "04:40:18.000",
+      "text": "باید بردارید که از این مطب پزشکی را بردارید."
+    },
+    {
+      "id": 3,
+      "start": 16818.0,
+      "end": 16820.0,
+      "formatted_start": "04:40:18.000",
+      "formatted_end": "04:40:20.000",
+      "text": "اولا برد کشید"
+    },
+    {
+      "id": 4,
+      "start": 16820.0,
+      "end": 16824.0,
+      "formatted_start": "04:40:20.000",
+      "formatted_end": "04:40:24.000",
+      "text": "اینجایی برخواهد خود را شد"
+    },
+    {
+      "id": 5,
+      "start": 16824.0,
+      "end": 16832.0,
+      "formatted_start": "04:40:24.000",
+      "formatted_end": "04:40:32.000",
+      "text": "به اندازه یک عدس کم تر وردید شد"
+    },
+    {
+      "id": 6,
+      "start": 16832.0,
+      "end": 16834.0,
+      "formatted_start": "04:40:32.000",
+      "formatted_end": "04:40:34.000",
+      "text": "آمان"
+    },
+    {
+      "id": 7,
+      "start": 16834.0,
+      "end": 16836.0,
+      "formatted_start": "04:40:34.000",
+      "formatted_end": "04:40:36.000",
+      "text": "برخواهد شد"
+    },
+    {
+      "id": 8,
+      "start": 16836.0,
+      "end": 16840.0,
+      "formatted_start": "04:40:36.000",
+      "formatted_end": "04:40:40.000",
+      "text": "برای یک نفر نفر که نورگلی دارند که پس دارد خود را کشید و خودش دارد باشد"
+    },
+    {
+      "id": 9,
+      "start": 16840.0,
+      "end": 16842.0,
+      "formatted_start": "04:40:40.000",
+      "formatted_end": "04:40:42.000",
+      "text": "تمام برد نخواهد کشیدند"
+    },
+    {
+      "id": 10,
+      "start": 16842.0,
+      "end": 16844.0,
+      "formatted_start": "04:40:42.000",
+      "formatted_end": "04:40:44.000",
+      "text": "در اونجا فردا در اونجا"
+    },
+    {
+      "id": 11,
+      "start": 16844.0,
+      "end": 16846.0,
+      "formatted_start": "04:40:44.000",
+      "formatted_end": "04:40:46.000",
+      "text": "فردا یازده"
+    },
+    {
+      "id": 12,
+      "start": 16846.0,
+      "end": 16848.0,
+      "formatted_start": "04:40:46.000",
+      "formatted_end": "04:40:48.000",
+      "text": "مردم در اینجا باید بردارید."
+    },
+    {
+      "id": 13,
+      "start": 16848.0,
+      "end": 16850.0,
+      "formatted_start": "04:40:48.000",
+      "formatted_end": "04:40:50.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 14,
+      "start": 16850.0,
+      "end": 16852.0,
+      "formatted_start": "04:40:50.000",
+      "formatted_end": "04:40:52.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 15,
+      "start": 16852.0,
+      "end": 16854.0,
+      "formatted_start": "04:40:52.000",
+      "formatted_end": "04:40:54.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 16,
+      "start": 16854.0,
+      "end": 16856.0,
+      "formatted_start": "04:40:54.000",
+      "formatted_end": "04:40:56.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 17,
+      "start": 16856.0,
+      "end": 16858.0,
+      "formatted_start": "04:40:56.000",
+      "formatted_end": "04:40:58.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 18,
+      "start": 16858.0,
+      "end": 16860.0,
+      "formatted_start": "04:40:58.000",
+      "formatted_end": "04:41:00.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 19,
+      "start": 16860.0,
+      "end": 16862.0,
+      "formatted_start": "04:41:00.000",
+      "formatted_end": "04:41:02.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 20,
+      "start": 16862.0,
+      "end": 16864.0,
+      "formatted_start": "04:41:02.000",
+      "formatted_end": "04:41:04.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 21,
+      "start": 16864.0,
+      "end": 16866.0,
+      "formatted_start": "04:41:04.000",
+      "formatted_end": "04:41:06.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 22,
+      "start": 16866.0,
+      "end": 16868.0,
+      "formatted_start": "04:41:06.000",
+      "formatted_end": "04:41:08.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 23,
+      "start": 16868.0,
+      "end": 16897.98,
+      "formatted_start": "04:41:08.000",
+      "formatted_end": "04:41:37.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 24,
+      "start": 16898.0,
+      "end": 16927.98,
+      "formatted_start": "04:41:38.000",
+      "formatted_end": "04:42:07.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 25,
+      "start": 16928.0,
+      "end": 16957.98,
+      "formatted_start": "04:42:08.000",
+      "formatted_end": "04:42:37.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 26,
+      "start": 16958.0,
+      "end": 16978.0,
+      "formatted_start": "04:42:38.000",
+      "formatted_end": "04:42:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 27,
+      "start": 16978.0,
+      "end": 17006.0,
+      "formatted_start": "04:42:58.000",
+      "formatted_end": "04:43:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 17008.0,
+      "end": 17037.98,
+      "formatted_start": "04:43:28.000",
+      "formatted_end": "04:43:57.980",
+      "text": "مرسی باید"
+    },
+    {
+      "id": 29,
+      "start": 17038.0,
+      "end": 17067.98,
+      "formatted_start": "04:43:58.000",
+      "formatted_end": "04:44:27.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 30,
+      "start": 17068.0,
+      "end": 17083.0,
+      "formatted_start": "04:44:28.000",
+      "formatted_end": "04:44:43.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 31,
+      "start": 17083.0,
+      "end": 17100.0,
+      "formatted_start": "04:44:43.000",
+      "formatted_end": "04:45:00.000",
+      "text": "اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه، اوه"
+    }
+  ],
+  "status": "completed"
+}
