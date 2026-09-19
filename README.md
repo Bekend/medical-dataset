@@ -6,13 +6,11 @@
 [![Language: Persian (Farsi)](https://img.shields.io/badge/Language-Persian%20(fa)-orange.svg)](#)
 [![Tasks: STT & Diarization & Clinical NLP](https://img.shields.io/badge/Tasks-STT%20%7C%20Diarization%20%7C%20NLP-purple.svg)](#)
 
----
-مشخصات پژوهش و تیم تحقیق (Research Credits)
-پژوهشگر و گردآورنده: سید شهاب‌الدین حسینی بای
-Researcher & Data Collector: Seyyed Shahabeddin Hosseini Bay
-اساتید راهنما: دکتر رضا یزدی، دکتر مهدی یعقوبی
-Supervisors: Dr. Reza Yazdi & Dr. Mehdi Yaghoobi
-
+---### مشخصات پژوهش و دست‌اندرکاران (Research Credits)
+* **پژوهشگر و گردآورنده (Researcher & Data Collector):** سید شهاب‌الدین حسینی بای (*Seyyed Shahabeddin Hosseini Bay*)
+* **اساتید راهنما (Supervisors):**
+  * جناب آقای دکتر رضا یزدی (*Dr. Reza Yazdi*)
+  * جناب آقای دکتر مهدی یعقوبی (*Dr. Mehdi Yaghoobi*)
 ## 📑 فهرست مطالب / Table of Contents
 1. [بخش فارسی / Persian Section](#-بخش-فارسی-persian-documentation)
    - [مقدمه و چکیده](#۱-مقدمه-و-چکیده-dataset-overview--motivation)
