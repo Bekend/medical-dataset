@@ -1,0 +1,316 @@
+{
+  "chunk_index": 17,
+  "start_sec": 5100.0,
+  "end_sec": 5400.0,
+  "turns": [
+    {
+      "start": 5100.166,
+      "end": 5101.178,
+      "formatted_start": "01:25:00.166",
+      "formatted_end": "01:25:01.178",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5104.486,
+      "end": 5105.026,
+      "formatted_start": "01:25:04.486",
+      "formatted_end": "01:25:05.026",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5135.519,
+      "end": 5136.143,
+      "formatted_start": "01:25:35.519",
+      "formatted_end": "01:25:36.143",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5137.544,
+      "end": 5140.025,
+      "formatted_start": "01:25:37.544",
+      "formatted_end": "01:25:40.025",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5146.741,
+      "end": 5148.884,
+      "formatted_start": "01:25:46.741",
+      "formatted_end": "01:25:48.884",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5158.233,
+      "end": 5158.604,
+      "formatted_start": "01:25:58.233",
+      "formatted_end": "01:25:58.604",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5160.73,
+      "end": 5162.654,
+      "formatted_start": "01:26:00.730",
+      "formatted_end": "01:26:02.654",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5166.282,
+      "end": 5168.088,
+      "formatted_start": "01:26:06.282",
+      "formatted_end": "01:26:08.088",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5178.297,
+      "end": 5180.592,
+      "formatted_start": "01:26:18.297",
+      "formatted_end": "01:26:20.592",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5181.503,
+      "end": 5187.038,
+      "formatted_start": "01:26:21.503",
+      "formatted_end": "01:26:27.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5199.053,
+      "end": 5207.39,
+      "formatted_start": "01:26:39.053",
+      "formatted_end": "01:26:47.390",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5208.368,
+      "end": 5212.486,
+      "formatted_start": "01:26:48.368",
+      "formatted_end": "01:26:52.486",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5212.958,
+      "end": 5216.097,
+      "formatted_start": "01:26:52.958",
+      "formatted_end": "01:26:56.097",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5220.957,
+      "end": 5222.645,
+      "formatted_start": "01:27:00.957",
+      "formatted_end": "01:27:02.645",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5223.505,
+      "end": 5225.108,
+      "formatted_start": "01:27:03.505",
+      "formatted_end": "01:27:05.108",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5381.084,
+      "end": 5385.033,
+      "formatted_start": "01:29:41.084",
+      "formatted_end": "01:29:45.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5386.484,
+      "end": 5387.159,
+      "formatted_start": "01:29:46.484",
+      "formatted_end": "01:29:47.159",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5392.458,
+      "end": 5393.808,
+      "formatted_start": "01:29:52.458",
+      "formatted_end": "01:29:53.808",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5394.263,
+      "end": 5395.529,
+      "formatted_start": "01:29:54.263",
+      "formatted_end": "01:29:55.529",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5395.563,
+      "end": 5396.373,
+      "formatted_start": "01:29:55.563",
+      "formatted_end": "01:29:56.373",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5396.862,
+      "end": 5398.33,
+      "formatted_start": "01:29:56.862",
+      "formatted_end": "01:29:58.330",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5398.516,
+      "end": 5399.967,
+      "formatted_start": "01:29:58.516",
+      "formatted_end": "01:29:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 5100.0,
+      "end": 5129.98,
+      "formatted_start": "01:25:00.000",
+      "formatted_end": "01:25:29.980",
+      "text": "بیمار، گفتگو بین دکتر و بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 5130.0,
+      "end": 5160.0,
+      "formatted_start": "01:25:30.000",
+      "formatted_end": "01:26:00.000",
+      "text": "در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا، در اینجا"
+    },
+    {
+      "id": 2,
+      "start": 5160.0,
+      "end": 5168.72,
+      "formatted_start": "01:26:00.000",
+      "formatted_end": "01:26:08.720",
+      "text": "در فرمان شما نتا"
+    },
+    {
+      "id": 3,
+      "start": 5168.72,
+      "end": 5177.04,
+      "formatted_start": "01:26:08.720",
+      "formatted_end": "01:26:17.040",
+      "text": "از دردجور یه زمانه نداری"
+    },
+    {
+      "id": 4,
+      "start": 5177.04,
+      "end": 5189.52,
+      "formatted_start": "01:26:17.040",
+      "formatted_end": "01:26:29.520",
+      "text": "که فرمان مرزی استفاده"
+    },
+    {
+      "id": 5,
+      "start": 5189.52,
+      "end": 5199.52,
+      "formatted_start": "01:26:29.520",
+      "formatted_end": "01:26:39.520",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 5219.52,
+      "end": 5222.46,
+      "formatted_start": "01:26:59.520",
+      "formatted_end": "01:27:02.460",
+      "text": "بچه ها دشمن های ما"
+    },
+    {
+      "id": 7,
+      "start": 5222.46,
+      "end": 5225.08,
+      "formatted_start": "01:27:02.460",
+      "formatted_end": "01:27:05.080",
+      "text": "همه همون که دونیم کی هستن"
+    },
+    {
+      "id": 8,
+      "start": 5249.52,
+      "end": 5274.52,
+      "formatted_start": "01:27:29.520",
+      "formatted_end": "01:27:54.520",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 5279.52,
+      "end": 5309.5,
+      "formatted_start": "01:27:59.520",
+      "formatted_end": "01:28:29.500",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 5309.52,
+      "end": 5339.5,
+      "formatted_start": "01:28:29.520",
+      "formatted_end": "01:28:59.500",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 11,
+      "start": 5339.52,
+      "end": 5357.52,
+      "formatted_start": "01:28:59.520",
+      "formatted_end": "01:29:17.520",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 5387.52,
+      "end": 5389.52,
+      "formatted_start": "01:29:47.520",
+      "formatted_end": "01:29:49.520",
+      "text": "مرسی مرسی"
+    },
+    {
+      "id": 13,
+      "start": 5389.52,
+      "end": 5391.52,
+      "formatted_start": "01:29:49.520",
+      "formatted_end": "01:29:51.520",
+      "text": "بر یه تونم بیزن بیدید"
+    },
+    {
+      "id": 14,
+      "start": 5391.52,
+      "end": 5393.52,
+      "formatted_start": "01:29:51.520",
+      "formatted_end": "01:29:53.520",
+      "text": "باید دیگه خواهش نیست"
+    },
+    {
+      "id": 15,
+      "start": 5393.52,
+      "end": 5395.52,
+      "formatted_start": "01:29:53.520",
+      "formatted_end": "01:29:55.520",
+      "text": "چی شده باید جون؟"
+    },
+    {
+      "id": 16,
+      "start": 5395.52,
+      "end": 5397.52,
+      "formatted_start": "01:29:55.520",
+      "formatted_end": "01:29:57.520",
+      "text": "زبین داشته بیدیم"
+    },
+    {
+      "id": 17,
+      "start": 5397.52,
+      "end": 5399.52,
+      "formatted_start": "01:29:57.520",
+      "formatted_end": "01:29:59.520",
+      "text": "دستو آبور بردیدیم؟"
+    },
+    {
+      "id": 18,
+      "start": 5399.52,
+      "end": 5401.52,
+      "formatted_start": "01:29:59.520",
+      "formatted_end": "01:30:01.520",
+      "text": "بله خانواده"
+    }
+  ],
+  "status": "completed"
+}

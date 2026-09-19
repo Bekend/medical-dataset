@@ -1,0 +1,314 @@
+{
+  "chunk_index": 29,
+  "start_sec": 8700.0,
+  "end_sec": 9000.0,
+  "turns": [
+    {
+      "start": 8700.031,
+      "end": 8700.841,
+      "formatted_start": "02:25:00.031",
+      "formatted_end": "02:25:00.841",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 8701.06,
+      "end": 8703.153,
+      "formatted_start": "02:25:01.060",
+      "formatted_end": "02:25:03.153",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 8703.693,
+      "end": 8705.583,
+      "formatted_start": "02:25:03.693",
+      "formatted_end": "02:25:05.583",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 8706.241,
+      "end": 8707.878,
+      "formatted_start": "02:25:06.241",
+      "formatted_end": "02:25:07.878",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 8729.292,
+      "end": 8733.173,
+      "formatted_start": "02:25:29.292",
+      "formatted_end": "02:25:33.173",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 8812.03,
+      "end": 8816.215,
+      "formatted_start": "02:26:52.030",
+      "formatted_end": "02:26:56.215",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8816.924,
+      "end": 8825.024,
+      "formatted_start": "02:26:56.924",
+      "formatted_end": "02:27:05.024",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8830.964,
+      "end": 8832.145,
+      "formatted_start": "02:27:10.964",
+      "formatted_end": "02:27:12.145",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8832.145,
+      "end": 8832.972,
+      "formatted_start": "02:27:12.145",
+      "formatted_end": "02:27:12.972",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 8832.972,
+      "end": 8833.968,
+      "formatted_start": "02:27:12.972",
+      "formatted_end": "02:27:13.968",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8856.142,
+      "end": 8857.508,
+      "formatted_start": "02:27:36.142",
+      "formatted_end": "02:27:37.508",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8857.762,
+      "end": 8858.791,
+      "formatted_start": "02:27:37.762",
+      "formatted_end": "02:27:38.791",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8858.926,
+      "end": 8868.038,
+      "formatted_start": "02:27:38.926",
+      "formatted_end": "02:27:48.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8907.121,
+      "end": 8916.571,
+      "formatted_start": "02:28:27.121",
+      "formatted_end": "02:28:36.571",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 8919.473,
+      "end": 8924.097,
+      "formatted_start": "02:28:39.473",
+      "formatted_end": "02:28:44.097",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8924.418,
+      "end": 8929.328,
+      "formatted_start": "02:28:44.418",
+      "formatted_end": "02:28:49.328",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 8700.0,
+      "end": 8728.0,
+      "formatted_start": "02:25:00.000",
+      "formatted_end": "02:25:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 8730.0,
+      "end": 8733.1,
+      "formatted_start": "02:25:30.000",
+      "formatted_end": "02:25:33.100",
+      "text": "برای من کنار من نشست"
+    },
+    {
+      "id": 2,
+      "start": 8733.1,
+      "end": 8736.0,
+      "formatted_start": "02:25:33.100",
+      "formatted_end": "02:25:36.000",
+      "text": "میریم کسی که این را دست دارد"
+    },
+    {
+      "id": 3,
+      "start": 8736.58,
+      "end": 8739.0,
+      "formatted_start": "02:25:36.580",
+      "formatted_end": "02:25:39.000",
+      "text": "تو بودی و تو دست دارد"
+    },
+    {
+      "id": 4,
+      "start": 8760.0,
+      "end": 8789.98,
+      "formatted_start": "02:26:00.000",
+      "formatted_end": "02:26:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 8790.0,
+      "end": 8812.0,
+      "formatted_start": "02:26:30.000",
+      "formatted_end": "02:26:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 8812.0,
+      "end": 8816.5,
+      "formatted_start": "02:26:52.000",
+      "formatted_end": "02:26:56.500",
+      "text": "دلم میخواد که روزی صد هزار باده"
+    },
+    {
+      "id": 7,
+      "start": 8816.5,
+      "end": 8820.54,
+      "formatted_start": "02:26:56.500",
+      "formatted_end": "02:27:00.540",
+      "text": "بهت بگم دوست دادم من دیدم"
+    },
+    {
+      "id": 8,
+      "start": 8820.54,
+      "end": 8825.72,
+      "formatted_start": "02:27:00.540",
+      "formatted_end": "02:27:05.720",
+      "text": "دلم میخواد که امروز زندگی ما"
+    },
+    {
+      "id": 9,
+      "start": 8825.72,
+      "end": 8830.76,
+      "formatted_start": "02:27:05.720",
+      "formatted_end": "02:27:10.760",
+      "text": "به پای عشق خوبتا بریدم"
+    },
+    {
+      "id": 10,
+      "start": 8830.76,
+      "end": 8835.0,
+      "formatted_start": "02:27:10.760",
+      "formatted_end": "02:27:15.000",
+      "text": "دلم میخواد که از لمای گره"
+    },
+    {
+      "id": 11,
+      "start": 8835.6,
+      "end": 8839.08,
+      "formatted_start": "02:27:15.600",
+      "formatted_end": "02:27:19.080",
+      "text": "بلاز سرخه بود سرای چیدم"
+    },
+    {
+      "id": 12,
+      "start": 8839.08,
+      "end": 8842.9,
+      "formatted_start": "02:27:19.080",
+      "formatted_end": "02:27:22.900",
+      "text": "دلم میخون جواب دوست دارم را"
+    },
+    {
+      "id": 13,
+      "start": 8842.9,
+      "end": 8846.4,
+      "formatted_start": "02:27:22.900",
+      "formatted_end": "02:27:26.400",
+      "text": "تو چشمای قشنگتا ببینم"
+    },
+    {
+      "id": 14,
+      "start": 8846.4,
+      "end": 8850.3,
+      "formatted_start": "02:27:26.400",
+      "formatted_end": "02:27:30.300",
+      "text": "دلم میخون جواب دوست دارم را"
+    },
+    {
+      "id": 15,
+      "start": 8850.3,
+      "end": 8853.9,
+      "formatted_start": "02:27:30.300",
+      "formatted_end": "02:27:33.900",
+      "text": "تو چشمای قشنگتا ببینم"
+    },
+    {
+      "id": 16,
+      "start": 8853.9,
+      "end": 8858.46,
+      "formatted_start": "02:27:33.900",
+      "formatted_end": "02:27:38.460",
+      "text": "دلم میخون که موزی سمت دارم"
+    },
+    {
+      "id": 17,
+      "start": 8858.46,
+      "end": 8863.14,
+      "formatted_start": "02:27:38.460",
+      "formatted_end": "02:27:43.140",
+      "text": "بهتر بگم دوست دارم عزیزم"
+    },
+    {
+      "id": 18,
+      "start": 8863.14,
+      "end": 8868.08,
+      "formatted_start": "02:27:43.140",
+      "formatted_end": "02:27:48.080",
+      "text": "دلم میخون که عمر و زندگی دارم"
+    },
+    {
+      "id": 19,
+      "start": 8868.08,
+      "end": 8883.08,
+      "formatted_start": "02:27:48.080",
+      "formatted_end": "02:28:03.080",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 8898.08,
+      "end": 8918.08,
+      "formatted_start": "02:28:18.080",
+      "formatted_end": "02:28:38.080",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 8928.08,
+      "end": 8958.06,
+      "formatted_start": "02:28:48.080",
+      "formatted_end": "02:29:18.060",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 22,
+      "start": 8958.08,
+      "end": 8988.06,
+      "formatted_start": "02:29:18.080",
+      "formatted_end": "02:29:48.060",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 23,
+      "start": 8988.08,
+      "end": 8998.08,
+      "formatted_start": "02:29:48.080",
+      "formatted_end": "02:29:58.080",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
