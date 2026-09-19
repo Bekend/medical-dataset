@@ -1,0 +1,305 @@
+{
+  "chunk_index": 24,
+  "start_sec": 7200.0,
+  "end_sec": 7500.0,
+  "turns": [
+    {
+      "start": 7200.824,
+      "end": 7201.28,
+      "formatted_start": "02:00:00.824",
+      "formatted_end": "02:00:01.280",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7202.562,
+      "end": 7204.317,
+      "formatted_start": "02:00:02.562",
+      "formatted_end": "02:00:04.317",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7205.752,
+      "end": 7213.43,
+      "formatted_start": "02:00:05.752",
+      "formatted_end": "02:00:13.430",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7216.872,
+      "end": 7231.148,
+      "formatted_start": "02:00:16.872",
+      "formatted_end": "02:00:31.148",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7235.688,
+      "end": 7239.316,
+      "formatted_start": "02:00:35.688",
+      "formatted_end": "02:00:39.316",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7266.13,
+      "end": 7273.69,
+      "formatted_start": "02:01:06.130",
+      "formatted_end": "02:01:13.690",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7273.471,
+      "end": 7276.154,
+      "formatted_start": "02:01:13.471",
+      "formatted_end": "02:01:16.154",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7408.758,
+      "end": 7415.98,
+      "formatted_start": "02:03:28.758",
+      "formatted_end": "02:03:35.980",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7411.93,
+      "end": 7412.318,
+      "formatted_start": "02:03:31.930",
+      "formatted_end": "02:03:32.318",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7422.933,
+      "end": 7423.388,
+      "formatted_start": "02:03:42.933",
+      "formatted_end": "02:03:43.388",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7463.078,
+      "end": 7467.348,
+      "formatted_start": "02:04:23.078",
+      "formatted_end": "02:04:27.348",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7469.322,
+      "end": 7473.372,
+      "formatted_start": "02:04:29.322",
+      "formatted_end": "02:04:33.372",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7476.207,
+      "end": 7477.304,
+      "formatted_start": "02:04:36.207",
+      "formatted_end": "02:04:37.304",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7485.978,
+      "end": 7489.437,
+      "formatted_start": "02:04:45.978",
+      "formatted_end": "02:04:49.437",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7489.724,
+      "end": 7490.872,
+      "formatted_start": "02:04:49.724",
+      "formatted_end": "02:04:50.872",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7494.145,
+      "end": 7496.153,
+      "formatted_start": "02:04:54.145",
+      "formatted_end": "02:04:56.153",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7496.643,
+      "end": 7497.2,
+      "formatted_start": "02:04:56.643",
+      "formatted_end": "02:04:57.200",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7200.0,
+      "end": 7212.0,
+      "formatted_start": "02:00:00.000",
+      "formatted_end": "02:00:12.000",
+      "text": "که؟ آی رحیمی خود ما دیگر همه؟ آی رحیمیه، بذار من دارو زنگ میزنم که آقایی دارید هزار نیت چجوری بستن هزار نیت رو؟"
+    },
+    {
+      "id": 1,
+      "start": 7212.0,
+      "end": 7214.0,
+      "formatted_start": "02:00:12.000",
+      "formatted_end": "02:00:14.000",
+      "text": "حالا یه مقدار مثلا"
+    },
+    {
+      "id": 2,
+      "start": 7216.76,
+      "end": 7219.36,
+      "formatted_start": "02:00:16.760",
+      "formatted_end": "02:00:19.360",
+      "text": "خب بالا این چیز دست اونها نیست ها"
+    },
+    {
+      "id": 3,
+      "start": 7219.36,
+      "end": 7226.88,
+      "formatted_start": "02:00:19.360",
+      "formatted_end": "02:00:26.880",
+      "text": "حالا مگر اینکه آیا رای زنی بشه ببینیم که به بیمارستانهای چیز داده میشه سبسید یا نه"
+    },
+    {
+      "id": 4,
+      "start": 7226.88,
+      "end": 7229.76,
+      "formatted_start": "02:00:26.880",
+      "formatted_end": "02:00:29.760",
+      "text": "چون بعض جایی یارانه بهشون میخوره"
+    },
+    {
+      "id": 5,
+      "start": 7229.76,
+      "end": 7231.76,
+      "formatted_start": "02:00:29.760",
+      "formatted_end": "02:00:31.760",
+      "text": "به این صورتی"
+    },
+    {
+      "id": 6,
+      "start": 7235.52,
+      "end": 7237.28,
+      "formatted_start": "02:00:35.520",
+      "formatted_end": "02:00:37.280",
+      "text": "حالا همه با رای این زن میزنم"
+    },
+    {
+      "id": 7,
+      "start": 7237.28,
+      "end": 7239.28,
+      "formatted_start": "02:00:37.280",
+      "formatted_end": "02:00:39.280",
+      "text": "باشه مرسی خود"
+    },
+    {
+      "id": 8,
+      "start": 7242.0,
+      "end": 7266.0,
+      "formatted_start": "02:00:42.000",
+      "formatted_end": "02:01:06.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 7266.0,
+      "end": 7270.0,
+      "formatted_start": "02:01:06.000",
+      "formatted_end": "02:01:10.000",
+      "text": "این کاملادی بودی که به خود شهر کشک نارم بده داریم"
+    },
+    {
+      "id": 10,
+      "start": 7270.0,
+      "end": 7274.0,
+      "formatted_start": "02:01:10.000",
+      "formatted_end": "02:01:14.000",
+      "text": "بعد شهر کشک نارم میگیر که شهر کمش سه تون رو به جا شید"
+    },
+    {
+      "id": 11,
+      "start": 7274.0,
+      "end": 7276.0,
+      "formatted_start": "02:01:14.000",
+      "formatted_end": "02:01:16.000",
+      "text": "به بلاک بده که باشه دیگه"
+    },
+    {
+      "id": 12,
+      "start": 7296.0,
+      "end": 7325.98,
+      "formatted_start": "02:01:36.000",
+      "formatted_end": "02:02:05.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 7326.0,
+      "end": 7355.98,
+      "formatted_start": "02:02:06.000",
+      "formatted_end": "02:02:35.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 14,
+      "start": 7356.0,
+      "end": 7385.98,
+      "formatted_start": "02:02:36.000",
+      "formatted_end": "02:03:05.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 15,
+      "start": 7386.0,
+      "end": 7416.0,
+      "formatted_start": "02:03:06.000",
+      "formatted_end": "02:03:36.000",
+      "text": "از اینجا باید بردارید که اینجا باید بردارید که اینجا باید بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا ب"
+    },
+    {
+      "id": 16,
+      "start": 7416.0,
+      "end": 7445.98,
+      "formatted_start": "02:03:36.000",
+      "formatted_end": "02:04:05.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 17,
+      "start": 7446.0,
+      "end": 7464.28,
+      "formatted_start": "02:04:06.000",
+      "formatted_end": "02:04:24.280",
+      "text": "31 و 38"
+    },
+    {
+      "id": 18,
+      "start": 7464.28,
+      "end": 7467.28,
+      "formatted_start": "02:04:24.280",
+      "formatted_end": "02:04:27.280",
+      "text": "برنامه مثلا دیوی سریت میتونیم میگیریم دیگه"
+    },
+    {
+      "id": 19,
+      "start": 7467.28,
+      "end": 7473.28,
+      "formatted_start": "02:04:27.280",
+      "formatted_end": "02:04:33.280",
+      "text": "دولتیش الان 31 هزاره"
+    },
+    {
+      "id": 20,
+      "start": 7473.28,
+      "end": 7499.28,
+      "formatted_start": "02:04:33.280",
+      "formatted_end": "02:04:59.280",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 7499.28,
+      "end": 7499.98,
+      "formatted_start": "02:04:59.280",
+      "formatted_end": "02:04:59.980",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

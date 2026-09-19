@@ -1,0 +1,33 @@
+{
+  "chunk_index": 67,
+  "start_sec": 20100.0,
+  "end_sec": 20157.24,
+  "turns": [
+    {
+      "start": 20106.038,
+      "end": 20106.443,
+      "formatted_start": "05:35:06.038",
+      "formatted_end": "05:35:06.443",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 20100.0,
+      "end": 20129.98,
+      "formatted_start": "05:35:00.000",
+      "formatted_end": "05:35:29.980",
+      "text": "بیمار در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 20130.0,
+      "end": 20157.0,
+      "formatted_start": "05:35:30.000",
+      "formatted_end": "05:35:57.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

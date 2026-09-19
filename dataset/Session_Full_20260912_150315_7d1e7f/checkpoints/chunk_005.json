@@ -1,0 +1,433 @@
+{
+  "chunk_index": 5,
+  "start_sec": 1500.0,
+  "end_sec": 1800.0,
+  "turns": [
+    {
+      "start": 1500.031,
+      "end": 1504.891,
+      "formatted_start": "00:25:00.031",
+      "formatted_end": "00:25:04.891",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1504.908,
+      "end": 1506.207,
+      "formatted_start": "00:25:04.908",
+      "formatted_end": "00:25:06.207",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1506.207,
+      "end": 1506.646,
+      "formatted_start": "00:25:06.207",
+      "formatted_end": "00:25:06.646",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1507.0,
+      "end": 1511.405,
+      "formatted_start": "00:25:07.000",
+      "formatted_end": "00:25:11.405",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1508.384,
+      "end": 1509.076,
+      "formatted_start": "00:25:08.384",
+      "formatted_end": "00:25:09.076",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1755.13,
+      "end": 1755.704,
+      "formatted_start": "00:29:15.130",
+      "formatted_end": "00:29:15.704",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1756.615,
+      "end": 1759.973,
+      "formatted_start": "00:29:16.615",
+      "formatted_end": "00:29:19.973",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1758.185,
+      "end": 1758.978,
+      "formatted_start": "00:29:18.185",
+      "formatted_end": "00:29:18.978",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 1763.888,
+      "end": 1765.998,
+      "formatted_start": "00:29:23.888",
+      "formatted_end": "00:29:25.998",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1765.643,
+      "end": 1768.158,
+      "formatted_start": "00:29:25.643",
+      "formatted_end": "00:29:28.158",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 1768.158,
+      "end": 1771.718,
+      "formatted_start": "00:29:28.158",
+      "formatted_end": "00:29:31.718",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1772.208,
+      "end": 1773.524,
+      "formatted_start": "00:29:32.208",
+      "formatted_end": "00:29:33.524",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1774.064,
+      "end": 1776.376,
+      "formatted_start": "00:29:34.064",
+      "formatted_end": "00:29:36.376",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1776.899,
+      "end": 1781.371,
+      "formatted_start": "00:29:36.899",
+      "formatted_end": "00:29:41.371",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1781.017,
+      "end": 1783.43,
+      "formatted_start": "00:29:41.017",
+      "formatted_end": "00:29:43.430",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1783.717,
+      "end": 1785.134,
+      "formatted_start": "00:29:43.717",
+      "formatted_end": "00:29:45.134",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1785.134,
+      "end": 1788.458,
+      "formatted_start": "00:29:45.134",
+      "formatted_end": "00:29:48.458",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1789.066,
+      "end": 1790.602,
+      "formatted_start": "00:29:49.066",
+      "formatted_end": "00:29:50.602",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1791.091,
+      "end": 1792.407,
+      "formatted_start": "00:29:51.091",
+      "formatted_end": "00:29:52.407",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1791.108,
+      "end": 1791.58,
+      "formatted_start": "00:29:51.108",
+      "formatted_end": "00:29:51.580",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1792.559,
+      "end": 1795.698,
+      "formatted_start": "00:29:52.559",
+      "formatted_end": "00:29:55.698",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1794.263,
+      "end": 1794.837,
+      "formatted_start": "00:29:54.263",
+      "formatted_end": "00:29:54.837",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1795.343,
+      "end": 1795.883,
+      "formatted_start": "00:29:55.343",
+      "formatted_end": "00:29:55.883",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1796.407,
+      "end": 1798.651,
+      "formatted_start": "00:29:56.407",
+      "formatted_end": "00:29:58.651",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1798.094,
+      "end": 1799.967,
+      "formatted_start": "00:29:58.094",
+      "formatted_end": "00:29:59.967",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1500.0,
+      "end": 1504.92,
+      "formatted_start": "00:25:00.000",
+      "formatted_end": "00:25:04.920",
+      "text": "خیلی زیر معاینه پزشکی اینا خوب، دیگه تر میدونی بهتر. خدمت شما."
+    },
+    {
+      "id": 1,
+      "start": 1504.92,
+      "end": 1506.2,
+      "formatted_start": "00:25:04.920",
+      "formatted_end": "00:25:06.200",
+      "text": "اسامل فوند داری؟"
+    },
+    {
+      "id": 2,
+      "start": 1506.2,
+      "end": 1507.0,
+      "formatted_start": "00:25:06.200",
+      "formatted_end": "00:25:07.000",
+      "text": "بله."
+    },
+    {
+      "id": 3,
+      "start": 1507.0,
+      "end": 1510.0,
+      "formatted_start": "00:25:07.000",
+      "formatted_end": "00:25:10.000",
+      "text": "دیگه من نمیدونی. خدمت شما خوشی باشید."
+    },
+    {
+      "id": 4,
+      "start": 1510.0,
+      "end": 1510.5,
+      "formatted_start": "00:25:10.000",
+      "formatted_end": "00:25:10.500",
+      "text": "شکرم."
+    },
+    {
+      "id": 5,
+      "start": 1510.5,
+      "end": 1511.5,
+      "formatted_start": "00:25:10.500",
+      "formatted_end": "00:25:11.500",
+      "text": "مرسی خداحافظ."
+    },
+    {
+      "id": 6,
+      "start": 1530.0,
+      "end": 1558.0,
+      "formatted_start": "00:25:30.000",
+      "formatted_end": "00:25:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 1560.0,
+      "end": 1588.0,
+      "formatted_start": "00:26:00.000",
+      "formatted_end": "00:26:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 1590.0,
+      "end": 1600.0,
+      "formatted_start": "00:26:30.000",
+      "formatted_end": "00:26:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 1620.0,
+      "end": 1649.98,
+      "formatted_start": "00:27:00.000",
+      "formatted_end": "00:27:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 1650.0,
+      "end": 1678.0,
+      "formatted_start": "00:27:30.000",
+      "formatted_end": "00:27:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 1680.0,
+      "end": 1708.0,
+      "formatted_start": "00:28:00.000",
+      "formatted_end": "00:28:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 1710.0,
+      "end": 1732.0,
+      "formatted_start": "00:28:30.000",
+      "formatted_end": "00:28:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 1732.0,
+      "end": 1754.0,
+      "formatted_start": "00:28:52.000",
+      "formatted_end": "00:29:14.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 1754.0,
+      "end": 1756.0,
+      "formatted_start": "00:29:14.000",
+      "formatted_end": "00:29:16.000",
+      "text": "بخوند"
+    },
+    {
+      "id": 15,
+      "start": 1756.0,
+      "end": 1757.0,
+      "formatted_start": "00:29:16.000",
+      "formatted_end": "00:29:17.000",
+      "text": "بخوند"
+    },
+    {
+      "id": 16,
+      "start": 1757.0,
+      "end": 1758.0,
+      "formatted_start": "00:29:17.000",
+      "formatted_end": "00:29:18.000",
+      "text": "سلام"
+    },
+    {
+      "id": 17,
+      "start": 1758.0,
+      "end": 1760.0,
+      "formatted_start": "00:29:18.000",
+      "formatted_end": "00:29:20.000",
+      "text": "سلام بابا جایم سلامت باشی"
+    },
+    {
+      "id": 18,
+      "start": 1764.0,
+      "end": 1766.0,
+      "formatted_start": "00:29:24.000",
+      "formatted_end": "00:29:26.000",
+      "text": "دخترم یه نگاه بنده"
+    },
+    {
+      "id": 19,
+      "start": 1766.0,
+      "end": 1768.0,
+      "formatted_start": "00:29:26.000",
+      "formatted_end": "00:29:28.000",
+      "text": "بله چی شده دختر رو کنی؟"
+    },
+    {
+      "id": 20,
+      "start": 1768.0,
+      "end": 1772.0,
+      "formatted_start": "00:29:28.000",
+      "formatted_end": "00:29:32.000",
+      "text": "سرما کنم خود باز یکم خیلی خوزنه نمیدونم"
+    },
+    {
+      "id": 21,
+      "start": 1772.0,
+      "end": 1774.0,
+      "formatted_start": "00:29:32.000",
+      "formatted_end": "00:29:34.000",
+      "text": "خب سه میز چقدره؟"
+    },
+    {
+      "id": 22,
+      "start": 1774.0,
+      "end": 1777.0,
+      "formatted_start": "00:29:34.000",
+      "formatted_end": "00:29:37.000",
+      "text": "گرج سه شونده هم بدونم بابا"
+    },
+    {
+      "id": 23,
+      "start": 1777.0,
+      "end": 1781.0,
+      "formatted_start": "00:29:37.000",
+      "formatted_end": "00:29:41.000",
+      "text": "شونده سه، چهار، پنج، دو سه پنج"
+    },
+    {
+      "id": 24,
+      "start": 1781.0,
+      "end": 1783.0,
+      "formatted_start": "00:29:41.000",
+      "formatted_end": "00:29:43.000",
+      "text": "نه سه من نیست دیده پنج هم بود"
+    },
+    {
+      "id": 25,
+      "start": 1783.0,
+      "end": 1789.0,
+      "formatted_start": "00:29:43.000",
+      "formatted_end": "00:29:49.000",
+      "text": "برگ 3 هست؟ برگ چند؟ برگ چند؟ برگ 5 هست"
+    },
+    {
+      "id": 26,
+      "start": 1789.0,
+      "end": 1791.0,
+      "formatted_start": "00:29:49.000",
+      "formatted_end": "00:29:51.000",
+      "text": "برگ 5 هست"
+    },
+    {
+      "id": 27,
+      "start": 1791.0,
+      "end": 1793.0,
+      "formatted_start": "00:29:51.000",
+      "formatted_end": "00:29:53.000",
+      "text": "دو ماه همیشه نشونه"
+    },
+    {
+      "id": 28,
+      "start": 1793.0,
+      "end": 1796.0,
+      "formatted_start": "00:29:53.000",
+      "formatted_end": "00:29:56.000",
+      "text": "حالا مهم نیست دو ماه همیشه نشونه"
+    },
+    {
+      "id": 29,
+      "start": 1796.0,
+      "end": 1798.0,
+      "formatted_start": "00:29:56.000",
+      "formatted_end": "00:29:58.000",
+      "text": "حالا خس خس میکنه درسته؟"
+    },
+    {
+      "id": 30,
+      "start": 1798.0,
+      "end": 1800.0,
+      "formatted_start": "00:29:58.000",
+      "formatted_end": "00:30:00.000",
+      "text": "این رو بگم نتیجه"
+    }
+  ],
+  "status": "completed"
+}

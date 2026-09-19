@@ -1,0 +1,195 @@
+{
+  "chunk_index": 7,
+  "start_sec": 2100.0,
+  "end_sec": 2400.0,
+  "turns": [
+    {
+      "start": 2181.267,
+      "end": 2188.321,
+      "formatted_start": "00:36:21.267",
+      "formatted_end": "00:36:28.321",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2190.076,
+      "end": 2193.147,
+      "formatted_start": "00:36:30.076",
+      "formatted_end": "00:36:33.147",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2390.652,
+      "end": 2391.58,
+      "formatted_start": "00:39:50.652",
+      "formatted_end": "00:39:51.580",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2392.424,
+      "end": 2396.744,
+      "formatted_start": "00:39:52.424",
+      "formatted_end": "00:39:56.744",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2394.061,
+      "end": 2395.057,
+      "formatted_start": "00:39:54.061",
+      "formatted_end": "00:39:55.057",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2396.744,
+      "end": 2399.393,
+      "formatted_start": "00:39:56.744",
+      "formatted_end": "00:39:59.393",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2398.027,
+      "end": 2399.967,
+      "formatted_start": "00:39:58.027",
+      "formatted_end": "00:39:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 2100.0,
+      "end": 2129.98,
+      "formatted_start": "00:35:00.000",
+      "formatted_end": "00:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 2130.0,
+      "end": 2154.0,
+      "formatted_start": "00:35:30.000",
+      "formatted_end": "00:35:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 2154.0,
+      "end": 2181.0,
+      "formatted_start": "00:35:54.000",
+      "formatted_end": "00:36:21.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 2181.0,
+      "end": 2189.0,
+      "formatted_start": "00:36:21.000",
+      "formatted_end": "00:36:29.000",
+      "text": "الان سلام، سلام در جهان خوبه؟ باش باش باش باش اشکال نداره"
+    },
+    {
+      "id": 4,
+      "start": 2190.0,
+      "end": 2194.0,
+      "formatted_start": "00:36:30.000",
+      "formatted_end": "00:36:34.000",
+      "text": "باش باش من در خدمت خودمونه"
+    },
+    {
+      "id": 5,
+      "start": 2211.0,
+      "end": 2240.98,
+      "formatted_start": "00:36:51.000",
+      "formatted_end": "00:37:20.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 2241.0,
+      "end": 2261.0,
+      "formatted_start": "00:37:21.000",
+      "formatted_end": "00:37:41.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 2261.0,
+      "end": 2273.0,
+      "formatted_start": "00:37:41.000",
+      "formatted_end": "00:37:53.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 2273.0,
+      "end": 2274.0,
+      "formatted_start": "00:37:53.000",
+      "formatted_end": "00:37:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 2291.0,
+      "end": 2320.98,
+      "formatted_start": "00:38:11.000",
+      "formatted_end": "00:38:40.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 2321.0,
+      "end": 2350.0,
+      "formatted_start": "00:38:41.000",
+      "formatted_end": "00:39:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 2351.0,
+      "end": 2364.0,
+      "formatted_start": "00:39:11.000",
+      "formatted_end": "00:39:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 2364.0,
+      "end": 2390.0,
+      "formatted_start": "00:39:24.000",
+      "formatted_end": "00:39:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 2390.0,
+      "end": 2392.0,
+      "formatted_start": "00:39:50.000",
+      "formatted_end": "00:39:52.000",
+      "text": "بخوند"
+    },
+    {
+      "id": 14,
+      "start": 2392.0,
+      "end": 2394.0,
+      "formatted_start": "00:39:52.000",
+      "formatted_end": "00:39:54.000",
+      "text": "سلام سلام"
+    },
+    {
+      "id": 15,
+      "start": 2394.0,
+      "end": 2396.0,
+      "formatted_start": "00:39:54.000",
+      "formatted_end": "00:39:56.000",
+      "text": "بشین بشین ماشکل"
+    },
+    {
+      "id": 16,
+      "start": 2396.0,
+      "end": 2400.0,
+      "formatted_start": "00:39:56.000",
+      "formatted_end": "00:40:00.000",
+      "text": "بنده بشین بسیار عالی"
+    }
+  ],
+  "status": "completed"
+}

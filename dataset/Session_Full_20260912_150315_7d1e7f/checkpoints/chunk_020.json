@@ -1,0 +1,642 @@
+{
+  "chunk_index": 20,
+  "start_sec": 6000.0,
+  "end_sec": 6300.0,
+  "turns": [
+    {
+      "start": 6000.031,
+      "end": 6003.743,
+      "formatted_start": "01:40:00.031",
+      "formatted_end": "01:40:03.743",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6003.777,
+      "end": 6023.048,
+      "formatted_start": "01:40:03.777",
+      "formatted_end": "01:40:23.048",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6024.382,
+      "end": 6038.168,
+      "formatted_start": "01:40:24.382",
+      "formatted_end": "01:40:38.168",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6060.916,
+      "end": 6062.958,
+      "formatted_start": "01:41:00.916",
+      "formatted_end": "01:41:02.958",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6063.43,
+      "end": 6064.004,
+      "formatted_start": "01:41:03.430",
+      "formatted_end": "01:41:04.004",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6064.696,
+      "end": 6072.931,
+      "formatted_start": "01:41:04.696",
+      "formatted_end": "01:41:12.931",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6076.12,
+      "end": 6080.474,
+      "formatted_start": "01:41:16.120",
+      "formatted_end": "01:41:20.474",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6081.419,
+      "end": 6085.098,
+      "formatted_start": "01:41:21.419",
+      "formatted_end": "01:41:25.098",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6087.376,
+      "end": 6103.627,
+      "formatted_start": "01:41:27.376",
+      "formatted_end": "01:41:43.627",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6108.402,
+      "end": 6109.01,
+      "formatted_start": "01:41:48.402",
+      "formatted_end": "01:41:49.010",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6113.971,
+      "end": 6115.675,
+      "formatted_start": "01:41:53.971",
+      "formatted_end": "01:41:55.675",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6124.619,
+      "end": 6125.193,
+      "formatted_start": "01:42:04.619",
+      "formatted_end": "01:42:05.193",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6129.057,
+      "end": 6145.797,
+      "formatted_start": "01:42:09.057",
+      "formatted_end": "01:42:25.797",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6138.305,
+      "end": 6138.659,
+      "formatted_start": "01:42:18.305",
+      "formatted_end": "01:42:18.659",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6147.164,
+      "end": 6155.23,
+      "formatted_start": "01:42:27.164",
+      "formatted_end": "01:42:35.230",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6156.968,
+      "end": 6165.794,
+      "formatted_start": "01:42:36.968",
+      "formatted_end": "01:42:45.794",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6168.393,
+      "end": 6170.772,
+      "formatted_start": "01:42:48.393",
+      "formatted_end": "01:42:50.772",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6170.873,
+      "end": 6185.42,
+      "formatted_start": "01:42:50.873",
+      "formatted_end": "01:43:05.420",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6185.977,
+      "end": 6235.96,
+      "formatted_start": "01:43:05.977",
+      "formatted_end": "01:43:55.960",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6228.029,
+      "end": 6228.383,
+      "formatted_start": "01:43:48.029",
+      "formatted_end": "01:43:48.383",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6237.142,
+      "end": 6251.215,
+      "formatted_start": "01:43:57.142",
+      "formatted_end": "01:44:11.215",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6251.806,
+      "end": 6253.46,
+      "formatted_start": "01:44:11.806",
+      "formatted_end": "01:44:13.460",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6254.371,
+      "end": 6254.776,
+      "formatted_start": "01:44:14.371",
+      "formatted_end": "01:44:14.776",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6258.978,
+      "end": 6263.99,
+      "formatted_start": "01:44:18.978",
+      "formatted_end": "01:44:23.990",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6264.935,
+      "end": 6267.5,
+      "formatted_start": "01:44:24.935",
+      "formatted_end": "01:44:27.500",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6268.478,
+      "end": 6268.934,
+      "formatted_start": "01:44:28.478",
+      "formatted_end": "01:44:28.934",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6270.672,
+      "end": 6272.225,
+      "formatted_start": "01:44:30.672",
+      "formatted_end": "01:44:32.225",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6274.098,
+      "end": 6274.722,
+      "formatted_start": "01:44:34.098",
+      "formatted_end": "01:44:34.722",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6286.433,
+      "end": 6287.48,
+      "formatted_start": "01:44:46.433",
+      "formatted_end": "01:44:47.480",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6290.973,
+      "end": 6291.85,
+      "formatted_start": "01:44:50.973",
+      "formatted_end": "01:44:51.850",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6293.048,
+      "end": 6295.175,
+      "formatted_start": "01:44:53.048",
+      "formatted_end": "01:44:55.175",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6296.137,
+      "end": 6299.41,
+      "formatted_start": "01:44:56.137",
+      "formatted_end": "01:44:59.410",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6000.0,
+      "end": 6006.76,
+      "formatted_start": "01:40:00.000",
+      "formatted_end": "01:40:06.760",
+      "text": "یعنی ریعت ریسته همون بودیم، همه ریعت ریسته همینها، کدام چارچوب کار مشخص میشه اینا خب."
+    },
+    {
+      "id": 1,
+      "start": 6006.76,
+      "end": 6014.76,
+      "formatted_start": "01:40:06.760",
+      "formatted_end": "01:40:14.760",
+      "text": "بعد شما، من دیگه بکردم یک شنبه در تو شکیل، پویا آنکار اینا یا چارشنبه یا شنبه."
+    },
+    {
+      "id": 2,
+      "start": 6014.76,
+      "end": 6022.24,
+      "formatted_start": "01:40:14.760",
+      "formatted_end": "01:40:22.240",
+      "text": "شما اگر فردا بشه یا یک شنبه بشه بروید، ببینید صبح دیگه هم دارن بسا."
+    },
+    {
+      "id": 3,
+      "start": 6022.24,
+      "end": 6029.24,
+      "formatted_start": "01:40:22.240",
+      "formatted_end": "01:40:29.240",
+      "text": "حالا ببینم یک از این دوتا، یا چارشنبه یا یک شنبه، دو سه روز خیلی چیز نیست اینا."
+    },
+    {
+      "id": 4,
+      "start": 6029.24,
+      "end": 6035.24,
+      "formatted_start": "01:40:29.240",
+      "formatted_end": "01:40:35.240",
+      "text": "بعد خانم دیوی شما در ازم برای مدیران برای جدید کسی رو مثلا"
+    },
+    {
+      "id": 5,
+      "start": 6035.24,
+      "end": 6038.06,
+      "formatted_start": "01:40:35.240",
+      "formatted_end": "01:40:38.060",
+      "text": "آره اونا"
+    },
+    {
+      "id": 6,
+      "start": 6059.24,
+      "end": 6061.24,
+      "formatted_start": "01:40:59.240",
+      "formatted_end": "01:41:01.240",
+      "text": "آه"
+    },
+    {
+      "id": 7,
+      "start": 6065.24,
+      "end": 6067.24,
+      "formatted_start": "01:41:05.240",
+      "formatted_end": "01:41:07.240",
+      "text": "وایلن من نمی کنم دیگه"
+    },
+    {
+      "id": 8,
+      "start": 6067.24,
+      "end": 6071.24,
+      "formatted_start": "01:41:07.240",
+      "formatted_end": "01:41:11.240",
+      "text": "بسار چون الان ببین الان یه سیستم جدیدی داره"
+    },
+    {
+      "id": 9,
+      "start": 6071.24,
+      "end": 6073.24,
+      "formatted_start": "01:41:11.240",
+      "formatted_end": "01:41:13.240",
+      "text": "چیز میشه اینا خوب"
+    },
+    {
+      "id": 10,
+      "start": 6076.24,
+      "end": 6079.24,
+      "formatted_start": "01:41:16.240",
+      "formatted_end": "01:41:19.240",
+      "text": "خب من نمیدونم که وقتی رای نداده صحامدارا"
+    },
+    {
+      "id": 11,
+      "start": 6079.24,
+      "end": 6083.24,
+      "formatted_start": "01:41:19.240",
+      "formatted_end": "01:41:23.240",
+      "text": "صحامدارا ببین الان دوست ندارن"
+    },
+    {
+      "id": 12,
+      "start": 6083.24,
+      "end": 6086.24,
+      "formatted_start": "01:41:23.240",
+      "formatted_end": "01:41:26.240",
+      "text": "ببین ایشون با دق"
+    },
+    {
+      "id": 13,
+      "start": 6086.24,
+      "end": 6091.24,
+      "formatted_start": "01:41:26.240",
+      "formatted_end": "01:41:31.240",
+      "text": "خیلی خوب این ها یه سیستمی هست که همین رایی که میگن جلو"
+    },
+    {
+      "id": 14,
+      "start": 6091.24,
+      "end": 6095.24,
+      "formatted_start": "01:41:31.240",
+      "formatted_end": "01:41:35.240",
+      "text": "خوب؟ یعنی مثلا شیخی هم به این ها اضافه شده"
+    },
+    {
+      "id": 15,
+      "start": 6095.24,
+      "end": 6101.24,
+      "formatted_start": "01:41:35.240",
+      "formatted_end": "01:41:41.240",
+      "text": "خوب؟ این ها لینک می کنند، رای زنی می کنند، مخ می زنند، چیز می کنند"
+    },
+    {
+      "id": 16,
+      "start": 6101.24,
+      "end": 6104.24,
+      "formatted_start": "01:41:41.240",
+      "formatted_end": "01:41:44.240",
+      "text": "برد در ماها این کار را برد بیزید، این ها مثلا"
+    },
+    {
+      "id": 17,
+      "start": 6108.24,
+      "end": 6109.24,
+      "formatted_start": "01:41:48.240",
+      "formatted_end": "01:41:49.240",
+      "text": "آره"
+    },
+    {
+      "id": 18,
+      "start": 6113.24,
+      "end": 6114.24,
+      "formatted_start": "01:41:53.240",
+      "formatted_end": "01:41:54.240",
+      "text": "بله"
+    },
+    {
+      "id": 19,
+      "start": 6116.24,
+      "end": 6129.24,
+      "formatted_start": "01:41:56.240",
+      "formatted_end": "01:42:09.240",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 6129.24,
+      "end": 6132.04,
+      "formatted_start": "01:42:09.240",
+      "formatted_end": "01:42:12.040",
+      "text": "حالا برای شما مورد خوبی هستید"
+    },
+    {
+      "id": 21,
+      "start": 6132.04,
+      "end": 6135.44,
+      "formatted_start": "01:42:12.040",
+      "formatted_end": "01:42:15.440",
+      "text": "چون آدمی هستید تجربه دارید توی هدمیده بگویید"
+    },
+    {
+      "id": 22,
+      "start": 6135.44,
+      "end": 6138.24,
+      "formatted_start": "01:42:15.440",
+      "formatted_end": "01:42:18.240",
+      "text": "نه نه دارید مصفتید"
+    },
+    {
+      "id": 23,
+      "start": 6138.24,
+      "end": 6139.84,
+      "formatted_start": "01:42:18.240",
+      "formatted_end": "01:42:19.840",
+      "text": "منم خیلی خوشحال شدم"
+    },
+    {
+      "id": 24,
+      "start": 6139.84,
+      "end": 6144.24,
+      "formatted_start": "01:42:19.840",
+      "formatted_end": "01:42:24.240",
+      "text": "شما اومدید واقعا از قبل هم بهش خودتونم رأی دادم اینها خب"
+    },
+    {
+      "id": 25,
+      "start": 6144.24,
+      "end": 6145.84,
+      "formatted_start": "01:42:24.240",
+      "formatted_end": "01:42:25.840",
+      "text": "و زنده بشید"
+    },
+    {
+      "id": 26,
+      "start": 6149.84,
+      "end": 6150.84,
+      "formatted_start": "01:42:29.840",
+      "formatted_end": "01:42:30.840",
+      "text": "بله"
+    },
+    {
+      "id": 27,
+      "start": 6150.84,
+      "end": 6154.44,
+      "formatted_start": "01:42:30.840",
+      "formatted_end": "01:42:34.440",
+      "text": "دیدم به بقیه لسید به گوشش گفتی اینو به دیگه ده"
+    },
+    {
+      "id": 28,
+      "start": 6154.44,
+      "end": 6155.44,
+      "formatted_start": "01:42:34.440",
+      "formatted_end": "01:42:35.440",
+      "text": "خب"
+    },
+    {
+      "id": 29,
+      "start": 6155.44,
+      "end": 6164.44,
+      "formatted_start": "01:42:35.440",
+      "formatted_end": "01:42:44.440",
+      "text": "حالا ببینید الان طیب خوبیه خب ولی مدیر آمل حساسه مثلا حالا خودتون"
+    },
+    {
+      "id": 30,
+      "start": 6164.44,
+      "end": 6181.44,
+      "formatted_start": "01:42:44.440",
+      "formatted_end": "01:43:01.440",
+      "text": "ببینید ما از تعداد زیادی رو توی ذهنم میاد خب یا من یکی که مثلا من میگم فرض کن دکتر اسمی شهر"
+    },
+    {
+      "id": 31,
+      "start": 6181.44,
+      "end": 6185.56,
+      "formatted_start": "01:43:01.440",
+      "formatted_end": "01:43:05.560",
+      "text": "این را که میگن اینکه آدم های صد درصد اوکی هستند، باید اسم میگن"
+    },
+    {
+      "id": 32,
+      "start": 6185.56,
+      "end": 6191.78,
+      "formatted_start": "01:43:05.560",
+      "formatted_end": "01:43:11.780",
+      "text": "این را اسم میگن، ببین مثلا دکتر تالیده، قبل این است میمارستان طالبانی بوده"
+    },
+    {
+      "id": 33,
+      "start": 6191.78,
+      "end": 6198.86,
+      "formatted_start": "01:43:11.780",
+      "formatted_end": "01:43:18.860",
+      "text": "دکتر بابک عرب مثلا قبل اینست شهدا بوده، اینها افراد اینکه طبانای ریاست میمارستان دارند"
+    },
+    {
+      "id": 34,
+      "start": 6198.86,
+      "end": 6206.44,
+      "formatted_start": "01:43:18.860",
+      "formatted_end": "01:43:26.440",
+      "text": "دکتر حسین میلانی، دکتر کلبی، دکتر ارزن برزون، خود دکتر پاشایی خود"
+    },
+    {
+      "id": 35,
+      "start": 6206.44,
+      "end": 6216.1,
+      "formatted_start": "01:43:26.440",
+      "formatted_end": "01:43:36.100",
+      "text": "بعد از این برزو، مثلا رنجدیدار هست، مثلا دکتر مسعود جهانی این داداش چیزی نکنه، چشم پزیش، خب"
+    },
+    {
+      "id": 36,
+      "start": 6216.1,
+      "end": 6224.24,
+      "formatted_start": "01:43:36.100",
+      "formatted_end": "01:43:44.240",
+      "text": "مسعود جهانی مثلا چون صحامدار هست، شاید یک کاشایی صحامدار هسته اینا، چیز دارن"
+    },
+    {
+      "id": 37,
+      "start": 6224.24,
+      "end": 6230.34,
+      "formatted_start": "01:43:44.240",
+      "formatted_end": "01:43:50.340",
+      "text": "ولی مقصود اینه که اینا هستن این افراد، ولی اگر میخوایید جوانگرایی کنید"
+    },
+    {
+      "id": 38,
+      "start": 6230.34,
+      "end": 6236.3,
+      "formatted_start": "01:43:50.340",
+      "formatted_end": "01:43:56.300",
+      "text": "واقعا تحول، پولسندازتی بشه بیمارستان، باید فکرهای بهتری کنید، خب"
+    },
+    {
+      "id": 39,
+      "start": 6236.3,
+      "end": 6245.3,
+      "formatted_start": "01:43:56.300",
+      "formatted_end": "01:44:05.300",
+      "text": "نه نه ببین حالا شما باید اینها کنارشون ممنون باید یه نفر بذاریم که کمکشون کنه"
+    },
+    {
+      "id": 40,
+      "start": 6245.3,
+      "end": 6251.3,
+      "formatted_start": "01:44:05.300",
+      "formatted_end": "01:44:11.300",
+      "text": "این مدیر داخلی خوب نه مدیر داخلی بسایی چیز اینها ببین"
+    },
+    {
+      "id": 41,
+      "start": 6251.3,
+      "end": 6255.3,
+      "formatted_start": "01:44:11.300",
+      "formatted_end": "01:44:15.300",
+      "text": "هلیکه شما از سیستم قبلی رضایت برین باید همون سیستم بده"
+    },
+    {
+      "id": 42,
+      "start": 6255.3,
+      "end": 6264.3,
+      "formatted_start": "01:44:15.300",
+      "formatted_end": "01:44:24.300",
+      "text": "نه نه نه نه"
+    },
+    {
+      "id": 43,
+      "start": 6264.3,
+      "end": 6267.54,
+      "formatted_start": "01:44:24.300",
+      "formatted_end": "01:44:27.540",
+      "text": "مسببات من تصفیب نمی کنند"
+    },
+    {
+      "id": 44,
+      "start": 6267.54,
+      "end": 6271.46,
+      "formatted_start": "01:44:27.540",
+      "formatted_end": "01:44:31.460",
+      "text": "آفرین"
+    },
+    {
+      "id": 45,
+      "start": 6271.46,
+      "end": 6272.16,
+      "formatted_start": "01:44:31.460",
+      "formatted_end": "01:44:32.160",
+      "text": "آفرین"
+    },
+    {
+      "id": 46,
+      "start": 6272.16,
+      "end": 6274.7,
+      "formatted_start": "01:44:32.160",
+      "formatted_end": "01:44:34.700",
+      "text": "آفرین"
+    },
+    {
+      "id": 47,
+      "start": 6274.7,
+      "end": 6286.84,
+      "formatted_start": "01:44:34.700",
+      "formatted_end": "01:44:46.840",
+      "text": "ببین"
+    },
+    {
+      "id": 48,
+      "start": 6286.84,
+      "end": 6291.58,
+      "formatted_start": "01:44:46.840",
+      "formatted_end": "01:44:51.580",
+      "text": "کنده"
+    },
+    {
+      "id": 49,
+      "start": 6291.58,
+      "end": 6292.08,
+      "formatted_start": "01:44:51.580",
+      "formatted_end": "01:44:52.080",
+      "text": "کنده"
+    },
+    {
+      "id": 50,
+      "start": 6292.08,
+      "end": 6299.3,
+      "formatted_start": "01:44:52.080",
+      "formatted_end": "01:44:59.300",
+      "text": "آفرین آفرین آفرین هیچ فایده ای نداری"
+    }
+  ],
+  "status": "completed"
+}
