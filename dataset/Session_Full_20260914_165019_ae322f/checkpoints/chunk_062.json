@@ -1,0 +1,174 @@
+{
+  "chunk_index": 62,
+  "start_sec": 18600.0,
+  "end_sec": 18900.0,
+  "turns": [
+    {
+      "start": 18639.586,
+      "end": 18640.818,
+      "formatted_start": "05:10:39.586",
+      "formatted_end": "05:10:40.818",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 18653.778,
+      "end": 18654.908,
+      "formatted_start": "05:10:53.778",
+      "formatted_end": "05:10:54.908",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 18667.75,
+      "end": 18668.881,
+      "formatted_start": "05:11:07.750",
+      "formatted_end": "05:11:08.881",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18670.231,
+      "end": 18672.425,
+      "formatted_start": "05:11:10.231",
+      "formatted_end": "05:11:12.425",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18701.652,
+      "end": 18702.698,
+      "formatted_start": "05:11:41.652",
+      "formatted_end": "05:11:42.698",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18875.313,
+      "end": 18886.028,
+      "formatted_start": "05:14:35.313",
+      "formatted_end": "05:14:46.028",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 18879.667,
+      "end": 18881.337,
+      "formatted_start": "05:14:39.667",
+      "formatted_end": "05:14:41.337",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18886.433,
+      "end": 18889.454,
+      "formatted_start": "05:14:46.433",
+      "formatted_end": "05:14:49.454",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 18889.96,
+      "end": 18893.572,
+      "formatted_start": "05:14:49.960",
+      "formatted_end": "05:14:53.572",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 18893.825,
+      "end": 18895.985,
+      "formatted_start": "05:14:53.825",
+      "formatted_end": "05:14:55.985",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 18896.474,
+      "end": 18896.963,
+      "formatted_start": "05:14:56.474",
+      "formatted_end": "05:14:56.963",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 18897.25,
+      "end": 18898.837,
+      "formatted_start": "05:14:57.250",
+      "formatted_end": "05:14:58.837",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 18600.0,
+      "end": 18629.98,
+      "formatted_start": "05:10:00.000",
+      "formatted_end": "05:10:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 18630.0,
+      "end": 18660.0,
+      "formatted_start": "05:10:30.000",
+      "formatted_end": "05:11:00.000",
+      "text": "این هایی که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید ک"
+    },
+    {
+      "id": 2,
+      "start": 18660.0,
+      "end": 18689.98,
+      "formatted_start": "05:11:00.000",
+      "formatted_end": "05:11:29.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 3,
+      "start": 18690.0,
+      "end": 18700.0,
+      "formatted_start": "05:11:30.000",
+      "formatted_end": "05:11:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 18720.0,
+      "end": 18749.98,
+      "formatted_start": "05:12:00.000",
+      "formatted_end": "05:12:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 18750.0,
+      "end": 18779.98,
+      "formatted_start": "05:12:30.000",
+      "formatted_end": "05:12:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 18780.0,
+      "end": 18790.0,
+      "formatted_start": "05:13:00.000",
+      "formatted_end": "05:13:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 18810.0,
+      "end": 18839.98,
+      "formatted_start": "05:13:30.000",
+      "formatted_end": "05:13:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 18840.0,
+      "end": 18869.98,
+      "formatted_start": "05:14:00.000",
+      "formatted_end": "05:14:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 18870.0,
+      "end": 18880.0,
+      "formatted_start": "05:14:30.000",
+      "formatted_end": "05:14:40.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
