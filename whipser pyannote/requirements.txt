@@ -1,0 +1,26 @@
+# ====================================================================
+# Whisper & Pyannote Audio Processor - Backend Python Dependencies
+# ====================================================================
+
+# 1. Speech-to-Text & Audio Processing
+openai-whisper
+soundfile
+scipy
+numpy
+tqdm
+
+# 2. Speaker Diarization (Pyannote Audio)
+pyannote.audio
+huggingface_hub
+
+# 3. Web Application & API Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+
+# 4. Standalone LLMs & Transformers (Local AI Refinement Support)
+transformers
+accelerate
+safetensors
