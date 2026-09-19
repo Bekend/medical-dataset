@@ -1,0 +1,1479 @@
+{
+  "chunk_index": 2,
+  "start_sec": 600.0,
+  "end_sec": 900.0,
+  "turns": [
+    {
+      "start": 600.031,
+      "end": 601.938,
+      "formatted_start": "00:10:00.031",
+      "formatted_end": "00:10:01.938",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 600.706,
+      "end": 601.448,
+      "formatted_start": "00:10:00.706",
+      "formatted_end": "00:10:01.448",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 602.461,
+      "end": 605.026,
+      "formatted_start": "00:10:02.461",
+      "formatted_end": "00:10:05.026",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 605.465,
+      "end": 607.625,
+      "formatted_start": "00:10:05.465",
+      "formatted_end": "00:10:07.625",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 608.131,
+      "end": 611.978,
+      "formatted_start": "00:10:08.131",
+      "formatted_end": "00:10:11.978",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 611.135,
+      "end": 611.573,
+      "formatted_start": "00:10:11.135",
+      "formatted_end": "00:10:11.573",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 611.978,
+      "end": 614.003,
+      "formatted_start": "00:10:11.978",
+      "formatted_end": "00:10:14.003",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 613.818,
+      "end": 618.172,
+      "formatted_start": "00:10:13.818",
+      "formatted_end": "00:10:18.172",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 617.598,
+      "end": 618.037,
+      "formatted_start": "00:10:17.598",
+      "formatted_end": "00:10:18.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 618.442,
+      "end": 620.163,
+      "formatted_start": "00:10:18.442",
+      "formatted_end": "00:10:20.163",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 620.332,
+      "end": 623.926,
+      "formatted_start": "00:10:20.332",
+      "formatted_end": "00:10:23.926",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 621.108,
+      "end": 621.867,
+      "formatted_start": "00:10:21.108",
+      "formatted_end": "00:10:21.867",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 624.314,
+      "end": 631.216,
+      "formatted_start": "00:10:24.314",
+      "formatted_end": "00:10:31.216",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 624.348,
+      "end": 625.293,
+      "formatted_start": "00:10:24.348",
+      "formatted_end": "00:10:25.293",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 631.368,
+      "end": 634.321,
+      "formatted_start": "00:10:31.368",
+      "formatted_end": "00:10:34.321",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 632.178,
+      "end": 632.684,
+      "formatted_start": "00:10:32.178",
+      "formatted_end": "00:10:32.684",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 634.473,
+      "end": 635.89,
+      "formatted_start": "00:10:34.473",
+      "formatted_end": "00:10:35.890",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 636.143,
+      "end": 637.578,
+      "formatted_start": "00:10:36.143",
+      "formatted_end": "00:10:37.578",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 636.869,
+      "end": 637.527,
+      "formatted_start": "00:10:36.869",
+      "formatted_end": "00:10:37.527",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 637.578,
+      "end": 639.755,
+      "formatted_start": "00:10:37.578",
+      "formatted_end": "00:10:39.755",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 639.367,
+      "end": 645.239,
+      "formatted_start": "00:10:39.367",
+      "formatted_end": "00:10:45.239",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 643.079,
+      "end": 643.602,
+      "formatted_start": "00:10:43.079",
+      "formatted_end": "00:10:43.602",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 645.239,
+      "end": 649.222,
+      "formatted_start": "00:10:45.239",
+      "formatted_end": "00:10:49.222",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 649.829,
+      "end": 653.997,
+      "formatted_start": "00:10:49.829",
+      "formatted_end": "00:10:53.997",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 654.082,
+      "end": 654.723,
+      "formatted_start": "00:10:54.082",
+      "formatted_end": "00:10:54.723",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 654.503,
+      "end": 658.132,
+      "formatted_start": "00:10:54.503",
+      "formatted_end": "00:10:58.132",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 657.119,
+      "end": 662.401,
+      "formatted_start": "00:10:57.119",
+      "formatted_end": "00:11:02.401",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 662.114,
+      "end": 665.017,
+      "formatted_start": "00:11:02.114",
+      "formatted_end": "00:11:05.017",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 663.262,
+      "end": 665.708,
+      "formatted_start": "00:11:03.262",
+      "formatted_end": "00:11:05.708",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 665.995,
+      "end": 667.683,
+      "formatted_start": "00:11:05.995",
+      "formatted_end": "00:11:07.683",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 668.257,
+      "end": 668.965,
+      "formatted_start": "00:11:08.257",
+      "formatted_end": "00:11:08.965",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 668.543,
+      "end": 674.315,
+      "formatted_start": "00:11:08.543",
+      "formatted_end": "00:11:14.315",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 674.112,
+      "end": 676.238,
+      "formatted_start": "00:11:14.112",
+      "formatted_end": "00:11:16.238",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 676.238,
+      "end": 679.04,
+      "formatted_start": "00:11:16.238",
+      "formatted_end": "00:11:19.040",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 679.293,
+      "end": 680.272,
+      "formatted_start": "00:11:19.293",
+      "formatted_end": "00:11:20.272",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 680.93,
+      "end": 685.317,
+      "formatted_start": "00:11:20.930",
+      "formatted_end": "00:11:25.317",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 686.093,
+      "end": 687.359,
+      "formatted_start": "00:11:26.093",
+      "formatted_end": "00:11:27.359",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 686.735,
+      "end": 691.443,
+      "formatted_start": "00:11:26.735",
+      "formatted_end": "00:11:31.443",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 691.477,
+      "end": 693.417,
+      "formatted_start": "00:11:31.477",
+      "formatted_end": "00:11:33.417",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 693.417,
+      "end": 700.623,
+      "formatted_start": "00:11:33.417",
+      "formatted_end": "00:11:40.623",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 701.163,
+      "end": 705.736,
+      "formatted_start": "00:11:41.163",
+      "formatted_end": "00:11:45.736",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 706.09,
+      "end": 709.972,
+      "formatted_start": "00:11:46.090",
+      "formatted_end": "00:11:49.972",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 709.6,
+      "end": 715.996,
+      "formatted_start": "00:11:49.600",
+      "formatted_end": "00:11:55.996",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 715.321,
+      "end": 717.886,
+      "formatted_start": "00:11:55.321",
+      "formatted_end": "00:11:57.886",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 716.857,
+      "end": 724.805,
+      "formatted_start": "00:11:56.857",
+      "formatted_end": "00:12:04.805",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 724.349,
+      "end": 724.788,
+      "formatted_start": "00:12:04.349",
+      "formatted_end": "00:12:04.788",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 725.092,
+      "end": 729.496,
+      "formatted_start": "00:12:05.092",
+      "formatted_end": "00:12:09.496",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 730.019,
+      "end": 733.748,
+      "formatted_start": "00:12:10.019",
+      "formatted_end": "00:12:13.748",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 733.462,
+      "end": 733.833,
+      "formatted_start": "00:12:13.462",
+      "formatted_end": "00:12:13.833",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 734.71,
+      "end": 738.659,
+      "formatted_start": "00:12:14.710",
+      "formatted_end": "00:12:18.659",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 739.638,
+      "end": 741.072,
+      "formatted_start": "00:12:19.638",
+      "formatted_end": "00:12:21.072",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 741.072,
+      "end": 741.477,
+      "formatted_start": "00:12:21.072",
+      "formatted_end": "00:12:21.477",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 742.591,
+      "end": 747.923,
+      "formatted_start": "00:12:22.591",
+      "formatted_end": "00:12:27.923",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 747.434,
+      "end": 754.167,
+      "formatted_start": "00:12:27.434",
+      "formatted_end": "00:12:34.167",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 753.256,
+      "end": 756.563,
+      "formatted_start": "00:12:33.256",
+      "formatted_end": "00:12:36.563",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 756.513,
+      "end": 757.188,
+      "formatted_start": "00:12:36.513",
+      "formatted_end": "00:12:37.188",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 756.817,
+      "end": 763.6,
+      "formatted_start": "00:12:36.817",
+      "formatted_end": "00:12:43.600",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 762.993,
+      "end": 766.722,
+      "formatted_start": "00:12:42.993",
+      "formatted_end": "00:12:46.722",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 767.043,
+      "end": 769.523,
+      "formatted_start": "00:12:47.043",
+      "formatted_end": "00:12:49.523",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 768.916,
+      "end": 792.085,
+      "formatted_start": "00:12:48.916",
+      "formatted_end": "00:13:12.085",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 792.473,
+      "end": 794.363,
+      "formatted_start": "00:13:12.473",
+      "formatted_end": "00:13:14.363",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 793.216,
+      "end": 793.942,
+      "formatted_start": "00:13:13.216",
+      "formatted_end": "00:13:13.942",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 794.701,
+      "end": 797.232,
+      "formatted_start": "00:13:14.701",
+      "formatted_end": "00:13:17.232",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 797.603,
+      "end": 799.342,
+      "formatted_start": "00:13:17.603",
+      "formatted_end": "00:13:19.342",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 799.763,
+      "end": 801.721,
+      "formatted_start": "00:13:19.763",
+      "formatted_end": "00:13:21.721",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 802.447,
+      "end": 806.935,
+      "formatted_start": "00:13:22.447",
+      "formatted_end": "00:13:26.935",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 807.408,
+      "end": 809.028,
+      "formatted_start": "00:13:27.408",
+      "formatted_end": "00:13:29.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 809.028,
+      "end": 812.386,
+      "formatted_start": "00:13:29.028",
+      "formatted_end": "00:13:32.386",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 813.01,
+      "end": 820.064,
+      "formatted_start": "00:13:33.010",
+      "formatted_end": "00:13:40.064",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 820.452,
+      "end": 838.812,
+      "formatted_start": "00:13:40.452",
+      "formatted_end": "00:13:58.812",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 839.302,
+      "end": 846.811,
+      "formatted_start": "00:13:59.302",
+      "formatted_end": "00:14:06.811",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 846.102,
+      "end": 850.878,
+      "formatted_start": "00:14:06.102",
+      "formatted_end": "00:14:10.878",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 850.878,
+      "end": 852.38,
+      "formatted_start": "00:14:10.878",
+      "formatted_end": "00:14:12.380",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 852.481,
+      "end": 856.261,
+      "formatted_start": "00:14:12.481",
+      "formatted_end": "00:14:16.261",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 855.991,
+      "end": 858.944,
+      "formatted_start": "00:14:15.991",
+      "formatted_end": "00:14:18.944",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 859.4,
+      "end": 861.998,
+      "formatted_start": "00:14:19.400",
+      "formatted_end": "00:14:21.998",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 862.572,
+      "end": 863.078,
+      "formatted_start": "00:14:22.572",
+      "formatted_end": "00:14:23.078",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 863.18,
+      "end": 863.703,
+      "formatted_start": "00:14:23.180",
+      "formatted_end": "00:14:23.703",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 863.905,
+      "end": 865.475,
+      "formatted_start": "00:14:23.905",
+      "formatted_end": "00:14:25.475",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 865.576,
+      "end": 866.183,
+      "formatted_start": "00:14:25.576",
+      "formatted_end": "00:14:26.183",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 866.183,
+      "end": 870.453,
+      "formatted_start": "00:14:26.183",
+      "formatted_end": "00:14:30.453",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 870.453,
+      "end": 872.731,
+      "formatted_start": "00:14:30.453",
+      "formatted_end": "00:14:32.731",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 870.824,
+      "end": 874.418,
+      "formatted_start": "00:14:30.824",
+      "formatted_end": "00:14:34.418",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 873.271,
+      "end": 879.515,
+      "formatted_start": "00:14:33.271",
+      "formatted_end": "00:14:39.515",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 879.97,
+      "end": 881.101,
+      "formatted_start": "00:14:39.970",
+      "formatted_end": "00:14:41.101",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 880.493,
+      "end": 885.792,
+      "formatted_start": "00:14:40.493",
+      "formatted_end": "00:14:45.792",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 885.1,
+      "end": 889.91,
+      "formatted_start": "00:14:45.100",
+      "formatted_end": "00:14:49.910",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 890.213,
+      "end": 891.344,
+      "formatted_start": "00:14:50.213",
+      "formatted_end": "00:14:51.344",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 890.838,
+      "end": 897.79,
+      "formatted_start": "00:14:50.838",
+      "formatted_end": "00:14:57.790",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 897.385,
+      "end": 899.073,
+      "formatted_start": "00:14:57.385",
+      "formatted_end": "00:14:59.073",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 899.461,
+      "end": 899.967,
+      "formatted_start": "00:14:59.461",
+      "formatted_end": "00:14:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 600.0,
+      "end": 611.0,
+      "formatted_start": "00:10:00.000",
+      "formatted_end": "00:10:11.000",
+      "text": "تو قبول سمت هم از اون هفت نفر، چهار نفر قبول سمت رو قبول کردن. فقط دو تا اصلی و یه علل بدر قبول سمت رو..."
+    },
+    {
+      "id": 1,
+      "start": 611.0,
+      "end": 614.0,
+      "formatted_start": "00:10:11.000",
+      "formatted_end": "00:10:14.000",
+      "text": "آهان، پس اونو اونو ساشنبه اوکی نشد مگه؟"
+    },
+    {
+      "id": 2,
+      "start": 614.0,
+      "end": 618.0,
+      "formatted_start": "00:10:14.000",
+      "formatted_end": "00:10:18.000",
+      "text": "نه، اینا باز از یک جایی دیگه باز یه داستان دیگه شروع کردن."
+    },
+    {
+      "id": 3,
+      "start": 618.0,
+      "end": 619.0,
+      "formatted_start": "00:10:18.000",
+      "formatted_end": "00:10:19.000",
+      "text": "هیچ، هیچ."
+    },
+    {
+      "id": 4,
+      "start": 619.0,
+      "end": 620.0,
+      "formatted_start": "00:10:19.000",
+      "formatted_end": "00:10:20.000",
+      "text": "آره، اینو..."
+    },
+    {
+      "id": 5,
+      "start": 620.0,
+      "end": 621.0,
+      "formatted_start": "00:10:20.000",
+      "formatted_end": "00:10:21.000",
+      "text": "طولت."
+    },
+    {
+      "id": 6,
+      "start": 621.0,
+      "end": 622.0,
+      "formatted_start": "00:10:21.000",
+      "formatted_end": "00:10:22.000",
+      "text": "حالا من..."
+    },
+    {
+      "id": 7,
+      "start": 622.0,
+      "end": 624.0,
+      "formatted_start": "00:10:22.000",
+      "formatted_end": "00:10:24.000",
+      "text": "حالا من وضعیتو موجودم دارم میگم."
+    },
+    {
+      "id": 8,
+      "start": 624.0,
+      "end": 628.12,
+      "formatted_start": "00:10:24.000",
+      "formatted_end": "00:10:28.120",
+      "text": "من اینجوری که خوندم اینها الان نمی بیدم درست میگم"
+    },
+    {
+      "id": 9,
+      "start": 628.12,
+      "end": 631.2,
+      "formatted_start": "00:10:28.120",
+      "formatted_end": "00:10:31.200",
+      "text": "یعنی کسایی که قبول سمت نکنن الال بدل میاد"
+    },
+    {
+      "id": 10,
+      "start": 631.2,
+      "end": 636.92,
+      "formatted_start": "00:10:31.200",
+      "formatted_end": "00:10:36.920",
+      "text": "جایش و ما دوباره مجمع تشکیل بدیم و جایگزین به اینا الهاخت کنیم"
+    },
+    {
+      "id": 11,
+      "start": 636.92,
+      "end": 639.52,
+      "formatted_start": "00:10:36.920",
+      "formatted_end": "00:10:39.520",
+      "text": "خب همین دیگه الان کی جایگزین بذاریم؟"
+    },
+    {
+      "id": 12,
+      "start": 639.52,
+      "end": 642.2,
+      "formatted_start": "00:10:39.520",
+      "formatted_end": "00:10:42.200",
+      "text": "جایگزین الان باید مجمع تشکیل داده بشه اینا"
+    },
+    {
+      "id": 13,
+      "start": 642.2,
+      "end": 645.0,
+      "formatted_start": "00:10:42.200",
+      "formatted_end": "00:10:45.000",
+      "text": "ما دوباره باید به روزنامه آگاهی کنیم دیگه"
+    },
+    {
+      "id": 14,
+      "start": 645.0,
+      "end": 649.22,
+      "formatted_start": "00:10:45.000",
+      "formatted_end": "00:10:49.220",
+      "text": "دقیقا دوباره باید مجموع بذاریم که دوباره ما انتخاب مدیران داریم"
+    },
+    {
+      "id": 15,
+      "start": 649.22,
+      "end": 654.56,
+      "formatted_start": "00:10:49.220",
+      "formatted_end": "00:10:54.560",
+      "text": "و تا موقعی هم که فکر کنم همه جور بشه ما میتونیم صبت کنیم یا نه ممکن نیست"
+    },
+    {
+      "id": 16,
+      "start": 654.56,
+      "end": 657.88,
+      "formatted_start": "00:10:54.560",
+      "formatted_end": "00:10:57.880",
+      "text": "نه دیگه نمیتونیم صبتش کنیم دیگه ما نمیتونیم ناقص صبتش کنیم"
+    },
+    {
+      "id": 17,
+      "start": 657.88,
+      "end": 662.2,
+      "formatted_start": "00:10:57.880",
+      "formatted_end": "00:11:02.200",
+      "text": "و این مدیریت با همون حیط مدیری قبلیه دیگه فعلا بیمارسان تا تایب"
+    },
+    {
+      "id": 18,
+      "start": 662.2,
+      "end": 663.64,
+      "formatted_start": "00:11:02.200",
+      "formatted_end": "00:11:03.640",
+      "text": "آره آره فعلا و قبلیه"
+    },
+    {
+      "id": 19,
+      "start": 663.64,
+      "end": 665.1,
+      "formatted_start": "00:11:03.640",
+      "formatted_end": "00:11:05.100",
+      "text": "تا چه حدیران بردارن"
+    },
+    {
+      "id": 20,
+      "start": 665.1,
+      "end": 667.78,
+      "formatted_start": "00:11:05.100",
+      "formatted_end": "00:11:07.780",
+      "text": "مثلا این زمان هست که"
+    },
+    {
+      "id": 21,
+      "start": 667.78,
+      "end": 668.94,
+      "formatted_start": "00:11:07.780",
+      "formatted_end": "00:11:08.940",
+      "text": "نظرم"
+    },
+    {
+      "id": 22,
+      "start": 668.94,
+      "end": 670.98,
+      "formatted_start": "00:11:08.940",
+      "formatted_end": "00:11:10.980",
+      "text": "مثلا تا مدیان بعدی مصبوب داشتن"
+    },
+    {
+      "id": 23,
+      "start": 670.98,
+      "end": 674.34,
+      "formatted_start": "00:11:10.980",
+      "formatted_end": "00:11:14.340",
+      "text": "طبق ماده سرسی شش قانون تجارت مدیران قبلی پاور جان"
+    },
+    {
+      "id": 24,
+      "start": 674.34,
+      "end": 676.58,
+      "formatted_start": "00:11:14.340",
+      "formatted_end": "00:11:16.580",
+      "text": "ممکنه اصلا یه سالم طول بگیشه شش مادی"
+    },
+    {
+      "id": 25,
+      "start": 676.58,
+      "end": 679.06,
+      "formatted_start": "00:11:16.580",
+      "formatted_end": "00:11:19.060",
+      "text": "آره ولی خب بعدیشه میگه بانکاتون اوف میشه"
+    },
+    {
+      "id": 26,
+      "start": 679.06,
+      "end": 680.26,
+      "formatted_start": "00:11:19.060",
+      "formatted_end": "00:11:20.260",
+      "text": "بانکاره"
+    },
+    {
+      "id": 27,
+      "start": 680.26,
+      "end": 683.5,
+      "formatted_start": "00:11:20.260",
+      "formatted_end": "00:11:23.500",
+      "text": "بانک ها اصولا بر ممنون همون دو سال هستن"
+    },
+    {
+      "id": 28,
+      "start": 683.5,
+      "end": 685.3,
+      "formatted_start": "00:11:23.500",
+      "formatted_end": "00:11:25.300",
+      "text": "بعد دو سال دیگه شکل قبول نمی کنن"
+    },
+    {
+      "id": 29,
+      "start": 685.3,
+      "end": 687.22,
+      "formatted_start": "00:11:25.300",
+      "formatted_end": "00:11:27.220",
+      "text": "حالا پس اینو باید باشن"
+    },
+    {
+      "id": 30,
+      "start": 687.22,
+      "end": 689.58,
+      "formatted_start": "00:11:27.220",
+      "formatted_end": "00:11:29.580",
+      "text": "ولی قانون تجارت میگه تا مدیران بعدی بیان"
+    },
+    {
+      "id": 31,
+      "start": 695.1,
+      "end": 698.5,
+      "formatted_start": "00:11:35.100",
+      "formatted_end": "00:11:38.500",
+      "text": "اگر خیالشون راحت باشه میگه نه تمدید تمشد برو تمدید کن"
+    },
+    {
+      "id": 32,
+      "start": 698.5,
+      "end": 700.5,
+      "formatted_start": "00:11:38.500",
+      "formatted_end": "00:11:40.500",
+      "text": "ولی بانک آشنا باشه حلش میکنه"
+    },
+    {
+      "id": 33,
+      "start": 700.5,
+      "end": 703.7,
+      "formatted_start": "00:11:40.500",
+      "formatted_end": "00:11:43.700",
+      "text": "حالا شما در مورد این شرکت ها چقدر اطلاع دارین؟"
+    },
+    {
+      "id": 34,
+      "start": 703.7,
+      "end": 705.7,
+      "formatted_start": "00:11:43.700",
+      "formatted_end": "00:11:45.700",
+      "text": "مثلا بازرس چقدر میتونه؟"
+    },
+    {
+      "id": 35,
+      "start": 705.7,
+      "end": 709.7,
+      "formatted_start": "00:11:45.700",
+      "formatted_end": "00:11:49.700",
+      "text": "آیا میتونه ایاد مدیره رو اصلا کنسل کنه یا باید باید درست کنه؟"
+    },
+    {
+      "id": 36,
+      "start": 709.7,
+      "end": 713.7,
+      "formatted_start": "00:11:49.700",
+      "formatted_end": "00:11:53.700",
+      "text": "نه بازرس خودش مصببه خودش نه انتخاب شده سهمداران"
+    },
+    {
+      "id": 37,
+      "start": 713.7,
+      "end": 715.7,
+      "formatted_start": "00:11:53.700",
+      "formatted_end": "00:11:55.700",
+      "text": "اصلا وقتی نداره بخواد ایاد مدیره رو اول بخواد"
+    },
+    {
+      "id": 38,
+      "start": 715.7,
+      "end": 716.98,
+      "formatted_start": "00:11:55.700",
+      "formatted_end": "00:11:56.980",
+      "text": "الان بازرس اینجا اومدی"
+    },
+    {
+      "id": 39,
+      "start": 716.98,
+      "end": 718.42,
+      "formatted_start": "00:11:56.980",
+      "formatted_end": "00:11:58.420",
+      "text": "اید مدیره رو بازرسه"
+    },
+    {
+      "id": 40,
+      "start": 718.42,
+      "end": 720.42,
+      "formatted_start": "00:11:58.420",
+      "formatted_end": "00:12:00.420",
+      "text": "اید مدیره رو سهامدارا تقییم میکنن"
+    },
+    {
+      "id": 41,
+      "start": 720.42,
+      "end": 721.7,
+      "formatted_start": "00:12:00.420",
+      "formatted_end": "00:12:01.700",
+      "text": "بازرس رو سهامدارا"
+    },
+    {
+      "id": 42,
+      "start": 721.7,
+      "end": 724.42,
+      "formatted_start": "00:12:01.700",
+      "formatted_end": "00:12:04.420",
+      "text": "یعنی این مجمعه سهامداران همه تصمیمها رو میگیرن"
+    },
+    {
+      "id": 43,
+      "start": 724.42,
+      "end": 724.92,
+      "formatted_start": "00:12:04.420",
+      "formatted_end": "00:12:04.920",
+      "text": "آره"
+    },
+    {
+      "id": 44,
+      "start": 724.92,
+      "end": 728.18,
+      "formatted_start": "00:12:04.920",
+      "formatted_end": "00:12:08.180",
+      "text": "حالا اگه بازرس بیاد ادعا کنه خلافی صورت شده"
+    },
+    {
+      "id": 45,
+      "start": 728.18,
+      "end": 729.46,
+      "formatted_start": "00:12:08.180",
+      "formatted_end": "00:12:09.460",
+      "text": "تشکیل مجمع بدیم"
+    },
+    {
+      "id": 46,
+      "start": 729.46,
+      "end": 732.68,
+      "formatted_start": "00:12:09.460",
+      "formatted_end": "00:12:12.680",
+      "text": "بعد تشکیل مجمع بده چه اتفاقی میفته؟"
+    },
+    {
+      "id": 47,
+      "start": 732.68,
+      "end": 733.5,
+      "formatted_start": "00:12:12.680",
+      "formatted_end": "00:12:13.500",
+      "text": "اونا باز دوباره"
+    },
+    {
+      "id": 48,
+      "start": 733.5,
+      "end": 734.0,
+      "formatted_start": "00:12:13.500",
+      "formatted_end": "00:12:14.000",
+      "text": "آم"
+    },
+    {
+      "id": 49,
+      "start": 734.7,
+      "end": 735.2,
+      "formatted_start": "00:12:14.700",
+      "formatted_end": "00:12:15.200",
+      "text": "خب نه"
+    },
+    {
+      "id": 50,
+      "start": 735.2,
+      "end": 738.7,
+      "formatted_start": "00:12:15.200",
+      "formatted_end": "00:12:18.700",
+      "text": "دوباره این تشکیل مجموعه دوباره این حیات مدیری قبلی نمیدن"
+    },
+    {
+      "id": 51,
+      "start": 738.7,
+      "end": 739.7,
+      "formatted_start": "00:12:18.700",
+      "formatted_end": "00:12:19.700",
+      "text": "ببین"
+    },
+    {
+      "id": 52,
+      "start": 739.7,
+      "end": 741.2,
+      "formatted_start": "00:12:19.700",
+      "formatted_end": "00:12:21.200",
+      "text": "اونو که از خوداشون رو نگه"
+    },
+    {
+      "id": 53,
+      "start": 741.2,
+      "end": 742.2,
+      "formatted_start": "00:12:21.200",
+      "formatted_end": "00:12:22.200",
+      "text": "چرا؟"
+    },
+    {
+      "id": 54,
+      "start": 742.2,
+      "end": 744.2,
+      "formatted_start": "00:12:22.200",
+      "formatted_end": "00:12:24.200",
+      "text": "اونو از خوداشون رو دوباره جلسه بزنن"
+    },
+    {
+      "id": 55,
+      "start": 744.2,
+      "end": 747.7,
+      "formatted_start": "00:12:24.200",
+      "formatted_end": "00:12:27.700",
+      "text": "حرفشون از روز اول همینه که میگه آه دوباره جلسه برگزارتن"
+    },
+    {
+      "id": 56,
+      "start": 747.7,
+      "end": 749.7,
+      "formatted_start": "00:12:27.700",
+      "formatted_end": "00:12:29.700",
+      "text": "آره خب دوباره اینا میتونن دوباره؟"
+    },
+    {
+      "id": 57,
+      "start": 749.7,
+      "end": 753.7,
+      "formatted_start": "00:12:29.700",
+      "formatted_end": "00:12:33.700",
+      "text": "یعنی هلن بازرس تقاضایی دوباره جلسه به من داده؟ من میدونم"
+    },
+    {
+      "id": 58,
+      "start": 753.7,
+      "end": 756.52,
+      "formatted_start": "00:12:33.700",
+      "formatted_end": "00:12:36.520",
+      "text": "نه نه، حیط مدیره، حیط مدیره درخواست میده"
+    },
+    {
+      "id": 59,
+      "start": 756.52,
+      "end": 757.14,
+      "formatted_start": "00:12:36.520",
+      "formatted_end": "00:12:37.140",
+      "text": "نه بازرست"
+    },
+    {
+      "id": 60,
+      "start": 757.14,
+      "end": 763.34,
+      "formatted_start": "00:12:37.140",
+      "formatted_end": "00:12:43.340",
+      "text": "حیط مدیره درخواست میده به روزنامه که آه روزنامه ما مثلا فلان روزجالسته داریم آگهی کن، اینه آگهی قبلیه"
+    },
+    {
+      "id": 61,
+      "start": 763.34,
+      "end": 766.8,
+      "formatted_start": "00:12:43.340",
+      "formatted_end": "00:12:46.800",
+      "text": "آره، حیط مدیره، آنها بازرست به حیط مدیره خواسته"
+    },
+    {
+      "id": 62,
+      "start": 766.8,
+      "end": 769.14,
+      "formatted_start": "00:12:46.800",
+      "formatted_end": "00:12:49.140",
+      "text": "بازرست از حیط مدیره خواسته که آقایی"
+    },
+    {
+      "id": 63,
+      "start": 769.14,
+      "end": 773.44,
+      "formatted_start": "00:12:49.140",
+      "formatted_end": "00:12:53.440",
+      "text": "بازرست قبلی، باید اول خود بازرست نمیتونه درخواست بده"
+    },
+    {
+      "id": 64,
+      "start": 773.44,
+      "end": 773.94,
+      "formatted_start": "00:12:53.440",
+      "formatted_end": "00:12:53.940",
+      "text": "ها؟"
+    },
+    {
+      "id": 65,
+      "start": 773.94,
+      "end": 778.94,
+      "formatted_start": "00:12:53.940",
+      "formatted_end": "00:12:58.940",
+      "text": "این پنجوم صحامداران میتونن رسیدیت مودی رو درخواست کنن آگه در وقت بزنه"
+    },
+    {
+      "id": 66,
+      "start": 778.94,
+      "end": 783.94,
+      "formatted_start": "00:12:58.940",
+      "formatted_end": "00:13:03.940",
+      "text": "بعد اگر ازهارنامه زدن و اجابت نکرد"
+    },
+    {
+      "id": 67,
+      "start": 783.94,
+      "end": 787.94,
+      "formatted_start": "00:13:03.940",
+      "formatted_end": "00:13:07.940",
+      "text": "میاد بازرس اون یک پنجوم به بازرس درخواست میدن"
+    },
+    {
+      "id": 68,
+      "start": 787.94,
+      "end": 789.94,
+      "formatted_start": "00:13:07.940",
+      "formatted_end": "00:13:09.940",
+      "text": "اون موقع بازرس میده آگه در وقت"
+    },
+    {
+      "id": 69,
+      "start": 789.94,
+      "end": 791.94,
+      "formatted_start": "00:13:09.940",
+      "formatted_end": "00:13:11.940",
+      "text": "آخوا بازرس اون هم تمدید نیست مشکلتون اینه الان"
+    },
+    {
+      "id": 70,
+      "start": 791.94,
+      "end": 794.94,
+      "formatted_start": "00:13:11.940",
+      "formatted_end": "00:13:14.940",
+      "text": "نه بازرس قبلی همون افقا نیست"
+    },
+    {
+      "id": 71,
+      "start": 794.94,
+      "end": 797.94,
+      "formatted_start": "00:13:14.940",
+      "formatted_end": "00:13:17.940",
+      "text": "خب ساله مالی هم دیگه ساله مالی تا افقا نه"
+    },
+    {
+      "id": 72,
+      "start": 797.94,
+      "end": 801.78,
+      "formatted_start": "00:13:17.940",
+      "formatted_end": "00:13:21.780",
+      "text": "حالا بازرس ما مشروعیت داره بازرس قبلی ما"
+    },
+    {
+      "id": 73,
+      "start": 801.78,
+      "end": 806.94,
+      "formatted_start": "00:13:21.780",
+      "formatted_end": "00:13:26.940",
+      "text": "بازرس قبلی نمیتونه الان آگه دعوت بزنه چرا؟ چون برش دوازده تموم شده"
+    },
+    {
+      "id": 74,
+      "start": 806.94,
+      "end": 809.18,
+      "formatted_start": "00:13:26.940",
+      "formatted_end": "00:13:29.180",
+      "text": "بازرس قبلی نمیتونه آگه دعوت بزنه"
+    },
+    {
+      "id": 75,
+      "start": 809.18,
+      "end": 812.44,
+      "formatted_start": "00:13:29.180",
+      "formatted_end": "00:13:32.440",
+      "text": "بازرس این کافتال مالیه تا بیستونان دوازده تموم میشه"
+    },
+    {
+      "id": 76,
+      "start": 812.44,
+      "end": 820.06,
+      "formatted_start": "00:13:32.440",
+      "formatted_end": "00:13:40.060",
+      "text": "از این روحا مگر این که بس اون موامر یک تنجام صحامداران شرکت ماده ۹۵ و ۹۶ شهرمونتجارته"
+    },
+    {
+      "id": 77,
+      "start": 820.06,
+      "end": 824.78,
+      "formatted_start": "00:13:40.060",
+      "formatted_end": "00:13:44.780",
+      "text": "یک پنجوم صحامداران از حیات مدیره درخواست کنید که آگه دعوت بزنه"
+    },
+    {
+      "id": 78,
+      "start": 824.78,
+      "end": 826.52,
+      "formatted_start": "00:13:44.780",
+      "formatted_end": "00:13:46.520",
+      "text": "بیس روز میگذره اگه نزد"
+    },
+    {
+      "id": 79,
+      "start": 826.52,
+      "end": 830.16,
+      "formatted_start": "00:13:46.520",
+      "formatted_end": "00:13:50.160",
+      "text": "ده روز از بازرفت درخواست میکنید که آگه دعوت بزنن"
+    },
+    {
+      "id": 80,
+      "start": 830.16,
+      "end": 834.66,
+      "formatted_start": "00:13:50.160",
+      "formatted_end": "00:13:54.660",
+      "text": "اگر نزد بس میاد یک پنجوم خودشون مجموعه مرگ بزار میکنن"
+    },
+    {
+      "id": 81,
+      "start": 834.66,
+      "end": 838.7,
+      "formatted_start": "00:13:54.660",
+      "formatted_end": "00:13:58.700",
+      "text": "باید چیزی که من میدونم حیات مدیرتون اوکی هستن بر آگه دعوت زدن"
+    },
+    {
+      "id": 82,
+      "start": 838.7,
+      "end": 845.46,
+      "formatted_start": "00:13:58.700",
+      "formatted_end": "00:14:05.460",
+      "text": "ببین الان حیات مدیره ما پیشتریشون نمیخوان مجموعه تشکیل میشه"
+    },
+    {
+      "id": 83,
+      "start": 845.46,
+      "end": 850.66,
+      "formatted_start": "00:14:05.460",
+      "formatted_end": "00:14:10.660",
+      "text": "نه نه اینه اینکه مصوف شدن دیگه اینه مصوف شدن قبلی ها رو من منظورم اینکه"
+    },
+    {
+      "id": 84,
+      "start": 850.66,
+      "end": 852.46,
+      "formatted_start": "00:14:10.660",
+      "formatted_end": "00:14:12.460",
+      "text": "آره قبلی های ما مشکل ندارن"
+    },
+    {
+      "id": 85,
+      "start": 852.46,
+      "end": 856.06,
+      "formatted_start": "00:14:12.460",
+      "formatted_end": "00:14:16.060",
+      "text": "آره آره قبلی ها خوداشون رو دوباره برگزار بشه"
+    },
+    {
+      "id": 86,
+      "start": 856.06,
+      "end": 861.96,
+      "formatted_start": "00:14:16.060",
+      "formatted_end": "00:14:21.960",
+      "text": "نه نه نه قبلی ها از خوداشون نیست قبلی ها چیزن ببینید سه تا از قبلی ها الان توی جدیدن"
+    },
+    {
+      "id": 87,
+      "start": 861.96,
+      "end": 865.42,
+      "formatted_start": "00:14:21.960",
+      "formatted_end": "00:14:25.420",
+      "text": "خب ما سه تا ما توی جدیده"
+    },
+    {
+      "id": 88,
+      "start": 865.42,
+      "end": 870.24,
+      "formatted_start": "00:14:25.420",
+      "formatted_end": "00:14:30.240",
+      "text": "توی جدیده سه تا باشن که با اکثریت میتونین جلسه برگزار کنید دیگه"
+    },
+    {
+      "id": 89,
+      "start": 870.24,
+      "end": 872.3,
+      "formatted_start": "00:14:30.240",
+      "formatted_end": "00:14:32.300",
+      "text": "نه ما نمیخوایم جلسه برگزار بشیم"
+    },
+    {
+      "id": 90,
+      "start": 872.3,
+      "end": 873.22,
+      "formatted_start": "00:14:32.300",
+      "formatted_end": "00:14:33.220",
+      "text": "نه میخواییم"
+    },
+    {
+      "id": 91,
+      "start": 873.22,
+      "end": 877.4,
+      "formatted_start": "00:14:33.220",
+      "formatted_end": "00:14:37.400",
+      "text": "مثلا ما سه نفر ما نمیخواییم جلسه برگزار بشیم"
+    },
+    {
+      "id": 92,
+      "start": 877.4,
+      "end": 878.8,
+      "formatted_start": "00:14:37.400",
+      "formatted_end": "00:14:38.800",
+      "text": "دو نفر میخواییم"
+    },
+    {
+      "id": 93,
+      "start": 878.8,
+      "end": 879.92,
+      "formatted_start": "00:14:38.800",
+      "formatted_end": "00:14:39.920",
+      "text": "درسته؟"
+    },
+    {
+      "id": 94,
+      "start": 879.92,
+      "end": 880.62,
+      "formatted_start": "00:14:39.920",
+      "formatted_end": "00:14:40.620",
+      "text": "درسته مطرح کنیم"
+    },
+    {
+      "id": 95,
+      "start": 880.62,
+      "end": 883.44,
+      "formatted_start": "00:14:40.620",
+      "formatted_end": "00:14:43.440",
+      "text": "خلال بازرس اومده ترخواست مجمع داده"
+    },
+    {
+      "id": 96,
+      "start": 883.44,
+      "end": 885.24,
+      "formatted_start": "00:14:43.440",
+      "formatted_end": "00:14:45.240",
+      "text": "مثلا حیات مدیری خب سه نفر"
+    },
+    {
+      "id": 97,
+      "start": 885.24,
+      "end": 886.94,
+      "formatted_start": "00:14:45.240",
+      "formatted_end": "00:14:46.940",
+      "text": "نه نه بازرس میگم"
+    },
+    {
+      "id": 98,
+      "start": 886.94,
+      "end": 890.18,
+      "formatted_start": "00:14:46.940",
+      "formatted_end": "00:14:50.180",
+      "text": "چون تمدید نداده خوشستن در حال حاضر نمیتونه کاری کنه"
+    },
+    {
+      "id": 99,
+      "start": 890.18,
+      "end": 892.44,
+      "formatted_start": "00:14:50.180",
+      "formatted_end": "00:14:52.440",
+      "text": "تو زمانی که تصدیداره"
+    },
+    {
+      "id": 100,
+      "start": 892.44,
+      "end": 894.4,
+      "formatted_start": "00:14:52.440",
+      "formatted_end": "00:14:54.400",
+      "text": "تستدیداره میتونه درخواست بده"
+    },
+    {
+      "id": 101,
+      "start": 894.4,
+      "end": 896.38,
+      "formatted_start": "00:14:54.400",
+      "formatted_end": "00:14:56.380",
+      "text": "بازه از همکه قطور جوانی از الان"
+    },
+    {
+      "id": 102,
+      "start": 896.38,
+      "end": 897.1,
+      "formatted_start": "00:14:56.380",
+      "formatted_end": "00:14:57.100",
+      "text": "مازه از نیست"
+    },
+    {
+      "id": 103,
+      "start": 897.1,
+      "end": 898.98,
+      "formatted_start": "00:14:57.100",
+      "formatted_end": "00:14:58.980",
+      "text": "دیگه الان دکتر علاقی"
+    }
+  ],
+  "status": "completed"
+}
