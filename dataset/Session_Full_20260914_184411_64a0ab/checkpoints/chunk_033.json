@@ -1,0 +1,221 @@
+{
+  "chunk_index": 33,
+  "start_sec": 9900.0,
+  "end_sec": 10200.0,
+  "turns": [
+    {
+      "start": 9906.038,
+      "end": 9907.034,
+      "formatted_start": "02:45:06.038",
+      "formatted_end": "02:45:07.034",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9910.072,
+      "end": 9911.303,
+      "formatted_start": "02:45:10.072",
+      "formatted_end": "02:45:11.303",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9922.829,
+      "end": 9923.774,
+      "formatted_start": "02:45:22.829",
+      "formatted_end": "02:45:23.774",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10117.094,
+      "end": 10126.038,
+      "formatted_start": "02:48:37.094",
+      "formatted_end": "02:48:46.038",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10156.244,
+      "end": 10157.307,
+      "formatted_start": "02:49:16.244",
+      "formatted_end": "02:49:17.307",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10159.973,
+      "end": 10162.15,
+      "formatted_start": "02:49:19.973",
+      "formatted_end": "02:49:22.150",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10162.15,
+      "end": 10175.026,
+      "formatted_start": "02:49:22.150",
+      "formatted_end": "02:49:35.026",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10176.697,
+      "end": 10179.025,
+      "formatted_start": "02:49:36.697",
+      "formatted_end": "02:49:39.025",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10179.616,
+      "end": 10186.282,
+      "formatted_start": "02:49:39.616",
+      "formatted_end": "02:49:46.282",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10187.783,
+      "end": 10192.66,
+      "formatted_start": "02:49:47.783",
+      "formatted_end": "02:49:52.660",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10193.825,
+      "end": 10196.626,
+      "formatted_start": "02:49:53.825",
+      "formatted_end": "02:49:56.626",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10196.272,
+      "end": 10197.976,
+      "formatted_start": "02:49:56.272",
+      "formatted_end": "02:49:57.976",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10198.904,
+      "end": 10199.967,
+      "formatted_start": "02:49:58.904",
+      "formatted_end": "02:49:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9900.0,
+      "end": 9929.98,
+      "formatted_start": "02:45:00.000",
+      "formatted_end": "02:45:29.980",
+      "text": "بیشکی در مطب پزشکی، بیشکی در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 9930.0,
+      "end": 9959.98,
+      "formatted_start": "02:45:30.000",
+      "formatted_end": "02:45:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 9960.0,
+      "end": 9989.98,
+      "formatted_start": "02:46:00.000",
+      "formatted_end": "02:46:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 9990.0,
+      "end": 10019.98,
+      "formatted_start": "02:46:30.000",
+      "formatted_end": "02:46:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 10020.0,
+      "end": 10049.98,
+      "formatted_start": "02:47:00.000",
+      "formatted_end": "02:47:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 10050.0,
+      "end": 10079.98,
+      "formatted_start": "02:47:30.000",
+      "formatted_end": "02:47:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 10080.0,
+      "end": 10100.0,
+      "formatted_start": "02:48:00.000",
+      "formatted_end": "02:48:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 10100.0,
+      "end": 10129.98,
+      "formatted_start": "02:48:20.000",
+      "formatted_end": "02:48:49.980",
+      "text": "های دیگه"
+    },
+    {
+      "id": 8,
+      "start": 10130.0,
+      "end": 10156.0,
+      "formatted_start": "02:48:50.000",
+      "formatted_end": "02:49:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 10156.0,
+      "end": 10162.0,
+      "formatted_start": "02:49:16.000",
+      "formatted_end": "02:49:22.000",
+      "text": "این تب نیست که از این مرد باید برداشت میشه"
+    },
+    {
+      "id": 10,
+      "start": 10162.0,
+      "end": 10166.0,
+      "formatted_start": "02:49:22.000",
+      "formatted_end": "02:49:26.000",
+      "text": "این تب نیست که از این مرد برداشت میشه"
+    },
+    {
+      "id": 11,
+      "start": 10166.0,
+      "end": 10170.0,
+      "formatted_start": "02:49:26.000",
+      "formatted_end": "02:49:30.000",
+      "text": "این تب نیست که از این مرد برداشت میشه"
+    },
+    {
+      "id": 12,
+      "start": 10170.0,
+      "end": 10176.0,
+      "formatted_start": "02:49:30.000",
+      "formatted_end": "02:49:36.000",
+      "text": "این تب نیست که از این مرد برداشت میشه"
+    },
+    {
+      "id": 13,
+      "start": 10176.0,
+      "end": 10180.0,
+      "formatted_start": "02:49:36.000",
+      "formatted_end": "02:49:40.000",
+      "text": "این تب نیست که از این مرد برداشت میشه"
+    },
+    {
+      "id": 14,
+      "start": 10180.0,
+      "end": 10200.0,
+      "formatted_start": "02:49:40.000",
+      "formatted_end": "02:50:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,148 @@
+{
+  "chunk_index": 2,
+  "start_sec": 600.0,
+  "end_sec": 900.0,
+  "turns": [
+    {
+      "start": 662.097,
+      "end": 662.57,
+      "formatted_start": "00:11:02.097",
+      "formatted_end": "00:11:02.570",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 666.704,
+      "end": 669.404,
+      "formatted_start": "00:11:06.704",
+      "formatted_end": "00:11:09.404",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 676.542,
+      "end": 678.432,
+      "formatted_start": "00:11:16.542",
+      "formatted_end": "00:11:18.432",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 717.38,
+      "end": 722.965,
+      "formatted_start": "00:11:57.380",
+      "formatted_end": "00:12:02.965",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 724.028,
+      "end": 725.024,
+      "formatted_start": "00:12:04.028",
+      "formatted_end": "00:12:05.024",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 726.661,
+      "end": 727.032,
+      "formatted_start": "00:12:06.661",
+      "formatted_end": "00:12:07.032",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 600.0,
+      "end": 620.0,
+      "formatted_start": "00:10:00.000",
+      "formatted_end": "00:10:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 630.0,
+      "end": 659.98,
+      "formatted_start": "00:10:30.000",
+      "formatted_end": "00:10:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 660.0,
+      "end": 688.0,
+      "formatted_start": "00:11:00.000",
+      "formatted_end": "00:11:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 690.0,
+      "end": 718.0,
+      "formatted_start": "00:11:30.000",
+      "formatted_end": "00:11:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 718.0,
+      "end": 738.0,
+      "formatted_start": "00:11:58.000",
+      "formatted_end": "00:12:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 738.0,
+      "end": 756.0,
+      "formatted_start": "00:12:18.000",
+      "formatted_end": "00:12:36.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 756.0,
+      "end": 758.0,
+      "formatted_start": "00:12:36.000",
+      "formatted_end": "00:12:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 786.0,
+      "end": 815.98,
+      "formatted_start": "00:13:06.000",
+      "formatted_end": "00:13:35.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 816.0,
+      "end": 836.0,
+      "formatted_start": "00:13:36.000",
+      "formatted_end": "00:13:56.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 836.0,
+      "end": 838.0,
+      "formatted_start": "00:13:56.000",
+      "formatted_end": "00:13:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 866.0,
+      "end": 876.0,
+      "formatted_start": "00:14:26.000",
+      "formatted_end": "00:14:36.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 896.0,
+      "end": 900.0,
+      "formatted_start": "00:14:56.000",
+      "formatted_end": "00:15:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

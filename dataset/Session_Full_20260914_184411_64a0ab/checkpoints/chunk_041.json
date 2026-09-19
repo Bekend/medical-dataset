@@ -1,0 +1,403 @@
+{
+  "chunk_index": 41,
+  "start_sec": 12300.0,
+  "end_sec": 12600.0,
+  "turns": [
+    {
+      "start": 12300.318,
+      "end": 12301.027,
+      "formatted_start": "03:25:00.318",
+      "formatted_end": "03:25:01.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12302.039,
+      "end": 12303.727,
+      "formatted_start": "03:25:02.039",
+      "formatted_end": "03:25:03.727",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12305.363,
+      "end": 12309.278,
+      "formatted_start": "03:25:05.363",
+      "formatted_end": "03:25:09.278",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12309.717,
+      "end": 12311.033,
+      "formatted_start": "03:25:09.717",
+      "formatted_end": "03:25:11.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12383.967,
+      "end": 12385.081,
+      "formatted_start": "03:26:23.967",
+      "formatted_end": "03:26:25.081",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12385.958,
+      "end": 12391.274,
+      "formatted_start": "03:26:25.958",
+      "formatted_end": "03:26:31.274",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12392.05,
+      "end": 12396.488,
+      "formatted_start": "03:26:32.050",
+      "formatted_end": "03:26:36.488",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12396.556,
+      "end": 12399.188,
+      "formatted_start": "03:26:36.556",
+      "formatted_end": "03:26:39.188",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12399.492,
+      "end": 12401.095,
+      "formatted_start": "03:26:39.492",
+      "formatted_end": "03:26:41.095",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12401.095,
+      "end": 12402.277,
+      "formatted_start": "03:26:41.095",
+      "formatted_end": "03:26:42.277",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12402.277,
+      "end": 12406.057,
+      "formatted_start": "03:26:42.277",
+      "formatted_end": "03:26:46.057",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12406.057,
+      "end": 12425.294,
+      "formatted_start": "03:26:46.057",
+      "formatted_end": "03:27:05.294",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12434.963,
+      "end": 12441.713,
+      "formatted_start": "03:27:14.963",
+      "formatted_end": "03:27:21.713",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12442.54,
+      "end": 12446.202,
+      "formatted_start": "03:27:22.540",
+      "formatted_end": "03:27:26.202",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12446.438,
+      "end": 12460.968,
+      "formatted_start": "03:27:26.438",
+      "formatted_end": "03:27:40.968",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12460.968,
+      "end": 12465.305,
+      "formatted_start": "03:27:40.968",
+      "formatted_end": "03:27:45.305",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12516.841,
+      "end": 12517.82,
+      "formatted_start": "03:28:36.841",
+      "formatted_end": "03:28:37.820",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12517.853,
+      "end": 12522.359,
+      "formatted_start": "03:28:37.853",
+      "formatted_end": "03:28:42.359",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12522.967,
+      "end": 12529.042,
+      "formatted_start": "03:28:42.967",
+      "formatted_end": "03:28:49.042",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12529.463,
+      "end": 12531.033,
+      "formatted_start": "03:28:49.463",
+      "formatted_end": "03:28:51.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12561.931,
+      "end": 12562.437,
+      "formatted_start": "03:29:21.931",
+      "formatted_end": "03:29:22.437",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12564.007,
+      "end": 12567.263,
+      "formatted_start": "03:29:24.007",
+      "formatted_end": "03:29:27.263",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12568.208,
+      "end": 12599.967,
+      "formatted_start": "03:29:28.208",
+      "formatted_end": "03:29:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12300.0,
+      "end": 12313.0,
+      "formatted_start": "03:25:00.000",
+      "formatted_end": "03:25:13.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 12330.0,
+      "end": 12359.98,
+      "formatted_start": "03:25:30.000",
+      "formatted_end": "03:25:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 12360.0,
+      "end": 12386.0,
+      "formatted_start": "03:26:00.000",
+      "formatted_end": "03:26:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 12386.0,
+      "end": 12392.0,
+      "formatted_start": "03:26:26.000",
+      "formatted_end": "03:26:32.000",
+      "text": "سلام، ما حالا صدقا با ما رو باز کردیم و هم دوباره کار میگردیم و اینجور رو تا کردیم."
+    },
+    {
+      "id": 4,
+      "start": 12392.0,
+      "end": 12399.0,
+      "formatted_start": "03:26:32.000",
+      "formatted_end": "03:26:39.000",
+      "text": "ما یک تیم انترنشن هستیم، هم ترکیه، هم ایران، مثل یک خانواده با هم زن کار کنیم."
+    },
+    {
+      "id": 5,
+      "start": 12399.0,
+      "end": 12401.0,
+      "formatted_start": "03:26:39.000",
+      "formatted_end": "03:26:41.000",
+      "text": "همچنین موارد چیه ایران؟"
+    },
+    {
+      "id": 6,
+      "start": 12401.0,
+      "end": 12403.0,
+      "formatted_start": "03:26:41.000",
+      "formatted_end": "03:26:43.000",
+      "text": "مدتون باید مواجهت شیدید"
+    },
+    {
+      "id": 7,
+      "start": 12403.0,
+      "end": 12405.0,
+      "formatted_start": "03:26:43.000",
+      "formatted_end": "03:26:45.000",
+      "text": "بله من خیلی شادش من هستم"
+    },
+    {
+      "id": 8,
+      "start": 12405.0,
+      "end": 12407.0,
+      "formatted_start": "03:26:45.000",
+      "formatted_end": "03:26:47.000",
+      "text": "این یک از دمارم شده بود"
+    },
+    {
+      "id": 9,
+      "start": 12407.0,
+      "end": 12427.0,
+      "formatted_start": "03:26:47.000",
+      "formatted_end": "03:27:07.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 12427.0,
+      "end": 12437.0,
+      "formatted_start": "03:27:07.000",
+      "formatted_end": "03:27:17.000",
+      "text": "مرسی مهم هستم. من مرسی بردی هستم. سال شاده مرسی شبه ها در مسرح ماجرت کردم."
+    },
+    {
+      "id": 11,
+      "start": 12437.0,
+      "end": 12442.0,
+      "formatted_start": "03:27:17.000",
+      "formatted_end": "03:27:22.000",
+      "text": "در شیشه جنوری دویزار و بیست و شیش من انجاین شدم به مرسی."
+    },
+    {
+      "id": 12,
+      "start": 12442.0,
+      "end": 12446.0,
+      "formatted_start": "03:27:22.000",
+      "formatted_end": "03:27:26.000",
+      "text": "خواهد رای در حال پروسه مماجرت میشه هم خواهد اونهایی؟"
+    },
+    {
+      "id": 13,
+      "start": 12446.0,
+      "end": 12448.0,
+      "formatted_start": "03:27:26.000",
+      "formatted_end": "03:27:28.000",
+      "text": "مردم از اینجا باید بردارید."
+    },
+    {
+      "id": 14,
+      "start": 12448.0,
+      "end": 12450.0,
+      "formatted_start": "03:27:28.000",
+      "formatted_end": "03:27:30.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 15,
+      "start": 12450.0,
+      "end": 12452.0,
+      "formatted_start": "03:27:30.000",
+      "formatted_end": "03:27:32.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 16,
+      "start": 12452.0,
+      "end": 12454.0,
+      "formatted_start": "03:27:32.000",
+      "formatted_end": "03:27:34.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 17,
+      "start": 12454.0,
+      "end": 12456.0,
+      "formatted_start": "03:27:34.000",
+      "formatted_end": "03:27:36.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 18,
+      "start": 12456.0,
+      "end": 12458.0,
+      "formatted_start": "03:27:36.000",
+      "formatted_end": "03:27:38.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 19,
+      "start": 12458.0,
+      "end": 12460.0,
+      "formatted_start": "03:27:38.000",
+      "formatted_end": "03:27:40.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 20,
+      "start": 12460.0,
+      "end": 12462.0,
+      "formatted_start": "03:27:40.000",
+      "formatted_end": "03:27:42.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 21,
+      "start": 12462.0,
+      "end": 12464.0,
+      "formatted_start": "03:27:42.000",
+      "formatted_end": "03:27:44.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 22,
+      "start": 12464.0,
+      "end": 12466.0,
+      "formatted_start": "03:27:44.000",
+      "formatted_end": "03:27:46.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 23,
+      "start": 12466.0,
+      "end": 12468.0,
+      "formatted_start": "03:27:46.000",
+      "formatted_end": "03:27:48.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 24,
+      "start": 12468.0,
+      "end": 12497.98,
+      "formatted_start": "03:27:48.000",
+      "formatted_end": "03:28:17.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 25,
+      "start": 12498.0,
+      "end": 12516.0,
+      "formatted_start": "03:28:18.000",
+      "formatted_end": "03:28:36.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 12516.0,
+      "end": 12544.0,
+      "formatted_start": "03:28:36.000",
+      "formatted_end": "03:29:04.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 27,
+      "start": 12544.0,
+      "end": 12556.0,
+      "formatted_start": "03:29:04.000",
+      "formatted_end": "03:29:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 12574.0,
+      "end": 12600.0,
+      "formatted_start": "03:29:34.000",
+      "formatted_end": "03:30:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

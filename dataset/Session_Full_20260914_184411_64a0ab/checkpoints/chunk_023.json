@@ -1,0 +1,586 @@
+{
+  "chunk_index": 23,
+  "start_sec": 6900.0,
+  "end_sec": 7200.0,
+  "turns": [
+    {
+      "start": 6900.031,
+      "end": 6901.786,
+      "formatted_start": "01:55:00.031",
+      "formatted_end": "01:55:01.786",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6901.786,
+      "end": 6921.8,
+      "formatted_start": "01:55:01.786",
+      "formatted_end": "01:55:21.800",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 6921.8,
+      "end": 6924.061,
+      "formatted_start": "01:55:21.800",
+      "formatted_end": "01:55:24.061",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6924.061,
+      "end": 6941.037,
+      "formatted_start": "01:55:24.061",
+      "formatted_end": "01:55:41.037",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 6941.037,
+      "end": 6944.024,
+      "formatted_start": "01:55:41.037",
+      "formatted_end": "01:55:44.024",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6944.024,
+      "end": 6960.578,
+      "formatted_start": "01:55:44.024",
+      "formatted_end": "01:56:00.578",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 6960.578,
+      "end": 6961.979,
+      "formatted_start": "01:56:00.578",
+      "formatted_end": "01:56:01.979",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6961.979,
+      "end": 6962.688,
+      "formatted_start": "01:56:01.979",
+      "formatted_end": "01:56:02.688",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 6962.688,
+      "end": 6969.353,
+      "formatted_start": "01:56:02.688",
+      "formatted_end": "01:56:09.353",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6969.691,
+      "end": 6978.55,
+      "formatted_start": "01:56:09.691",
+      "formatted_end": "01:56:18.550",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6978.55,
+      "end": 6982.043,
+      "formatted_start": "01:56:18.550",
+      "formatted_end": "01:56:22.043",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6982.043,
+      "end": 6985.233,
+      "formatted_start": "01:56:22.043",
+      "formatted_end": "01:56:25.233",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6985.233,
+      "end": 6989.03,
+      "formatted_start": "01:56:25.233",
+      "formatted_end": "01:56:29.030",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6989.03,
+      "end": 6992.101,
+      "formatted_start": "01:56:29.030",
+      "formatted_end": "01:56:32.101",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6992.101,
+      "end": 6996.809,
+      "formatted_start": "01:56:32.101",
+      "formatted_end": "01:56:36.809",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6997.568,
+      "end": 7001.281,
+      "formatted_start": "01:56:37.568",
+      "formatted_end": "01:56:41.281",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7001.281,
+      "end": 7006.073,
+      "formatted_start": "01:56:41.281",
+      "formatted_end": "01:56:46.073",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7027.741,
+      "end": 7082.23,
+      "formatted_start": "01:57:07.741",
+      "formatted_end": "01:58:02.230",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7082.821,
+      "end": 7083.547,
+      "formatted_start": "01:58:02.821",
+      "formatted_end": "01:58:03.547",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7083.935,
+      "end": 7084.778,
+      "formatted_start": "01:58:03.935",
+      "formatted_end": "01:58:04.778",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7086.044,
+      "end": 7086.922,
+      "formatted_start": "01:58:06.044",
+      "formatted_end": "01:58:06.922",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7091.967,
+      "end": 7100.033,
+      "formatted_start": "01:58:11.967",
+      "formatted_end": "01:58:20.033",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7117.432,
+      "end": 7118.208,
+      "formatted_start": "01:58:37.432",
+      "formatted_end": "01:58:38.208",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7170.385,
+      "end": 7186.028,
+      "formatted_start": "01:59:30.385",
+      "formatted_end": "01:59:46.028",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6900.0,
+      "end": 6902.0,
+      "formatted_start": "01:55:00.000",
+      "formatted_end": "01:55:02.000",
+      "text": "چند رو بشور کردی؟"
+    },
+    {
+      "id": 1,
+      "start": 6902.0,
+      "end": 6922.0,
+      "formatted_start": "01:55:02.000",
+      "formatted_end": "01:55:22.000",
+      "text": "حشمان، از قبلش از جا بودنم، ولی خب قبلش به این آموزش میدونیم، مثلا اصلا اسکل مشخصی کردن، تیپیایی مشخص نداشتم، ولی از زمانی که آموزش رو دیدم، تب تحلیلی که دارم هم حد صدایی مشخصی دارم، هم حد زرد مشخصی دارم."
+    },
+    {
+      "id": 2,
+      "start": 6922.0,
+      "end": 6924.0,
+      "formatted_start": "01:55:22.000",
+      "formatted_end": "01:55:24.000",
+      "text": "و چه میزان صده هفته ای تو رو بشنید؟"
+    },
+    {
+      "id": 3,
+      "start": 6924.0,
+      "end": 6931.0,
+      "formatted_start": "01:55:24.000",
+      "formatted_end": "01:55:31.000",
+      "text": "با هی برزانه 140 دولار بوده، 180 دولار بوده، 400 دولار بوده"
+    },
+    {
+      "id": 4,
+      "start": 6931.0,
+      "end": 6936.0,
+      "formatted_start": "01:55:31.000",
+      "formatted_end": "01:55:36.000",
+      "text": "و هفته نیم برای اینکه کلی به خواهدتون میگم تا 1000 دولارم درخواهد"
+    },
+    {
+      "id": 5,
+      "start": 6936.0,
+      "end": 6937.0,
+      "formatted_start": "01:55:36.000",
+      "formatted_end": "01:55:37.000",
+      "text": "در طور هفته؟"
+    },
+    {
+      "id": 6,
+      "start": 6937.0,
+      "end": 6938.0,
+      "formatted_start": "01:55:37.000",
+      "formatted_end": "01:55:38.000",
+      "text": "نه جدا"
+    },
+    {
+      "id": 7,
+      "start": 6938.0,
+      "end": 6944.0,
+      "formatted_start": "01:55:38.000",
+      "formatted_end": "01:55:44.000",
+      "text": "هیونکه همسر سالای خودت بالا چه خواهدات شما بیشتر دارید؟ این مرزی را؟"
+    },
+    {
+      "id": 8,
+      "start": 6944.0,
+      "end": 6948.0,
+      "formatted_start": "01:55:44.000",
+      "formatted_end": "01:55:48.000",
+      "text": "همسر سالای خودم باید به خواهدتون میگم باید بیره"
+    },
+    {
+      "id": 9,
+      "start": 6948.0,
+      "end": 6952.5,
+      "formatted_start": "01:55:48.000",
+      "formatted_end": "01:55:52.500",
+      "text": "از اینجا باید برادرزاده های ده سالشه"
+    },
+    {
+      "id": 10,
+      "start": 6952.5,
+      "end": 6955.0,
+      "formatted_start": "01:55:52.500",
+      "formatted_end": "01:55:55.000",
+      "text": "اصرار دارن که چار ده سالش شد"
+    },
+    {
+      "id": 11,
+      "start": 6955.0,
+      "end": 6960.14,
+      "formatted_start": "01:55:55.000",
+      "formatted_end": "01:56:00.140",
+      "text": "بازارای مادری هایی بگیرن و بازارای تره دو دویره تره بشه"
+    },
+    {
+      "id": 12,
+      "start": 6960.14,
+      "end": 6961.32,
+      "formatted_start": "01:56:00.140",
+      "formatted_end": "01:56:01.320",
+      "text": "چی شد این ترهی بشه؟"
+    },
+    {
+      "id": 13,
+      "start": 6961.32,
+      "end": 6962.8,
+      "formatted_start": "01:56:01.320",
+      "formatted_end": "01:56:02.800",
+      "text": "من بادرز دانشون"
+    },
+    {
+      "id": 14,
+      "start": 6962.8,
+      "end": 6965.22,
+      "formatted_start": "01:56:02.800",
+      "formatted_end": "01:56:05.220",
+      "text": "اگر همسرم پاچونی ببوشه من کامگیری ببوشم"
+    },
+    {
+      "id": 15,
+      "start": 6965.22,
+      "end": 6968.98,
+      "formatted_start": "01:56:05.220",
+      "formatted_end": "01:56:08.980",
+      "text": "مثل تابش آبدا با یه دیواری بوچه با آقای کامگیر گرم و دلیشه"
+    },
+    {
+      "id": 16,
+      "start": 6968.98,
+      "end": 6972.26,
+      "formatted_start": "01:56:08.980",
+      "formatted_end": "01:56:12.260",
+      "text": "اگر همسرم فیروزهی ببوشه من گردوی ببوشم"
+    },
+    {
+      "id": 17,
+      "start": 6972.26,
+      "end": 6975.04,
+      "formatted_start": "01:56:12.260",
+      "formatted_end": "01:56:15.040",
+      "text": "این دو رنگ کنار هم یه حسه بسالت و بهار دارن"
+    },
+    {
+      "id": 18,
+      "start": 6975.04,
+      "end": 6978.28,
+      "formatted_start": "01:56:15.040",
+      "formatted_end": "01:56:18.280",
+      "text": "اگه همسرم یاووتی بخوشه من یشمی بخوشم"
+    },
+    {
+      "id": 19,
+      "start": 6978.28,
+      "end": 6981.48,
+      "formatted_start": "01:56:18.280",
+      "formatted_end": "01:56:21.480",
+      "text": "شبیه یاووت و یشمی که کنار هم بیشتر درخشن"
+    },
+    {
+      "id": 20,
+      "start": 6981.48,
+      "end": 6985.16,
+      "formatted_start": "01:56:21.480",
+      "formatted_end": "01:56:25.160",
+      "text": "اگه همسرم سرز جنگلی بخوشه من صدفی بخوشم"
+    },
+    {
+      "id": 21,
+      "start": 6985.16,
+      "end": 6989.1,
+      "formatted_start": "01:56:25.160",
+      "formatted_end": "01:56:29.100",
+      "text": "شبیه برقای جنگل کنار دور صبح رنگشون زده ترین بخوشم"
+    },
+    {
+      "id": 22,
+      "start": 6989.1,
+      "end": 6991.74,
+      "formatted_start": "01:56:29.100",
+      "formatted_end": "01:56:31.740",
+      "text": "اگه همسرم سرمی بخوشه من سرمی بخوشم"
+    },
+    {
+      "id": 23,
+      "start": 6991.74,
+      "end": 6993.74,
+      "formatted_start": "01:56:31.740",
+      "formatted_end": "01:56:33.740",
+      "text": "مثل ستاره توی آسمون شم"
+    },
+    {
+      "id": 24,
+      "start": 6993.74,
+      "end": 6996.74,
+      "formatted_start": "01:56:33.740",
+      "formatted_end": "01:56:36.740",
+      "text": "که کناره هم زیبایشون چند رو برمیشه"
+    },
+    {
+      "id": 25,
+      "start": 6997.74,
+      "end": 7000.74,
+      "formatted_start": "01:56:37.740",
+      "formatted_end": "01:56:40.740",
+      "text": "مجموعه ترکیب رنگ و استایی زوجهای شست سال رو میشنروند"
+    },
+    {
+      "id": 26,
+      "start": 7000.74,
+      "end": 7005.74,
+      "formatted_start": "01:56:40.740",
+      "formatted_end": "01:56:45.740",
+      "text": "حالا توی پست ورد دوست دارین استایی و ترکیب رنگی کتن دهر رو ببینید"
+    },
+    {
+      "id": 27,
+      "start": 7021.74,
+      "end": 7027.74,
+      "formatted_start": "01:57:01.740",
+      "formatted_end": "01:57:07.740",
+      "text": "موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 7051.74,
+      "end": 7054.88,
+      "formatted_start": "01:57:31.740",
+      "formatted_end": "01:57:34.880",
+      "text": "از بزرگ درد درمان همه به از هم روزیده باشه"
+    },
+    {
+      "id": 29,
+      "start": 7054.88,
+      "end": 7059.4,
+      "formatted_start": "01:57:34.880",
+      "formatted_end": "01:57:39.400",
+      "text": "طولت دسته ها همه بویی بردرمان رو کاملا از بیدی بره"
+    },
+    {
+      "id": 30,
+      "start": 7059.4,
+      "end": 7063.8,
+      "formatted_start": "01:57:39.400",
+      "formatted_end": "01:57:43.800",
+      "text": "این بسطور به خلص باسه اونایی که همیشه درد و دردون دارن و ناله دارن"
+    },
+    {
+      "id": 31,
+      "start": 7063.8,
+      "end": 7065.98,
+      "formatted_start": "01:57:43.800",
+      "formatted_end": "01:57:45.980",
+      "text": "سه تا قدره از این روز رو کامل کن"
+    },
+    {
+      "id": 32,
+      "start": 7065.98,
+      "end": 7068.88,
+      "formatted_start": "01:57:45.980",
+      "formatted_end": "01:57:48.880",
+      "text": "تا جمعه درد و په بادرم بزرگ برم کن"
+    },
+    {
+      "id": 33,
+      "start": 7068.88,
+      "end": 7071.3,
+      "formatted_start": "01:57:48.880",
+      "formatted_end": "01:57:51.300",
+      "text": "نرمانه بوری دردان"
+    },
+    {
+      "id": 34,
+      "start": 7071.3,
+      "end": 7074.48,
+      "formatted_start": "01:57:51.300",
+      "formatted_end": "01:57:54.480",
+      "text": "دردیدی دیگه بیدی دردون دردشگی"
+    },
+    {
+      "id": 35,
+      "start": 7074.48,
+      "end": 7078.72,
+      "formatted_start": "01:57:54.480",
+      "formatted_end": "01:57:58.720",
+      "text": "تا بی این کاری که من بیدم رو انجام بده و تا به ریادی شه"
+    },
+    {
+      "id": 36,
+      "start": 7078.72,
+      "end": 7081.06,
+      "formatted_start": "01:57:58.720",
+      "formatted_end": "01:58:01.060",
+      "text": "امبریلوی کو بگم تا به ریادی شه"
+    },
+    {
+      "id": 37,
+      "start": 7081.06,
+      "end": 7083.36,
+      "formatted_start": "01:58:01.060",
+      "formatted_end": "01:58:03.360",
+      "text": "جان"
+    },
+    {
+      "id": 38,
+      "start": 7083.36,
+      "end": 7086.6,
+      "formatted_start": "01:58:03.360",
+      "formatted_end": "01:58:06.600",
+      "text": "نه با من"
+    },
+    {
+      "id": 39,
+      "start": 7086.6,
+      "end": 7089.4,
+      "formatted_start": "01:58:06.600",
+      "formatted_end": "01:58:09.400",
+      "text": "شبیه دیگه شبیه بادر"
+    },
+    {
+      "id": 40,
+      "start": 7089.4,
+      "end": 7090.44,
+      "formatted_start": "01:58:09.400",
+      "formatted_end": "01:58:10.440",
+      "text": "شبیه دیگه"
+    },
+    {
+      "id": 41,
+      "start": 7090.44,
+      "end": 7090.9,
+      "formatted_start": "01:58:10.440",
+      "formatted_end": "01:58:10.900",
+      "text": "برد"
+    },
+    {
+      "id": 42,
+      "start": 7090.9,
+      "end": 7092.66,
+      "formatted_start": "01:58:10.900",
+      "formatted_end": "01:58:12.660",
+      "text": "برد"
+    },
+    {
+      "id": 43,
+      "start": 7092.66,
+      "end": 7097.86,
+      "formatted_start": "01:58:12.660",
+      "formatted_end": "01:58:17.860",
+      "text": "شبیه دیگه شبیه"
+    },
+    {
+      "id": 44,
+      "start": 7097.86,
+      "end": 7099.78,
+      "formatted_start": "01:58:17.860",
+      "formatted_end": "01:58:19.780",
+      "text": "برد"
+    },
+    {
+      "id": 45,
+      "start": 7099.78,
+      "end": 7101.1,
+      "formatted_start": "01:58:19.780",
+      "formatted_end": "01:58:21.100",
+      "text": "برد"
+    },
+    {
+      "id": 46,
+      "start": 7101.1,
+      "end": 7102.9,
+      "formatted_start": "01:58:21.100",
+      "formatted_end": "01:58:22.900",
+      "text": "برد"
+    },
+    {
+      "id": 47,
+      "start": 7102.9,
+      "end": 7122.9,
+      "formatted_start": "01:58:22.900",
+      "formatted_end": "01:58:42.900",
+      "text": "موسیقی"
+    },
+    {
+      "id": 48,
+      "start": 7122.9,
+      "end": 7152.88,
+      "formatted_start": "01:58:42.900",
+      "formatted_end": "01:59:12.880",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 49,
+      "start": 7152.9,
+      "end": 7172.9,
+      "formatted_start": "01:59:12.900",
+      "formatted_end": "01:59:32.900",
+      "text": "موسیقی"
+    },
+    {
+      "id": 50,
+      "start": 7182.9,
+      "end": 7199.9,
+      "formatted_start": "01:59:42.900",
+      "formatted_end": "01:59:59.900",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

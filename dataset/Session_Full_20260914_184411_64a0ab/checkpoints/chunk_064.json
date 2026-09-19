@@ -1,0 +1,105 @@
+{
+  "chunk_index": 64,
+  "start_sec": 19200.0,
+  "end_sec": 19500.0,
+  "turns": [
+    {
+      "start": 19317.245,
+      "end": 19319.793,
+      "formatted_start": "05:21:57.245",
+      "formatted_end": "05:21:59.793",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 19200.0,
+      "end": 19229.98,
+      "formatted_start": "05:20:00.000",
+      "formatted_end": "05:20:29.980",
+      "text": "مردی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 19230.0,
+      "end": 19259.98,
+      "formatted_start": "05:20:30.000",
+      "formatted_end": "05:20:59.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 2,
+      "start": 19260.0,
+      "end": 19289.98,
+      "formatted_start": "05:21:00.000",
+      "formatted_end": "05:21:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 19290.0,
+      "end": 19318.0,
+      "formatted_start": "05:21:30.000",
+      "formatted_end": "05:21:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 19318.0,
+      "end": 19338.0,
+      "formatted_start": "05:21:58.000",
+      "formatted_end": "05:22:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 19338.0,
+      "end": 19367.98,
+      "formatted_start": "05:22:18.000",
+      "formatted_end": "05:22:47.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 19368.0,
+      "end": 19397.98,
+      "formatted_start": "05:22:48.000",
+      "formatted_end": "05:23:17.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 7,
+      "start": 19398.0,
+      "end": 19427.98,
+      "formatted_start": "05:23:18.000",
+      "formatted_end": "05:23:47.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 19428.0,
+      "end": 19457.98,
+      "formatted_start": "05:23:48.000",
+      "formatted_end": "05:24:17.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 19458.0,
+      "end": 19487.98,
+      "formatted_start": "05:24:18.000",
+      "formatted_end": "05:24:47.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 19488.0,
+      "end": 19500.0,
+      "formatted_start": "05:24:48.000",
+      "formatted_end": "05:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

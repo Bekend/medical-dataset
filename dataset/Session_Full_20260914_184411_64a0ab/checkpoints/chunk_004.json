@@ -1,0 +1,235 @@
+{
+  "chunk_index": 4,
+  "start_sec": 1200.0,
+  "end_sec": 1500.0,
+  "turns": [
+    {
+      "start": 1467.01,
+      "end": 1467.584,
+      "formatted_start": "00:24:27.010",
+      "formatted_end": "00:24:27.584",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1468.85,
+      "end": 1471.752,
+      "formatted_start": "00:24:28.850",
+      "formatted_end": "00:24:31.752",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1472.022,
+      "end": 1485.337,
+      "formatted_start": "00:24:32.022",
+      "formatted_end": "00:24:45.337",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1485.91,
+      "end": 1488.965,
+      "formatted_start": "00:24:45.910",
+      "formatted_end": "00:24:48.965",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1488.965,
+      "end": 1495.512,
+      "formatted_start": "00:24:48.965",
+      "formatted_end": "00:24:55.512",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 1492.407,
+      "end": 1492.846,
+      "formatted_start": "00:24:52.407",
+      "formatted_end": "00:24:52.846",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1496.373,
+      "end": 1496.963,
+      "formatted_start": "00:24:56.373",
+      "formatted_end": "00:24:56.963",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1200.0,
+      "end": 1229.98,
+      "formatted_start": "00:20:00.000",
+      "formatted_end": "00:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 1230.0,
+      "end": 1240.0,
+      "formatted_start": "00:20:30.000",
+      "formatted_end": "00:20:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 1260.0,
+      "end": 1289.98,
+      "formatted_start": "00:21:00.000",
+      "formatted_end": "00:21:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 1290.0,
+      "end": 1300.0,
+      "formatted_start": "00:21:30.000",
+      "formatted_end": "00:21:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 1320.0,
+      "end": 1349.98,
+      "formatted_start": "00:22:00.000",
+      "formatted_end": "00:22:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 1350.0,
+      "end": 1370.0,
+      "formatted_start": "00:22:30.000",
+      "formatted_end": "00:22:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 1370.0,
+      "end": 1399.98,
+      "formatted_start": "00:22:50.000",
+      "formatted_end": "00:23:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 1400.0,
+      "end": 1420.0,
+      "formatted_start": "00:23:20.000",
+      "formatted_end": "00:23:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 1420.0,
+      "end": 1449.0,
+      "formatted_start": "00:23:40.000",
+      "formatted_end": "00:24:09.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 1450.0,
+      "end": 1472.0,
+      "formatted_start": "00:24:10.000",
+      "formatted_end": "00:24:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 1472.0,
+      "end": 1474.4,
+      "formatted_start": "00:24:32.000",
+      "formatted_end": "00:24:34.400",
+      "text": "باز تو پیشتر پیرو هرچی ها رو بزرگیر"
+    },
+    {
+      "id": 11,
+      "start": 1474.4,
+      "end": 1476.0,
+      "formatted_start": "00:24:34.400",
+      "formatted_end": "00:24:36.000",
+      "text": "همه هر پیشتر پیر"
+    },
+    {
+      "id": 12,
+      "start": 1476.0,
+      "end": 1478.0,
+      "formatted_start": "00:24:36.000",
+      "formatted_end": "00:24:38.000",
+      "text": "چیز نمیدونه با بیر"
+    },
+    {
+      "id": 13,
+      "start": 1478.0,
+      "end": 1480.0,
+      "formatted_start": "00:24:38.000",
+      "formatted_end": "00:24:40.000",
+      "text": "خب بله"
+    },
+    {
+      "id": 14,
+      "start": 1480.0,
+      "end": 1482.0,
+      "formatted_start": "00:24:40.000",
+      "formatted_end": "00:24:42.000",
+      "text": "نه بیرونه پیرو هرچی ها پیشتر پیر"
+    },
+    {
+      "id": 15,
+      "start": 1482.0,
+      "end": 1484.0,
+      "formatted_start": "00:24:42.000",
+      "formatted_end": "00:24:44.000",
+      "text": "هرچی همه پیر"
+    },
+    {
+      "id": 16,
+      "start": 1484.0,
+      "end": 1486.0,
+      "formatted_start": "00:24:44.000",
+      "formatted_end": "00:24:46.000",
+      "text": "با بیرونه بیرونه بیرونه"
+    },
+    {
+      "id": 17,
+      "start": 1486.0,
+      "end": 1488.0,
+      "formatted_start": "00:24:46.000",
+      "formatted_end": "00:24:48.000",
+      "text": "نمیدونه باید بردرسته بیچاره"
+    },
+    {
+      "id": 18,
+      "start": 1488.0,
+      "end": 1490.0,
+      "formatted_start": "00:24:48.000",
+      "formatted_end": "00:24:50.000",
+      "text": "یک هرچی ها بیرونه بیرونه"
+    },
+    {
+      "id": 19,
+      "start": 1490.0,
+      "end": 1492.0,
+      "formatted_start": "00:24:50.000",
+      "formatted_end": "00:24:52.000",
+      "text": "باید بردرسته بیرونه"
+    },
+    {
+      "id": 20,
+      "start": 1492.0,
+      "end": 1494.0,
+      "formatted_start": "00:24:52.000",
+      "formatted_end": "00:24:54.000",
+      "text": "باید بردرسته نه باسته نه باید بردرسته"
+    },
+    {
+      "id": 21,
+      "start": 1494.0,
+      "end": 1500.0,
+      "formatted_start": "00:24:54.000",
+      "formatted_end": "00:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

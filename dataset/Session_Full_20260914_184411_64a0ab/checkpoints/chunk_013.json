@@ -1,0 +1,210 @@
+{
+  "chunk_index": 13,
+  "start_sec": 3900.0,
+  "end_sec": 4200.0,
+  "turns": [
+    {
+      "start": 3908.198,
+      "end": 3908.958,
+      "formatted_start": "01:05:08.198",
+      "formatted_end": "01:05:08.958",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4033.04,
+      "end": 4033.715,
+      "formatted_start": "01:07:13.040",
+      "formatted_end": "01:07:13.715",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4034.913,
+      "end": 4036.516,
+      "formatted_start": "01:07:14.913",
+      "formatted_end": "01:07:16.516",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4037.107,
+      "end": 4038.288,
+      "formatted_start": "01:07:17.107",
+      "formatted_end": "01:07:18.288",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4040.296,
+      "end": 4043.873,
+      "formatted_start": "01:07:20.296",
+      "formatted_end": "01:07:23.873",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4047.198,
+      "end": 4048.058,
+      "formatted_start": "01:07:27.198",
+      "formatted_end": "01:07:28.058",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4049.645,
+      "end": 4050.235,
+      "formatted_start": "01:07:29.645",
+      "formatted_end": "01:07:30.235",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4051.653,
+      "end": 4052.362,
+      "formatted_start": "01:07:31.653",
+      "formatted_end": "01:07:32.362",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3900.0,
+      "end": 3930.0,
+      "formatted_start": "01:05:00.000",
+      "formatted_end": "01:05:30.000",
+      "text": "بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیشتر بیشتر، بیش"
+    },
+    {
+      "id": 1,
+      "start": 3930.0,
+      "end": 3959.98,
+      "formatted_start": "01:05:30.000",
+      "formatted_end": "01:05:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3960.0,
+      "end": 3989.98,
+      "formatted_start": "01:06:00.000",
+      "formatted_end": "01:06:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3990.0,
+      "end": 4019.98,
+      "formatted_start": "01:06:30.000",
+      "formatted_end": "01:06:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4020.0,
+      "end": 4033.0,
+      "formatted_start": "01:07:00.000",
+      "formatted_end": "01:07:13.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4033.0,
+      "end": 4035.0,
+      "formatted_start": "01:07:13.000",
+      "formatted_end": "01:07:15.000",
+      "text": "حالا؟"
+    },
+    {
+      "id": 6,
+      "start": 4035.0,
+      "end": 4037.0,
+      "formatted_start": "01:07:15.000",
+      "formatted_end": "01:07:17.000",
+      "text": "آره آره، سد و پنج و شیش"
+    },
+    {
+      "id": 7,
+      "start": 4037.0,
+      "end": 4039.0,
+      "formatted_start": "01:07:17.000",
+      "formatted_end": "01:07:19.000",
+      "text": "اسمس تو هم یه بگم"
+    },
+    {
+      "id": 8,
+      "start": 4039.0,
+      "end": 4041.0,
+      "formatted_start": "01:07:19.000",
+      "formatted_end": "01:07:21.000",
+      "text": "نه سد و پنج و شیش"
+    },
+    {
+      "id": 9,
+      "start": 4041.0,
+      "end": 4043.0,
+      "formatted_start": "01:07:21.000",
+      "formatted_end": "01:07:23.000",
+      "text": "سد و پنج و شیش، نه سد و پنج و شیش"
+    },
+    {
+      "id": 10,
+      "start": 4047.0,
+      "end": 4049.0,
+      "formatted_start": "01:07:27.000",
+      "formatted_end": "01:07:29.000",
+      "text": "پنج و شیش"
+    },
+    {
+      "id": 11,
+      "start": 4049.0,
+      "end": 4051.0,
+      "formatted_start": "01:07:29.000",
+      "formatted_end": "01:07:31.000",
+      "text": "حالا؟"
+    },
+    {
+      "id": 12,
+      "start": 4051.0,
+      "end": 4053.0,
+      "formatted_start": "01:07:31.000",
+      "formatted_end": "01:07:33.000",
+      "text": "حالا؟"
+    },
+    {
+      "id": 13,
+      "start": 4063.0,
+      "end": 4089.0,
+      "formatted_start": "01:07:43.000",
+      "formatted_end": "01:08:09.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 4093.0,
+      "end": 4103.0,
+      "formatted_start": "01:08:13.000",
+      "formatted_end": "01:08:23.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 4123.0,
+      "end": 4152.0,
+      "formatted_start": "01:08:43.000",
+      "formatted_end": "01:09:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 4153.0,
+      "end": 4182.98,
+      "formatted_start": "01:09:13.000",
+      "formatted_end": "01:09:42.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 4183.0,
+      "end": 4200.0,
+      "formatted_start": "01:09:43.000",
+      "formatted_end": "01:10:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

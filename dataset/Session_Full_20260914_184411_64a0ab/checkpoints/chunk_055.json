@@ -1,0 +1,97 @@
+{
+  "chunk_index": 55,
+  "start_sec": 16500.0,
+  "end_sec": 16800.0,
+  "turns": [
+    {
+      "start": 16706.513,
+      "end": 16706.935,
+      "formatted_start": "04:38:26.513",
+      "formatted_end": "04:38:26.935",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 16500.0,
+      "end": 16529.98,
+      "formatted_start": "04:35:00.000",
+      "formatted_end": "04:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 16530.0,
+      "end": 16559.98,
+      "formatted_start": "04:35:30.000",
+      "formatted_end": "04:35:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 16560.0,
+      "end": 16589.98,
+      "formatted_start": "04:36:00.000",
+      "formatted_end": "04:36:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 16590.0,
+      "end": 16619.98,
+      "formatted_start": "04:36:30.000",
+      "formatted_end": "04:36:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 4,
+      "start": 16620.0,
+      "end": 16649.98,
+      "formatted_start": "04:37:00.000",
+      "formatted_end": "04:37:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 16650.0,
+      "end": 16679.98,
+      "formatted_start": "04:37:30.000",
+      "formatted_end": "04:37:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 16680.0,
+      "end": 16709.98,
+      "formatted_start": "04:38:00.000",
+      "formatted_end": "04:38:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 7,
+      "start": 16710.0,
+      "end": 16739.98,
+      "formatted_start": "04:38:30.000",
+      "formatted_end": "04:38:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 8,
+      "start": 16740.0,
+      "end": 16769.98,
+      "formatted_start": "04:39:00.000",
+      "formatted_end": "04:39:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 9,
+      "start": 16770.0,
+      "end": 16799.98,
+      "formatted_start": "04:39:30.000",
+      "formatted_end": "04:39:59.980",
+      "text": "مردم در اینجا"
+    }
+  ],
+  "status": "completed"
+}

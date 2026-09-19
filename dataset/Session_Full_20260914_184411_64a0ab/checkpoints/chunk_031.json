@@ -1,0 +1,202 @@
+{
+  "chunk_index": 31,
+  "start_sec": 9300.0,
+  "end_sec": 9600.0,
+  "turns": [
+    {
+      "start": 9485.977,
+      "end": 9486.922,
+      "formatted_start": "02:38:05.977",
+      "formatted_end": "02:38:06.922",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9489.706,
+      "end": 9490.938,
+      "formatted_start": "02:38:09.706",
+      "formatted_end": "02:38:10.938",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9492.406,
+      "end": 9493.604,
+      "formatted_start": "02:38:12.406",
+      "formatted_end": "02:38:13.604",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9551.62,
+      "end": 9554.641,
+      "formatted_start": "02:39:11.620",
+      "formatted_end": "02:39:14.641",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9554.641,
+      "end": 9562.977,
+      "formatted_start": "02:39:14.641",
+      "formatted_end": "02:39:22.977",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9562.977,
+      "end": 9573.203,
+      "formatted_start": "02:39:22.977",
+      "formatted_end": "02:39:33.203",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9563.956,
+      "end": 9564.53,
+      "formatted_start": "02:39:23.956",
+      "formatted_end": "02:39:24.530",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9574.013,
+      "end": 9575.498,
+      "formatted_start": "02:39:34.013",
+      "formatted_end": "02:39:35.498",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9576.511,
+      "end": 9579.734,
+      "formatted_start": "02:39:36.511",
+      "formatted_end": "02:39:39.734",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 9580.173,
+      "end": 9586.282,
+      "formatted_start": "02:39:40.173",
+      "formatted_end": "02:39:46.282",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 9586.636,
+      "end": 9587.969,
+      "formatted_start": "02:39:46.636",
+      "formatted_end": "02:39:47.969",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 9588.475,
+      "end": 9589.37,
+      "formatted_start": "02:39:48.475",
+      "formatted_end": "02:39:49.370",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9589.555,
+      "end": 9598.398,
+      "formatted_start": "02:39:49.555",
+      "formatted_end": "02:39:58.398",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 9596.592,
+      "end": 9597.2,
+      "formatted_start": "02:39:56.592",
+      "formatted_end": "02:39:57.200",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9597.925,
+      "end": 9598.82,
+      "formatted_start": "02:39:57.925",
+      "formatted_end": "02:39:58.820",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9598.668,
+      "end": 9599.967,
+      "formatted_start": "02:39:58.668",
+      "formatted_end": "02:39:59.967",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9300.0,
+      "end": 9329.98,
+      "formatted_start": "02:35:00.000",
+      "formatted_end": "02:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 9330.0,
+      "end": 9359.98,
+      "formatted_start": "02:35:30.000",
+      "formatted_end": "02:35:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 2,
+      "start": 9360.0,
+      "end": 9389.98,
+      "formatted_start": "02:36:00.000",
+      "formatted_end": "02:36:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 3,
+      "start": 9390.0,
+      "end": 9419.98,
+      "formatted_start": "02:36:30.000",
+      "formatted_end": "02:36:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 9420.0,
+      "end": 9449.98,
+      "formatted_start": "02:37:00.000",
+      "formatted_end": "02:37:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 9450.0,
+      "end": 9479.98,
+      "formatted_start": "02:37:30.000",
+      "formatted_end": "02:37:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 9480.0,
+      "end": 9490.0,
+      "formatted_start": "02:38:00.000",
+      "formatted_end": "02:38:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 9510.0,
+      "end": 9539.98,
+      "formatted_start": "02:38:30.000",
+      "formatted_end": "02:38:59.980",
+      "text": "مرد در اینجا"
+    },
+    {
+      "id": 8,
+      "start": 9540.0,
+      "end": 9570.0,
+      "formatted_start": "02:39:00.000",
+      "formatted_end": "02:39:30.000",
+      "text": "از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه ا"
+    },
+    {
+      "id": 9,
+      "start": 9570.0,
+      "end": 9600.0,
+      "formatted_start": "02:39:30.000",
+      "formatted_end": "02:40:00.000",
+      "text": "در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت، در این وقت"
+    }
+  ],
+  "status": "completed"
+}

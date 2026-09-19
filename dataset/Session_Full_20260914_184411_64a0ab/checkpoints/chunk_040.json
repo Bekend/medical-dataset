@@ -1,0 +1,210 @@
+{
+  "chunk_index": 40,
+  "start_sec": 12000.0,
+  "end_sec": 12300.0,
+  "turns": [
+    {
+      "start": 12000.031,
+      "end": 12005.988,
+      "formatted_start": "03:20:00.031",
+      "formatted_end": "03:20:05.988",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12001.027,
+      "end": 12002.039,
+      "formatted_start": "03:20:01.027",
+      "formatted_end": "03:20:02.039",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12036.346,
+      "end": 12038.81,
+      "formatted_start": "03:20:36.346",
+      "formatted_end": "03:20:38.810",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12039.552,
+      "end": 12041.037,
+      "formatted_start": "03:20:39.552",
+      "formatted_end": "03:20:41.037",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12042.387,
+      "end": 12044.176,
+      "formatted_start": "03:20:42.387",
+      "formatted_end": "03:20:44.176",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12045.577,
+      "end": 12046.724,
+      "formatted_start": "03:20:45.577",
+      "formatted_end": "03:20:46.724",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12067.126,
+      "end": 12068.408,
+      "formatted_start": "03:21:07.126",
+      "formatted_end": "03:21:08.408",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12077.977,
+      "end": 12081.132,
+      "formatted_start": "03:21:17.977",
+      "formatted_end": "03:21:21.132",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12081.554,
+      "end": 12085.03,
+      "formatted_start": "03:21:21.554",
+      "formatted_end": "03:21:25.030",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12096.083,
+      "end": 12096.607,
+      "formatted_start": "03:21:36.083",
+      "formatted_end": "03:21:36.607",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12110.36,
+      "end": 12111.187,
+      "formatted_start": "03:21:50.360",
+      "formatted_end": "03:21:51.187",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12112.25,
+      "end": 12113.026,
+      "formatted_start": "03:21:52.250",
+      "formatted_end": "03:21:53.026",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12119.067,
+      "end": 12120.502,
+      "formatted_start": "03:21:59.067",
+      "formatted_end": "03:22:00.502",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12163.212,
+      "end": 12172.443,
+      "formatted_start": "03:22:43.212",
+      "formatted_end": "03:22:52.443",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 12287.8,
+      "end": 12289.42,
+      "formatted_start": "03:24:47.800",
+      "formatted_end": "03:24:49.420",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 12295.242,
+      "end": 12295.968,
+      "formatted_start": "03:24:55.242",
+      "formatted_end": "03:24:55.968",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12000.0,
+      "end": 12005.82,
+      "formatted_start": "03:20:00.000",
+      "formatted_end": "03:20:05.820",
+      "text": "بایدورم همه تکیلور کن، همتر موهن می کن، هر یک همتر موهن، بایدورم همتر موهن."
+    },
+    {
+      "id": 1,
+      "start": 12030.0,
+      "end": 12036.0,
+      "formatted_start": "03:20:30.000",
+      "formatted_end": "03:20:36.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 12060.0,
+      "end": 12076.0,
+      "formatted_start": "03:21:00.000",
+      "formatted_end": "03:21:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 12090.0,
+      "end": 12106.0,
+      "formatted_start": "03:21:30.000",
+      "formatted_end": "03:21:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 12120.0,
+      "end": 12136.0,
+      "formatted_start": "03:22:00.000",
+      "formatted_end": "03:22:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 12136.0,
+      "end": 12146.0,
+      "formatted_start": "03:22:16.000",
+      "formatted_end": "03:22:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 12166.0,
+      "end": 12172.0,
+      "formatted_start": "03:22:46.000",
+      "formatted_end": "03:22:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 12196.0,
+      "end": 12225.98,
+      "formatted_start": "03:23:16.000",
+      "formatted_end": "03:23:45.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 12226.0,
+      "end": 12255.98,
+      "formatted_start": "03:23:46.000",
+      "formatted_end": "03:24:15.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 12256.0,
+      "end": 12285.98,
+      "formatted_start": "03:24:16.000",
+      "formatted_end": "03:24:45.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 12286.0,
+      "end": 12300.0,
+      "formatted_start": "03:24:46.000",
+      "formatted_end": "03:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
