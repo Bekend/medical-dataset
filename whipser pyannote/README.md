@@ -185,5 +185,6 @@ models/
 
 ## 👤 Credits / سازنده
 
-**Developed by:** Seyed Shahabeddin Hosseini Bay (سید شهاب الدین حسینی بای)  
-**Powered by:** `antigravity`
+- **Developer:** [Seyed Shahabeddin Hosseini Bay](https://github.com/Bekend) (سید شهاب الدین حسینی بای)
+- **GitHub:** [@Bekend](https://github.com/Bekend)
+- **Powered by:** `antigravity`
