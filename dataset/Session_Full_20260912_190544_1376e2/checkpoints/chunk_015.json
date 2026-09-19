@@ -1,0 +1,194 @@
+{
+  "chunk_index": 15,
+  "start_sec": 4500.0,
+  "end_sec": 4800.0,
+  "turns": [
+    {
+      "start": 4530.153,
+      "end": 4531.385,
+      "formatted_start": "01:15:30.153",
+      "formatted_end": "01:15:31.385",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4582.685,
+      "end": 4583.258,
+      "formatted_start": "01:16:22.685",
+      "formatted_end": "01:16:23.258",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4583.95,
+      "end": 4588.625,
+      "formatted_start": "01:16:23.950",
+      "formatted_end": "01:16:28.625",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4722.359,
+      "end": 4723.287,
+      "formatted_start": "01:18:42.359",
+      "formatted_end": "01:18:43.287",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4728.13,
+      "end": 4731.202,
+      "formatted_start": "01:18:48.130",
+      "formatted_end": "01:18:51.202",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4734.374,
+      "end": 4735.977,
+      "formatted_start": "01:18:54.374",
+      "formatted_end": "01:18:55.977",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4735.977,
+      "end": 4736.669,
+      "formatted_start": "01:18:55.977",
+      "formatted_end": "01:18:56.669",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4739.268,
+      "end": 4741.175,
+      "formatted_start": "01:18:59.268",
+      "formatted_end": "01:19:01.175",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4500.0,
+      "end": 4510.0,
+      "formatted_start": "01:15:00.000",
+      "formatted_end": "01:15:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 4530.0,
+      "end": 4532.0,
+      "formatted_start": "01:15:30.000",
+      "formatted_end": "01:15:32.000",
+      "text": "دوستنم نداشت"
+    },
+    {
+      "id": 2,
+      "start": 4532.0,
+      "end": 4534.0,
+      "formatted_start": "01:15:32.000",
+      "formatted_end": "01:15:34.000",
+      "text": "مشکل فرق همین"
+    },
+    {
+      "id": 3,
+      "start": 4534.0,
+      "end": 4536.0,
+      "formatted_start": "01:15:34.000",
+      "formatted_end": "01:15:36.000",
+      "text": "دوستنم نداشت"
+    },
+    {
+      "id": 4,
+      "start": 4551.0,
+      "end": 4553.0,
+      "formatted_start": "01:15:51.000",
+      "formatted_end": "01:15:53.000",
+      "text": "نجای بد باشدی"
+    },
+    {
+      "id": 5,
+      "start": 4553.0,
+      "end": 4555.0,
+      "formatted_start": "01:15:53.000",
+      "formatted_end": "01:15:55.000",
+      "text": "نجای باشدی"
+    },
+    {
+      "id": 6,
+      "start": 4555.0,
+      "end": 4557.0,
+      "formatted_start": "01:15:55.000",
+      "formatted_end": "01:15:57.000",
+      "text": "خوشی بابا تو دارم"
+    },
+    {
+      "id": 7,
+      "start": 4557.0,
+      "end": 4586.98,
+      "formatted_start": "01:15:57.000",
+      "formatted_end": "01:16:26.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 4587.0,
+      "end": 4607.0,
+      "formatted_start": "01:16:27.000",
+      "formatted_end": "01:16:47.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4607.0,
+      "end": 4621.0,
+      "formatted_start": "01:16:47.000",
+      "formatted_end": "01:17:01.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 4637.0,
+      "end": 4655.0,
+      "formatted_start": "01:17:17.000",
+      "formatted_end": "01:17:35.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 4655.0,
+      "end": 4685.0,
+      "formatted_start": "01:17:35.000",
+      "formatted_end": "01:18:05.000",
+      "text": "موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی د"
+    },
+    {
+      "id": 12,
+      "start": 4685.0,
+      "end": 4714.98,
+      "formatted_start": "01:18:05.000",
+      "formatted_end": "01:18:34.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 4715.0,
+      "end": 4721.0,
+      "formatted_start": "01:18:35.000",
+      "formatted_end": "01:18:41.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 4745.0,
+      "end": 4755.0,
+      "formatted_start": "01:19:05.000",
+      "formatted_end": "01:19:15.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 4775.0,
+      "end": 4800.0,
+      "formatted_start": "01:19:35.000",
+      "formatted_end": "01:20:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

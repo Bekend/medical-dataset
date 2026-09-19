@@ -1,0 +1,352 @@
+{
+  "chunk_index": 17,
+  "start_sec": 5100.0,
+  "end_sec": 5400.0,
+  "turns": [
+    {
+      "start": 5100.031,
+      "end": 5101.803,
+      "formatted_start": "01:25:00.031",
+      "formatted_end": "01:25:01.803",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5102.039,
+      "end": 5104.216,
+      "formatted_start": "01:25:02.039",
+      "formatted_end": "01:25:04.216",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5122.255,
+      "end": 5122.745,
+      "formatted_start": "01:25:22.255",
+      "formatted_end": "01:25:22.745",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5123.15,
+      "end": 5129.478,
+      "formatted_start": "01:25:23.150",
+      "formatted_end": "01:25:29.478",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5130.423,
+      "end": 5141.341,
+      "formatted_start": "01:25:30.423",
+      "formatted_end": "01:25:41.341",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5161.523,
+      "end": 5166.029,
+      "formatted_start": "01:26:01.523",
+      "formatted_end": "01:26:06.029",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5168.425,
+      "end": 5168.83,
+      "formatted_start": "01:26:08.425",
+      "formatted_end": "01:26:08.830",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5169.404,
+      "end": 5170.028,
+      "formatted_start": "01:26:09.404",
+      "formatted_end": "01:26:10.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5175.293,
+      "end": 5180.373,
+      "formatted_start": "01:26:15.293",
+      "formatted_end": "01:26:20.373",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5180.592,
+      "end": 5188.085,
+      "formatted_start": "01:26:20.592",
+      "formatted_end": "01:26:28.085",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5189.266,
+      "end": 5200.15,
+      "formatted_start": "01:26:29.266",
+      "formatted_end": "01:26:40.150",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5200.471,
+      "end": 5200.96,
+      "formatted_start": "01:26:40.471",
+      "formatted_end": "01:26:40.960",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5220.316,
+      "end": 5225.26,
+      "formatted_start": "01:27:00.316",
+      "formatted_end": "01:27:05.260",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5225.75,
+      "end": 5227.927,
+      "formatted_start": "01:27:05.750",
+      "formatted_end": "01:27:07.927",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5228.045,
+      "end": 5228.973,
+      "formatted_start": "01:27:08.045",
+      "formatted_end": "01:27:08.973",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5259.854,
+      "end": 5261.035,
+      "formatted_start": "01:27:39.854",
+      "formatted_end": "01:27:41.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5261.086,
+      "end": 5264.225,
+      "formatted_start": "01:27:41.086",
+      "formatted_end": "01:27:44.225",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5264.613,
+      "end": 5266.435,
+      "formatted_start": "01:27:44.613",
+      "formatted_end": "01:27:46.435",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 5100.0,
+      "end": 5129.98,
+      "formatted_start": "01:25:00.000",
+      "formatted_end": "01:25:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 5130.0,
+      "end": 5133.08,
+      "formatted_start": "01:25:30.000",
+      "formatted_end": "01:25:33.080",
+      "text": "امشب میخوام مست بشم"
+    },
+    {
+      "id": 2,
+      "start": 5133.08,
+      "end": 5135.62,
+      "formatted_start": "01:25:33.080",
+      "formatted_end": "01:25:35.620",
+      "text": "عاشق یک دست بشم"
+    },
+    {
+      "id": 3,
+      "start": 5135.62,
+      "end": 5137.62,
+      "formatted_start": "01:25:35.620",
+      "formatted_end": "01:25:37.620",
+      "text": "بدون تو نیست بودم"
+    },
+    {
+      "id": 4,
+      "start": 5137.62,
+      "end": 5140.68,
+      "formatted_start": "01:25:37.620",
+      "formatted_end": "01:25:40.680",
+      "text": "امشب میخوام مست بشم"
+    },
+    {
+      "id": 5,
+      "start": 5160.0,
+      "end": 5166.54,
+      "formatted_start": "01:26:00.000",
+      "formatted_end": "01:26:06.540",
+      "text": "امشب من رو بردارم شور دارم گردارم"
+    },
+    {
+      "id": 6,
+      "start": 5166.54,
+      "end": 5172.36,
+      "formatted_start": "01:26:06.540",
+      "formatted_end": "01:26:12.360",
+      "text": "امشب توی سینه دلی پشا برم بردارم"
+    },
+    {
+      "id": 7,
+      "start": 5172.36,
+      "end": 5180.32,
+      "formatted_start": "01:26:12.360",
+      "formatted_end": "01:26:20.320",
+      "text": "امشب من رو بردارم شور دارم گردارم"
+    },
+    {
+      "id": 8,
+      "start": 5180.32,
+      "end": 5186.14,
+      "formatted_start": "01:26:20.320",
+      "formatted_end": "01:26:26.140",
+      "text": "امشب توی سینه دلی پشا برم بردارم"
+    },
+    {
+      "id": 9,
+      "start": 5186.14,
+      "end": 5191.9,
+      "formatted_start": "01:26:26.140",
+      "formatted_end": "01:26:31.900",
+      "text": "امشب میخوام مست بشم"
+    },
+    {
+      "id": 10,
+      "start": 5191.9,
+      "end": 5194.4,
+      "formatted_start": "01:26:31.900",
+      "formatted_end": "01:26:34.400",
+      "text": "پاشده یک نست بشم"
+    },
+    {
+      "id": 11,
+      "start": 5194.4,
+      "end": 5196.44,
+      "formatted_start": "01:26:34.400",
+      "formatted_end": "01:26:36.440",
+      "text": "بدون توی ریست بودم"
+    },
+    {
+      "id": 12,
+      "start": 5196.44,
+      "end": 5199.4,
+      "formatted_start": "01:26:36.440",
+      "formatted_end": "01:26:39.400",
+      "text": "امشب میخوام مست بشم"
+    },
+    {
+      "id": 13,
+      "start": 5216.14,
+      "end": 5245.14,
+      "formatted_start": "01:26:56.140",
+      "formatted_end": "01:27:25.140",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 5246.14,
+      "end": 5250.68,
+      "formatted_start": "01:27:26.140",
+      "formatted_end": "01:27:30.680",
+      "text": "امشب میخوام مست بشم"
+    },
+    {
+      "id": 15,
+      "start": 5250.68,
+      "end": 5253.18,
+      "formatted_start": "01:27:30.680",
+      "formatted_end": "01:27:33.180",
+      "text": "عاشق یک نست بشم"
+    },
+    {
+      "id": 16,
+      "start": 5253.18,
+      "end": 5255.24,
+      "formatted_start": "01:27:33.180",
+      "formatted_end": "01:27:35.240",
+      "text": "بدون تو ریست بودم"
+    },
+    {
+      "id": 17,
+      "start": 5255.24,
+      "end": 5257.9,
+      "formatted_start": "01:27:35.240",
+      "formatted_end": "01:27:37.900",
+      "text": "امشب میخوام پست بشم"
+    },
+    {
+      "id": 18,
+      "start": 5257.9,
+      "end": 5262.04,
+      "formatted_start": "01:27:37.900",
+      "formatted_end": "01:27:42.040",
+      "text": "یه جون نقابلی هست"
+    },
+    {
+      "id": 19,
+      "start": 5262.04,
+      "end": 5264.2,
+      "formatted_start": "01:27:42.040",
+      "formatted_end": "01:27:44.200",
+      "text": "از هر فدای تو بشه"
+    },
+    {
+      "id": 20,
+      "start": 5264.2,
+      "end": 5266.82,
+      "formatted_start": "01:27:44.200",
+      "formatted_end": "01:27:46.820",
+      "text": "دیگه تزیر قدم ها"
+    },
+    {
+      "id": 21,
+      "start": 5266.82,
+      "end": 5269.16,
+      "formatted_start": "01:27:46.820",
+      "formatted_end": "01:27:49.160",
+      "text": "که خواهی تو بشه"
+    },
+    {
+      "id": 22,
+      "start": 5276.14,
+      "end": 5292.14,
+      "formatted_start": "01:27:56.140",
+      "formatted_end": "01:28:12.140",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 5292.14,
+      "end": 5322.12,
+      "formatted_start": "01:28:12.140",
+      "formatted_end": "01:28:42.120",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 24,
+      "start": 5322.14,
+      "end": 5347.14,
+      "formatted_start": "01:28:42.140",
+      "formatted_end": "01:29:07.140",
+      "text": "موسیقی"
+    },
+    {
+      "id": 25,
+      "start": 5347.14,
+      "end": 5359.14,
+      "formatted_start": "01:29:07.140",
+      "formatted_end": "01:29:19.140",
+      "text": "موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 5377.14,
+      "end": 5399.14,
+      "formatted_start": "01:29:37.140",
+      "formatted_end": "01:29:59.140",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

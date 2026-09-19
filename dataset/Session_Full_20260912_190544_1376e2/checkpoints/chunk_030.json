@@ -1,0 +1,557 @@
+{
+  "chunk_index": 30,
+  "start_sec": 9000.0,
+  "end_sec": 9300.0,
+  "turns": [
+    {
+      "start": 9002.258,
+      "end": 9004.064,
+      "formatted_start": "02:30:02.258",
+      "formatted_end": "02:30:04.064",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9011.641,
+      "end": 9015.573,
+      "formatted_start": "02:30:11.641",
+      "formatted_end": "02:30:15.573",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9015.826,
+      "end": 9018.661,
+      "formatted_start": "02:30:15.826",
+      "formatted_end": "02:30:18.661",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9020.855,
+      "end": 9021.479,
+      "formatted_start": "02:30:20.855",
+      "formatted_end": "02:30:21.479",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9021.513,
+      "end": 9022.913,
+      "formatted_start": "02:30:21.513",
+      "formatted_end": "02:30:22.913",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9023.605,
+      "end": 9024.027,
+      "formatted_start": "02:30:23.605",
+      "formatted_end": "02:30:24.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9032.836,
+      "end": 9033.663,
+      "formatted_start": "02:30:32.836",
+      "formatted_end": "02:30:33.663",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9039.13,
+      "end": 9039.974,
+      "formatted_start": "02:30:39.130",
+      "formatted_end": "02:30:39.974",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9056.984,
+      "end": 9057.794,
+      "formatted_start": "02:30:56.984",
+      "formatted_end": "02:30:57.794",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9076.998,
+      "end": 9077.808,
+      "formatted_start": "02:31:16.998",
+      "formatted_end": "02:31:17.808",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9082.482,
+      "end": 9085.283,
+      "formatted_start": "02:31:22.482",
+      "formatted_end": "02:31:25.283",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9114.19,
+      "end": 9116.873,
+      "formatted_start": "02:31:54.190",
+      "formatted_end": "02:31:56.873",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9117.177,
+      "end": 9118.865,
+      "formatted_start": "02:31:57.177",
+      "formatted_end": "02:31:58.865",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9119.607,
+      "end": 9121.227,
+      "formatted_start": "02:31:59.607",
+      "formatted_end": "02:32:01.227",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9121.413,
+      "end": 9124.147,
+      "formatted_start": "02:32:01.413",
+      "formatted_end": "02:32:04.147",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9137.09,
+      "end": 9137.697,
+      "formatted_start": "02:32:17.090",
+      "formatted_end": "02:32:17.697",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9137.731,
+      "end": 9139.317,
+      "formatted_start": "02:32:17.731",
+      "formatted_end": "02:32:19.317",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9139.52,
+      "end": 9141.038,
+      "formatted_start": "02:32:19.520",
+      "formatted_end": "02:32:21.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9142.304,
+      "end": 9143.03,
+      "formatted_start": "02:32:22.304",
+      "formatted_end": "02:32:23.030",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9143.3,
+      "end": 9143.671,
+      "formatted_start": "02:32:23.300",
+      "formatted_end": "02:32:23.671",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9155.045,
+      "end": 9156.31,
+      "formatted_start": "02:32:35.045",
+      "formatted_end": "02:32:36.310",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9156.682,
+      "end": 9157.458,
+      "formatted_start": "02:32:36.682",
+      "formatted_end": "02:32:37.458",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9157.508,
+      "end": 9158.875,
+      "formatted_start": "02:32:37.508",
+      "formatted_end": "02:32:38.875",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9160.192,
+      "end": 9163.702,
+      "formatted_start": "02:32:40.192",
+      "formatted_end": "02:32:43.702",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9164.731,
+      "end": 9165.17,
+      "formatted_start": "02:32:44.731",
+      "formatted_end": "02:32:45.170",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9168.781,
+      "end": 9169.912,
+      "formatted_start": "02:32:48.781",
+      "formatted_end": "02:32:49.912",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9170.131,
+      "end": 9170.738,
+      "formatted_start": "02:32:50.131",
+      "formatted_end": "02:32:50.738",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9171.683,
+      "end": 9189.132,
+      "formatted_start": "02:32:51.683",
+      "formatted_end": "02:33:09.132",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9234.965,
+      "end": 9236.112,
+      "formatted_start": "02:33:54.965",
+      "formatted_end": "02:33:56.112",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9237.007,
+      "end": 9250.777,
+      "formatted_start": "02:33:57.007",
+      "formatted_end": "02:34:10.777",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9251.755,
+      "end": 9253.021,
+      "formatted_start": "02:34:11.755",
+      "formatted_end": "02:34:13.021",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9253.342,
+      "end": 9259.028,
+      "formatted_start": "02:34:13.342",
+      "formatted_end": "02:34:19.028",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9260.969,
+      "end": 9263.5,
+      "formatted_start": "02:34:20.969",
+      "formatted_end": "02:34:23.500",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9263.804,
+      "end": 9265.019,
+      "formatted_start": "02:34:23.804",
+      "formatted_end": "02:34:25.019",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9265.576,
+      "end": 9267.415,
+      "formatted_start": "02:34:25.576",
+      "formatted_end": "02:34:27.415",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9275.043,
+      "end": 9288.037,
+      "formatted_start": "02:34:35.043",
+      "formatted_end": "02:34:48.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9288.526,
+      "end": 9289.032,
+      "formatted_start": "02:34:48.526",
+      "formatted_end": "02:34:49.032",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9000.0,
+      "end": 9020.0,
+      "formatted_start": "02:30:00.000",
+      "formatted_end": "02:30:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 9030.0,
+      "end": 9059.98,
+      "formatted_start": "02:30:30.000",
+      "formatted_end": "02:30:59.980",
+      "text": "مرد در اینجا"
+    },
+    {
+      "id": 2,
+      "start": 9060.0,
+      "end": 9082.0,
+      "formatted_start": "02:31:00.000",
+      "formatted_end": "02:31:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 9082.0,
+      "end": 9088.0,
+      "formatted_start": "02:31:22.000",
+      "formatted_end": "02:31:28.000",
+      "text": "جزادیت از چهره آباز نگیشدن، از چهره برخورد آباز نگیشدن."
+    },
+    {
+      "id": 4,
+      "start": 9088.0,
+      "end": 9093.0,
+      "formatted_start": "02:31:28.000",
+      "formatted_end": "02:31:33.000",
+      "text": "رومنتریسی در کتاب قدرت جذبه نشان میدهد که مفروق و دوست داشتنی،"
+    },
+    {
+      "id": 5,
+      "start": 9093.0,
+      "end": 9096.0,
+      "formatted_start": "02:31:33.000",
+      "formatted_end": "02:31:36.000",
+      "text": "روزون پر حرفتن یا مواقع استعدادتن نیستند،"
+    },
+    {
+      "id": 6,
+      "start": 9096.0,
+      "end": 9102.0,
+      "formatted_start": "02:31:36.000",
+      "formatted_end": "02:31:42.000",
+      "text": "و که بهتر نشویدن، بیشتر به احترام میگذارن و ساده فارغ تره اتفاق سنگیر میدونند."
+    },
+    {
+      "id": 7,
+      "start": 9102.0,
+      "end": 9107.0,
+      "formatted_start": "02:31:42.000",
+      "formatted_end": "02:31:47.000",
+      "text": "او یاد نمی کند که از اجهار یا تظاهر به رست نگیرند،"
+    },
+    {
+      "id": 8,
+      "start": 9107.0,
+      "end": 9127.0,
+      "formatted_start": "02:31:47.000",
+      "formatted_end": "02:32:07.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 9157.0,
+      "end": 9159.0,
+      "formatted_start": "02:32:37.000",
+      "formatted_end": "02:32:39.000",
+      "text": "بکن"
+    },
+    {
+      "id": 10,
+      "start": 9161.0,
+      "end": 9163.0,
+      "formatted_start": "02:32:41.000",
+      "formatted_end": "02:32:43.000",
+      "text": "مادرش میخواد بیاد بیش بده"
+    },
+    {
+      "id": 11,
+      "start": 9163.0,
+      "end": 9165.0,
+      "formatted_start": "02:32:43.000",
+      "formatted_end": "02:32:45.000",
+      "text": "بیاید بشه شک"
+    },
+    {
+      "id": 12,
+      "start": 9169.0,
+      "end": 9171.0,
+      "formatted_start": "02:32:49.000",
+      "formatted_end": "02:32:51.000",
+      "text": "چند ماهی چی گفتیم؟"
+    },
+    {
+      "id": 13,
+      "start": 9171.0,
+      "end": 9173.0,
+      "formatted_start": "02:32:51.000",
+      "formatted_end": "02:32:53.000",
+      "text": "پنجه روزی"
+    },
+    {
+      "id": 14,
+      "start": 9173.0,
+      "end": 9175.0,
+      "formatted_start": "02:32:53.000",
+      "formatted_end": "02:32:55.000",
+      "text": "این روزی یکونیم قطعه چکام میدی؟"
+    },
+    {
+      "id": 15,
+      "start": 9175.0,
+      "end": 9177.0,
+      "formatted_start": "02:32:55.000",
+      "formatted_end": "02:32:57.000",
+      "text": "با"
+    },
+    {
+      "id": 16,
+      "start": 9177.0,
+      "end": 9179.0,
+      "formatted_start": "02:32:57.000",
+      "formatted_end": "02:32:59.000",
+      "text": "این هشت ساعت هشت قطعه"
+    },
+    {
+      "id": 17,
+      "start": 9179.0,
+      "end": 9181.0,
+      "formatted_start": "02:32:59.000",
+      "formatted_end": "02:33:01.000",
+      "text": "با"
+    },
+    {
+      "id": 18,
+      "start": 9181.0,
+      "end": 9183.0,
+      "formatted_start": "02:33:01.000",
+      "formatted_end": "02:33:03.000",
+      "text": "این هم هشت ساعت قشوه و مرافق بخوری"
+    },
+    {
+      "id": 19,
+      "start": 9183.0,
+      "end": 9185.0,
+      "formatted_start": "02:33:03.000",
+      "formatted_end": "02:33:05.000",
+      "text": "این قطعه اینی از طوراک اینی سه قطعه"
+    },
+    {
+      "id": 20,
+      "start": 9215.0,
+      "end": 9243.0,
+      "formatted_start": "02:33:35.000",
+      "formatted_end": "02:34:03.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 9245.0,
+      "end": 9251.0,
+      "formatted_start": "02:34:05.000",
+      "formatted_end": "02:34:11.000",
+      "text": "اینکه آن نبویش زهرانستان هم وفات و هم موت هر دو رو تجربه کردن افراد"
+    },
+    {
+      "id": 22,
+      "start": 9251.0,
+      "end": 9256.0,
+      "formatted_start": "02:34:11.000",
+      "formatted_end": "02:34:16.000",
+      "text": "ما تباتی که قرآن می فرمایید در خواب وفات رو تجربه کنیم"
+    },
+    {
+      "id": 23,
+      "start": 9256.0,
+      "end": 9259.0,
+      "formatted_start": "02:34:16.000",
+      "formatted_end": "02:34:19.000",
+      "text": "یا توفیق شبها وفات میکنیم"
+    },
+    {
+      "id": 24,
+      "start": 9259.0,
+      "end": 9264.0,
+      "formatted_start": "02:34:19.000",
+      "formatted_end": "02:34:24.000",
+      "text": "تجربه یعنی که در قرآن است او هم وفات رو تجربه نمی موت شده"
+    },
+    {
+      "id": 25,
+      "start": 9264.0,
+      "end": 9268.0,
+      "formatted_start": "02:34:24.000",
+      "formatted_end": "02:34:28.000",
+      "text": "موت رو همه مرد نیست وفات توفیقیش از بدن میاد بیرون"
+    },
+    {
+      "id": 26,
+      "start": 9268.0,
+      "end": 9273.0,
+      "formatted_start": "02:34:28.000",
+      "formatted_end": "02:34:33.000",
+      "text": "بیرون مرد رو دارید آیه قرآن یعنی توی ممکنه شدید"
+    },
+    {
+      "id": 27,
+      "start": 9273.0,
+      "end": 9275.0,
+      "formatted_start": "02:34:33.000",
+      "formatted_end": "02:34:35.000",
+      "text": "درسته؟"
+    },
+    {
+      "id": 28,
+      "start": 9275.0,
+      "end": 9277.0,
+      "formatted_start": "02:34:35.000",
+      "formatted_end": "02:34:37.000",
+      "text": "بله، این رو باقی نماز باشه"
+    },
+    {
+      "id": 29,
+      "start": 9277.0,
+      "end": 9279.0,
+      "formatted_start": "02:34:37.000",
+      "formatted_end": "02:34:39.000",
+      "text": "بله، این رو باقی نماز باشه"
+    },
+    {
+      "id": 30,
+      "start": 9279.0,
+      "end": 9281.0,
+      "formatted_start": "02:34:39.000",
+      "formatted_end": "02:34:41.000",
+      "text": "بله، این رو باقی نماز باشه"
+    },
+    {
+      "id": 31,
+      "start": 9281.0,
+      "end": 9285.0,
+      "formatted_start": "02:34:41.000",
+      "formatted_end": "02:34:45.000",
+      "text": "24 ساعت، اگر 8 ساعت کام در ازدویی، این رو کم میشه"
+    },
+    {
+      "id": 32,
+      "start": 9285.0,
+      "end": 9288.0,
+      "formatted_start": "02:34:45.000",
+      "formatted_end": "02:34:48.000",
+      "text": "این 8 ساعت وفات داریم"
+    },
+    {
+      "id": 33,
+      "start": 9288.0,
+      "end": 9294.0,
+      "formatted_start": "02:34:48.000",
+      "formatted_end": "02:34:54.000",
+      "text": "ما همین 24 ساعت هم، 8 وفات، 16 ساعت وفات جسم"
+    },
+    {
+      "id": 34,
+      "start": 9294.0,
+      "end": 9298.0,
+      "formatted_start": "02:34:54.000",
+      "formatted_end": "02:34:58.000",
+      "text": "وفات، جسم، وفات، جسم، وفات، جسم"
+    },
+    {
+      "id": 35,
+      "start": 9298.0,
+      "end": 9300.0,
+      "formatted_start": "02:34:58.000",
+      "formatted_end": "02:35:00.000",
+      "text": "و همین 100 ساعت یه های آیا رسان مانده"
+    }
+  ],
+  "status": "completed"
+}

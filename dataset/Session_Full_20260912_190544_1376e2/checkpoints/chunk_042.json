@@ -1,0 +1,162 @@
+{
+  "chunk_index": 42,
+  "start_sec": 12600.0,
+  "end_sec": 12900.0,
+  "turns": [
+    {
+      "start": 12601.651,
+      "end": 12614.999,
+      "formatted_start": "03:30:01.651",
+      "formatted_end": "03:30:14.999",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12607.439,
+      "end": 12608.148,
+      "formatted_start": "03:30:07.439",
+      "formatted_end": "03:30:08.148",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12615.488,
+      "end": 12620.635,
+      "formatted_start": "03:30:15.488",
+      "formatted_end": "03:30:20.635",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12621.125,
+      "end": 12627.031,
+      "formatted_start": "03:30:21.125",
+      "formatted_end": "03:30:27.031",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12627.166,
+      "end": 12627.588,
+      "formatted_start": "03:30:27.166",
+      "formatted_end": "03:30:27.588",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12627.588,
+      "end": 12628.617,
+      "formatted_start": "03:30:27.588",
+      "formatted_end": "03:30:28.617",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12890.602,
+      "end": 12892.357,
+      "formatted_start": "03:34:50.602",
+      "formatted_end": "03:34:52.357",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12893.926,
+      "end": 12894.837,
+      "formatted_start": "03:34:53.926",
+      "formatted_end": "03:34:54.837",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12600.0,
+      "end": 12614.92,
+      "formatted_start": "03:30:00.000",
+      "formatted_end": "03:30:14.920",
+      "text": "خدای نکرده، خدای نکرده، هر لحظه اگه این لحظه از بیبره، این سلامتی، این حالت، این توی آرزونی کشن، به خدا نمیخوام، کسی رو مجابو کنند که شکر، خوزان ماشد."
+    },
+    {
+      "id": 1,
+      "start": 12614.92,
+      "end": 12628.74,
+      "formatted_start": "03:30:14.920",
+      "formatted_end": "03:30:28.740",
+      "text": "ولی هر لحظه باید شکر کرد و سپاس خوزان ماشد، باید سپاس خوزان اون لحظه که باید سپاس خوزان اون چی دمان ماشد، که چند هزار باری شعر و پرد."
+    },
+    {
+      "id": 2,
+      "start": 12630.0,
+      "end": 12659.98,
+      "formatted_start": "03:30:30.000",
+      "formatted_end": "03:30:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 12660.0,
+      "end": 12689.98,
+      "formatted_start": "03:31:00.000",
+      "formatted_end": "03:31:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 12690.0,
+      "end": 12719.98,
+      "formatted_start": "03:31:30.000",
+      "formatted_end": "03:31:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 12720.0,
+      "end": 12749.98,
+      "formatted_start": "03:32:00.000",
+      "formatted_end": "03:32:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 12750.0,
+      "end": 12752.0,
+      "formatted_start": "03:32:30.000",
+      "formatted_end": "03:32:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 12780.0,
+      "end": 12809.98,
+      "formatted_start": "03:33:00.000",
+      "formatted_end": "03:33:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 12810.0,
+      "end": 12839.98,
+      "formatted_start": "03:33:30.000",
+      "formatted_end": "03:33:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 12840.0,
+      "end": 12869.98,
+      "formatted_start": "03:34:00.000",
+      "formatted_end": "03:34:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 12870.0,
+      "end": 12890.0,
+      "formatted_start": "03:34:30.000",
+      "formatted_end": "03:34:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 12890.0,
+      "end": 12900.0,
+      "formatted_start": "03:34:50.000",
+      "formatted_end": "03:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,546 @@
+{
+  "chunk_index": 23,
+  "start_sec": 6900.0,
+  "end_sec": 7200.0,
+  "turns": [
+    {
+      "start": 7041.663,
+      "end": 7042.017,
+      "formatted_start": "01:57:21.663",
+      "formatted_end": "01:57:22.017",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7045.477,
+      "end": 7046.118,
+      "formatted_start": "01:57:25.477",
+      "formatted_end": "01:57:26.118",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7049.51,
+      "end": 7060.529,
+      "formatted_start": "01:57:29.510",
+      "formatted_end": "01:57:40.529",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7055.163,
+      "end": 7065.322,
+      "formatted_start": "01:57:35.163",
+      "formatted_end": "01:57:45.322",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7065.49,
+      "end": 7067.093,
+      "formatted_start": "01:57:45.490",
+      "formatted_end": "01:57:47.093",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7066.165,
+      "end": 7066.672,
+      "formatted_start": "01:57:46.165",
+      "formatted_end": "01:57:46.672",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7067.549,
+      "end": 7069.928,
+      "formatted_start": "01:57:47.549",
+      "formatted_end": "01:57:49.928",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7068.983,
+      "end": 7093.233,
+      "formatted_start": "01:57:48.983",
+      "formatted_end": "01:58:13.233",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7074.113,
+      "end": 7075.21,
+      "formatted_start": "01:57:54.113",
+      "formatted_end": "01:57:55.210",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7077.235,
+      "end": 7083.513,
+      "formatted_start": "01:57:57.235",
+      "formatted_end": "01:58:03.513",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7086.432,
+      "end": 7087.073,
+      "formatted_start": "01:58:06.432",
+      "formatted_end": "01:58:07.073",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7091.512,
+      "end": 7092.946,
+      "formatted_start": "01:58:11.512",
+      "formatted_end": "01:58:12.946",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7093.739,
+      "end": 7107.931,
+      "formatted_start": "01:58:13.739",
+      "formatted_end": "01:58:27.931",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7109.922,
+      "end": 7113.618,
+      "formatted_start": "01:58:29.922",
+      "formatted_end": "01:58:33.618",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7115.288,
+      "end": 7159.18,
+      "formatted_start": "01:58:35.288",
+      "formatted_end": "01:59:19.180",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7138.981,
+      "end": 7139.42,
+      "formatted_start": "01:58:58.981",
+      "formatted_end": "01:58:59.420",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7142.288,
+      "end": 7142.795,
+      "formatted_start": "01:59:02.288",
+      "formatted_end": "01:59:02.795",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7155.029,
+      "end": 7155.67,
+      "formatted_start": "01:59:15.029",
+      "formatted_end": "01:59:15.670",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7160.547,
+      "end": 7171.668,
+      "formatted_start": "01:59:20.547",
+      "formatted_end": "01:59:31.668",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7173.119,
+      "end": 7190.197,
+      "formatted_start": "01:59:33.119",
+      "formatted_end": "01:59:50.197",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7177.388,
+      "end": 7177.962,
+      "formatted_start": "01:59:37.388",
+      "formatted_end": "01:59:37.962",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7189.42,
+      "end": 7189.792,
+      "formatted_start": "01:59:49.420",
+      "formatted_end": "01:59:49.792",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7190.703,
+      "end": 7197.2,
+      "formatted_start": "01:59:50.703",
+      "formatted_end": "01:59:57.200",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7198.482,
+      "end": 7199.967,
+      "formatted_start": "01:59:58.482",
+      "formatted_end": "01:59:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6900.0,
+      "end": 6929.98,
+      "formatted_start": "01:55:00.000",
+      "formatted_end": "01:55:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6930.0,
+      "end": 6940.0,
+      "formatted_start": "01:55:30.000",
+      "formatted_end": "01:55:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 6960.0,
+      "end": 6989.98,
+      "formatted_start": "01:56:00.000",
+      "formatted_end": "01:56:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 6990.0,
+      "end": 7018.0,
+      "formatted_start": "01:56:30.000",
+      "formatted_end": "01:56:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 7020.0,
+      "end": 7045.0,
+      "formatted_start": "01:57:00.000",
+      "formatted_end": "01:57:25.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 7045.0,
+      "end": 7047.0,
+      "formatted_start": "01:57:25.000",
+      "formatted_end": "01:57:27.000",
+      "text": "بخونید"
+    },
+    {
+      "id": 6,
+      "start": 7049.0,
+      "end": 7052.0,
+      "formatted_start": "01:57:29.000",
+      "formatted_end": "01:57:32.000",
+      "text": "این شربت هاش روزی 3 بار"
+    },
+    {
+      "id": 7,
+      "start": 7052.0,
+      "end": 7054.0,
+      "formatted_start": "01:57:32.000",
+      "formatted_end": "01:57:34.000",
+      "text": "قطعه هم هر 8 ساعت 16 قطعه"
+    },
+    {
+      "id": 8,
+      "start": 7054.0,
+      "end": 7056.0,
+      "formatted_start": "01:57:34.000",
+      "formatted_end": "01:57:36.000",
+      "text": "سلام برویم"
+    },
+    {
+      "id": 9,
+      "start": 7056.0,
+      "end": 7058.0,
+      "formatted_start": "01:57:36.000",
+      "formatted_end": "01:57:38.000",
+      "text": "قطعه هاش هر 8 ساعت 16 قطعه"
+    },
+    {
+      "id": 10,
+      "start": 7058.0,
+      "end": 7060.0,
+      "formatted_start": "01:57:38.000",
+      "formatted_end": "01:57:40.000",
+      "text": "بخونید"
+    },
+    {
+      "id": 11,
+      "start": 7060.0,
+      "end": 7062.0,
+      "formatted_start": "01:57:40.000",
+      "formatted_end": "01:57:42.000",
+      "text": "با جلو تخت بزارید"
+    },
+    {
+      "id": 12,
+      "start": 7062.0,
+      "end": 7064.0,
+      "formatted_start": "01:57:42.000",
+      "formatted_end": "01:57:44.000",
+      "text": "برکتون و معیقتونید"
+    },
+    {
+      "id": 13,
+      "start": 7064.0,
+      "end": 7066.0,
+      "formatted_start": "01:57:44.000",
+      "formatted_end": "01:57:46.000",
+      "text": "سلام برویم"
+    },
+    {
+      "id": 14,
+      "start": 7066.0,
+      "end": 7068.0,
+      "formatted_start": "01:57:46.000",
+      "formatted_end": "01:57:48.000",
+      "text": "چند روزی شد؟"
+    },
+    {
+      "id": 15,
+      "start": 7068.0,
+      "end": 7069.0,
+      "formatted_start": "01:57:48.000",
+      "formatted_end": "01:57:49.000",
+      "text": "دو روز"
+    },
+    {
+      "id": 16,
+      "start": 7069.0,
+      "end": 7070.0,
+      "formatted_start": "01:57:49.000",
+      "formatted_end": "01:57:50.000",
+      "text": "یه روز"
+    },
+    {
+      "id": 17,
+      "start": 7070.0,
+      "end": 7072.0,
+      "formatted_start": "01:57:50.000",
+      "formatted_end": "01:57:52.000",
+      "text": "دوازده هم ساعت صبح خونه"
+    },
+    {
+      "id": 18,
+      "start": 7072.0,
+      "end": 7102.0,
+      "formatted_start": "01:57:52.000",
+      "formatted_end": "01:58:22.000",
+      "text": "اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینجا اینج"
+    },
+    {
+      "id": 19,
+      "start": 7102.0,
+      "end": 7105.0,
+      "formatted_start": "01:58:22.000",
+      "formatted_end": "01:58:25.000",
+      "text": "اولین روز بعد از تعدیلی که اینو داشته برموند"
+    },
+    {
+      "id": 20,
+      "start": 7105.0,
+      "end": 7107.0,
+      "formatted_start": "01:58:25.000",
+      "formatted_end": "01:58:27.000",
+      "text": "این روز را سسس مناجر برموند"
+    },
+    {
+      "id": 21,
+      "start": 7107.0,
+      "end": 7109.0,
+      "formatted_start": "01:58:27.000",
+      "formatted_end": "01:58:29.000",
+      "text": "۵۸ دقیقه"
+    },
+    {
+      "id": 22,
+      "start": 7109.0,
+      "end": 7111.0,
+      "formatted_start": "01:58:29.000",
+      "formatted_end": "01:58:31.000",
+      "text": "بروخونی مادر نوزاد"
+    },
+    {
+      "id": 23,
+      "start": 7111.0,
+      "end": 7114.0,
+      "formatted_start": "01:58:31.000",
+      "formatted_end": "01:58:34.000",
+      "text": "مادر آی منفی نوزاد آی منفی"
+    },
+    {
+      "id": 24,
+      "start": 7114.0,
+      "end": 7117.0,
+      "formatted_start": "01:58:34.000",
+      "formatted_end": "01:58:37.000",
+      "text": "نه پدر چیه؟ آی مصفر"
+    },
+    {
+      "id": 25,
+      "start": 7117.0,
+      "end": 7121.0,
+      "formatted_start": "01:58:37.000",
+      "formatted_end": "01:58:41.000",
+      "text": "مادر آی منفی پدر آی مصفر بچه آی منفی"
+    },
+    {
+      "id": 26,
+      "start": 7121.0,
+      "end": 7126.0,
+      "formatted_start": "01:58:41.000",
+      "formatted_end": "01:58:46.000",
+      "text": "آی منفی اینا انظر ایرهاش چون بچه منفیه"
+    },
+    {
+      "id": 27,
+      "start": 7126.0,
+      "end": 7128.0,
+      "formatted_start": "01:58:46.000",
+      "formatted_end": "01:58:48.000",
+      "text": "مادر هم منفیه خوبه"
+    },
+    {
+      "id": 28,
+      "start": 7128.0,
+      "end": 7129.0,
+      "formatted_start": "01:58:48.000",
+      "formatted_end": "01:58:49.000",
+      "text": "بله؟"
+    },
+    {
+      "id": 29,
+      "start": 7129.0,
+      "end": 7136.0,
+      "formatted_start": "01:58:49.000",
+      "formatted_end": "01:58:56.000",
+      "text": "این ها با هم ناسازی بارند این هم آیه باز ناسازی بارند"
+    },
+    {
+      "id": 30,
+      "start": 7136.0,
+      "end": 7142.0,
+      "formatted_start": "01:58:56.000",
+      "formatted_end": "01:59:02.000",
+      "text": "این ها منفی مصبت ها جور در میاد دوتا منفی هستند ولی او با آ جور در میاد"
+    },
+    {
+      "id": 31,
+      "start": 7142.0,
+      "end": 7149.0,
+      "formatted_start": "01:59:02.000",
+      "formatted_end": "01:59:09.000",
+      "text": "در نتیجه این ها دوشتر زردیر بالا پیشتونده میشنند و حتما باید زیر دستگاه یا بستدی بشند"
+    },
+    {
+      "id": 32,
+      "start": 7149.0,
+      "end": 7154.0,
+      "formatted_start": "01:59:09.000",
+      "formatted_end": "01:59:14.000",
+      "text": "الان با پنجو خوردی هم باید بستدی میشد کردن ولی دکتر یک تخبیف داده"
+    },
+    {
+      "id": 33,
+      "start": 7154.0,
+      "end": 7160.0,
+      "formatted_start": "01:59:14.000",
+      "formatted_end": "01:59:20.000",
+      "text": "این ترتیلی بود که اعتمالاً همون بود. دیگه چیز نبوده رفت کرده ندید."
+    },
+    {
+      "id": 34,
+      "start": 7160.0,
+      "end": 7168.0,
+      "formatted_start": "01:59:20.000",
+      "formatted_end": "01:59:28.000",
+      "text": "خب دوست داره دیگه هم که ما تفاوت نیست کردیم اشبارت کردیم. اون هم اون اعتماد نزدیک باید بستری بشه یا یک دستگاه باشه."
+    },
+    {
+      "id": 35,
+      "start": 7168.0,
+      "end": 7171.0,
+      "formatted_start": "01:59:28.000",
+      "formatted_end": "01:59:31.000",
+      "text": "اما بینوز هم ترتیلی بودن اونجا."
+    },
+    {
+      "id": 36,
+      "start": 7171.0,
+      "end": 7178.0,
+      "formatted_start": "01:59:31.000",
+      "formatted_end": "01:59:38.000",
+      "text": "ببینید از بینوز مثلاً سه بم چهارم که شروع میشه کم کم زیاد میشن."
+    },
+    {
+      "id": 37,
+      "start": 7178.0,
+      "end": 7181.0,
+      "formatted_start": "01:59:38.000",
+      "formatted_end": "01:59:41.000",
+      "text": "یعنی رفته رفته پیشتر میشه"
+    },
+    {
+      "id": 38,
+      "start": 7181.0,
+      "end": 7185.0,
+      "formatted_start": "01:59:41.000",
+      "formatted_end": "01:59:45.000",
+      "text": "مخصوان دو هفته اول خیلی بالا رونده"
+    },
+    {
+      "id": 39,
+      "start": 7185.0,
+      "end": 7187.0,
+      "formatted_start": "01:59:45.000",
+      "formatted_end": "01:59:47.000",
+      "text": "بعد از دو هفته میاد پایین"
+    },
+    {
+      "id": 40,
+      "start": 7187.0,
+      "end": 7189.0,
+      "formatted_start": "01:59:47.000",
+      "formatted_end": "01:59:49.000",
+      "text": "در یه ماه و بعد یه ماه یکم زرد میشن"
+    },
+    {
+      "id": 41,
+      "start": 7189.0,
+      "end": 7191.0,
+      "formatted_start": "01:59:49.000",
+      "formatted_end": "01:59:51.000",
+      "text": "اون مهم نیست"
+    },
+    {
+      "id": 42,
+      "start": 7191.0,
+      "end": 7193.0,
+      "formatted_start": "01:59:51.000",
+      "formatted_end": "01:59:53.000",
+      "text": "ولی اون دو هفته اول خیلی مهم"
+    },
+    {
+      "id": 43,
+      "start": 7193.0,
+      "end": 7196.0,
+      "formatted_start": "01:59:53.000",
+      "formatted_end": "01:59:56.000",
+      "text": "چون زردی های زیاد میتونه عوارز زگنی بذاره"
+    },
+    {
+      "id": 44,
+      "start": 7196.0,
+      "end": 7198.0,
+      "formatted_start": "01:59:56.000",
+      "formatted_end": "01:59:58.000",
+      "text": "یعنی از آیکی و اینا"
+    },
+    {
+      "id": 45,
+      "start": 7198.0,
+      "end": 7200.0,
+      "formatted_start": "01:59:58.000",
+      "formatted_end": "02:00:00.000",
+      "text": "باید توتر بیاد پایین"
+    }
+  ],
+  "status": "completed"
+}

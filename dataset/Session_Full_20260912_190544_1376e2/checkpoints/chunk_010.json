@@ -1,0 +1,89 @@
+{
+  "chunk_index": 10,
+  "start_sec": 3000.0,
+  "end_sec": 3300.0,
+  "turns": [],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3000.0,
+      "end": 3029.98,
+      "formatted_start": "00:50:00.000",
+      "formatted_end": "00:50:29.980",
+      "text": "مردی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 3030.0,
+      "end": 3059.98,
+      "formatted_start": "00:50:30.000",
+      "formatted_end": "00:50:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 3060.0,
+      "end": 3089.98,
+      "formatted_start": "00:51:00.000",
+      "formatted_end": "00:51:29.980",
+      "text": "موسیقی در اینجا"
+    },
+    {
+      "id": 3,
+      "start": 3090.0,
+      "end": 3119.98,
+      "formatted_start": "00:51:30.000",
+      "formatted_end": "00:51:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 3120.0,
+      "end": 3149.98,
+      "formatted_start": "00:52:00.000",
+      "formatted_end": "00:52:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 5,
+      "start": 3150.0,
+      "end": 3179.98,
+      "formatted_start": "00:52:30.000",
+      "formatted_end": "00:52:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 3180.0,
+      "end": 3209.98,
+      "formatted_start": "00:53:00.000",
+      "formatted_end": "00:53:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 7,
+      "start": 3210.0,
+      "end": 3239.98,
+      "formatted_start": "00:53:30.000",
+      "formatted_end": "00:53:59.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 8,
+      "start": 3240.0,
+      "end": 3269.98,
+      "formatted_start": "00:54:00.000",
+      "formatted_end": "00:54:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 3270.0,
+      "end": 3299.98,
+      "formatted_start": "00:54:30.000",
+      "formatted_end": "00:54:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    }
+  ],
+  "status": "completed"
+}

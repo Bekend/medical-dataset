@@ -1,0 +1,335 @@
+{
+  "chunk_index": 18,
+  "start_sec": 5400.0,
+  "end_sec": 5700.0,
+  "turns": [
+    {
+      "start": 5457.17,
+      "end": 5458.047,
+      "formatted_start": "01:30:57.170",
+      "formatted_end": "01:30:58.047",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5462.401,
+      "end": 5463.532,
+      "formatted_start": "01:31:02.401",
+      "formatted_end": "01:31:03.532",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5519.708,
+      "end": 5520.603,
+      "formatted_start": "01:31:59.708",
+      "formatted_end": "01:32:00.603",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5521.548,
+      "end": 5524.028,
+      "formatted_start": "01:32:01.548",
+      "formatted_end": "01:32:04.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5537.883,
+      "end": 5543.03,
+      "formatted_start": "01:32:17.883",
+      "formatted_end": "01:32:23.030",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5549.965,
+      "end": 5551.585,
+      "formatted_start": "01:32:29.965",
+      "formatted_end": "01:32:31.585",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5551.602,
+      "end": 5552.446,
+      "formatted_start": "01:32:31.602",
+      "formatted_end": "01:32:32.446",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5553.357,
+      "end": 5560.698,
+      "formatted_start": "01:32:33.357",
+      "formatted_end": "01:32:40.698",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5561.39,
+      "end": 5563.364,
+      "formatted_start": "01:32:41.390",
+      "formatted_end": "01:32:43.364",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5563.567,
+      "end": 5564.731,
+      "formatted_start": "01:32:43.567",
+      "formatted_end": "01:32:44.731",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5564.866,
+      "end": 5565.524,
+      "formatted_start": "01:32:44.866",
+      "formatted_end": "01:32:45.524",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5567.633,
+      "end": 5568.477,
+      "formatted_start": "01:32:47.633",
+      "formatted_end": "01:32:48.477",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5621.228,
+      "end": 5621.752,
+      "formatted_start": "01:33:41.228",
+      "formatted_end": "01:33:41.752",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5680.24,
+      "end": 5681.489,
+      "formatted_start": "01:34:40.240",
+      "formatted_end": "01:34:41.489",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5681.995,
+      "end": 5686.214,
+      "formatted_start": "01:34:41.995",
+      "formatted_end": "01:34:46.214",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5688.914,
+      "end": 5689.825,
+      "formatted_start": "01:34:48.914",
+      "formatted_end": "01:34:49.825",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5690.467,
+      "end": 5691.31,
+      "formatted_start": "01:34:50.467",
+      "formatted_end": "01:34:51.310",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5696.963,
+      "end": 5697.976,
+      "formatted_start": "01:34:56.963",
+      "formatted_end": "01:34:57.976",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5699.022,
+      "end": 5699.444,
+      "formatted_start": "01:34:59.022",
+      "formatted_end": "01:34:59.444",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 5400.0,
+      "end": 5429.98,
+      "formatted_start": "01:30:00.000",
+      "formatted_end": "01:30:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 5430.0,
+      "end": 5437.14,
+      "formatted_start": "01:30:30.000",
+      "formatted_end": "01:30:37.140",
+      "text": "باشه بی بیچارگی دارد"
+    },
+    {
+      "id": 2,
+      "start": 5437.14,
+      "end": 5441.64,
+      "formatted_start": "01:30:37.140",
+      "formatted_end": "01:30:41.640",
+      "text": "و بیشمه باید بودارد"
+    },
+    {
+      "id": 3,
+      "start": 5441.64,
+      "end": 5444.88,
+      "formatted_start": "01:30:41.640",
+      "formatted_end": "01:30:44.880",
+      "text": "باید بزشت از جامعه"
+    },
+    {
+      "id": 4,
+      "start": 5444.88,
+      "end": 5449.4,
+      "formatted_start": "01:30:44.880",
+      "formatted_end": "01:30:49.400",
+      "text": "زندگی اشکالیگرست"
+    },
+    {
+      "id": 5,
+      "start": 5449.4,
+      "end": 5452.66,
+      "formatted_start": "01:30:49.400",
+      "formatted_end": "01:30:52.660",
+      "text": "مدبری زندگی"
+    },
+    {
+      "id": 6,
+      "start": 5452.66,
+      "end": 5456.24,
+      "formatted_start": "01:30:52.660",
+      "formatted_end": "01:30:56.240",
+      "text": "زنده بادا شخصی"
+    },
+    {
+      "id": 7,
+      "start": 5456.24,
+      "end": 5458.64,
+      "formatted_start": "01:30:56.240",
+      "formatted_end": "01:30:58.640",
+      "text": "زنده بادی"
+    },
+    {
+      "id": 8,
+      "start": 5458.64,
+      "end": 5474.98,
+      "formatted_start": "01:30:58.640",
+      "formatted_end": "01:31:14.980",
+      "text": "زندگی دور از وطن"
+    },
+    {
+      "id": 9,
+      "start": 5474.98,
+      "end": 5478.14,
+      "formatted_start": "01:31:14.980",
+      "formatted_end": "01:31:18.140",
+      "text": "تقوی بلوه میدم"
+    },
+    {
+      "id": 10,
+      "start": 5488.64,
+      "end": 5508.64,
+      "formatted_start": "01:31:28.640",
+      "formatted_end": "01:31:48.640",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 5518.64,
+      "end": 5528.64,
+      "formatted_start": "01:31:58.640",
+      "formatted_end": "01:32:08.640",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 5528.64,
+      "end": 5538.64,
+      "formatted_start": "01:32:08.640",
+      "formatted_end": "01:32:18.640",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 5538.64,
+      "end": 5567.64,
+      "formatted_start": "01:32:18.640",
+      "formatted_end": "01:32:47.640",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 5568.64,
+      "end": 5576.64,
+      "formatted_start": "01:32:48.640",
+      "formatted_end": "01:32:56.640",
+      "text": "آدم آبار گل ها بوی کاغر میدهد"
+    },
+    {
+      "id": 15,
+      "start": 5577.16,
+      "end": 5583.66,
+      "formatted_start": "01:32:57.160",
+      "formatted_end": "01:33:03.660",
+      "text": "زندگی دور از وطن تبه هلا میرهد"
+    },
+    {
+      "id": 16,
+      "start": 5583.66,
+      "end": 5593.78,
+      "formatted_start": "01:33:03.660",
+      "formatted_end": "01:33:13.780",
+      "text": "پیش چشم آدم آبار گل ها بوی کاغر میدهد"
+    },
+    {
+      "id": 17,
+      "start": 5593.78,
+      "end": 5621.78,
+      "formatted_start": "01:33:13.780",
+      "formatted_end": "01:33:41.780",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 5623.78,
+      "end": 5653.76,
+      "formatted_start": "01:33:43.780",
+      "formatted_end": "01:34:13.760",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 19,
+      "start": 5653.78,
+      "end": 5671.78,
+      "formatted_start": "01:34:13.780",
+      "formatted_end": "01:34:31.780",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 5671.78,
+      "end": 5683.02,
+      "formatted_start": "01:34:31.780",
+      "formatted_end": "01:34:43.020",
+      "text": "زایران"
+    },
+    {
+      "id": 21,
+      "start": 5683.02,
+      "end": 5688.82,
+      "formatted_start": "01:34:43.020",
+      "formatted_end": "01:34:48.820",
+      "text": "بسته خوردان"
+    },
+    {
+      "id": 22,
+      "start": 5688.82,
+      "end": 5698.9,
+      "formatted_start": "01:34:48.820",
+      "formatted_end": "01:34:58.900",
+      "text": "هملا شان"
+    },
+    {
+      "id": 23,
+      "start": 5698.9,
+      "end": 5700.0,
+      "formatted_start": "01:34:58.900",
+      "formatted_end": "01:35:00.000",
+      "text": "من هم"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,128 @@
+{
+  "chunk_index": 48,
+  "start_sec": 14400.0,
+  "end_sec": 14437.4,
+  "turns": [
+    {
+      "start": 14400.031,
+      "end": 14401.027,
+      "formatted_start": "04:00:00.031",
+      "formatted_end": "04:00:01.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14401.263,
+      "end": 14404.537,
+      "formatted_start": "04:00:01.263",
+      "formatted_end": "04:00:04.537",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14404.537,
+      "end": 14406.848,
+      "formatted_start": "04:00:04.537",
+      "formatted_end": "04:00:06.848",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14407.068,
+      "end": 14409.7,
+      "formatted_start": "04:00:07.068",
+      "formatted_end": "04:00:09.700",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14409.987,
+      "end": 14416.332,
+      "formatted_start": "04:00:09.987",
+      "formatted_end": "04:00:16.332",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14416.872,
+      "end": 14427.503,
+      "formatted_start": "04:00:16.872",
+      "formatted_end": "04:00:27.503",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14427.672,
+      "end": 14430.845,
+      "formatted_start": "04:00:27.672",
+      "formatted_end": "04:00:30.845",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14430.912,
+      "end": 14433.427,
+      "formatted_start": "04:00:30.912",
+      "formatted_end": "04:00:33.427",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14433.815,
+      "end": 14436.38,
+      "formatted_start": "04:00:33.815",
+      "formatted_end": "04:00:36.380",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14436.97,
+      "end": 14437.409,
+      "formatted_start": "04:00:36.970",
+      "formatted_end": "04:00:37.409",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 14400.0,
+      "end": 14429.98,
+      "formatted_start": "04:00:00.000",
+      "formatted_end": "04:00:29.980",
+      "text": "بیشتری دروم که ترانه به خودت گفتی چیه خانه رفتی؟"
+    },
+    {
+      "id": 1,
+      "start": 14430.0,
+      "end": 14431.0,
+      "formatted_start": "04:00:30.000",
+      "formatted_end": "04:00:31.000",
+      "text": "چیه خانورافی؟"
+    },
+    {
+      "id": 2,
+      "start": 14431.0,
+      "end": 14433.44,
+      "formatted_start": "04:00:31.000",
+      "formatted_end": "04:00:33.440",
+      "text": "آدم ها خوب هستن اگر تو خوب نگاه کنی"
+    },
+    {
+      "id": 3,
+      "start": 14433.44,
+      "end": 14435.2,
+      "formatted_start": "04:00:33.440",
+      "formatted_end": "04:00:35.200",
+      "text": "به نظرم این طور نیست"
+    },
+    {
+      "id": 4,
+      "start": 14435.2,
+      "end": 14436.48,
+      "formatted_start": "04:00:35.200",
+      "formatted_end": "04:00:36.480",
+      "text": "این حساب ها رو من بود"
+    },
+    {
+      "id": 5,
+      "start": 14436.48,
+      "end": 14437.16,
+      "formatted_start": "04:00:36.480",
+      "formatted_end": "04:00:37.160",
+      "text": "و"
+    }
+  ],
+  "status": "completed"
+}
