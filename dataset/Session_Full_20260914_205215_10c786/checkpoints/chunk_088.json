@@ -1,0 +1,304 @@
+{
+  "chunk_index": 88,
+  "start_sec": 26400.0,
+  "end_sec": 26700.0,
+  "turns": [
+    {
+      "start": 26400.031,
+      "end": 26418.661,
+      "formatted_start": "07:20:00.031",
+      "formatted_end": "07:20:18.661",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 26419.488,
+      "end": 26423.15,
+      "formatted_start": "07:20:19.488",
+      "formatted_end": "07:20:23.150",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26425.107,
+      "end": 26428.448,
+      "formatted_start": "07:20:25.107",
+      "formatted_end": "07:20:28.448",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26426.12,
+      "end": 26426.508,
+      "formatted_start": "07:20:26.120",
+      "formatted_end": "07:20:26.508",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26428.853,
+      "end": 26430.372,
+      "formatted_start": "07:20:28.853",
+      "formatted_end": "07:20:30.372",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26431.469,
+      "end": 26433.511,
+      "formatted_start": "07:20:31.469",
+      "formatted_end": "07:20:33.511",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26433.865,
+      "end": 26435.03,
+      "formatted_start": "07:20:33.865",
+      "formatted_end": "07:20:35.030",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26435.148,
+      "end": 26436.025,
+      "formatted_start": "07:20:35.148",
+      "formatted_end": "07:20:36.025",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26436.329,
+      "end": 26437.038,
+      "formatted_start": "07:20:36.329",
+      "formatted_end": "07:20:37.038",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26462.975,
+      "end": 26467.835,
+      "formatted_start": "07:21:02.975",
+      "formatted_end": "07:21:07.835",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 26467.835,
+      "end": 26478.517,
+      "formatted_start": "07:21:07.835",
+      "formatted_end": "07:21:18.517",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26509.347,
+      "end": 26510.478,
+      "formatted_start": "07:21:49.347",
+      "formatted_end": "07:21:50.478",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26511.912,
+      "end": 26514.764,
+      "formatted_start": "07:21:51.912",
+      "formatted_end": "07:21:54.764",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26516.114,
+      "end": 26516.857,
+      "formatted_start": "07:21:56.114",
+      "formatted_end": "07:21:56.857",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26520.434,
+      "end": 26521.497,
+      "formatted_start": "07:22:00.434",
+      "formatted_end": "07:22:01.497",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26522.712,
+      "end": 26523.235,
+      "formatted_start": "07:22:02.712",
+      "formatted_end": "07:22:03.235",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26524.602,
+      "end": 26525.733,
+      "formatted_start": "07:22:04.602",
+      "formatted_end": "07:22:05.733",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26639.69,
+      "end": 26640.415,
+      "formatted_start": "07:23:59.690",
+      "formatted_end": "07:24:00.415",
+      "speaker": "SPEAKER_03"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 26400.0,
+      "end": 26419.0,
+      "formatted_start": "07:20:00.000",
+      "formatted_end": "07:20:19.000",
+      "text": "بگید مثلا با مزه ای نام، این پزشکی خوبشکیه. زمانی که من وارد شدم به سینما و در زمانی که ما نوجوان بودیم که زمان شیطنت مولده هر روز داریم بوده مورد توجه جز مخالف قرار بگیریم، من اصلا موضوع نکنی نکنی نمیدونم من رو بگیریم."
+    },
+    {
+      "id": 1,
+      "start": 26430.0,
+      "end": 26459.0,
+      "formatted_start": "07:20:30.000",
+      "formatted_end": "07:20:59.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 26460.0,
+      "end": 26464.8,
+      "formatted_start": "07:21:00.000",
+      "formatted_end": "07:21:04.800",
+      "text": "سلام، پدران شمسه ای از سرمانمونم از تیم اومان ای از حدیثی به ایپلی شد"
+    },
+    {
+      "id": 3,
+      "start": 26464.8,
+      "end": 26467.76,
+      "formatted_start": "07:21:04.800",
+      "formatted_end": "07:21:07.760",
+      "text": "چون برای سطحی شمسه ای زمان موقع فراموش بیشتر ایزم"
+    },
+    {
+      "id": 4,
+      "start": 26467.76,
+      "end": 26469.04,
+      "formatted_start": "07:21:07.760",
+      "formatted_end": "07:21:09.040",
+      "text": "بیا به ایپلی بگم ببین"
+    },
+    {
+      "id": 5,
+      "start": 26469.04,
+      "end": 26475.44,
+      "formatted_start": "07:21:09.040",
+      "formatted_end": "07:21:15.440",
+      "text": "موج محاجرت پرستران پاده دوان به موجه خلیج پارس از جهان اومان امروز فقط ترزیاد شده"
+    },
+    {
+      "id": 6,
+      "start": 26475.44,
+      "end": 26478.64,
+      "formatted_start": "07:21:15.440",
+      "formatted_end": "07:21:18.640",
+      "text": "اگه پاده دوانی و دوستای دستر تا این زمان مون؟"
+    },
+    {
+      "id": 7,
+      "start": 26490.0,
+      "end": 26509.0,
+      "formatted_start": "07:21:30.000",
+      "formatted_end": "07:21:49.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 26509.0,
+      "end": 26511.0,
+      "formatted_start": "07:21:49.000",
+      "formatted_end": "07:21:51.000",
+      "text": "الهانو بررفت؟"
+    },
+    {
+      "id": 9,
+      "start": 26511.0,
+      "end": 26515.0,
+      "formatted_start": "07:21:51.000",
+      "formatted_end": "07:21:55.000",
+      "text": "آه، نفس نگوزه میخوام کل رو ببرم"
+    },
+    {
+      "id": 10,
+      "start": 26515.0,
+      "end": 26517.0,
+      "formatted_start": "07:21:55.000",
+      "formatted_end": "07:21:57.000",
+      "text": "فکر کردی؟"
+    },
+    {
+      "id": 11,
+      "start": 26517.0,
+      "end": 26519.0,
+      "formatted_start": "07:21:57.000",
+      "formatted_end": "07:21:59.000",
+      "text": "آه"
+    },
+    {
+      "id": 12,
+      "start": 26519.0,
+      "end": 26522.0,
+      "formatted_start": "07:21:59.000",
+      "formatted_end": "07:22:02.000",
+      "text": "او رو تا اونو گفتم"
+    },
+    {
+      "id": 13,
+      "start": 26522.0,
+      "end": 26524.0,
+      "formatted_start": "07:22:02.000",
+      "formatted_end": "07:22:04.000",
+      "text": "کننده"
+    },
+    {
+      "id": 14,
+      "start": 26524.0,
+      "end": 26526.0,
+      "formatted_start": "07:22:04.000",
+      "formatted_end": "07:22:06.000",
+      "text": "باشه خدا فهمیست"
+    },
+    {
+      "id": 15,
+      "start": 26539.0,
+      "end": 26549.0,
+      "formatted_start": "07:22:19.000",
+      "formatted_end": "07:22:29.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 26569.0,
+      "end": 26598.98,
+      "formatted_start": "07:22:49.000",
+      "formatted_end": "07:23:18.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 17,
+      "start": 26599.0,
+      "end": 26628.98,
+      "formatted_start": "07:23:19.000",
+      "formatted_end": "07:23:48.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 18,
+      "start": 26629.0,
+      "end": 26658.98,
+      "formatted_start": "07:23:49.000",
+      "formatted_end": "07:24:18.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 19,
+      "start": 26659.0,
+      "end": 26688.98,
+      "formatted_start": "07:24:19.000",
+      "formatted_end": "07:24:48.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 20,
+      "start": 26689.0,
+      "end": 26700.0,
+      "formatted_start": "07:24:49.000",
+      "formatted_end": "07:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

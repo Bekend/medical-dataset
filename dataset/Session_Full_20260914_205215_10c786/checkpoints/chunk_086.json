@@ -1,0 +1,317 @@
+{
+  "chunk_index": 86,
+  "start_sec": 25800.0,
+  "end_sec": 26100.0,
+  "turns": [
+    {
+      "start": 25843.872,
+      "end": 25844.902,
+      "formatted_start": "07:10:43.872",
+      "formatted_end": "07:10:44.902",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25846.927,
+      "end": 25855.128,
+      "formatted_start": "07:10:46.927",
+      "formatted_end": "07:10:55.128",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25855.634,
+      "end": 25857.676,
+      "formatted_start": "07:10:55.634",
+      "formatted_end": "07:10:57.676",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25857.895,
+      "end": 25860.798,
+      "formatted_start": "07:10:57.895",
+      "formatted_end": "07:11:00.798",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25862.063,
+      "end": 25870.248,
+      "formatted_start": "07:11:02.063",
+      "formatted_end": "07:11:10.248",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25873.133,
+      "end": 25874.72,
+      "formatted_start": "07:11:13.133",
+      "formatted_end": "07:11:14.720",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25874.804,
+      "end": 25875.293,
+      "formatted_start": "07:11:14.804",
+      "formatted_end": "07:11:15.293",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25875.985,
+      "end": 25876.373,
+      "formatted_start": "07:11:15.985",
+      "formatted_end": "07:11:16.373",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25877.082,
+      "end": 25878.517,
+      "formatted_start": "07:11:17.082",
+      "formatted_end": "07:11:18.517",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25881.503,
+      "end": 25884.541,
+      "formatted_start": "07:11:21.503",
+      "formatted_end": "07:11:24.541",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25882.398,
+      "end": 25883.444,
+      "formatted_start": "07:11:22.398",
+      "formatted_end": "07:11:23.444",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 25885.722,
+      "end": 25888.928,
+      "formatted_start": "07:11:25.722",
+      "formatted_end": "07:11:28.928",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25907.947,
+      "end": 25914.038,
+      "formatted_start": "07:11:47.947",
+      "formatted_end": "07:11:54.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 25934.221,
+      "end": 25934.828,
+      "formatted_start": "07:12:14.221",
+      "formatted_end": "07:12:14.828",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 25997.587,
+      "end": 25998.025,
+      "formatted_start": "07:13:17.587",
+      "formatted_end": "07:13:18.025",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26003.527,
+      "end": 26014.192,
+      "formatted_start": "07:13:23.527",
+      "formatted_end": "07:13:34.192",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26014.529,
+      "end": 26028.485,
+      "formatted_start": "07:13:34.529",
+      "formatted_end": "07:13:48.485",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26028.603,
+      "end": 26035.387,
+      "formatted_start": "07:13:48.603",
+      "formatted_end": "07:13:55.387",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26044.972,
+      "end": 26046.946,
+      "formatted_start": "07:14:04.972",
+      "formatted_end": "07:14:06.946",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 26069.153,
+      "end": 26097.689,
+      "formatted_start": "07:14:29.153",
+      "formatted_end": "07:14:57.689",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 26099.545,
+      "end": 26099.967,
+      "formatted_start": "07:14:59.545",
+      "formatted_end": "07:14:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 25800.0,
+      "end": 25810.0,
+      "formatted_start": "07:10:00.000",
+      "formatted_end": "07:10:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 25830.0,
+      "end": 25845.0,
+      "formatted_start": "07:10:30.000",
+      "formatted_end": "07:10:45.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 25860.0,
+      "end": 25889.98,
+      "formatted_start": "07:11:00.000",
+      "formatted_end": "07:11:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 25890.0,
+      "end": 25908.0,
+      "formatted_start": "07:11:30.000",
+      "formatted_end": "07:11:48.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 25908.0,
+      "end": 25911.32,
+      "formatted_start": "07:11:48.000",
+      "formatted_end": "07:11:51.320",
+      "text": "افغانیم، برداشت من از عشق رابطه پدر و مادرم هستم"
+    },
+    {
+      "id": 5,
+      "start": 25911.32,
+      "end": 25913.86,
+      "formatted_start": "07:11:51.320",
+      "formatted_end": "07:11:53.860",
+      "text": "وقتی رابطه این دونه فرق پرست"
+    },
+    {
+      "id": 6,
+      "start": 25913.86,
+      "end": 25934.76,
+      "formatted_start": "07:11:53.860",
+      "formatted_end": "07:12:14.760",
+      "text": "افغانیم"
+    },
+    {
+      "id": 7,
+      "start": 25938.0,
+      "end": 25944.0,
+      "formatted_start": "07:12:18.000",
+      "formatted_end": "07:12:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 25968.0,
+      "end": 25992.0,
+      "formatted_start": "07:12:48.000",
+      "formatted_end": "07:13:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 25992.0,
+      "end": 25998.0,
+      "formatted_start": "07:13:12.000",
+      "formatted_end": "07:13:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 26022.0,
+      "end": 26027.38,
+      "formatted_start": "07:13:42.000",
+      "formatted_end": "07:13:47.380",
+      "text": "اینکه ممکنه حتی طرفداران اون عقیده بگن خودتون فیلم بازی میکنه"
+    },
+    {
+      "id": 11,
+      "start": 26027.38,
+      "end": 26028.38,
+      "formatted_start": "07:13:47.380",
+      "formatted_end": "07:13:48.380",
+      "text": "بی علتیه"
+    },
+    {
+      "id": 12,
+      "start": 26028.38,
+      "end": 26030.42,
+      "formatted_start": "07:13:48.380",
+      "formatted_end": "07:13:50.420",
+      "text": "من نمیگم از طریق قلبش نبود"
+    },
+    {
+      "id": 13,
+      "start": 26030.42,
+      "end": 26033.22,
+      "formatted_start": "07:13:50.420",
+      "formatted_end": "07:13:53.220",
+      "text": "وای بادر از روی عصبانیت هم میتونه حرکت بزنه"
+    },
+    {
+      "id": 14,
+      "start": 26033.22,
+      "end": 26037.56,
+      "formatted_start": "07:13:53.220",
+      "formatted_end": "07:13:57.560",
+      "text": "اما اعتقاد جای محترم میشه که محترمان اونو بیان بکنید"
+    },
+    {
+      "id": 15,
+      "start": 26037.56,
+      "end": 26040.06,
+      "formatted_start": "07:13:57.560",
+      "formatted_end": "07:14:00.060",
+      "text": "نانی جان، حیف شد که تو نیست"
+    },
+    {
+      "id": 16,
+      "start": 26040.06,
+      "end": 26044.36,
+      "formatted_start": "07:14:00.060",
+      "formatted_end": "07:14:04.360",
+      "text": "و اونو بارم مردم مجدد خیلی دوست داشته باشم"
+    },
+    {
+      "id": 17,
+      "start": 26044.36,
+      "end": 26047.32,
+      "formatted_start": "07:14:04.360",
+      "formatted_end": "07:14:07.320",
+      "text": "این یک آرزوی قلبی است از این کمشهری"
+    },
+    {
+      "id": 18,
+      "start": 26052.0,
+      "end": 26082.0,
+      "formatted_start": "07:14:12.000",
+      "formatted_end": "07:14:42.000",
+      "text": "از اینجا باید بردارید که اینجا باید بردارید که اینجا باید بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا ب"
+    },
+    {
+      "id": 19,
+      "start": 26082.0,
+      "end": 26100.0,
+      "formatted_start": "07:14:42.000",
+      "formatted_end": "07:15:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

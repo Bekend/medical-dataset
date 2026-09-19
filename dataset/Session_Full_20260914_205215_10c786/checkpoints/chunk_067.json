@@ -1,0 +1,171 @@
+{
+  "chunk_index": 67,
+  "start_sec": 20100.0,
+  "end_sec": 20400.0,
+  "turns": [
+    {
+      "start": 20150.808,
+      "end": 20153.035,
+      "formatted_start": "05:35:50.808",
+      "formatted_end": "05:35:53.035",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 20196.37,
+      "end": 20198.041,
+      "formatted_start": "05:36:36.370",
+      "formatted_end": "05:36:38.041",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 20198.682,
+      "end": 20201.483,
+      "formatted_start": "05:36:38.682",
+      "formatted_end": "05:36:41.483",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 20305.012,
+      "end": 20305.467,
+      "formatted_start": "05:38:25.012",
+      "formatted_end": "05:38:25.467",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 20305.973,
+      "end": 20306.834,
+      "formatted_start": "05:38:25.973",
+      "formatted_end": "05:38:26.834",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 20307.222,
+      "end": 20321.026,
+      "formatted_start": "05:38:27.222",
+      "formatted_end": "05:38:41.026",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 20323.372,
+      "end": 20323.793,
+      "formatted_start": "05:38:43.372",
+      "formatted_end": "05:38:43.793",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 20100.0,
+      "end": 20130.0,
+      "formatted_start": "05:35:00.000",
+      "formatted_end": "05:35:30.000",
+      "text": "بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، بیشکی، ب"
+    },
+    {
+      "id": 1,
+      "start": 20130.0,
+      "end": 20140.0,
+      "formatted_start": "05:35:30.000",
+      "formatted_end": "05:35:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 20160.0,
+      "end": 20189.98,
+      "formatted_start": "05:36:00.000",
+      "formatted_end": "05:36:29.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 3,
+      "start": 20190.0,
+      "end": 20210.0,
+      "formatted_start": "05:36:30.000",
+      "formatted_end": "05:36:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 20220.0,
+      "end": 20230.0,
+      "formatted_start": "05:37:00.000",
+      "formatted_end": "05:37:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 20250.0,
+      "end": 20279.98,
+      "formatted_start": "05:37:30.000",
+      "formatted_end": "05:37:59.980",
+      "text": "موسیقی در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 20280.0,
+      "end": 20298.0,
+      "formatted_start": "05:38:00.000",
+      "formatted_end": "05:38:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 20298.0,
+      "end": 20310.0,
+      "formatted_start": "05:38:18.000",
+      "formatted_end": "05:38:30.000",
+      "text": "از این مطار ششتان، دو بچه ها بیدا کردن و نصف مطار بیدار کردن."
+    },
+    {
+      "id": 8,
+      "start": 20310.0,
+      "end": 20314.0,
+      "formatted_start": "05:38:30.000",
+      "formatted_end": "05:38:34.000",
+      "text": "ناردیل شهرمونت افکسی هم بوده و دو باره بیدا کردن."
+    },
+    {
+      "id": 9,
+      "start": 20314.0,
+      "end": 20319.0,
+      "formatted_start": "05:38:34.000",
+      "formatted_end": "05:38:39.000",
+      "text": "دو باره هستند."
+    },
+    {
+      "id": 10,
+      "start": 20319.0,
+      "end": 20322.0,
+      "formatted_start": "05:38:39.000",
+      "formatted_end": "05:38:42.000",
+      "text": "از مطار روش بیدار کردن."
+    },
+    {
+      "id": 11,
+      "start": 20322.0,
+      "end": 20350.0,
+      "formatted_start": "05:38:42.000",
+      "formatted_end": "05:39:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 20352.0,
+      "end": 20381.0,
+      "formatted_start": "05:39:12.000",
+      "formatted_end": "05:39:41.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 20382.0,
+      "end": 20400.0,
+      "formatted_start": "05:39:42.000",
+      "formatted_end": "05:40:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

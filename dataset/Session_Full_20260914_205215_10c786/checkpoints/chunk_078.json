@@ -1,0 +1,150 @@
+{
+  "chunk_index": 78,
+  "start_sec": 23400.0,
+  "end_sec": 23700.0,
+  "turns": [
+    {
+      "start": 23457.085,
+      "end": 23459.887,
+      "formatted_start": "06:30:57.085",
+      "formatted_end": "06:30:59.887",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23460.798,
+      "end": 23462.047,
+      "formatted_start": "06:31:00.798",
+      "formatted_end": "06:31:02.047",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23464.072,
+      "end": 23464.949,
+      "formatted_start": "06:31:04.072",
+      "formatted_end": "06:31:04.949",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 23467.43,
+      "end": 23469.37,
+      "formatted_start": "06:31:07.430",
+      "formatted_end": "06:31:09.370",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 23400.0,
+      "end": 23429.98,
+      "formatted_start": "06:30:00.000",
+      "formatted_end": "06:30:29.980",
+      "text": "مردی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 23430.0,
+      "end": 23457.0,
+      "formatted_start": "06:30:30.000",
+      "formatted_end": "06:30:57.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 23457.0,
+      "end": 23460.0,
+      "formatted_start": "06:30:57.000",
+      "formatted_end": "06:31:00.000",
+      "text": "اوه این مزفریه چه اصابه خودم بود"
+    },
+    {
+      "id": 3,
+      "start": 23460.6,
+      "end": 23462.34,
+      "formatted_start": "06:31:00.600",
+      "formatted_end": "06:31:02.340",
+      "text": "دیوانه کرد منو"
+    },
+    {
+      "id": 4,
+      "start": 23463.84,
+      "end": 23465.24,
+      "formatted_start": "06:31:03.840",
+      "formatted_end": "06:31:05.240",
+      "text": "مزفریه"
+    },
+    {
+      "id": 5,
+      "start": 23467.3,
+      "end": 23469.5,
+      "formatted_start": "06:31:07.300",
+      "formatted_end": "06:31:09.500",
+      "text": "دقیقا همیشه همینجوره"
+    },
+    {
+      "id": 6,
+      "start": 23487.0,
+      "end": 23511.0,
+      "formatted_start": "06:31:27.000",
+      "formatted_end": "06:31:51.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 23517.0,
+      "end": 23546.98,
+      "formatted_start": "06:31:57.000",
+      "formatted_end": "06:32:26.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 8,
+      "start": 23547.0,
+      "end": 23576.98,
+      "formatted_start": "06:32:27.000",
+      "formatted_end": "06:32:56.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 9,
+      "start": 23577.0,
+      "end": 23597.0,
+      "formatted_start": "06:32:57.000",
+      "formatted_end": "06:33:17.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 23597.0,
+      "end": 23626.98,
+      "formatted_start": "06:33:17.000",
+      "formatted_end": "06:33:46.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 23627.0,
+      "end": 23629.0,
+      "formatted_start": "06:33:47.000",
+      "formatted_end": "06:33:49.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 23657.0,
+      "end": 23686.98,
+      "formatted_start": "06:34:17.000",
+      "formatted_end": "06:34:46.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 23687.0,
+      "end": 23700.0,
+      "formatted_start": "06:34:47.000",
+      "formatted_end": "06:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

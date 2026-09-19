@@ -1,0 +1,217 @@
+{
+  "chunk_index": 82,
+  "start_sec": 24600.0,
+  "end_sec": 24900.0,
+  "turns": [
+    {
+      "start": 24640.97,
+      "end": 24642.64,
+      "formatted_start": "06:50:40.970",
+      "formatted_end": "06:50:42.640",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24643.822,
+      "end": 24647.433,
+      "formatted_start": "06:50:43.822",
+      "formatted_end": "06:50:47.433",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24647.483,
+      "end": 24653.879,
+      "formatted_start": "06:50:47.483",
+      "formatted_end": "06:50:53.879",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24656.815,
+      "end": 24658.857,
+      "formatted_start": "06:50:56.815",
+      "formatted_end": "06:50:58.857",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24662.502,
+      "end": 24667.463,
+      "formatted_start": "06:51:02.502",
+      "formatted_end": "06:51:07.463",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24668.054,
+      "end": 24678.803,
+      "formatted_start": "06:51:08.054",
+      "formatted_end": "06:51:18.803",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24680.474,
+      "end": 24682.027,
+      "formatted_start": "06:51:20.474",
+      "formatted_end": "06:51:22.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24682.448,
+      "end": 24683.444,
+      "formatted_start": "06:51:22.448",
+      "formatted_end": "06:51:23.444",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24754.049,
+      "end": 24755.078,
+      "formatted_start": "06:52:34.049",
+      "formatted_end": "06:52:35.078",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24756.395,
+      "end": 24757.61,
+      "formatted_start": "06:52:36.395",
+      "formatted_end": "06:52:37.610",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24758.369,
+      "end": 24759.027,
+      "formatted_start": "06:52:38.369",
+      "formatted_end": "06:52:39.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24797.89,
+      "end": 24798.953,
+      "formatted_start": "06:53:17.890",
+      "formatted_end": "06:53:18.953",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24802.16,
+      "end": 24803.78,
+      "formatted_start": "06:53:22.160",
+      "formatted_end": "06:53:23.780",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24805.737,
+      "end": 24806.952,
+      "formatted_start": "06:53:25.737",
+      "formatted_end": "06:53:26.952",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24809.973,
+      "end": 24812.065,
+      "formatted_start": "06:53:29.973",
+      "formatted_end": "06:53:32.065",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24812.437,
+      "end": 24814.478,
+      "formatted_start": "06:53:32.437",
+      "formatted_end": "06:53:34.478",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24815.575,
+      "end": 24816.031,
+      "formatted_start": "06:53:35.575",
+      "formatted_end": "06:53:36.031",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 24600.0,
+      "end": 24629.98,
+      "formatted_start": "06:50:00.000",
+      "formatted_end": "06:50:29.980",
+      "text": "مردی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 24630.0,
+      "end": 24641.0,
+      "formatted_start": "06:50:30.000",
+      "formatted_end": "06:50:41.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 24660.0,
+      "end": 24690.0,
+      "formatted_start": "06:51:00.000",
+      "formatted_end": "06:51:30.000",
+      "text": "از اینجا باید بردارید که اینجا باید بردارید که اینجا باید بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا ب"
+    },
+    {
+      "id": 3,
+      "start": 24690.0,
+      "end": 24719.98,
+      "formatted_start": "06:51:30.000",
+      "formatted_end": "06:51:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 24720.0,
+      "end": 24740.0,
+      "formatted_start": "06:52:00.000",
+      "formatted_end": "06:52:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 24740.0,
+      "end": 24750.0,
+      "formatted_start": "06:52:20.000",
+      "formatted_end": "06:52:30.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 24770.0,
+      "end": 24800.0,
+      "formatted_start": "06:52:50.000",
+      "formatted_end": "06:53:20.000",
+      "text": "موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی در موسیقی د"
+    },
+    {
+      "id": 7,
+      "start": 24800.0,
+      "end": 24810.0,
+      "formatted_start": "06:53:20.000",
+      "formatted_end": "06:53:30.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 24830.0,
+      "end": 24859.98,
+      "formatted_start": "06:53:50.000",
+      "formatted_end": "06:54:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 24860.0,
+      "end": 24889.98,
+      "formatted_start": "06:54:20.000",
+      "formatted_end": "06:54:49.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 10,
+      "start": 24890.0,
+      "end": 24900.0,
+      "formatted_start": "06:54:50.000",
+      "formatted_end": "06:55:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

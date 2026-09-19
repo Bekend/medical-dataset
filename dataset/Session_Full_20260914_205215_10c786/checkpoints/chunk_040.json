@@ -1,0 +1,181 @@
+{
+  "chunk_index": 40,
+  "start_sec": 12000.0,
+  "end_sec": 12300.0,
+  "turns": [
+    {
+      "start": 12250.203,
+      "end": 12251.992,
+      "formatted_start": "03:24:10.203",
+      "formatted_end": "03:24:11.992",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12254.793,
+      "end": 12257.105,
+      "formatted_start": "03:24:14.793",
+      "formatted_end": "03:24:17.105",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12259.501,
+      "end": 12260.041,
+      "formatted_start": "03:24:19.501",
+      "formatted_end": "03:24:20.041",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12261.492,
+      "end": 12262.1,
+      "formatted_start": "03:24:21.492",
+      "formatted_end": "03:24:22.100",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 12262.91,
+      "end": 12265.323,
+      "formatted_start": "03:24:22.910",
+      "formatted_end": "03:24:25.323",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 12267.196,
+      "end": 12268.428,
+      "formatted_start": "03:24:27.196",
+      "formatted_end": "03:24:28.428",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 12284.459,
+      "end": 12285.05,
+      "formatted_start": "03:24:44.459",
+      "formatted_end": "03:24:45.050",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12285.708,
+      "end": 12287.21,
+      "formatted_start": "03:24:45.708",
+      "formatted_end": "03:24:47.210",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12285.978,
+      "end": 12287.108,
+      "formatted_start": "03:24:45.978",
+      "formatted_end": "03:24:47.108",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12288.222,
+      "end": 12293.318,
+      "formatted_start": "03:24:48.222",
+      "formatted_end": "03:24:53.318",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12289.15,
+      "end": 12289.893,
+      "formatted_start": "03:24:49.150",
+      "formatted_end": "03:24:49.893",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12293.318,
+      "end": 12299.528,
+      "formatted_start": "03:24:53.318",
+      "formatted_end": "03:24:59.528",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12293.622,
+      "end": 12294.196,
+      "formatted_start": "03:24:53.622",
+      "formatted_end": "03:24:54.196",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12000.0,
+      "end": 12029.98,
+      "formatted_start": "03:20:00.000",
+      "formatted_end": "03:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 12030.0,
+      "end": 12040.0,
+      "formatted_start": "03:20:30.000",
+      "formatted_end": "03:20:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 12060.0,
+      "end": 12089.98,
+      "formatted_start": "03:21:00.000",
+      "formatted_end": "03:21:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 12090.0,
+      "end": 12119.98,
+      "formatted_start": "03:21:30.000",
+      "formatted_end": "03:21:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 12120.0,
+      "end": 12149.98,
+      "formatted_start": "03:22:00.000",
+      "formatted_end": "03:22:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 12150.0,
+      "end": 12178.0,
+      "formatted_start": "03:22:30.000",
+      "formatted_end": "03:22:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 12180.0,
+      "end": 12209.98,
+      "formatted_start": "03:23:00.000",
+      "formatted_end": "03:23:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 12210.0,
+      "end": 12238.0,
+      "formatted_start": "03:23:30.000",
+      "formatted_end": "03:23:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 12240.0,
+      "end": 12250.0,
+      "formatted_start": "03:24:00.000",
+      "formatted_end": "03:24:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 12270.0,
+      "end": 12300.0,
+      "formatted_start": "03:24:30.000",
+      "formatted_end": "03:25:00.000",
+      "text": "مردم های از اینجا با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه با اینکه ب"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,111 @@
+{
+  "chunk_index": 75,
+  "start_sec": 22500.0,
+  "end_sec": 22800.0,
+  "turns": [
+    {
+      "start": 22754.27,
+      "end": 22755.063,
+      "formatted_start": "06:19:14.270",
+      "formatted_end": "06:19:15.063",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 22755.772,
+      "end": 22761.442,
+      "formatted_start": "06:19:15.772",
+      "formatted_end": "06:19:21.442",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 22765.93,
+      "end": 22770.335,
+      "formatted_start": "06:19:25.930",
+      "formatted_end": "06:19:30.335",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 22500.0,
+      "end": 22529.98,
+      "formatted_start": "06:15:00.000",
+      "formatted_end": "06:15:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 22530.0,
+      "end": 22559.98,
+      "formatted_start": "06:15:30.000",
+      "formatted_end": "06:15:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 22560.0,
+      "end": 22589.98,
+      "formatted_start": "06:16:00.000",
+      "formatted_end": "06:16:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 22590.0,
+      "end": 22619.98,
+      "formatted_start": "06:16:30.000",
+      "formatted_end": "06:16:59.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 4,
+      "start": 22620.0,
+      "end": 22649.98,
+      "formatted_start": "06:17:00.000",
+      "formatted_end": "06:17:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 5,
+      "start": 22650.0,
+      "end": 22679.98,
+      "formatted_start": "06:17:30.000",
+      "formatted_end": "06:17:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 22680.0,
+      "end": 22709.98,
+      "formatted_start": "06:18:00.000",
+      "formatted_end": "06:18:29.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 7,
+      "start": 22710.0,
+      "end": 22739.98,
+      "formatted_start": "06:18:30.000",
+      "formatted_end": "06:18:59.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 8,
+      "start": 22740.0,
+      "end": 22769.98,
+      "formatted_start": "06:19:00.000",
+      "formatted_end": "06:19:29.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 9,
+      "start": 22770.0,
+      "end": 22799.98,
+      "formatted_start": "06:19:30.000",
+      "formatted_end": "06:19:59.980",
+      "text": "مردم درست دارید"
+    }
+  ],
+  "status": "completed"
+}
