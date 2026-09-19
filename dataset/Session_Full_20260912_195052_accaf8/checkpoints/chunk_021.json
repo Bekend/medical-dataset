@@ -1,0 +1,262 @@
+{
+  "chunk_index": 21,
+  "start_sec": 6300.0,
+  "end_sec": 6600.0,
+  "turns": [
+    {
+      "start": 6410.967,
+      "end": 6412.942,
+      "formatted_start": "01:46:50.967",
+      "formatted_end": "01:46:52.942",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6413.093,
+      "end": 6415.962,
+      "formatted_start": "01:46:53.093",
+      "formatted_end": "01:46:55.962",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6413.195,
+      "end": 6417.025,
+      "formatted_start": "01:46:53.195",
+      "formatted_end": "01:46:57.025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6415.962,
+      "end": 6421.379,
+      "formatted_start": "01:46:55.962",
+      "formatted_end": "01:47:01.379",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6417.025,
+      "end": 6417.515,
+      "formatted_start": "01:46:57.025",
+      "formatted_end": "01:46:57.515",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6420.822,
+      "end": 6429.715,
+      "formatted_start": "01:47:00.822",
+      "formatted_end": "01:47:09.715",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6421.379,
+      "end": 6428.973,
+      "formatted_start": "01:47:01.379",
+      "formatted_end": "01:47:08.973",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6430.323,
+      "end": 6434.879,
+      "formatted_start": "01:47:10.323",
+      "formatted_end": "01:47:14.879",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6433.175,
+      "end": 6434.525,
+      "formatted_start": "01:47:13.175",
+      "formatted_end": "01:47:14.525",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6435.908,
+      "end": 6441.781,
+      "formatted_start": "01:47:15.908",
+      "formatted_end": "01:47:21.781",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6556.075,
+      "end": 6559.585,
+      "formatted_start": "01:49:16.075",
+      "formatted_end": "01:49:19.585",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6560.767,
+      "end": 6566.167,
+      "formatted_start": "01:49:20.767",
+      "formatted_end": "01:49:26.167",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6300.0,
+      "end": 6329.98,
+      "formatted_start": "01:45:00.000",
+      "formatted_end": "01:45:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6330.0,
+      "end": 6359.98,
+      "formatted_start": "01:45:30.000",
+      "formatted_end": "01:45:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 6360.0,
+      "end": 6389.98,
+      "formatted_start": "01:46:00.000",
+      "formatted_end": "01:46:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 6390.0,
+      "end": 6419.98,
+      "formatted_start": "01:46:30.000",
+      "formatted_end": "01:46:59.980",
+      "text": "موسیقی در موسیقی دیگه"
+    },
+    {
+      "id": 4,
+      "start": 6420.0,
+      "end": 6422.0,
+      "formatted_start": "01:47:00.000",
+      "formatted_end": "01:47:02.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 5,
+      "start": 6422.0,
+      "end": 6424.0,
+      "formatted_start": "01:47:02.000",
+      "formatted_end": "01:47:04.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 6,
+      "start": 6424.0,
+      "end": 6426.0,
+      "formatted_start": "01:47:04.000",
+      "formatted_end": "01:47:06.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 7,
+      "start": 6426.0,
+      "end": 6428.0,
+      "formatted_start": "01:47:06.000",
+      "formatted_end": "01:47:08.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 8,
+      "start": 6428.0,
+      "end": 6430.0,
+      "formatted_start": "01:47:08.000",
+      "formatted_end": "01:47:10.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 9,
+      "start": 6430.0,
+      "end": 6432.0,
+      "formatted_start": "01:47:10.000",
+      "formatted_end": "01:47:12.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 10,
+      "start": 6432.0,
+      "end": 6434.0,
+      "formatted_start": "01:47:12.000",
+      "formatted_end": "01:47:14.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 11,
+      "start": 6434.0,
+      "end": 6436.0,
+      "formatted_start": "01:47:14.000",
+      "formatted_end": "01:47:16.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 12,
+      "start": 6436.0,
+      "end": 6438.0,
+      "formatted_start": "01:47:16.000",
+      "formatted_end": "01:47:18.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 13,
+      "start": 6438.0,
+      "end": 6440.0,
+      "formatted_start": "01:47:18.000",
+      "formatted_end": "01:47:20.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 14,
+      "start": 6440.0,
+      "end": 6442.0,
+      "formatted_start": "01:47:20.000",
+      "formatted_end": "01:47:22.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 15,
+      "start": 6442.0,
+      "end": 6471.98,
+      "formatted_start": "01:47:22.000",
+      "formatted_end": "01:47:51.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 6472.0,
+      "end": 6501.98,
+      "formatted_start": "01:47:52.000",
+      "formatted_end": "01:48:21.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 17,
+      "start": 6502.0,
+      "end": 6531.98,
+      "formatted_start": "01:48:22.000",
+      "formatted_end": "01:48:51.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 18,
+      "start": 6532.0,
+      "end": 6556.0,
+      "formatted_start": "01:48:52.000",
+      "formatted_end": "01:49:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 6556.0,
+      "end": 6586.0,
+      "formatted_start": "01:49:16.000",
+      "formatted_end": "01:49:46.000",
+      "text": "برگردید کنید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگردید. برگ"
+    },
+    {
+      "id": 20,
+      "start": 6586.0,
+      "end": 6600.0,
+      "formatted_start": "01:49:46.000",
+      "formatted_end": "01:50:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
