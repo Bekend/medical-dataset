@@ -1,0 +1,410 @@
+{
+  "chunk_index": 10,
+  "start_sec": 3000.0,
+  "end_sec": 3300.0,
+  "turns": [
+    {
+      "start": 3000.52,
+      "end": 3001.027,
+      "formatted_start": "00:50:00.520",
+      "formatted_end": "00:50:01.027",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3004.857,
+      "end": 3005.363,
+      "formatted_start": "00:50:04.857",
+      "formatted_end": "00:50:05.363",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3007.878,
+      "end": 3008.266,
+      "formatted_start": "00:50:07.878",
+      "formatted_end": "00:50:08.266",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3013.042,
+      "end": 3016.265,
+      "formatted_start": "00:50:13.042",
+      "formatted_end": "00:50:16.265",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3017.092,
+      "end": 3026.17,
+      "formatted_start": "00:50:17.092",
+      "formatted_end": "00:50:26.170",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3027.031,
+      "end": 3027.976,
+      "formatted_start": "00:50:27.031",
+      "formatted_end": "00:50:27.976",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3029.275,
+      "end": 3036.025,
+      "formatted_start": "00:50:29.275",
+      "formatted_end": "00:50:36.025",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3037.612,
+      "end": 3042.151,
+      "formatted_start": "00:50:37.612",
+      "formatted_end": "00:50:42.151",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3044.581,
+      "end": 3045.037,
+      "formatted_start": "00:50:44.581",
+      "formatted_end": "00:50:45.037",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3045.037,
+      "end": 3045.644,
+      "formatted_start": "00:50:45.037",
+      "formatted_end": "00:50:45.644",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3048.682,
+      "end": 3052.31,
+      "formatted_start": "00:50:48.682",
+      "formatted_end": "00:50:52.310",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3267.601,
+      "end": 3279.599,
+      "formatted_start": "00:54:27.601",
+      "formatted_end": "00:54:39.599",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3280.51,
+      "end": 3286.147,
+      "formatted_start": "00:54:40.510",
+      "formatted_end": "00:54:46.147",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3288.155,
+      "end": 3289.572,
+      "formatted_start": "00:54:48.155",
+      "formatted_end": "00:54:49.572",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3290.534,
+      "end": 3296.17,
+      "formatted_start": "00:54:50.534",
+      "formatted_end": "00:54:56.170",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3297.976,
+      "end": 3299.765,
+      "formatted_start": "00:54:57.976",
+      "formatted_end": "00:54:59.765",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3000.0,
+      "end": 3009.0,
+      "formatted_start": "00:50:00.000",
+      "formatted_end": "00:50:09.000",
+      "text": "یعنی چی؟ خوب؟ خوب."
+    },
+    {
+      "id": 1,
+      "start": 3013.0,
+      "end": 3017.0,
+      "formatted_start": "00:50:13.000",
+      "formatted_end": "00:50:17.000",
+      "text": "ها، میخواییم داشتورت رو باز کنیم. زغال در چیز."
+    },
+    {
+      "id": 2,
+      "start": 3017.0,
+      "end": 3021.0,
+      "formatted_start": "00:50:17.000",
+      "formatted_end": "00:50:21.000",
+      "text": "اما اینجا با اینکه بردار از زغلی ها با اینکه بردار از زغلی ها بردار"
+    },
+    {
+      "id": 3,
+      "start": 3021.0,
+      "end": 3025.0,
+      "formatted_start": "00:50:21.000",
+      "formatted_end": "00:50:25.000",
+      "text": "ببینه آیا این دو شرطی با خواهد درست نشه"
+    },
+    {
+      "id": 4,
+      "start": 3025.0,
+      "end": 3027.0,
+      "formatted_start": "00:50:25.000",
+      "formatted_end": "00:50:27.000",
+      "text": "اوشت دهده"
+    },
+    {
+      "id": 5,
+      "start": 3027.0,
+      "end": 3029.0,
+      "formatted_start": "00:50:27.000",
+      "formatted_end": "00:50:29.000",
+      "text": "اول بردار ببینیم"
+    },
+    {
+      "id": 6,
+      "start": 3029.0,
+      "end": 3031.0,
+      "formatted_start": "00:50:29.000",
+      "formatted_end": "00:50:31.000",
+      "text": "اول بردار ببینیم"
+    },
+    {
+      "id": 7,
+      "start": 3031.0,
+      "end": 3033.0,
+      "formatted_start": "00:50:31.000",
+      "formatted_end": "00:50:33.000",
+      "text": "اوشت دهده ش باشه"
+    },
+    {
+      "id": 8,
+      "start": 3033.0,
+      "end": 3035.0,
+      "formatted_start": "00:50:33.000",
+      "formatted_end": "00:50:35.000",
+      "text": "ببینیم بردار ببینیم"
+    },
+    {
+      "id": 9,
+      "start": 3035.0,
+      "end": 3037.0,
+      "formatted_start": "00:50:35.000",
+      "formatted_end": "00:50:37.000",
+      "text": "اوشت دهده ش باشه"
+    },
+    {
+      "id": 10,
+      "start": 3037.0,
+      "end": 3039.0,
+      "formatted_start": "00:50:37.000",
+      "formatted_end": "00:50:39.000",
+      "text": "خیلی خیلی خیلی خیلی خیلی خیلی خیلی خیلی"
+    },
+    {
+      "id": 11,
+      "start": 3039.0,
+      "end": 3043.0,
+      "formatted_start": "00:50:39.000",
+      "formatted_end": "00:50:43.000",
+      "text": "بعد این هزینه چقدر میشه اگه بخواهم اون زغل اونجا"
+    },
+    {
+      "id": 12,
+      "start": 3043.0,
+      "end": 3045.0,
+      "formatted_start": "00:50:43.000",
+      "formatted_end": "00:50:45.000",
+      "text": "باشه اشکال ندهی"
+    },
+    {
+      "id": 13,
+      "start": 3045.0,
+      "end": 3051.0,
+      "formatted_start": "00:50:45.000",
+      "formatted_end": "00:50:51.000",
+      "text": "باشه باشه باشه مرسی خدافض"
+    },
+    {
+      "id": 14,
+      "start": 3073.0,
+      "end": 3102.98,
+      "formatted_start": "00:51:13.000",
+      "formatted_end": "00:51:42.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 15,
+      "start": 3103.0,
+      "end": 3132.98,
+      "formatted_start": "00:51:43.000",
+      "formatted_end": "00:52:12.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 16,
+      "start": 3133.0,
+      "end": 3162.98,
+      "formatted_start": "00:52:13.000",
+      "formatted_end": "00:52:42.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 3163.0,
+      "end": 3189.0,
+      "formatted_start": "00:52:43.000",
+      "formatted_end": "00:53:09.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 3193.0,
+      "end": 3222.98,
+      "formatted_start": "00:53:13.000",
+      "formatted_end": "00:53:42.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 3223.0,
+      "end": 3243.0,
+      "formatted_start": "00:53:43.000",
+      "formatted_end": "00:54:03.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 3243.0,
+      "end": 3268.0,
+      "formatted_start": "00:54:03.000",
+      "formatted_end": "00:54:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 3268.0,
+      "end": 3270.0,
+      "formatted_start": "00:54:28.000",
+      "formatted_end": "00:54:30.000",
+      "text": "الان سلام آی جمال آبادی"
+    },
+    {
+      "id": 22,
+      "start": 3270.0,
+      "end": 3272.0,
+      "formatted_start": "00:54:30.000",
+      "formatted_end": "00:54:32.000",
+      "text": "خوبه ای خستانه باشی"
+    },
+    {
+      "id": 23,
+      "start": 3272.0,
+      "end": 3275.0,
+      "formatted_start": "00:54:32.000",
+      "formatted_end": "00:54:35.000",
+      "text": "آی جمال آبادی دیروز بسر با وجود ماشین اینا"
+    },
+    {
+      "id": 24,
+      "start": 3275.0,
+      "end": 3277.0,
+      "formatted_start": "00:54:35.000",
+      "formatted_end": "00:54:37.000",
+      "text": "گفتید این زغالهاش گفت"
+    },
+    {
+      "id": 25,
+      "start": 3277.0,
+      "end": 3279.0,
+      "formatted_start": "00:54:37.000",
+      "formatted_end": "00:54:39.000",
+      "text": "دیشب صباتی که"
+    },
+    {
+      "id": 26,
+      "start": 3279.0,
+      "end": 3281.0,
+      "formatted_start": "00:54:39.000",
+      "formatted_end": "00:54:41.000",
+      "text": "بعد این"
+    },
+    {
+      "id": 27,
+      "start": 3281.0,
+      "end": 3283.0,
+      "formatted_start": "00:54:41.000",
+      "formatted_end": "00:54:43.000",
+      "text": "حالا این هزینه چقدر میشه که"
+    },
+    {
+      "id": 28,
+      "start": 3283.0,
+      "end": 3285.0,
+      "formatted_start": "00:54:43.000",
+      "formatted_end": "00:54:45.000",
+      "text": "من امروز چون کار داشتم"
+    },
+    {
+      "id": 29,
+      "start": 3285.0,
+      "end": 3287.0,
+      "formatted_start": "00:54:45.000",
+      "formatted_end": "00:54:47.000",
+      "text": "چقدر؟"
+    },
+    {
+      "id": 30,
+      "start": 3287.0,
+      "end": 3289.0,
+      "formatted_start": "00:54:47.000",
+      "formatted_end": "00:54:49.000",
+      "text": "باید لطف موز"
+    },
+    {
+      "id": 31,
+      "start": 3289.0,
+      "end": 3291.0,
+      "formatted_start": "00:54:49.000",
+      "formatted_end": "00:54:51.000",
+      "text": "خیلی خیلی"
+    },
+    {
+      "id": 32,
+      "start": 3291.0,
+      "end": 3293.0,
+      "formatted_start": "00:54:51.000",
+      "formatted_end": "00:54:53.000",
+      "text": "کارو بشکنیم بیش روما"
+    },
+    {
+      "id": 33,
+      "start": 3293.0,
+      "end": 3295.0,
+      "formatted_start": "00:54:53.000",
+      "formatted_end": "00:54:55.000",
+      "text": "برقاری را دیگری"
+    },
+    {
+      "id": 34,
+      "start": 3295.0,
+      "end": 3297.0,
+      "formatted_start": "00:54:55.000",
+      "formatted_end": "00:54:57.000",
+      "text": "دیگر دیگری جانش"
+    },
+    {
+      "id": 35,
+      "start": 3297.0,
+      "end": 3299.0,
+      "formatted_start": "00:54:57.000",
+      "formatted_end": "00:54:59.000",
+      "text": "و نه بابا همینجوری بابا"
+    }
+  ],
+  "status": "completed"
+}

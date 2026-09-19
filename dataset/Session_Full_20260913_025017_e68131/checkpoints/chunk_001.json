@@ -1,0 +1,754 @@
+{
+  "chunk_index": 1,
+  "start_sec": 300.0,
+  "end_sec": 600.0,
+  "turns": [
+    {
+      "start": 300.082,
+      "end": 301.027,
+      "formatted_start": "00:05:00.082",
+      "formatted_end": "00:05:01.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 301.6,
+      "end": 305.65,
+      "formatted_start": "00:05:01.600",
+      "formatted_end": "00:05:05.650",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 305.971,
+      "end": 314.037,
+      "formatted_start": "00:05:05.971",
+      "formatted_end": "00:05:14.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 314.965,
+      "end": 316.113,
+      "formatted_start": "00:05:14.965",
+      "formatted_end": "00:05:16.113",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 317.632,
+      "end": 318.712,
+      "formatted_start": "00:05:17.632",
+      "formatted_end": "00:05:18.712",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 319.235,
+      "end": 324.533,
+      "formatted_start": "00:05:19.235",
+      "formatted_end": "00:05:24.533",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 325.225,
+      "end": 341.476,
+      "formatted_start": "00:05:25.225",
+      "formatted_end": "00:05:41.476",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 341.763,
+      "end": 354.149,
+      "formatted_start": "00:05:41.763",
+      "formatted_end": "00:05:54.149",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 341.864,
+      "end": 343.163,
+      "formatted_start": "00:05:41.864",
+      "formatted_end": "00:05:43.163",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 346.167,
+      "end": 347.973,
+      "formatted_start": "00:05:46.167",
+      "formatted_end": "00:05:47.973",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 357.625,
+      "end": 367.328,
+      "formatted_start": "00:05:57.625",
+      "formatted_end": "00:06:07.328",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 367.818,
+      "end": 374.618,
+      "formatted_start": "00:06:07.818",
+      "formatted_end": "00:06:14.618",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 375.091,
+      "end": 386.228,
+      "formatted_start": "00:06:15.091",
+      "formatted_end": "00:06:26.228",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 386.465,
+      "end": 389.266,
+      "formatted_start": "00:06:26.465",
+      "formatted_end": "00:06:29.266",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 389.62,
+      "end": 414.528,
+      "formatted_start": "00:06:29.620",
+      "formatted_end": "00:06:54.528",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 396.252,
+      "end": 401.315,
+      "formatted_start": "00:06:36.252",
+      "formatted_end": "00:06:41.315",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 402.344,
+      "end": 403.12,
+      "formatted_start": "00:06:42.344",
+      "formatted_end": "00:06:43.120",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 415.22,
+      "end": 428.264,
+      "formatted_start": "00:06:55.220",
+      "formatted_end": "00:07:08.264",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 415.237,
+      "end": 415.642,
+      "formatted_start": "00:06:55.237",
+      "formatted_end": "00:06:55.642",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 416.738,
+      "end": 417.397,
+      "formatted_start": "00:06:56.738",
+      "formatted_end": "00:06:57.397",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 418.477,
+      "end": 420.383,
+      "formatted_start": "00:06:58.477",
+      "formatted_end": "00:07:00.383",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 429.192,
+      "end": 434.103,
+      "formatted_start": "00:07:09.192",
+      "formatted_end": "00:07:14.103",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 435.166,
+      "end": 439.84,
+      "formatted_start": "00:07:15.166",
+      "formatted_end": "00:07:19.840",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 442.372,
+      "end": 443.435,
+      "formatted_start": "00:07:22.372",
+      "formatted_end": "00:07:23.435",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 447.552,
+      "end": 449.746,
+      "formatted_start": "00:07:27.552",
+      "formatted_end": "00:07:29.746",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 450.05,
+      "end": 464.073,
+      "formatted_start": "00:07:30.050",
+      "formatted_end": "00:07:44.073",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 464.174,
+      "end": 488.812,
+      "formatted_start": "00:07:44.174",
+      "formatted_end": "00:08:08.812",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 468.477,
+      "end": 469.625,
+      "formatted_start": "00:07:48.477",
+      "formatted_end": "00:07:49.625",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 476.425,
+      "end": 477.438,
+      "formatted_start": "00:07:56.425",
+      "formatted_end": "00:07:57.438",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 485.892,
+      "end": 488.575,
+      "formatted_start": "00:08:05.892",
+      "formatted_end": "00:08:08.575",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 491.36,
+      "end": 506.868,
+      "formatted_start": "00:08:11.360",
+      "formatted_end": "00:08:26.868",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 506.969,
+      "end": 518.039,
+      "formatted_start": "00:08:26.969",
+      "formatted_end": "00:08:38.039",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 509.112,
+      "end": 509.787,
+      "formatted_start": "00:08:29.112",
+      "formatted_end": "00:08:29.787",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 511.88,
+      "end": 513.179,
+      "formatted_start": "00:08:31.880",
+      "formatted_end": "00:08:33.179",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 518.815,
+      "end": 519.828,
+      "formatted_start": "00:08:38.815",
+      "formatted_end": "00:08:39.828",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 520.098,
+      "end": 521.026,
+      "formatted_start": "00:08:40.098",
+      "formatted_end": "00:08:41.026",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 522.95,
+      "end": 524.249,
+      "formatted_start": "00:08:42.950",
+      "formatted_end": "00:08:44.249",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 524.401,
+      "end": 530.358,
+      "formatted_start": "00:08:44.401",
+      "formatted_end": "00:08:50.358",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 527.978,
+      "end": 529.278,
+      "formatted_start": "00:08:47.978",
+      "formatted_end": "00:08:49.278",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 531.387,
+      "end": 543.149,
+      "formatted_start": "00:08:51.387",
+      "formatted_end": "00:09:03.149",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 543.571,
+      "end": 547.672,
+      "formatted_start": "00:09:03.571",
+      "formatted_end": "00:09:07.672",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 549.697,
+      "end": 554.692,
+      "formatted_start": "00:09:09.697",
+      "formatted_end": "00:09:14.692",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 555.046,
+      "end": 558.303,
+      "formatted_start": "00:09:15.046",
+      "formatted_end": "00:09:18.303",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 558.337,
+      "end": 568.36,
+      "formatted_start": "00:09:18.337",
+      "formatted_end": "00:09:28.360",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 564.142,
+      "end": 565.492,
+      "formatted_start": "00:09:24.142",
+      "formatted_end": "00:09:25.492",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 568.377,
+      "end": 583.531,
+      "formatted_start": "00:09:28.377",
+      "formatted_end": "00:09:43.531",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 584.088,
+      "end": 599.967,
+      "formatted_start": "00:09:44.088",
+      "formatted_end": "00:09:59.967",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 586.028,
+      "end": 588.205,
+      "formatted_start": "00:09:46.028",
+      "formatted_end": "00:09:48.205",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 300.0,
+      "end": 329.98,
+      "formatted_start": "00:05:00.000",
+      "formatted_end": "00:05:29.980",
+      "text": "بیمار بیمار، گفتگو بین دکتر و بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 330.0,
+      "end": 332.0,
+      "formatted_start": "00:05:30.000",
+      "formatted_end": "00:05:32.000",
+      "text": "اینجا باید باید برداری کنید."
+    },
+    {
+      "id": 2,
+      "start": 332.0,
+      "end": 334.0,
+      "formatted_start": "00:05:32.000",
+      "formatted_end": "00:05:34.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 3,
+      "start": 334.0,
+      "end": 336.0,
+      "formatted_start": "00:05:34.000",
+      "formatted_end": "00:05:36.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 4,
+      "start": 336.0,
+      "end": 338.0,
+      "formatted_start": "00:05:36.000",
+      "formatted_end": "00:05:38.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 5,
+      "start": 338.0,
+      "end": 340.0,
+      "formatted_start": "00:05:38.000",
+      "formatted_end": "00:05:40.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 6,
+      "start": 340.0,
+      "end": 342.0,
+      "formatted_start": "00:05:40.000",
+      "formatted_end": "00:05:42.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 7,
+      "start": 342.0,
+      "end": 344.0,
+      "formatted_start": "00:05:42.000",
+      "formatted_end": "00:05:44.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 8,
+      "start": 344.0,
+      "end": 346.0,
+      "formatted_start": "00:05:44.000",
+      "formatted_end": "00:05:46.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 9,
+      "start": 346.0,
+      "end": 348.0,
+      "formatted_start": "00:05:46.000",
+      "formatted_end": "00:05:48.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 10,
+      "start": 348.0,
+      "end": 350.0,
+      "formatted_start": "00:05:48.000",
+      "formatted_end": "00:05:50.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 11,
+      "start": 350.0,
+      "end": 352.0,
+      "formatted_start": "00:05:50.000",
+      "formatted_end": "00:05:52.000",
+      "text": "اینجا باید برداری کنید."
+    },
+    {
+      "id": 12,
+      "start": 360.0,
+      "end": 390.0,
+      "formatted_start": "00:06:00.000",
+      "formatted_end": "00:06:30.000",
+      "text": "اینجا باید برداریم که اینجا باید برداریم که اینجا باید برداریم که اینجا باید برداریم که اینجا باید برداریم که اینجا باید برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برداریم که اینجا برد"
+    },
+    {
+      "id": 13,
+      "start": 390.0,
+      "end": 420.0,
+      "formatted_start": "00:06:30.000",
+      "formatted_end": "00:07:00.000",
+      "text": "اوه، برون دیگه چی کامل رو رفتید، باید فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون، فره برون"
+    },
+    {
+      "id": 14,
+      "start": 420.0,
+      "end": 426.0,
+      "formatted_start": "00:07:00.000",
+      "formatted_end": "00:07:06.000",
+      "text": "اینکه مفترم میگه اینکه نه دیگه باشیم"
+    },
+    {
+      "id": 15,
+      "start": 426.0,
+      "end": 432.0,
+      "formatted_start": "00:07:06.000",
+      "formatted_end": "00:07:12.000",
+      "text": "آره آفره ایچون ندارم اونجا دیگه"
+    },
+    {
+      "id": 16,
+      "start": 432.0,
+      "end": 436.0,
+      "formatted_start": "00:07:12.000",
+      "formatted_end": "00:07:16.000",
+      "text": "جان بکنم بیاییم"
+    },
+    {
+      "id": 17,
+      "start": 436.0,
+      "end": 438.0,
+      "formatted_start": "00:07:16.000",
+      "formatted_end": "00:07:18.000",
+      "text": "بخون بخون بخون"
+    },
+    {
+      "id": 18,
+      "start": 438.0,
+      "end": 440.0,
+      "formatted_start": "00:07:18.000",
+      "formatted_end": "00:07:20.000",
+      "text": "۵۰۷"
+    },
+    {
+      "id": 19,
+      "start": 440.0,
+      "end": 442.0,
+      "formatted_start": "00:07:20.000",
+      "formatted_end": "00:07:22.000",
+      "text": "۷۰۰"
+    },
+    {
+      "id": 20,
+      "start": 442.0,
+      "end": 444.0,
+      "formatted_start": "00:07:22.000",
+      "formatted_end": "00:07:24.000",
+      "text": "۷۰۰"
+    },
+    {
+      "id": 21,
+      "start": 444.0,
+      "end": 446.0,
+      "formatted_start": "00:07:24.000",
+      "formatted_end": "00:07:26.000",
+      "text": "۵۰۰"
+    },
+    {
+      "id": 22,
+      "start": 446.0,
+      "end": 448.0,
+      "formatted_start": "00:07:26.000",
+      "formatted_end": "00:07:28.000",
+      "text": "۳۰"
+    },
+    {
+      "id": 23,
+      "start": 448.0,
+      "end": 450.0,
+      "formatted_start": "00:07:28.000",
+      "formatted_end": "00:07:30.000",
+      "text": "دیگه بردیشی گرم."
+    },
+    {
+      "id": 24,
+      "start": 450.0,
+      "end": 456.0,
+      "formatted_start": "00:07:30.000",
+      "formatted_end": "00:07:36.000",
+      "text": "در این حال ممنون هنجیر بر آن رو بسیار شده بود."
+    },
+    {
+      "id": 25,
+      "start": 456.0,
+      "end": 458.0,
+      "formatted_start": "00:07:36.000",
+      "formatted_end": "00:07:38.000",
+      "text": "بردی نبود بود."
+    },
+    {
+      "id": 26,
+      "start": 458.0,
+      "end": 462.0,
+      "formatted_start": "00:07:38.000",
+      "formatted_end": "00:07:42.000",
+      "text": "و بعد این وقت شد که نه نه هنجیر یک برگردی و از این وقت با باشه بود و این بیشتر بیرون بود."
+    },
+    {
+      "id": 27,
+      "start": 462.0,
+      "end": 464.0,
+      "formatted_start": "00:07:42.000",
+      "formatted_end": "00:07:44.000",
+      "text": "من اینکه نمیمونم هنجیر بیرون بود."
+    },
+    {
+      "id": 28,
+      "start": 464.0,
+      "end": 467.0,
+      "formatted_start": "00:07:44.000",
+      "formatted_end": "00:07:47.000",
+      "text": "من اونکه اینکه اون سرسختان رو نیمون بردیم."
+    },
+    {
+      "id": 29,
+      "start": 467.0,
+      "end": 470.0,
+      "formatted_start": "00:07:47.000",
+      "formatted_end": "00:07:50.000",
+      "text": "من مکردیم تا اینکه تا اینکه نمیمونم بشیم نرم."
+    },
+    {
+      "id": 30,
+      "start": 470.0,
+      "end": 472.0,
+      "formatted_start": "00:07:50.000",
+      "formatted_end": "00:07:52.000",
+      "text": "اینکه من موریم."
+    },
+    {
+      "id": 31,
+      "start": 472.0,
+      "end": 502.0,
+      "formatted_start": "00:07:52.000",
+      "formatted_end": "00:08:22.000",
+      "text": "از اینجا باید برداریم که از اینجا باید برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینجا برداریم که از اینج"
+    },
+    {
+      "id": 32,
+      "start": 502.0,
+      "end": 504.0,
+      "formatted_start": "00:08:22.000",
+      "formatted_end": "00:08:24.000",
+      "text": "مردم در اینجا باید بردارید."
+    },
+    {
+      "id": 33,
+      "start": 504.0,
+      "end": 506.0,
+      "formatted_start": "00:08:24.000",
+      "formatted_end": "00:08:26.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 34,
+      "start": 506.0,
+      "end": 508.0,
+      "formatted_start": "00:08:26.000",
+      "formatted_end": "00:08:28.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 35,
+      "start": 508.0,
+      "end": 510.0,
+      "formatted_start": "00:08:28.000",
+      "formatted_end": "00:08:30.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 36,
+      "start": 510.0,
+      "end": 512.0,
+      "formatted_start": "00:08:30.000",
+      "formatted_end": "00:08:32.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 37,
+      "start": 512.0,
+      "end": 514.0,
+      "formatted_start": "00:08:32.000",
+      "formatted_end": "00:08:34.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 38,
+      "start": 514.0,
+      "end": 516.0,
+      "formatted_start": "00:08:34.000",
+      "formatted_end": "00:08:36.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 39,
+      "start": 516.0,
+      "end": 518.0,
+      "formatted_start": "00:08:36.000",
+      "formatted_end": "00:08:38.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 40,
+      "start": 518.0,
+      "end": 520.0,
+      "formatted_start": "00:08:38.000",
+      "formatted_end": "00:08:40.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 41,
+      "start": 520.0,
+      "end": 522.0,
+      "formatted_start": "00:08:40.000",
+      "formatted_end": "00:08:42.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 42,
+      "start": 522.0,
+      "end": 524.0,
+      "formatted_start": "00:08:42.000",
+      "formatted_end": "00:08:44.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 43,
+      "start": 524.0,
+      "end": 526.0,
+      "formatted_start": "00:08:44.000",
+      "formatted_end": "00:08:46.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 44,
+      "start": 526.0,
+      "end": 556.0,
+      "formatted_start": "00:08:46.000",
+      "formatted_end": "00:09:16.000",
+      "text": "مردم باید باید بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بی"
+    },
+    {
+      "id": 45,
+      "start": 556.0,
+      "end": 562.0,
+      "formatted_start": "00:09:16.000",
+      "formatted_end": "00:09:22.000",
+      "text": "اینکه من رو دیگر کلردیتی کنم، یا دیگر دیگر دامداری کنم، یا یک نقشه آمده کنم"
+    },
+    {
+      "id": 46,
+      "start": 562.0,
+      "end": 568.0,
+      "formatted_start": "00:09:22.000",
+      "formatted_end": "00:09:28.000",
+      "text": "آره بود که شاید اون باید شاید اینکه باید برگردیم"
+    },
+    {
+      "id": 47,
+      "start": 568.0,
+      "end": 572.0,
+      "formatted_start": "00:09:28.000",
+      "formatted_end": "00:09:32.000",
+      "text": "آره بود که شاید اون باید برگردیم"
+    },
+    {
+      "id": 48,
+      "start": 572.0,
+      "end": 576.0,
+      "formatted_start": "00:09:32.000",
+      "formatted_end": "00:09:36.000",
+      "text": "اینکه باید برگردیم، اینکه باید برگردیم"
+    },
+    {
+      "id": 49,
+      "start": 576.0,
+      "end": 580.0,
+      "formatted_start": "00:09:36.000",
+      "formatted_end": "00:09:40.000",
+      "text": "سراندی کنم، آره بود که شاید اون باید برگردیم"
+    },
+    {
+      "id": 50,
+      "start": 580.0,
+      "end": 600.0,
+      "formatted_start": "00:09:40.000",
+      "formatted_end": "00:10:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
