@@ -1,0 +1,126 @@
+{
+  "chunk_index": 28,
+  "start_sec": 8400.0,
+  "end_sec": 8700.0,
+  "turns": [
+    {
+      "start": 8648.195,
+      "end": 8650.287,
+      "formatted_start": "02:24:08.195",
+      "formatted_end": "02:24:10.287",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 8684.543,
+      "end": 8685.725,
+      "formatted_start": "02:24:44.543",
+      "formatted_end": "02:24:45.725",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8685.978,
+      "end": 8689.319,
+      "formatted_start": "02:24:45.978",
+      "formatted_end": "02:24:49.319",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8690.618,
+      "end": 8691.125,
+      "formatted_start": "02:24:50.618",
+      "formatted_end": "02:24:51.125",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 8400.0,
+      "end": 8429.98,
+      "formatted_start": "02:20:00.000",
+      "formatted_end": "02:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 8430.0,
+      "end": 8440.0,
+      "formatted_start": "02:20:30.000",
+      "formatted_end": "02:20:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 8460.0,
+      "end": 8489.98,
+      "formatted_start": "02:21:00.000",
+      "formatted_end": "02:21:29.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 3,
+      "start": 8490.0,
+      "end": 8519.98,
+      "formatted_start": "02:21:30.000",
+      "formatted_end": "02:21:59.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 4,
+      "start": 8520.0,
+      "end": 8549.98,
+      "formatted_start": "02:22:00.000",
+      "formatted_end": "02:22:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 8550.0,
+      "end": 8579.98,
+      "formatted_start": "02:22:30.000",
+      "formatted_end": "02:22:59.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 6,
+      "start": 8580.0,
+      "end": 8609.98,
+      "formatted_start": "02:23:00.000",
+      "formatted_end": "02:23:29.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 7,
+      "start": 8610.0,
+      "end": 8639.98,
+      "formatted_start": "02:23:30.000",
+      "formatted_end": "02:23:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 8640.0,
+      "end": 8650.0,
+      "formatted_start": "02:24:00.000",
+      "formatted_end": "02:24:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 8670.0,
+      "end": 8690.0,
+      "formatted_start": "02:24:30.000",
+      "formatted_end": "02:24:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 8690.0,
+      "end": 8700.0,
+      "formatted_start": "02:24:50.000",
+      "formatted_end": "02:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

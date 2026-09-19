@@ -1,0 +1,656 @@
+{
+  "chunk_index": 21,
+  "start_sec": 6300.0,
+  "end_sec": 6600.0,
+  "turns": [
+    {
+      "start": 6305.684,
+      "end": 6313.649,
+      "formatted_start": "01:45:05.684",
+      "formatted_end": "01:45:13.649",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6323.048,
+      "end": 6342.151,
+      "formatted_start": "01:45:23.048",
+      "formatted_end": "01:45:42.151",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6343.535,
+      "end": 6346.201,
+      "formatted_start": "01:45:43.535",
+      "formatted_end": "01:45:46.201",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6347.315,
+      "end": 6348.023,
+      "formatted_start": "01:45:47.315",
+      "formatted_end": "01:45:48.023",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6349.846,
+      "end": 6351.027,
+      "formatted_start": "01:45:49.846",
+      "formatted_end": "01:45:51.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6360.477,
+      "end": 6361.422,
+      "formatted_start": "01:46:00.477",
+      "formatted_end": "01:46:01.422",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6361.658,
+      "end": 6363.397,
+      "formatted_start": "01:46:01.658",
+      "formatted_end": "01:46:03.397",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6363.65,
+      "end": 6364.882,
+      "formatted_start": "01:46:03.650",
+      "formatted_end": "01:46:04.882",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6366.721,
+      "end": 6369.033,
+      "formatted_start": "01:46:06.721",
+      "formatted_end": "01:46:09.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6380.744,
+      "end": 6382.28,
+      "formatted_start": "01:46:20.744",
+      "formatted_end": "01:46:22.280",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6382.33,
+      "end": 6382.87,
+      "formatted_start": "01:46:22.330",
+      "formatted_end": "01:46:22.870",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6387.916,
+      "end": 6392.911,
+      "formatted_start": "01:46:27.916",
+      "formatted_end": "01:46:32.911",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6393.333,
+      "end": 6394.008,
+      "formatted_start": "01:46:33.333",
+      "formatted_end": "01:46:34.008",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6401.433,
+      "end": 6407.845,
+      "formatted_start": "01:46:41.433",
+      "formatted_end": "01:46:47.845",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6408.352,
+      "end": 6410.056,
+      "formatted_start": "01:46:48.352",
+      "formatted_end": "01:46:50.056",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6410.292,
+      "end": 6413.38,
+      "formatted_start": "01:46:50.292",
+      "formatted_end": "01:46:53.380",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6413.414,
+      "end": 6413.887,
+      "formatted_start": "01:46:53.414",
+      "formatted_end": "01:46:53.887",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6416.941,
+      "end": 6417.43,
+      "formatted_start": "01:46:56.941",
+      "formatted_end": "01:46:57.430",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6417.565,
+      "end": 6418.139,
+      "formatted_start": "01:46:57.565",
+      "formatted_end": "01:46:58.139",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6418.797,
+      "end": 6426.897,
+      "formatted_start": "01:46:58.797",
+      "formatted_end": "01:47:06.897",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6427.69,
+      "end": 6433.175,
+      "formatted_start": "01:47:07.690",
+      "formatted_end": "01:47:13.175",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6433.225,
+      "end": 6435.132,
+      "formatted_start": "01:47:13.225",
+      "formatted_end": "01:47:15.132",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6435.453,
+      "end": 6436.027,
+      "formatted_start": "01:47:15.453",
+      "formatted_end": "01:47:16.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6446.978,
+      "end": 6464.528,
+      "formatted_start": "01:47:26.978",
+      "formatted_end": "01:47:44.528",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6464.832,
+      "end": 6465.203,
+      "formatted_start": "01:47:44.832",
+      "formatted_end": "01:47:45.203",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6470.806,
+      "end": 6471.481,
+      "formatted_start": "01:47:50.806",
+      "formatted_end": "01:47:51.481",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6488.575,
+      "end": 6489.166,
+      "formatted_start": "01:48:08.575",
+      "formatted_end": "01:48:09.166",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6558.978,
+      "end": 6559.703,
+      "formatted_start": "01:49:18.978",
+      "formatted_end": "01:49:19.703",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6561.273,
+      "end": 6562.488,
+      "formatted_start": "01:49:21.273",
+      "formatted_end": "01:49:22.488",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6563.045,
+      "end": 6564.023,
+      "formatted_start": "01:49:23.045",
+      "formatted_end": "01:49:24.023",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6564.04,
+      "end": 6565.036,
+      "formatted_start": "01:49:24.040",
+      "formatted_end": "01:49:25.036",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6575.06,
+      "end": 6576.207,
+      "formatted_start": "01:49:35.060",
+      "formatted_end": "01:49:36.207",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6576.73,
+      "end": 6579.953,
+      "formatted_start": "01:49:36.730",
+      "formatted_end": "01:49:39.953",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6580.291,
+      "end": 6583.025,
+      "formatted_start": "01:49:40.291",
+      "formatted_end": "01:49:43.025",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6300.0,
+      "end": 6302.0,
+      "formatted_start": "01:45:00.000",
+      "formatted_end": "01:45:02.000",
+      "text": "مدت زیر ایران"
+    },
+    {
+      "id": 1,
+      "start": 6330.0,
+      "end": 6332.36,
+      "formatted_start": "01:45:30.000",
+      "formatted_end": "01:45:32.360",
+      "text": "اگه آرواز باز میشه فردا میگید نه باز میشه"
+    },
+    {
+      "id": 2,
+      "start": 6332.36,
+      "end": 6334.7,
+      "formatted_start": "01:45:32.360",
+      "formatted_end": "01:45:34.700",
+      "text": "امروز میگید در این درانه سقوطه"
+    },
+    {
+      "id": 3,
+      "start": 6334.7,
+      "end": 6337.0,
+      "formatted_start": "01:45:34.700",
+      "formatted_end": "01:45:37.000",
+      "text": "فردا میگید که رژیم در قدرت مند میشه"
+    },
+    {
+      "id": 4,
+      "start": 6337.0,
+      "end": 6338.52,
+      "formatted_start": "01:45:37.000",
+      "formatted_end": "01:45:38.520",
+      "text": "و نیروی بیشتری میگیره"
+    },
+    {
+      "id": 5,
+      "start": 6338.52,
+      "end": 6340.54,
+      "formatted_start": "01:45:38.520",
+      "formatted_end": "01:45:40.540",
+      "text": "ما رو سردر بکردید چیه باز"
+    },
+    {
+      "id": 6,
+      "start": 6340.54,
+      "end": 6342.0,
+      "formatted_start": "01:45:40.540",
+      "formatted_end": "01:45:42.000",
+      "text": "چرا این حرفات رو تکرار بکنیم"
+    },
+    {
+      "id": 7,
+      "start": 6342.52,
+      "end": 6346.0,
+      "formatted_start": "01:45:42.520",
+      "formatted_end": "01:45:46.000",
+      "text": "به مقدسانه و نقصن ما تفصیل نداریم"
+    },
+    {
+      "id": 8,
+      "start": 6346.84,
+      "end": 6349.4,
+      "formatted_start": "01:45:46.840",
+      "formatted_end": "01:45:49.400",
+      "text": "آقای ترامب در دام مکومت ایران افتاده"
+    },
+    {
+      "id": 9,
+      "start": 6349.4,
+      "end": 6352.48,
+      "formatted_start": "01:45:49.400",
+      "formatted_end": "01:45:52.480",
+      "text": "مکومتی که هر چه بشه جریانان طول بکشه"
+    },
+    {
+      "id": 10,
+      "start": 6352.48,
+      "end": 6353.8,
+      "formatted_start": "01:45:52.480",
+      "formatted_end": "01:45:53.800",
+      "text": "کشتارتر بشه"
+    },
+    {
+      "id": 11,
+      "start": 6353.8,
+      "end": 6356.58,
+      "formatted_start": "01:45:53.800",
+      "formatted_end": "01:45:56.580",
+      "text": "به نفشه و میتونه امتیازات ریشتره گیرید"
+    },
+    {
+      "id": 12,
+      "start": 6356.58,
+      "end": 6360.16,
+      "formatted_start": "01:45:56.580",
+      "formatted_end": "01:46:00.160",
+      "text": "آخرین خبراتی با رستم تکرار میشه در رسای خیلی برد"
+    },
+    {
+      "id": 13,
+      "start": 6360.16,
+      "end": 6361.46,
+      "formatted_start": "01:46:00.160",
+      "formatted_end": "01:46:01.460",
+      "text": "مسئله سنگه برموز"
+    },
+    {
+      "id": 14,
+      "start": 6361.46,
+      "end": 6363.38,
+      "formatted_start": "01:46:01.460",
+      "formatted_end": "01:46:03.380",
+      "text": "آقای ترامب گفته بود که یک شمبه"
+    },
+    {
+      "id": 15,
+      "start": 6363.38,
+      "end": 6364.9,
+      "formatted_start": "01:46:03.380",
+      "formatted_end": "01:46:04.900",
+      "text": "توافق نمایی به دست دید"
+    },
+    {
+      "id": 16,
+      "start": 6364.9,
+      "end": 6367.42,
+      "formatted_start": "01:46:04.900",
+      "formatted_end": "01:46:07.420",
+      "text": "نشد گفت شمبه بود"
+    },
+    {
+      "id": 17,
+      "start": 6367.42,
+      "end": 6368.46,
+      "formatted_start": "01:46:07.420",
+      "formatted_end": "01:46:08.460",
+      "text": "نشد گفت شمبه بود"
+    },
+    {
+      "id": 18,
+      "start": 6368.46,
+      "end": 6369.48,
+      "formatted_start": "01:46:08.460",
+      "formatted_end": "01:46:09.480",
+      "text": "نشد گفت شمبه بود"
+    },
+    {
+      "id": 19,
+      "start": 6369.48,
+      "end": 6370.58,
+      "formatted_start": "01:46:09.480",
+      "formatted_end": "01:46:10.580",
+      "text": "ایلوز شمبه است"
+    },
+    {
+      "id": 20,
+      "start": 6370.58,
+      "end": 6373.32,
+      "formatted_start": "01:46:10.580",
+      "formatted_end": "01:46:13.320",
+      "text": "و تمام گذارشان میگوید که توافق نمایی شده"
+    },
+    {
+      "id": 21,
+      "start": 6373.32,
+      "end": 6374.84,
+      "formatted_start": "01:46:13.320",
+      "formatted_end": "01:46:14.840",
+      "text": "فقط یه چیز با من مونده"
+    },
+    {
+      "id": 22,
+      "start": 6374.84,
+      "end": 6378.06,
+      "formatted_start": "01:46:14.840",
+      "formatted_end": "01:46:18.060",
+      "text": "و اون تصویب شما یعنی امنیت ملی حکومت است"
+    },
+    {
+      "id": 23,
+      "start": 6378.06,
+      "end": 6380.02,
+      "formatted_start": "01:46:18.060",
+      "formatted_end": "01:46:20.020",
+      "text": "تازه دارن ناس میبونن"
+    },
+    {
+      "id": 24,
+      "start": 6380.02,
+      "end": 6383.38,
+      "formatted_start": "01:46:20.020",
+      "formatted_end": "01:46:23.380",
+      "text": "چند تیاز هستی روی یادات متحده در حکومت ایرانیده"
+    },
+    {
+      "id": 25,
+      "start": 6383.38,
+      "end": 6389.44,
+      "formatted_start": "01:46:23.380",
+      "formatted_end": "01:46:29.440",
+      "text": "که اوگور یعنی برود به خریج فارس"
+    },
+    {
+      "id": 26,
+      "start": 6389.44,
+      "end": 6391.52,
+      "formatted_start": "01:46:29.440",
+      "formatted_end": "01:46:31.520",
+      "text": "باید از مسیر حکومت ایران باشه"
+    },
+    {
+      "id": 27,
+      "start": 6391.52,
+      "end": 6394.26,
+      "formatted_start": "01:46:31.520",
+      "formatted_end": "01:46:34.260",
+      "text": "با احساس نزارت و اعتمالاً"
+    },
+    {
+      "id": 28,
+      "start": 6394.26,
+      "end": 6396.62,
+      "formatted_start": "01:46:34.260",
+      "formatted_end": "01:46:36.620",
+      "text": "مانیاتی که یا برود برویگ رژیم ایرانیده"
+    },
+    {
+      "id": 29,
+      "start": 6396.62,
+      "end": 6397.68,
+      "formatted_start": "01:46:36.620",
+      "formatted_end": "01:46:37.680",
+      "text": "این بادشون هم هران گفتن"
+    },
+    {
+      "id": 30,
+      "start": 6397.68,
+      "end": 6399.76,
+      "formatted_start": "01:46:37.680",
+      "formatted_end": "01:46:39.760",
+      "text": "بله اوگور اوگور آساد"
+    },
+    {
+      "id": 31,
+      "start": 6399.76,
+      "end": 6402.84,
+      "formatted_start": "01:46:39.760",
+      "formatted_end": "01:46:42.840",
+      "text": "بله ما به نافع جنگی امریکا"
+    },
+    {
+      "id": 32,
+      "start": 6402.84,
+      "end": 6406.78,
+      "formatted_start": "01:46:42.840",
+      "formatted_end": "01:46:46.780",
+      "text": "و به کشتی های این با قصد اضراعی اجازه یک برسا باید نخواهیم داد."
+    },
+    {
+      "id": 33,
+      "start": 6406.78,
+      "end": 6407.78,
+      "formatted_start": "01:46:46.780",
+      "formatted_end": "01:46:47.780",
+      "text": "اینجا مال ماست."
+    },
+    {
+      "id": 34,
+      "start": 6407.78,
+      "end": 6409.78,
+      "formatted_start": "01:46:47.780",
+      "formatted_end": "01:46:49.780",
+      "text": "بابرای پیتر بلالی سهلت کردیم."
+    },
+    {
+      "id": 35,
+      "start": 6409.78,
+      "end": 6412.78,
+      "formatted_start": "01:46:49.780",
+      "formatted_end": "01:46:52.780",
+      "text": "ما با رسمند مندر رسته اینجا مال ماست."
+    },
+    {
+      "id": 36,
+      "start": 6412.78,
+      "end": 6415.78,
+      "formatted_start": "01:46:52.780",
+      "formatted_end": "01:46:55.780",
+      "text": "ما زنگیزک ریز می کنیم که کدوم کشتی یا نفت کشی."
+    },
+    {
+      "id": 37,
+      "start": 6415.78,
+      "end": 6417.78,
+      "formatted_start": "01:46:55.780",
+      "formatted_end": "01:46:57.780",
+      "text": "برای بشه یادت داشتیم."
+    },
+    {
+      "id": 38,
+      "start": 6417.78,
+      "end": 6418.78,
+      "formatted_start": "01:46:57.780",
+      "formatted_end": "01:46:58.780",
+      "text": "مفهومه شوید."
+    },
+    {
+      "id": 39,
+      "start": 6418.78,
+      "end": 6420.78,
+      "formatted_start": "01:46:58.780",
+      "formatted_end": "01:47:00.780",
+      "text": "رژیم ایران خواست خودش رو ترک بوده."
+    },
+    {
+      "id": 40,
+      "start": 6420.78,
+      "end": 6422.78,
+      "formatted_start": "01:47:00.780",
+      "formatted_end": "01:47:02.780",
+      "text": "دستر لطف است یادت برسنگی رو باید مستادرد."
+    },
+    {
+      "id": 41,
+      "start": 6432.84,
+      "end": 6442.84,
+      "formatted_start": "01:47:12.840",
+      "formatted_end": "01:47:22.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 42,
+      "start": 6462.84,
+      "end": 6464.84,
+      "formatted_start": "01:47:42.840",
+      "formatted_end": "01:47:44.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 43,
+      "start": 6492.84,
+      "end": 6512.84,
+      "formatted_start": "01:48:12.840",
+      "formatted_end": "01:48:32.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 44,
+      "start": 6512.84,
+      "end": 6522.84,
+      "formatted_start": "01:48:32.840",
+      "formatted_end": "01:48:42.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 45,
+      "start": 6542.84,
+      "end": 6555.84,
+      "formatted_start": "01:49:02.840",
+      "formatted_end": "01:49:15.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 46,
+      "start": 6572.84,
+      "end": 6576.34,
+      "formatted_start": "01:49:32.840",
+      "formatted_end": "01:49:36.340",
+      "text": "وقتی هم قطعه کمون میشه بدنش به حال تارکی برمیگرده"
+    },
+    {
+      "id": 47,
+      "start": 6576.34,
+      "end": 6579.72,
+      "formatted_start": "01:49:36.340",
+      "formatted_end": "01:49:39.720",
+      "text": "ولی ما این زمان بتونیم که شیلت رو بارمون باشه"
+    },
+    {
+      "id": 48,
+      "start": 6579.72,
+      "end": 6583.46,
+      "formatted_start": "01:49:39.720",
+      "formatted_end": "01:49:43.460",
+      "text": "تنخص موفیر کردن با یک روح مورد مدرشته"
+    },
+    {
+      "id": 49,
+      "start": 6583.46,
+      "end": 6587.62,
+      "formatted_start": "01:49:43.460",
+      "formatted_end": "01:49:47.620",
+      "text": "یا یه سری نگرانوی در مورد اتباعات که شاید اصلا روح مده"
+    },
+    {
+      "id": 50,
+      "start": 6587.62,
+      "end": 6591.34,
+      "formatted_start": "01:49:47.620",
+      "formatted_end": "01:49:51.340",
+      "text": "بدن و سوات ها و حتی اونها در حالت حدیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,172 @@
+{
+  "chunk_index": 7,
+  "start_sec": 2100.0,
+  "end_sec": 2400.0,
+  "turns": [
+    {
+      "start": 2292.153,
+      "end": 2292.507,
+      "formatted_start": "00:38:12.153",
+      "formatted_end": "00:38:12.507",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2293.621,
+      "end": 2295.73,
+      "formatted_start": "00:38:13.621",
+      "formatted_end": "00:38:15.730",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2296.793,
+      "end": 2301.991,
+      "formatted_start": "00:38:16.793",
+      "formatted_end": "00:38:21.991",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2298.717,
+      "end": 2299.291,
+      "formatted_start": "00:38:18.717",
+      "formatted_end": "00:38:19.291",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2303.392,
+      "end": 2304.083,
+      "formatted_start": "00:38:23.392",
+      "formatted_end": "00:38:24.083",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2303.662,
+      "end": 2308.758,
+      "formatted_start": "00:38:23.662",
+      "formatted_end": "00:38:28.758",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 2100.0,
+      "end": 2129.98,
+      "formatted_start": "00:35:00.000",
+      "formatted_end": "00:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 2130.0,
+      "end": 2159.98,
+      "formatted_start": "00:35:30.000",
+      "formatted_end": "00:35:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 2160.0,
+      "end": 2189.98,
+      "formatted_start": "00:36:00.000",
+      "formatted_end": "00:36:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 2190.0,
+      "end": 2218.0,
+      "formatted_start": "00:36:30.000",
+      "formatted_end": "00:36:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 2220.0,
+      "end": 2249.98,
+      "formatted_start": "00:37:00.000",
+      "formatted_end": "00:37:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 2250.0,
+      "end": 2270.0,
+      "formatted_start": "00:37:30.000",
+      "formatted_end": "00:37:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 2270.0,
+      "end": 2296.0,
+      "formatted_start": "00:37:50.000",
+      "formatted_end": "00:38:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 2296.0,
+      "end": 2298.0,
+      "formatted_start": "00:38:16.000",
+      "formatted_end": "00:38:18.000",
+      "text": "شدی؟"
+    },
+    {
+      "id": 8,
+      "start": 2298.0,
+      "end": 2300.0,
+      "formatted_start": "00:38:18.000",
+      "formatted_end": "00:38:20.000",
+      "text": "آره، گفتم"
+    },
+    {
+      "id": 9,
+      "start": 2300.0,
+      "end": 2302.0,
+      "formatted_start": "00:38:20.000",
+      "formatted_end": "00:38:22.000",
+      "text": "یک فاطوتی درمکاری کل شده بود"
+    },
+    {
+      "id": 10,
+      "start": 2302.0,
+      "end": 2304.0,
+      "formatted_start": "00:38:22.000",
+      "formatted_end": "00:38:24.000",
+      "text": "درم؟"
+    },
+    {
+      "id": 11,
+      "start": 2304.0,
+      "end": 2308.0,
+      "formatted_start": "00:38:24.000",
+      "formatted_end": "00:38:28.000",
+      "text": "آره، کسی برمی فرمید که آنها کسی برمی آشت"
+    },
+    {
+      "id": 12,
+      "start": 2326.0,
+      "end": 2355.98,
+      "formatted_start": "00:38:46.000",
+      "formatted_end": "00:39:15.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 2356.0,
+      "end": 2385.98,
+      "formatted_start": "00:39:16.000",
+      "formatted_end": "00:39:45.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 2386.0,
+      "end": 2400.0,
+      "formatted_start": "00:39:46.000",
+      "formatted_end": "00:40:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

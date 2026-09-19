@@ -1,0 +1,223 @@
+{
+  "chunk_index": 31,
+  "start_sec": 9300.0,
+  "end_sec": 9600.0,
+  "turns": [
+    {
+      "start": 9338.05,
+      "end": 9339.13,
+      "formatted_start": "02:35:38.050",
+      "formatted_end": "02:35:39.130",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9348.665,
+      "end": 9351.196,
+      "formatted_start": "02:35:48.665",
+      "formatted_end": "02:35:51.196",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9355.482,
+      "end": 9360.562,
+      "formatted_start": "02:35:55.482",
+      "formatted_end": "02:36:00.562",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 9361.287,
+      "end": 9365.152,
+      "formatted_start": "02:36:01.287",
+      "formatted_end": "02:36:05.152",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9365.371,
+      "end": 9368.037,
+      "formatted_start": "02:36:05.371",
+      "formatted_end": "02:36:08.037",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 9370.113,
+      "end": 9371.024,
+      "formatted_start": "02:36:10.113",
+      "formatted_end": "02:36:11.024",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 9376.238,
+      "end": 9377.74,
+      "formatted_start": "02:36:16.238",
+      "formatted_end": "02:36:17.740",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9379.428,
+      "end": 9381.773,
+      "formatted_start": "02:36:19.428",
+      "formatted_end": "02:36:21.773",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9382.465,
+      "end": 9383.849,
+      "formatted_start": "02:36:22.465",
+      "formatted_end": "02:36:23.849",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9383.849,
+      "end": 9386.414,
+      "formatted_start": "02:36:23.849",
+      "formatted_end": "02:36:26.414",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9516.959,
+      "end": 9517.448,
+      "formatted_start": "02:38:36.959",
+      "formatted_end": "02:38:37.448",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9300.0,
+      "end": 9329.98,
+      "formatted_start": "02:35:00.000",
+      "formatted_end": "02:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 9330.0,
+      "end": 9360.0,
+      "formatted_start": "02:35:30.000",
+      "formatted_end": "02:36:00.000",
+      "text": "از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه از اینکه ا"
+    },
+    {
+      "id": 2,
+      "start": 9360.0,
+      "end": 9364.0,
+      "formatted_start": "02:36:00.000",
+      "formatted_end": "02:36:04.000",
+      "text": "باید این رو یک روزی سنگاوش بدارم کنم چی میشه؟"
+    },
+    {
+      "id": 3,
+      "start": 9364.0,
+      "end": 9368.0,
+      "formatted_start": "02:36:04.000",
+      "formatted_end": "02:36:08.000",
+      "text": "نه، اونو میشه، باید دیر در باشم، این رو بشه زرده باشم"
+    },
+    {
+      "id": 4,
+      "start": 9368.0,
+      "end": 9372.0,
+      "formatted_start": "02:36:08.000",
+      "formatted_end": "02:36:12.000",
+      "text": "نه، نه، بینم که سوشم"
+    },
+    {
+      "id": 5,
+      "start": 9376.0,
+      "end": 9378.0,
+      "formatted_start": "02:36:16.000",
+      "formatted_end": "02:36:18.000",
+      "text": "من شده باشم"
+    },
+    {
+      "id": 6,
+      "start": 9378.0,
+      "end": 9382.0,
+      "formatted_start": "02:36:18.000",
+      "formatted_end": "02:36:22.000",
+      "text": "داراشون سرد کنم، بیایید بگیرم، اینقدر سید"
+    },
+    {
+      "id": 7,
+      "start": 9382.0,
+      "end": 9384.0,
+      "formatted_start": "02:36:22.000",
+      "formatted_end": "02:36:24.000",
+      "text": "داراشون خود کنشون بدم؟"
+    },
+    {
+      "id": 8,
+      "start": 9384.0,
+      "end": 9388.0,
+      "formatted_start": "02:36:24.000",
+      "formatted_end": "02:36:28.000",
+      "text": "من یا ماشی، الان بیایید ماشی دوباره بینیم سرد کنشون"
+    },
+    {
+      "id": 9,
+      "start": 9390.0,
+      "end": 9392.0,
+      "formatted_start": "02:36:30.000",
+      "formatted_end": "02:36:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 9420.0,
+      "end": 9449.98,
+      "formatted_start": "02:37:00.000",
+      "formatted_end": "02:37:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 11,
+      "start": 9450.0,
+      "end": 9479.98,
+      "formatted_start": "02:37:30.000",
+      "formatted_end": "02:37:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 12,
+      "start": 9480.0,
+      "end": 9500.0,
+      "formatted_start": "02:38:00.000",
+      "formatted_end": "02:38:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 9500.0,
+      "end": 9520.0,
+      "formatted_start": "02:38:20.000",
+      "formatted_end": "02:38:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 9520.0,
+      "end": 9530.0,
+      "formatted_start": "02:38:40.000",
+      "formatted_end": "02:38:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 9550.0,
+      "end": 9578.0,
+      "formatted_start": "02:39:10.000",
+      "formatted_end": "02:39:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 9580.0,
+      "end": 9600.0,
+      "formatted_start": "02:39:40.000",
+      "formatted_end": "02:40:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

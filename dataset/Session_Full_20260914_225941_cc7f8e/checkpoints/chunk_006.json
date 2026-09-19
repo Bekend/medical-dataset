@@ -1,0 +1,279 @@
+{
+  "chunk_index": 6,
+  "start_sec": 1800.0,
+  "end_sec": 2100.0,
+  "turns": [
+    {
+      "start": 1800.284,
+      "end": 1801.533,
+      "formatted_start": "00:30:00.284",
+      "formatted_end": "00:30:01.533",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1920.063,
+      "end": 1921.818,
+      "formatted_start": "00:32:00.063",
+      "formatted_end": "00:32:01.818",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1948.767,
+      "end": 1949.712,
+      "formatted_start": "00:32:28.767",
+      "formatted_end": "00:32:29.712",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1951.163,
+      "end": 1951.889,
+      "formatted_start": "00:32:31.163",
+      "formatted_end": "00:32:31.889",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1953.053,
+      "end": 1956.243,
+      "formatted_start": "00:32:33.053",
+      "formatted_end": "00:32:36.243",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1958.977,
+      "end": 1959.584,
+      "formatted_start": "00:32:38.977",
+      "formatted_end": "00:32:39.584",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1962.588,
+      "end": 1963.432,
+      "formatted_start": "00:32:42.588",
+      "formatted_end": "00:32:43.432",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1965.457,
+      "end": 1967.043,
+      "formatted_start": "00:32:45.457",
+      "formatted_end": "00:32:47.043",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1971.65,
+      "end": 1972.578,
+      "formatted_start": "00:32:51.650",
+      "formatted_end": "00:32:52.578",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1974.586,
+      "end": 1976.408,
+      "formatted_start": "00:32:54.586",
+      "formatted_end": "00:32:56.408",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1977.792,
+      "end": 1978.163,
+      "formatted_start": "00:32:57.792",
+      "formatted_end": "00:32:58.163",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1800.0,
+      "end": 1802.0,
+      "formatted_start": "00:30:00.000",
+      "formatted_end": "00:30:02.000",
+      "text": "برگردید باید برگردید."
+    },
+    {
+      "id": 1,
+      "start": 1830.0,
+      "end": 1859.98,
+      "formatted_start": "00:30:30.000",
+      "formatted_end": "00:30:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 1860.0,
+      "end": 1889.98,
+      "formatted_start": "00:31:00.000",
+      "formatted_end": "00:31:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 1890.0,
+      "end": 1919.98,
+      "formatted_start": "00:31:30.000",
+      "formatted_end": "00:31:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 1920.0,
+      "end": 1922.0,
+      "formatted_start": "00:32:00.000",
+      "formatted_end": "00:32:02.000",
+      "text": "چیست؟ درگرد از همین گرد"
+    },
+    {
+      "id": 5,
+      "start": 1950.0,
+      "end": 1952.0,
+      "formatted_start": "00:32:30.000",
+      "formatted_end": "00:32:32.000",
+      "text": "مردم"
+    },
+    {
+      "id": 6,
+      "start": 1952.0,
+      "end": 1954.0,
+      "formatted_start": "00:32:32.000",
+      "formatted_end": "00:32:34.000",
+      "text": "سلام"
+    },
+    {
+      "id": 7,
+      "start": 1954.0,
+      "end": 1956.0,
+      "formatted_start": "00:32:34.000",
+      "formatted_end": "00:32:36.000",
+      "text": "بفرمایی"
+    },
+    {
+      "id": 8,
+      "start": 1956.0,
+      "end": 1958.0,
+      "formatted_start": "00:32:36.000",
+      "formatted_end": "00:32:38.000",
+      "text": "مردم"
+    },
+    {
+      "id": 9,
+      "start": 1958.0,
+      "end": 1960.0,
+      "formatted_start": "00:32:38.000",
+      "formatted_end": "00:32:40.000",
+      "text": "به نام که ایریه؟"
+    },
+    {
+      "id": 10,
+      "start": 1960.0,
+      "end": 1962.0,
+      "formatted_start": "00:32:40.000",
+      "formatted_end": "00:32:42.000",
+      "text": "یک ساعت دیگه مطابق شویم"
+    },
+    {
+      "id": 11,
+      "start": 1962.0,
+      "end": 1964.0,
+      "formatted_start": "00:32:42.000",
+      "formatted_end": "00:32:44.000",
+      "text": "دارو خونه ایریه"
+    },
+    {
+      "id": 12,
+      "start": 1964.0,
+      "end": 1966.0,
+      "formatted_start": "00:32:44.000",
+      "formatted_end": "00:32:46.000",
+      "text": "هر به دروابه مطابق شویم باشم"
+    },
+    {
+      "id": 13,
+      "start": 1966.0,
+      "end": 1968.0,
+      "formatted_start": "00:32:46.000",
+      "formatted_end": "00:32:48.000",
+      "text": "خالقه چان"
+    },
+    {
+      "id": 14,
+      "start": 1968.0,
+      "end": 1970.0,
+      "formatted_start": "00:32:48.000",
+      "formatted_end": "00:32:50.000",
+      "text": "از اینکه"
+    },
+    {
+      "id": 15,
+      "start": 1970.0,
+      "end": 1972.0,
+      "formatted_start": "00:32:50.000",
+      "formatted_end": "00:32:52.000",
+      "text": "از اینکه"
+    },
+    {
+      "id": 16,
+      "start": 1972.0,
+      "end": 1974.0,
+      "formatted_start": "00:32:52.000",
+      "formatted_end": "00:32:54.000",
+      "text": "از اینکه"
+    },
+    {
+      "id": 17,
+      "start": 1974.0,
+      "end": 1976.0,
+      "formatted_start": "00:32:54.000",
+      "formatted_end": "00:32:56.000",
+      "text": "از اینکه"
+    },
+    {
+      "id": 18,
+      "start": 1976.0,
+      "end": 1978.0,
+      "formatted_start": "00:32:56.000",
+      "formatted_end": "00:32:58.000",
+      "text": "از اینکه"
+    },
+    {
+      "id": 19,
+      "start": 1978.0,
+      "end": 2007.98,
+      "formatted_start": "00:32:58.000",
+      "formatted_end": "00:33:27.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 20,
+      "start": 2008.0,
+      "end": 2037.98,
+      "formatted_start": "00:33:28.000",
+      "formatted_end": "00:33:57.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 21,
+      "start": 2038.0,
+      "end": 2067.98,
+      "formatted_start": "00:33:58.000",
+      "formatted_end": "00:34:27.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 2068.0,
+      "end": 2097.98,
+      "formatted_start": "00:34:28.000",
+      "formatted_end": "00:34:57.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 2098.0,
+      "end": 2100.0,
+      "formatted_start": "00:34:58.000",
+      "formatted_end": "00:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,97 @@
+{
+  "chunk_index": 74,
+  "start_sec": 22200.0,
+  "end_sec": 22500.0,
+  "turns": [
+    {
+      "start": 22327.876,
+      "end": 22328.568,
+      "formatted_start": "06:12:07.876",
+      "formatted_end": "06:12:08.568",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 22200.0,
+      "end": 22229.98,
+      "formatted_start": "06:10:00.000",
+      "formatted_end": "06:10:29.980",
+      "text": "مردی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 22230.0,
+      "end": 22259.98,
+      "formatted_start": "06:10:30.000",
+      "formatted_end": "06:10:59.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 2,
+      "start": 22260.0,
+      "end": 22289.98,
+      "formatted_start": "06:11:00.000",
+      "formatted_end": "06:11:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 3,
+      "start": 22290.0,
+      "end": 22319.98,
+      "formatted_start": "06:11:30.000",
+      "formatted_end": "06:11:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 4,
+      "start": 22320.0,
+      "end": 22349.98,
+      "formatted_start": "06:12:00.000",
+      "formatted_end": "06:12:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 22350.0,
+      "end": 22379.98,
+      "formatted_start": "06:12:30.000",
+      "formatted_end": "06:12:59.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 6,
+      "start": 22380.0,
+      "end": 22409.98,
+      "formatted_start": "06:13:00.000",
+      "formatted_end": "06:13:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 22410.0,
+      "end": 22439.98,
+      "formatted_start": "06:13:30.000",
+      "formatted_end": "06:13:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 8,
+      "start": 22440.0,
+      "end": 22469.98,
+      "formatted_start": "06:14:00.000",
+      "formatted_end": "06:14:29.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 9,
+      "start": 22470.0,
+      "end": 22499.98,
+      "formatted_start": "06:14:30.000",
+      "formatted_end": "06:14:59.980",
+      "text": "مردم در اینجا"
+    }
+  ],
+  "status": "completed"
+}

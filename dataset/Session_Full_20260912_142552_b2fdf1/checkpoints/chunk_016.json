@@ -1,0 +1,204 @@
+{
+  "chunk_index": 16,
+  "start_sec": 4800.0,
+  "end_sec": 5100.0,
+  "turns": [
+    {
+      "start": 4849.205,
+      "end": 4849.778,
+      "formatted_start": "01:20:49.205",
+      "formatted_end": "01:20:49.778",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4850.403,
+      "end": 4851.01,
+      "formatted_start": "01:20:50.403",
+      "formatted_end": "01:20:51.010",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4856.613,
+      "end": 4861.844,
+      "formatted_start": "01:20:56.613",
+      "formatted_end": "01:21:01.844",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4862.975,
+      "end": 4871.378,
+      "formatted_start": "01:21:02.975",
+      "formatted_end": "01:21:11.378",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4868.645,
+      "end": 4870.484,
+      "formatted_start": "01:21:08.645",
+      "formatted_end": "01:21:10.484",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4873.538,
+      "end": 4876.475,
+      "formatted_start": "01:21:13.538",
+      "formatted_end": "01:21:16.475",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4800.0,
+      "end": 4829.98,
+      "formatted_start": "01:20:00.000",
+      "formatted_end": "01:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 4830.0,
+      "end": 4849.0,
+      "formatted_start": "01:20:30.000",
+      "formatted_end": "01:20:49.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4849.0,
+      "end": 4850.0,
+      "formatted_start": "01:20:49.000",
+      "formatted_end": "01:20:50.000",
+      "text": "بخوند"
+    },
+    {
+      "id": 3,
+      "start": 4850.0,
+      "end": 4851.0,
+      "formatted_start": "01:20:50.000",
+      "formatted_end": "01:20:51.000",
+      "text": "سلام"
+    },
+    {
+      "id": 4,
+      "start": 4851.0,
+      "end": 4852.0,
+      "formatted_start": "01:20:51.000",
+      "formatted_end": "01:20:52.000",
+      "text": "سلام"
+    },
+    {
+      "id": 5,
+      "start": 4852.0,
+      "end": 4857.0,
+      "formatted_start": "01:20:52.000",
+      "formatted_end": "01:20:57.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 4857.0,
+      "end": 4859.52,
+      "formatted_start": "01:20:57.000",
+      "formatted_end": "01:20:59.520",
+      "text": "این قطعه هر 8 ساعت دوسته قطعه تو گوشت"
+    },
+    {
+      "id": 7,
+      "start": 4860.04,
+      "end": 4862.04,
+      "formatted_start": "01:21:00.040",
+      "formatted_end": "01:21:02.040",
+      "text": "این شروط ها روزی سه بار"
+    },
+    {
+      "id": 8,
+      "start": 4863.08,
+      "end": 4866.4,
+      "formatted_start": "01:21:03.080",
+      "formatted_end": "01:21:06.400",
+      "text": "این قطعه هم هر 6 ساعت 12 قطعه چه طب داشته نداره"
+    },
+    {
+      "id": 9,
+      "start": 4867.0,
+      "end": 4868.0,
+      "formatted_start": "01:21:07.000",
+      "formatted_end": "01:21:08.000",
+      "text": "یک افتحام از آن بود"
+    },
+    {
+      "id": 10,
+      "start": 4868.72,
+      "end": 4870.72,
+      "formatted_start": "01:21:08.720",
+      "formatted_end": "01:21:10.720",
+      "text": "بشم کنم خدافز شما"
+    },
+    {
+      "id": 11,
+      "start": 4887.0,
+      "end": 4915.0,
+      "formatted_start": "01:21:27.000",
+      "formatted_end": "01:21:55.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 4915.0,
+      "end": 4941.0,
+      "formatted_start": "01:21:55.000",
+      "formatted_end": "01:22:21.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 4945.0,
+      "end": 4973.0,
+      "formatted_start": "01:22:25.000",
+      "formatted_end": "01:22:53.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 4975.0,
+      "end": 4985.0,
+      "formatted_start": "01:22:55.000",
+      "formatted_end": "01:23:05.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 5005.0,
+      "end": 5015.0,
+      "formatted_start": "01:23:25.000",
+      "formatted_end": "01:23:35.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 5035.0,
+      "end": 5063.0,
+      "formatted_start": "01:23:55.000",
+      "formatted_end": "01:24:23.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 5063.0,
+      "end": 5080.0,
+      "formatted_start": "01:24:23.000",
+      "formatted_end": "01:24:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 5093.0,
+      "end": 5100.0,
+      "formatted_start": "01:24:53.000",
+      "formatted_end": "01:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

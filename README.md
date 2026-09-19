@@ -15,6 +15,7 @@
    - [خط لوله پردازش و معماری سیستم](#۳-خط-لوله-پردازش-و-معماری-سیستم-data-processing-pipeline)
    - [بستر سخت‌افزاری و ارزیابی محاسباتی](#۴-بستر-سختافزاری-و-ارزیابی-محاسباتی-hardware--benchmarking)
    - [تشریح جامع ساختار پوشه‌ها و محتوای فایل‌ها](#۵-تشریح-جامع-ساختار-پوشهها-و-محتوای-فایلها-directory-structure)
+   - [دسترسی و دانلود دیتاست کامل](#دسترسی-و-دانلود-دیتاست-کامل-dataset-download--access)
    - [مقایسه داده‌های خام در برابر داده‌های پالایش‌شده](#۶-مقایسه-دادههای-خام-در-برابر-دادههای-پالایششده)
    - [کاربردهای پژوهشی](#۷-کاربردهای-پژوهشی-research-applications)
 2. [English Section](#-english-section-dataset-datasheet)
@@ -23,6 +24,7 @@
    - [Processing Pipeline Architecture](#3-processing-pipeline-architecture)
    - [Hardware & Benchmarking](#4-hardware--benchmarking)
    - [Directory Structure & File Taxonomy](#5-directory-structure--file-taxonomy)
+   - [Dataset Access & Download](#dataset-access--download)
    - [Raw vs. Refined Data Comparison](#6-raw-vs-refined-data-comparison)
    - [Research Applications](#7-research-applications)
 
@@ -162,6 +164,15 @@ PCCC_Dataset/
 
 ---
 
+## دسترسی و دانلود دیتاست کامل (Dataset Download & Access)
+
+با توجه به حجم بالای فایل‌های صوتی خام با فرمت Linear PCM WAV (کیفیت 16kHz و 16-bit بدون فشرده‌سازی)، کل دیتاست و پوشه‌های جلسات ضبط‌شده به‌صورت کامل در گوگل درایو ذخیره شده‌اند:
+
+🔗 **[دانلود دیتاست نهایی از Google Drive](https://drive.google.com/drive/folders/1n379zeBQtkldBmgDM-5hewj5Wl-1tj-6)**  
+*(شناسه پوشه: `1n379zeBQtkldBmgDM-5hewj5Wl-1tj-6`)*
+
+---
+
 ## ۶. مقایسه داده‌های خام در برابر داده‌های پالایش‌شده
 
 ### نمونه داده خام (`raw/*_merged_transcript.txt`)
@@ -187,12 +198,14 @@ PCCC_Dataset/
 3. **خلاصه‌سازی بالینی و ایجاد پرونده الکترونیک (EHR / SOAP Notes):** تست و ارزیابی توانایی مدل‌های زبانی در استخراج علائم اصلی بیماری (Chief Complaint)، شرح حال و برنامه درمان.
 4. **تحلیل و مطالعه پدیده توهم در پردازش صوت (STT Hallucination Research).**
 
+---
 
 ### مشخصات پژوهش و دست‌اندرکاران (Research Credits)
 * **پژوهشگر و گردآورنده (Researcher & Data Collector):** سید شهاب‌الدین حسینی بای (*Seyyed Shahabeddin Hosseini Bay*)
 * **اساتید راهنما (Supervisors):**
   * جناب آقای دکتر رضا یزدی (*Dr. Reza Yazdi*)
   * جناب آقای دکتر مهدی یعقوبی (*Dr. Mehdi Yaghoobi*)
+
 ---
 ---
 
@@ -328,6 +341,17 @@ PCCC_Dataset/
 * `checkpoints/chunk_XXX.json`: Serialized representations of speech segments and speaker boundaries per 300-second audio slice.
 * `raw/*`: Preserves native model behavior, ideal for benchmark evaluations of acoustic and STT models.
 * `refined/*`: Standardized, clinically accurate assets ready for downstream NLP tasks.
+
+---
+
+## Dataset Access & Download
+
+Due to the large storage footprint of continuous lossless Linear PCM WAV recordings (16 kHz, 16-bit uncompressed audio), the complete dataset—including all master audio sessions, checkpoints, raw pipeline transcripts, and clinically refined outputs—is hosted on Google Drive.
+
+Access the complete dataset repository via the following link:
+
+🔗 **[Download Full Dataset on Google Drive](https://drive.google.com/drive/folders/1n379zeBQtkldBmgDM-5hewj5Wl-1tj-6)**  
+*(Folder ID: `1n379zeBQtkldBmgDM-5hewj5Wl-1tj-6`)*
 
 ---
 

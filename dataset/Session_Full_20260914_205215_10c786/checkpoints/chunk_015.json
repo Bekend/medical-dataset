@@ -1,0 +1,113 @@
+{
+  "chunk_index": 15,
+  "start_sec": 4500.0,
+  "end_sec": 4800.0,
+  "turns": [
+    {
+      "start": 4546.707,
+      "end": 4548.985,
+      "formatted_start": "01:15:46.707",
+      "formatted_end": "01:15:48.985",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4500.0,
+      "end": 4529.98,
+      "formatted_start": "01:15:00.000",
+      "formatted_end": "01:15:29.980",
+      "text": "مردی کنید."
+    },
+    {
+      "id": 1,
+      "start": 4530.0,
+      "end": 4546.0,
+      "formatted_start": "01:15:30.000",
+      "formatted_end": "01:15:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4546.0,
+      "end": 4548.88,
+      "formatted_start": "01:15:46.000",
+      "formatted_end": "01:15:48.880",
+      "text": "آره این دست خودش همه چی"
+    },
+    {
+      "id": 3,
+      "start": 4548.88,
+      "end": 4578.86,
+      "formatted_start": "01:15:48.880",
+      "formatted_end": "01:16:18.860",
+      "text": "برای اینجا"
+    },
+    {
+      "id": 4,
+      "start": 4578.88,
+      "end": 4608.86,
+      "formatted_start": "01:16:18.880",
+      "formatted_end": "01:16:48.860",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 4608.88,
+      "end": 4638.86,
+      "formatted_start": "01:16:48.880",
+      "formatted_end": "01:17:18.860",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 4638.88,
+      "end": 4667.88,
+      "formatted_start": "01:17:18.880",
+      "formatted_end": "01:17:47.880",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4668.88,
+      "end": 4698.86,
+      "formatted_start": "01:17:48.880",
+      "formatted_end": "01:18:18.860",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 4698.88,
+      "end": 4728.86,
+      "formatted_start": "01:18:18.880",
+      "formatted_end": "01:18:48.860",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4728.88,
+      "end": 4758.86,
+      "formatted_start": "01:18:48.880",
+      "formatted_end": "01:19:18.860",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 4758.88,
+      "end": 4788.86,
+      "formatted_start": "01:19:18.880",
+      "formatted_end": "01:19:48.860",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 11,
+      "start": 4788.88,
+      "end": 4799.88,
+      "formatted_start": "01:19:48.880",
+      "formatted_end": "01:19:59.880",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

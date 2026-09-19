@@ -1,0 +1,207 @@
+{
+  "chunk_index": 14,
+  "start_sec": 4200.0,
+  "end_sec": 4500.0,
+  "turns": [
+    {
+      "start": 4479.65,
+      "end": 4481.27,
+      "formatted_start": "01:14:39.650",
+      "formatted_end": "01:14:41.270",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4483.447,
+      "end": 4484.358,
+      "formatted_start": "01:14:43.447",
+      "formatted_end": "01:14:44.358",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4484.915,
+      "end": 4485.623,
+      "formatted_start": "01:14:44.915",
+      "formatted_end": "01:14:45.623",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4200.0,
+      "end": 4229.98,
+      "formatted_start": "01:10:00.000",
+      "formatted_end": "01:10:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 4230.0,
+      "end": 4259.98,
+      "formatted_start": "01:10:30.000",
+      "formatted_end": "01:10:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 2,
+      "start": 4260.0,
+      "end": 4289.98,
+      "formatted_start": "01:11:00.000",
+      "formatted_end": "01:11:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 4290.0,
+      "end": 4319.98,
+      "formatted_start": "01:11:30.000",
+      "formatted_end": "01:11:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4320.0,
+      "end": 4349.98,
+      "formatted_start": "01:12:00.000",
+      "formatted_end": "01:12:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 4350.0,
+      "end": 4379.98,
+      "formatted_start": "01:12:30.000",
+      "formatted_end": "01:12:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 4380.0,
+      "end": 4406.0,
+      "formatted_start": "01:13:00.000",
+      "formatted_end": "01:13:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4406.0,
+      "end": 4412.0,
+      "formatted_start": "01:13:26.000",
+      "formatted_end": "01:13:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 4436.0,
+      "end": 4456.0,
+      "formatted_start": "01:13:56.000",
+      "formatted_end": "01:14:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4456.0,
+      "end": 4478.0,
+      "formatted_start": "01:14:16.000",
+      "formatted_end": "01:14:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 4478.0,
+      "end": 4480.0,
+      "formatted_start": "01:14:38.000",
+      "formatted_end": "01:14:40.000",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 11,
+      "start": 4480.0,
+      "end": 4482.0,
+      "formatted_start": "01:14:40.000",
+      "formatted_end": "01:14:42.000",
+      "text": "چون اینجا باید بردارید."
+    },
+    {
+      "id": 12,
+      "start": 4482.0,
+      "end": 4484.0,
+      "formatted_start": "01:14:42.000",
+      "formatted_end": "01:14:44.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 13,
+      "start": 4484.0,
+      "end": 4486.0,
+      "formatted_start": "01:14:44.000",
+      "formatted_end": "01:14:46.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 14,
+      "start": 4486.0,
+      "end": 4488.0,
+      "formatted_start": "01:14:46.000",
+      "formatted_end": "01:14:48.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 15,
+      "start": 4488.0,
+      "end": 4490.0,
+      "formatted_start": "01:14:48.000",
+      "formatted_end": "01:14:50.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 16,
+      "start": 4490.0,
+      "end": 4492.0,
+      "formatted_start": "01:14:50.000",
+      "formatted_end": "01:14:52.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 17,
+      "start": 4492.0,
+      "end": 4494.0,
+      "formatted_start": "01:14:52.000",
+      "formatted_end": "01:14:54.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 18,
+      "start": 4494.0,
+      "end": 4496.0,
+      "formatted_start": "01:14:54.000",
+      "formatted_end": "01:14:56.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 19,
+      "start": 4496.0,
+      "end": 4498.0,
+      "formatted_start": "01:14:56.000",
+      "formatted_end": "01:14:58.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 20,
+      "start": 4498.0,
+      "end": 4500.0,
+      "formatted_start": "01:14:58.000",
+      "formatted_end": "01:15:00.000",
+      "text": "اینجا باید بردارید."
+    },
+    {
+      "id": 21,
+      "start": 4500.0,
+      "end": 4502.0,
+      "formatted_start": "01:15:00.000",
+      "formatted_end": "01:15:02.000",
+      "text": "اینجا باید بردارید."
+    }
+  ],
+  "status": "completed"
+}

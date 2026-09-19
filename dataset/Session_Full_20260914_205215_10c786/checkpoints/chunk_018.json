@@ -1,0 +1,312 @@
+{
+  "chunk_index": 18,
+  "start_sec": 5400.0,
+  "end_sec": 5700.0,
+  "turns": [
+    {
+      "start": 5489.384,
+      "end": 5490.042,
+      "formatted_start": "01:31:29.384",
+      "formatted_end": "01:31:30.042",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5492.962,
+      "end": 5494.362,
+      "formatted_start": "01:31:32.962",
+      "formatted_end": "01:31:34.362",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5496.809,
+      "end": 5498.108,
+      "formatted_start": "01:31:36.809",
+      "formatted_end": "01:31:38.108",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5500.1,
+      "end": 5504.555,
+      "formatted_start": "01:31:40.100",
+      "formatted_end": "01:31:44.555",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5510.933,
+      "end": 5523.607,
+      "formatted_start": "01:31:50.933",
+      "formatted_end": "01:32:03.607",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5527.994,
+      "end": 5535.892,
+      "formatted_start": "01:32:07.994",
+      "formatted_end": "01:32:15.892",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5539.604,
+      "end": 5542.844,
+      "formatted_start": "01:32:19.604",
+      "formatted_end": "01:32:22.844",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5548.025,
+      "end": 5560.023,
+      "formatted_start": "01:32:28.025",
+      "formatted_end": "01:32:40.023",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5564.967,
+      "end": 5567.937,
+      "formatted_start": "01:32:44.967",
+      "formatted_end": "01:32:47.937",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5626.021,
+      "end": 5628.94,
+      "formatted_start": "01:33:46.021",
+      "formatted_end": "01:33:48.940",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 5400.0,
+      "end": 5429.98,
+      "formatted_start": "01:30:00.000",
+      "formatted_end": "01:30:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 5430.0,
+      "end": 5456.0,
+      "formatted_start": "01:30:30.000",
+      "formatted_end": "01:30:56.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 5456.0,
+      "end": 5469.0,
+      "formatted_start": "01:30:56.000",
+      "formatted_end": "01:31:09.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 5469.0,
+      "end": 5489.0,
+      "formatted_start": "01:31:09.000",
+      "formatted_end": "01:31:29.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 5489.0,
+      "end": 5491.0,
+      "formatted_start": "01:31:29.000",
+      "formatted_end": "01:31:31.000",
+      "text": "الو؟"
+    },
+    {
+      "id": 5,
+      "start": 5493.0,
+      "end": 5495.0,
+      "formatted_start": "01:31:33.000",
+      "formatted_end": "01:31:35.000",
+      "text": "خیلی ممنونی است دیگه هم"
+    },
+    {
+      "id": 6,
+      "start": 5497.0,
+      "end": 5499.0,
+      "formatted_start": "01:31:37.000",
+      "formatted_end": "01:31:39.000",
+      "text": "آها بله خواهش میکنم"
+    },
+    {
+      "id": 7,
+      "start": 5500.0,
+      "end": 5502.0,
+      "formatted_start": "01:31:40.000",
+      "formatted_end": "01:31:42.000",
+      "text": "من که خونه نیستم باستم شما اعلام کنیم"
+    },
+    {
+      "id": 8,
+      "start": 5502.0,
+      "end": 5504.0,
+      "formatted_start": "01:31:42.000",
+      "formatted_end": "01:31:44.000",
+      "text": "من دیگه هم ممنونم برخونه"
+    },
+    {
+      "id": 9,
+      "start": 5504.0,
+      "end": 5506.0,
+      "formatted_start": "01:31:44.000",
+      "formatted_end": "01:31:46.000",
+      "text": "که میرسیم؟"
+    },
+    {
+      "id": 10,
+      "start": 5511.0,
+      "end": 5513.0,
+      "formatted_start": "01:31:51.000",
+      "formatted_end": "01:31:53.000",
+      "text": "نه ده نیمیان بگیر زوده"
+    },
+    {
+      "id": 11,
+      "start": 5513.0,
+      "end": 5515.0,
+      "formatted_start": "01:31:53.000",
+      "formatted_end": "01:31:55.000",
+      "text": "اون هم سراروی باید برو برای شو"
+    },
+    {
+      "id": 12,
+      "start": 5515.0,
+      "end": 5518.0,
+      "formatted_start": "01:31:55.000",
+      "formatted_end": "01:31:58.000",
+      "text": "چون باستم من نیم ست قبلش اعلام کنم"
+    },
+    {
+      "id": 13,
+      "start": 5518.0,
+      "end": 5524.0,
+      "formatted_start": "01:31:58.000",
+      "formatted_end": "01:32:04.000",
+      "text": "خود آمایب هاش. حالا من الان زنگ زنم به پدرم ببینم میتونه الان برسونه به شما حبرشون میدن."
+    },
+    {
+      "id": 14,
+      "start": 5528.0,
+      "end": 5532.0,
+      "formatted_start": "01:32:08.000",
+      "formatted_end": "01:32:12.000",
+      "text": "صدا میده دیگه. اگه دارید میخوایی مسایلی ببرید یک بار کاری بشه."
+    },
+    {
+      "id": 15,
+      "start": 5532.0,
+      "end": 5536.0,
+      "formatted_start": "01:32:12.000",
+      "formatted_end": "01:32:16.000",
+      "text": "گفتن شاید جرمیشید نیشسته. آیا؟ صدا میده."
+    },
+    {
+      "id": 16,
+      "start": 5539.0,
+      "end": 5543.0,
+      "formatted_start": "01:32:19.000",
+      "formatted_end": "01:32:23.000",
+      "text": "نمیفهمم. یه صدای سود ممکنه."
+    },
+    {
+      "id": 17,
+      "start": 5548.0,
+      "end": 5549.0,
+      "formatted_start": "01:32:28.000",
+      "formatted_end": "01:32:29.000",
+      "text": "باشه من"
+    },
+    {
+      "id": 18,
+      "start": 5549.5,
+      "end": 5552.0,
+      "formatted_start": "01:32:29.500",
+      "formatted_end": "01:32:32.000",
+      "text": "آره سوته، یه سوته دائم"
+    },
+    {
+      "id": 19,
+      "start": 5552.3,
+      "end": 5555.24,
+      "formatted_start": "01:32:32.300",
+      "formatted_end": "01:32:35.240",
+      "text": "و بعد این موقع شیر و قطع وصلی کنی"
+    },
+    {
+      "id": 20,
+      "start": 5555.24,
+      "end": 5559.24,
+      "formatted_start": "01:32:35.240",
+      "formatted_end": "01:32:39.240",
+      "text": "یعنی صدا قطع میشه دوباره و دوباره و بعد یه چند ثانیه دوباره شروع میشه"
+    },
+    {
+      "id": 21,
+      "start": 5559.24,
+      "end": 5560.24,
+      "formatted_start": "01:32:39.240",
+      "formatted_end": "01:32:40.240",
+      "text": "شیر آبو"
+    },
+    {
+      "id": 22,
+      "start": 5564.74,
+      "end": 5566.8,
+      "formatted_start": "01:32:44.740",
+      "formatted_end": "01:32:46.800",
+      "text": "باشه باشه، عرامشون خبرشون"
+    },
+    {
+      "id": 23,
+      "start": 5567.16,
+      "end": 5568.16,
+      "formatted_start": "01:32:47.160",
+      "formatted_end": "01:32:48.160",
+      "text": "خدا بزنید"
+    },
+    {
+      "id": 24,
+      "start": 5578.0,
+      "end": 5607.0,
+      "formatted_start": "01:32:58.000",
+      "formatted_end": "01:33:27.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 25,
+      "start": 5608.0,
+      "end": 5626.0,
+      "formatted_start": "01:33:28.000",
+      "formatted_end": "01:33:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 5626.0,
+      "end": 5629.0,
+      "formatted_start": "01:33:46.000",
+      "formatted_end": "01:33:49.000",
+      "text": "در فرق به او سریع مورد لکن با سفر گیر"
+    },
+    {
+      "id": 27,
+      "start": 5656.0,
+      "end": 5685.98,
+      "formatted_start": "01:34:16.000",
+      "formatted_end": "01:34:45.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 28,
+      "start": 5686.0,
+      "end": 5700.0,
+      "formatted_start": "01:34:46.000",
+      "formatted_end": "01:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

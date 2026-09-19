@@ -1,0 +1,174 @@
+{
+  "chunk_index": 6,
+  "start_sec": 1800.0,
+  "end_sec": 2100.0,
+  "turns": [
+    {
+      "start": 1953.374,
+      "end": 1956.31,
+      "formatted_start": "00:32:33.374",
+      "formatted_end": "00:32:36.310",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1956.31,
+      "end": 1957.458,
+      "formatted_start": "00:32:36.310",
+      "formatted_end": "00:32:37.458",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1956.378,
+      "end": 1957.34,
+      "formatted_start": "00:32:36.378",
+      "formatted_end": "00:32:37.340",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1957.458,
+      "end": 1958.116,
+      "formatted_start": "00:32:37.458",
+      "formatted_end": "00:32:38.116",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1958.116,
+      "end": 1962.031,
+      "formatted_start": "00:32:38.116",
+      "formatted_end": "00:32:42.031",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1962.031,
+      "end": 1965.44,
+      "formatted_start": "00:32:42.031",
+      "formatted_end": "00:32:45.440",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1962.048,
+      "end": 1963.06,
+      "formatted_start": "00:32:42.048",
+      "formatted_end": "00:32:43.060",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1965.102,
+      "end": 1969.135,
+      "formatted_start": "00:32:45.102",
+      "formatted_end": "00:32:49.135",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 1969.22,
+      "end": 1972.105,
+      "formatted_start": "00:32:49.220",
+      "formatted_end": "00:32:52.105",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1971.65,
+      "end": 1972.072,
+      "formatted_start": "00:32:51.650",
+      "formatted_end": "00:32:52.072",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 1972.105,
+      "end": 1972.477,
+      "formatted_start": "00:32:52.105",
+      "formatted_end": "00:32:52.477",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 1972.595,
+      "end": 1974.029,
+      "formatted_start": "00:32:52.595",
+      "formatted_end": "00:32:54.029",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1800.0,
+      "end": 1820.0,
+      "formatted_start": "00:30:00.000",
+      "formatted_end": "00:30:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 1830.0,
+      "end": 1832.0,
+      "formatted_start": "00:30:30.000",
+      "formatted_end": "00:30:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 1860.0,
+      "end": 1889.98,
+      "formatted_start": "00:31:00.000",
+      "formatted_end": "00:31:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 1890.0,
+      "end": 1919.98,
+      "formatted_start": "00:31:30.000",
+      "formatted_end": "00:31:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 1920.0,
+      "end": 1949.98,
+      "formatted_start": "00:32:00.000",
+      "formatted_end": "00:32:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 1950.0,
+      "end": 1970.0,
+      "formatted_start": "00:32:30.000",
+      "formatted_end": "00:32:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 1980.0,
+      "end": 2009.98,
+      "formatted_start": "00:33:00.000",
+      "formatted_end": "00:33:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 2010.0,
+      "end": 2039.98,
+      "formatted_start": "00:33:30.000",
+      "formatted_end": "00:33:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 2040.0,
+      "end": 2069.98,
+      "formatted_start": "00:34:00.000",
+      "formatted_end": "00:34:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 2070.0,
+      "end": 2099.98,
+      "formatted_start": "00:34:30.000",
+      "formatted_end": "00:34:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    }
+  ],
+  "status": "completed"
+}

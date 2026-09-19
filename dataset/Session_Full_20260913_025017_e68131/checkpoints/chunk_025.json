@@ -1,0 +1,105 @@
+{
+  "chunk_index": 25,
+  "start_sec": 7500.0,
+  "end_sec": 7800.0,
+  "turns": [
+    {
+      "start": 7745.782,
+      "end": 7749.528,
+      "formatted_start": "02:09:05.782",
+      "formatted_end": "02:09:09.528",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7500.0,
+      "end": 7529.98,
+      "formatted_start": "02:05:00.000",
+      "formatted_end": "02:05:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 7530.0,
+      "end": 7559.98,
+      "formatted_start": "02:05:30.000",
+      "formatted_end": "02:05:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 7560.0,
+      "end": 7580.0,
+      "formatted_start": "02:06:00.000",
+      "formatted_end": "02:06:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 7580.0,
+      "end": 7609.98,
+      "formatted_start": "02:06:20.000",
+      "formatted_end": "02:06:49.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 7610.0,
+      "end": 7639.98,
+      "formatted_start": "02:06:50.000",
+      "formatted_end": "02:07:19.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 5,
+      "start": 7640.0,
+      "end": 7669.98,
+      "formatted_start": "02:07:20.000",
+      "formatted_end": "02:07:49.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 6,
+      "start": 7670.0,
+      "end": 7699.98,
+      "formatted_start": "02:07:50.000",
+      "formatted_end": "02:08:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 7,
+      "start": 7700.0,
+      "end": 7729.98,
+      "formatted_start": "02:08:20.000",
+      "formatted_end": "02:08:49.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 8,
+      "start": 7730.0,
+      "end": 7740.0,
+      "formatted_start": "02:08:50.000",
+      "formatted_end": "02:09:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 7760.0,
+      "end": 7789.98,
+      "formatted_start": "02:09:20.000",
+      "formatted_end": "02:09:49.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 10,
+      "start": 7790.0,
+      "end": 7800.0,
+      "formatted_start": "02:09:50.000",
+      "formatted_end": "02:10:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

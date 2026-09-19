@@ -1,0 +1,816 @@
+{
+  "chunk_index": 6,
+  "start_sec": 1800.0,
+  "end_sec": 2100.0,
+  "turns": [
+    {
+      "start": 1800.503,
+      "end": 1801.027,
+      "formatted_start": "00:30:00.503",
+      "formatted_end": "00:30:01.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1802.039,
+      "end": 1802.613,
+      "formatted_start": "00:30:02.039",
+      "formatted_end": "00:30:02.613",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1802.866,
+      "end": 1803.575,
+      "formatted_start": "00:30:02.866",
+      "formatted_end": "00:30:03.575",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1803.727,
+      "end": 1804.553,
+      "formatted_start": "00:30:03.727",
+      "formatted_end": "00:30:04.553",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1805.819,
+      "end": 1807.827,
+      "formatted_start": "00:30:05.819",
+      "formatted_end": "00:30:07.827",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1838.371,
+      "end": 1838.776,
+      "formatted_start": "00:30:38.371",
+      "formatted_end": "00:30:38.776",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1839.704,
+      "end": 1842.1,
+      "formatted_start": "00:30:39.704",
+      "formatted_end": "00:30:42.100",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1841.138,
+      "end": 1842.505,
+      "formatted_start": "00:30:41.138",
+      "formatted_end": "00:30:42.505",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1842.117,
+      "end": 1845.83,
+      "formatted_start": "00:30:42.117",
+      "formatted_end": "00:30:45.830",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1844.446,
+      "end": 1847.787,
+      "formatted_start": "00:30:44.446",
+      "formatted_end": "00:30:47.787",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1848.26,
+      "end": 1855.465,
+      "formatted_start": "00:30:48.260",
+      "formatted_end": "00:30:55.465",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1848.445,
+      "end": 1848.968,
+      "formatted_start": "00:30:48.445",
+      "formatted_end": "00:30:48.968",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1855.533,
+      "end": 1856.596,
+      "formatted_start": "00:30:55.533",
+      "formatted_end": "00:30:56.596",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1856.917,
+      "end": 1857.322,
+      "formatted_start": "00:30:56.917",
+      "formatted_end": "00:30:57.322",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1857.541,
+      "end": 1861.304,
+      "formatted_start": "00:30:57.541",
+      "formatted_end": "00:31:01.304",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1861.844,
+      "end": 1867.835,
+      "formatted_start": "00:31:01.844",
+      "formatted_end": "00:31:07.835",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1861.878,
+      "end": 1862.57,
+      "formatted_start": "00:31:01.878",
+      "formatted_end": "00:31:02.570",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1868.273,
+      "end": 1871.547,
+      "formatted_start": "00:31:08.273",
+      "formatted_end": "00:31:11.547",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1871.429,
+      "end": 1876.34,
+      "formatted_start": "00:31:11.429",
+      "formatted_end": "00:31:16.340",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1876.745,
+      "end": 1882.145,
+      "formatted_start": "00:31:16.745",
+      "formatted_end": "00:31:22.145",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1882.651,
+      "end": 1886.617,
+      "formatted_start": "00:31:22.651",
+      "formatted_end": "00:31:26.617",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1886.633,
+      "end": 1890.481,
+      "formatted_start": "00:31:26.633",
+      "formatted_end": "00:31:30.481",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1890.481,
+      "end": 1894.885,
+      "formatted_start": "00:31:30.481",
+      "formatted_end": "00:31:34.885",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1890.987,
+      "end": 1891.747,
+      "formatted_start": "00:31:30.987",
+      "formatted_end": "00:31:31.747",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1892.978,
+      "end": 1894.852,
+      "formatted_start": "00:31:32.978",
+      "formatted_end": "00:31:34.852",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1896.252,
+      "end": 1897.315,
+      "formatted_start": "00:31:36.252",
+      "formatted_end": "00:31:37.315",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1897.315,
+      "end": 1903.694,
+      "formatted_start": "00:31:37.315",
+      "formatted_end": "00:31:43.694",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1897.366,
+      "end": 1898.058,
+      "formatted_start": "00:31:37.366",
+      "formatted_end": "00:31:38.058",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1903.137,
+      "end": 1904.538,
+      "formatted_start": "00:31:43.137",
+      "formatted_end": "00:31:44.538",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1905.803,
+      "end": 1909.212,
+      "formatted_start": "00:31:45.803",
+      "formatted_end": "00:31:49.212",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1909.145,
+      "end": 1910.225,
+      "formatted_start": "00:31:49.145",
+      "formatted_end": "00:31:50.225",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1910.225,
+      "end": 1919.658,
+      "formatted_start": "00:31:50.225",
+      "formatted_end": "00:31:59.658",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1916.182,
+      "end": 1917.65,
+      "formatted_start": "00:31:56.182",
+      "formatted_end": "00:31:57.650",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1918.763,
+      "end": 1922.628,
+      "formatted_start": "00:31:58.763",
+      "formatted_end": "00:32:02.628",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1921.48,
+      "end": 1924.771,
+      "formatted_start": "00:32:01.480",
+      "formatted_end": "00:32:04.771",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1924.113,
+      "end": 1924.754,
+      "formatted_start": "00:32:04.113",
+      "formatted_end": "00:32:04.754",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1925.26,
+      "end": 1930.238,
+      "formatted_start": "00:32:05.260",
+      "formatted_end": "00:32:10.238",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1930.846,
+      "end": 1935.183,
+      "formatted_start": "00:32:10.846",
+      "formatted_end": "00:32:15.183",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1935.672,
+      "end": 1940.633,
+      "formatted_start": "00:32:15.672",
+      "formatted_end": "00:32:20.633",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1940.92,
+      "end": 1945.544,
+      "formatted_start": "00:32:20.920",
+      "formatted_end": "00:32:25.544",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1940.988,
+      "end": 1941.595,
+      "formatted_start": "00:32:20.988",
+      "formatted_end": "00:32:21.595",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1943.924,
+      "end": 1944.599,
+      "formatted_start": "00:32:23.924",
+      "formatted_end": "00:32:24.599",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1945.713,
+      "end": 1949.948,
+      "formatted_start": "00:32:25.713",
+      "formatted_end": "00:32:29.948",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1950.185,
+      "end": 1953.357,
+      "formatted_start": "00:32:30.185",
+      "formatted_end": "00:32:33.357",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1953.357,
+      "end": 1956.901,
+      "formatted_start": "00:32:33.357",
+      "formatted_end": "00:32:36.901",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1956.968,
+      "end": 1964.984,
+      "formatted_start": "00:32:36.968",
+      "formatted_end": "00:32:44.984",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1965.018,
+      "end": 1967.617,
+      "formatted_start": "00:32:45.018",
+      "formatted_end": "00:32:47.617",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1967.802,
+      "end": 1973.303,
+      "formatted_start": "00:32:47.802",
+      "formatted_end": "00:32:53.303",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1974.265,
+      "end": 1977.185,
+      "formatted_start": "00:32:54.265",
+      "formatted_end": "00:32:57.185",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1977.607,
+      "end": 1979.986,
+      "formatted_start": "00:32:57.607",
+      "formatted_end": "00:32:59.986",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1800.0,
+      "end": 1808.0,
+      "formatted_start": "00:30:00.000",
+      "formatted_end": "00:30:08.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 1830.0,
+      "end": 1853.78,
+      "formatted_start": "00:30:30.000",
+      "formatted_end": "00:30:53.780",
+      "text": "برنامه از این اصاسنامه شرکت ما بسیار اشکالات داره"
+    },
+    {
+      "id": 2,
+      "start": 1853.78,
+      "end": 1855.78,
+      "formatted_start": "00:30:53.780",
+      "formatted_end": "00:30:55.780",
+      "text": "یعنی بسیار کفت نیست"
+    },
+    {
+      "id": 3,
+      "start": 1855.78,
+      "end": 1857.78,
+      "formatted_start": "00:30:55.780",
+      "formatted_end": "00:30:57.780",
+      "text": "بله اشکال داره"
+    },
+    {
+      "id": 4,
+      "start": 1857.78,
+      "end": 1860.78,
+      "formatted_start": "00:30:57.780",
+      "formatted_end": "00:31:00.780",
+      "text": "بعد اینو میخواییم یه تغییراتی بدیم"
+    },
+    {
+      "id": 5,
+      "start": 1860.78,
+      "end": 1861.78,
+      "formatted_start": "00:31:00.780",
+      "formatted_end": "00:31:01.780",
+      "text": "خب"
+    },
+    {
+      "id": 6,
+      "start": 1861.78,
+      "end": 1862.78,
+      "formatted_start": "00:31:01.780",
+      "formatted_end": "00:31:02.780",
+      "text": "بله"
+    },
+    {
+      "id": 7,
+      "start": 1862.78,
+      "end": 1865.78,
+      "formatted_start": "00:31:02.780",
+      "formatted_end": "00:31:05.780",
+      "text": "و شما باید با ما مشابهه بدین همکاری کنید"
+    },
+    {
+      "id": 8,
+      "start": 1865.78,
+      "end": 1866.78,
+      "formatted_start": "00:31:05.780",
+      "formatted_end": "00:31:06.780",
+      "text": "بله اطفاً"
+    },
+    {
+      "id": 9,
+      "start": 1866.78,
+      "end": 1871.78,
+      "formatted_start": "00:31:06.780",
+      "formatted_end": "00:31:11.780",
+      "text": "من کلیت قد زیره گفتم که شما اگه تو این زمینه میخواییم متعلق بودید"
+    },
+    {
+      "id": 10,
+      "start": 1871.78,
+      "end": 1874.78,
+      "formatted_start": "00:31:11.780",
+      "formatted_end": "00:31:14.780",
+      "text": "من اونو دادم اونو هم پرسن پرسال به آقای رحیمی دادم"
+    },
+    {
+      "id": 11,
+      "start": 1874.78,
+      "end": 1875.78,
+      "formatted_start": "00:31:14.780",
+      "formatted_end": "00:31:15.780",
+      "text": "از دستانه یه چیز"
+    },
+    {
+      "id": 12,
+      "start": 1875.78,
+      "end": 1879.78,
+      "formatted_start": "00:31:15.780",
+      "formatted_end": "00:31:19.780",
+      "text": "از دستانه وای و سیستم جدید رو بهشون دادم"
+    },
+    {
+      "id": 13,
+      "start": 1879.78,
+      "end": 1882.08,
+      "formatted_start": "00:31:19.780",
+      "formatted_end": "00:31:22.080",
+      "text": "بابا هر ویرایشی میخوایی نانجام بدین"
+    },
+    {
+      "id": 14,
+      "start": 1882.08,
+      "end": 1883.54,
+      "formatted_start": "00:31:22.080",
+      "formatted_end": "00:31:23.540",
+      "text": "بابا ویرایش شده"
+    },
+    {
+      "id": 15,
+      "start": 1883.54,
+      "end": 1886.44,
+      "formatted_start": "00:31:23.540",
+      "formatted_end": "00:31:26.440",
+      "text": "مثلا بگیم با همدیگه بگیم سوال که خجاواشی میخوایی ویرایش کنی"
+    },
+    {
+      "id": 16,
+      "start": 1886.44,
+      "end": 1887.88,
+      "formatted_start": "00:31:26.440",
+      "formatted_end": "00:31:27.880",
+      "text": "من از دست ناموی تاقیدی"
+    },
+    {
+      "id": 17,
+      "start": 1887.88,
+      "end": 1890.02,
+      "formatted_start": "00:31:27.880",
+      "formatted_end": "00:31:30.020",
+      "text": "از جدید رو بهشون دادم پرسانتری"
+    },
+    {
+      "id": 18,
+      "start": 1890.02,
+      "end": 1890.36,
+      "formatted_start": "00:31:30.020",
+      "formatted_end": "00:31:30.360",
+      "text": "سوال"
+    },
+    {
+      "id": 19,
+      "start": 1890.36,
+      "end": 1891.98,
+      "formatted_start": "00:31:30.360",
+      "formatted_end": "00:31:31.980",
+      "text": "پس ما این رو بگیریم"
+    },
+    {
+      "id": 20,
+      "start": 1891.98,
+      "end": 1892.96,
+      "formatted_start": "00:31:31.980",
+      "formatted_end": "00:31:32.960",
+      "text": "یه مطالعه کنیم"
+    },
+    {
+      "id": 21,
+      "start": 1892.96,
+      "end": 1897.34,
+      "formatted_start": "00:31:32.960",
+      "formatted_end": "00:31:37.340",
+      "text": "ببینیم که چه کار باید کردید"
+    },
+    {
+      "id": 22,
+      "start": 1897.34,
+      "end": 1897.94,
+      "formatted_start": "00:31:37.340",
+      "formatted_end": "00:31:37.940",
+      "text": "موردی نه"
+    },
+    {
+      "id": 23,
+      "start": 1897.94,
+      "end": 1900.82,
+      "formatted_start": "00:31:37.940",
+      "formatted_end": "00:31:40.820",
+      "text": "اگر میخوایی تو مجموعه ورد گذارید"
+    },
+    {
+      "id": 24,
+      "start": 1900.82,
+      "end": 1902.6,
+      "formatted_start": "00:31:40.820",
+      "formatted_end": "00:31:42.600",
+      "text": "قبلش باید آقای دعوت بدیم"
+    },
+    {
+      "id": 25,
+      "start": 1909.78,
+      "end": 1913.58,
+      "formatted_start": "00:31:49.780",
+      "formatted_end": "00:31:53.580",
+      "text": "در اصلا تو مجرم مصبوب بشه"
+    },
+    {
+      "id": 26,
+      "start": 1913.58,
+      "end": 1916.18,
+      "formatted_start": "00:31:53.580",
+      "formatted_end": "00:31:56.180",
+      "text": "ما میتونیم مثلا قبلش به برانویزی کنیم"
+    },
+    {
+      "id": 27,
+      "start": 1916.18,
+      "end": 1917.18,
+      "formatted_start": "00:31:56.180",
+      "formatted_end": "00:31:57.180",
+      "text": "آمادهش کنیم"
+    },
+    {
+      "id": 28,
+      "start": 1917.18,
+      "end": 1918.84,
+      "formatted_start": "00:31:57.180",
+      "formatted_end": "00:31:58.840",
+      "text": "تو مجرم تصدیبش کنیم"
+    },
+    {
+      "id": 29,
+      "start": 1918.84,
+      "end": 1920.64,
+      "formatted_start": "00:31:58.840",
+      "formatted_end": "00:32:00.640",
+      "text": "چارچوبو ببندیم"
+    },
+    {
+      "id": 30,
+      "start": 1920.64,
+      "end": 1924.28,
+      "formatted_start": "00:32:00.640",
+      "formatted_end": "00:32:04.280",
+      "text": "بعد تو مجرم مصبوبش رو بگیریم"
+    },
+    {
+      "id": 31,
+      "start": 1924.28,
+      "end": 1926.2,
+      "formatted_start": "00:32:04.280",
+      "formatted_end": "00:32:06.200",
+      "text": "بعد یه سال دیگه"
+    },
+    {
+      "id": 32,
+      "start": 1926.2,
+      "end": 1927.06,
+      "formatted_start": "00:32:06.200",
+      "formatted_end": "00:32:07.060",
+      "text": "این بازرست"
+    },
+    {
+      "id": 33,
+      "start": 1927.06,
+      "end": 1929.02,
+      "formatted_start": "00:32:07.060",
+      "formatted_end": "00:32:09.020",
+      "text": "در چه جلساتی از حیات مدیره"
+    },
+    {
+      "id": 34,
+      "start": 1929.02,
+      "end": 1930.84,
+      "formatted_start": "00:32:09.020",
+      "formatted_end": "00:32:10.840",
+      "text": "میتونه شرکت کنه"
+    },
+    {
+      "id": 35,
+      "start": 1930.84,
+      "end": 1931.94,
+      "formatted_start": "00:32:10.840",
+      "formatted_end": "00:32:11.940",
+      "text": "تو حیات مدیره نمیدونه"
+    },
+    {
+      "id": 36,
+      "start": 1931.94,
+      "end": 1933.5,
+      "formatted_start": "00:32:11.940",
+      "formatted_end": "00:32:13.500",
+      "text": "بازرست فقط جلساتی ای که"
+    },
+    {
+      "id": 37,
+      "start": 1933.5,
+      "end": 1935.24,
+      "formatted_start": "00:32:13.500",
+      "formatted_end": "00:32:15.240",
+      "text": "از طرف سهمداراست"
+    },
+    {
+      "id": 38,
+      "start": 1935.24,
+      "end": 1940.86,
+      "formatted_start": "00:32:15.240",
+      "formatted_end": "00:32:20.860",
+      "text": "که میاد تو مجرامه اعلام نظر می کنه تو حیط مدیره جلسه حیط مدیره شرکت می کنه"
+    },
+    {
+      "id": 39,
+      "start": 1940.86,
+      "end": 1945.44,
+      "formatted_start": "00:32:20.860",
+      "formatted_end": "00:32:25.440",
+      "text": "مگه اینکه یک مدیر ازش درخواست کنی که آه بیا مثلا تعدیه جواب بده"
+    },
+    {
+      "id": 40,
+      "start": 1945.44,
+      "end": 1949.96,
+      "formatted_start": "00:32:25.440",
+      "formatted_end": "00:32:29.960",
+      "text": "تعدیه جواب یا مثلا برای الان ما مدیران رو می خواهیم انتخاب کنیم"
+    },
+    {
+      "id": 41,
+      "start": 1949.96,
+      "end": 1952.96,
+      "formatted_start": "00:32:29.960",
+      "formatted_end": "00:32:32.960",
+      "text": "نیاز هست بازرس مثلا حضور به عنوان"
+    },
+    {
+      "id": 42,
+      "start": 1952.96,
+      "end": 1956.06,
+      "formatted_start": "00:32:32.960",
+      "formatted_end": "00:32:36.060",
+      "text": "نه نه نه نه رفتی بهش نداره"
+    },
+    {
+      "id": 43,
+      "start": 1956.06,
+      "end": 1957.36,
+      "formatted_start": "00:32:36.060",
+      "formatted_end": "00:32:37.360",
+      "text": "نه رفتی بهش نداره"
+    },
+    {
+      "id": 44,
+      "start": 1957.36,
+      "end": 1962.04,
+      "formatted_start": "00:32:37.360",
+      "formatted_end": "00:32:42.040",
+      "text": "قانون رفتی نداره ولی خب بعضی شرکت ها میگن بیاید که آبادت هم در اطلاع باشه"
+    },
+    {
+      "id": 45,
+      "start": 1962.04,
+      "end": 1964.98,
+      "formatted_start": "00:32:42.040",
+      "formatted_end": "00:32:44.980",
+      "text": "ولی اصلا رفتی بهش نداره و حضور رجل از تهیه اد مدیره"
+    },
+    {
+      "id": 46,
+      "start": 1964.98,
+      "end": 1968.04,
+      "formatted_start": "00:32:44.980",
+      "formatted_end": "00:32:48.040",
+      "text": "فقط بعضی از شرکت ها فقط جهت اطلاع بشوند"
+    },
+    {
+      "id": 47,
+      "start": 1968.04,
+      "end": 1972.08,
+      "formatted_start": "00:32:48.040",
+      "formatted_end": "00:32:52.080",
+      "text": "آره جهت اطلاع میگن که آقا مثلا شما بیر تو جهت اد مدیر شرکت خوند"
+    },
+    {
+      "id": 48,
+      "start": 1972.08,
+      "end": 1973.26,
+      "formatted_start": "00:32:52.080",
+      "formatted_end": "00:32:53.260",
+      "text": "اما رفتی بهش نداره"
+    },
+    {
+      "id": 49,
+      "start": 1973.26,
+      "end": 1974.56,
+      "formatted_start": "00:32:53.260",
+      "formatted_end": "00:32:54.560",
+      "text": "ممنون مصدقیه"
+    },
+    {
+      "id": 50,
+      "start": 1974.56,
+      "end": 1976.5,
+      "formatted_start": "00:32:54.560",
+      "formatted_end": "00:32:56.500",
+      "text": "مرسی سلامت بشین"
+    },
+    {
+      "id": 51,
+      "start": 1976.5,
+      "end": 1977.28,
+      "formatted_start": "00:32:56.500",
+      "formatted_end": "00:32:57.280",
+      "text": "مرسی خدا باشین"
+    },
+    {
+      "id": 52,
+      "start": 1977.28,
+      "end": 1980.0,
+      "formatted_start": "00:32:57.280",
+      "formatted_end": "00:33:00.000",
+      "text": "مرسی خدا باشین"
+    },
+    {
+      "id": 53,
+      "start": 1987.36,
+      "end": 2017.34,
+      "formatted_start": "00:33:07.360",
+      "formatted_end": "00:33:37.340",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 54,
+      "start": 2017.36,
+      "end": 2047.34,
+      "formatted_start": "00:33:37.360",
+      "formatted_end": "00:34:07.340",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 55,
+      "start": 2047.36,
+      "end": 2077.34,
+      "formatted_start": "00:34:07.360",
+      "formatted_end": "00:34:37.340",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 56,
+      "start": 2077.36,
+      "end": 2099.36,
+      "formatted_start": "00:34:37.360",
+      "formatted_end": "00:34:59.360",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

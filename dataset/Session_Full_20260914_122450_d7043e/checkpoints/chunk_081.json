@@ -1,0 +1,135 @@
+{
+  "chunk_index": 81,
+  "start_sec": 24300.0,
+  "end_sec": 24600.0,
+  "turns": [
+    {
+      "start": 24576.005,
+      "end": 24584.037,
+      "formatted_start": "06:49:36.005",
+      "formatted_end": "06:49:44.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24576.157,
+      "end": 24579.211,
+      "formatted_start": "06:49:36.157",
+      "formatted_end": "06:49:39.211",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 24584.037,
+      "end": 24589.049,
+      "formatted_start": "06:49:44.037",
+      "formatted_end": "06:49:49.049",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 24300.0,
+      "end": 24329.98,
+      "formatted_start": "06:45:00.000",
+      "formatted_end": "06:45:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 24330.0,
+      "end": 24359.98,
+      "formatted_start": "06:45:30.000",
+      "formatted_end": "06:45:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 24360.0,
+      "end": 24389.98,
+      "formatted_start": "06:46:00.000",
+      "formatted_end": "06:46:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 24390.0,
+      "end": 24419.98,
+      "formatted_start": "06:46:30.000",
+      "formatted_end": "06:46:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 24420.0,
+      "end": 24449.98,
+      "formatted_start": "06:47:00.000",
+      "formatted_end": "06:47:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 24450.0,
+      "end": 24479.98,
+      "formatted_start": "06:47:30.000",
+      "formatted_end": "06:47:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 24480.0,
+      "end": 24509.98,
+      "formatted_start": "06:48:00.000",
+      "formatted_end": "06:48:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 24510.0,
+      "end": 24539.98,
+      "formatted_start": "06:48:30.000",
+      "formatted_end": "06:48:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 24540.0,
+      "end": 24565.0,
+      "formatted_start": "06:49:00.000",
+      "formatted_end": "06:49:25.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 24565.0,
+      "end": 24567.0,
+      "formatted_start": "06:49:25.000",
+      "formatted_end": "06:49:27.000",
+      "text": "بود آمن"
+    },
+    {
+      "id": 10,
+      "start": 24576.0,
+      "end": 24578.0,
+      "formatted_start": "06:49:36.000",
+      "formatted_end": "06:49:38.000",
+      "text": "بیا بود در چیمه ها بری بزنی آن"
+    },
+    {
+      "id": 11,
+      "start": 24579.0,
+      "end": 24581.0,
+      "formatted_start": "06:49:39.000",
+      "formatted_end": "06:49:41.000",
+      "text": "بیا بود در چیمه ها بری بزنی آن"
+    },
+    {
+      "id": 12,
+      "start": 24595.0,
+      "end": 24600.0,
+      "formatted_start": "06:49:55.000",
+      "formatted_end": "06:50:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

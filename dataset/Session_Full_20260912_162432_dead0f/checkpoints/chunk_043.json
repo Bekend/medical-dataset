@@ -1,0 +1,286 @@
+{
+  "chunk_index": 43,
+  "start_sec": 12900.0,
+  "end_sec": 13200.0,
+  "turns": [
+    {
+      "start": 12907.473,
+      "end": 12908.047,
+      "formatted_start": "03:35:07.473",
+      "formatted_end": "03:35:08.047",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12951.972,
+      "end": 12956.765,
+      "formatted_start": "03:35:51.972",
+      "formatted_end": "03:35:56.765",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12957.473,
+      "end": 12961.0,
+      "formatted_start": "03:35:57.473",
+      "formatted_end": "03:36:01.000",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12961.54,
+      "end": 12966.535,
+      "formatted_start": "03:36:01.540",
+      "formatted_end": "03:36:06.535",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12967.632,
+      "end": 12968.678,
+      "formatted_start": "03:36:07.632",
+      "formatted_end": "03:36:08.678",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12970.552,
+      "end": 12970.973,
+      "formatted_start": "03:36:10.552",
+      "formatted_end": "03:36:10.973",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12979.31,
+      "end": 12980.035,
+      "formatted_start": "03:36:19.310",
+      "formatted_end": "03:36:20.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13001.062,
+      "end": 13001.922,
+      "formatted_start": "03:36:41.062",
+      "formatted_end": "03:36:41.922",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13002.091,
+      "end": 13003.036,
+      "formatted_start": "03:36:42.091",
+      "formatted_end": "03:36:43.036",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13014.46,
+      "end": 13023.134,
+      "formatted_start": "03:36:54.460",
+      "formatted_end": "03:37:03.134",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13024.653,
+      "end": 13025.024,
+      "formatted_start": "03:37:04.653",
+      "formatted_end": "03:37:05.024",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13041.781,
+      "end": 13043.03,
+      "formatted_start": "03:37:21.781",
+      "formatted_end": "03:37:23.030",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13043.789,
+      "end": 13045.392,
+      "formatted_start": "03:37:23.789",
+      "formatted_end": "03:37:25.392",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13052.362,
+      "end": 13053.155,
+      "formatted_start": "03:37:32.362",
+      "formatted_end": "03:37:33.155",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13059.415,
+      "end": 13060.377,
+      "formatted_start": "03:37:39.415",
+      "formatted_end": "03:37:40.377",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13062.959,
+      "end": 13090.178,
+      "formatted_start": "03:37:42.959",
+      "formatted_end": "03:38:10.178",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13067.802,
+      "end": 13068.899,
+      "formatted_start": "03:37:47.802",
+      "formatted_end": "03:37:48.899",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13090.263,
+      "end": 13096.726,
+      "formatted_start": "03:38:10.263",
+      "formatted_end": "03:38:16.726",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13096.844,
+      "end": 13107.037,
+      "formatted_start": "03:38:16.844",
+      "formatted_end": "03:38:27.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13122.967,
+      "end": 13147.064,
+      "formatted_start": "03:38:42.967",
+      "formatted_end": "03:39:07.064",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12900.0,
+      "end": 12929.98,
+      "formatted_start": "03:35:00.000",
+      "formatted_end": "03:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 12930.0,
+      "end": 12959.98,
+      "formatted_start": "03:35:30.000",
+      "formatted_end": "03:35:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 12960.0,
+      "end": 12970.0,
+      "formatted_start": "03:36:00.000",
+      "formatted_end": "03:36:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 12990.0,
+      "end": 12998.0,
+      "formatted_start": "03:36:30.000",
+      "formatted_end": "03:36:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 13020.0,
+      "end": 13042.0,
+      "formatted_start": "03:37:00.000",
+      "formatted_end": "03:37:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 13050.0,
+      "end": 13063.0,
+      "formatted_start": "03:37:30.000",
+      "formatted_end": "03:37:43.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 13080.0,
+      "end": 13082.0,
+      "formatted_start": "03:38:00.000",
+      "formatted_end": "03:38:02.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 13110.0,
+      "end": 13112.62,
+      "formatted_start": "03:38:30.000",
+      "formatted_end": "03:38:32.620",
+      "text": "و همراه مورس سرافیلک میتونید استفاده کنید"
+    },
+    {
+      "id": 8,
+      "start": 13112.62,
+      "end": 13116.24,
+      "formatted_start": "03:38:32.620",
+      "formatted_end": "03:38:36.240",
+      "text": "برای شکار همگول مگرسی نیوی پیشترانه"
+    },
+    {
+      "id": 9,
+      "start": 13116.24,
+      "end": 13121.06,
+      "formatted_start": "03:38:36.240",
+      "formatted_end": "03:38:41.060",
+      "text": "میتونید دست سموم مثل کارتزام، جوپیتر، مالاتیوم، دیکونرو،"
+    },
+    {
+      "id": 10,
+      "start": 13121.06,
+      "end": 13124.56,
+      "formatted_start": "03:38:41.060",
+      "formatted_end": "03:38:44.560",
+      "text": "و کروتین نیترولیزاد به صنعت تومه پاشی استفاده کنید"
+    },
+    {
+      "id": 11,
+      "start": 13124.56,
+      "end": 13139.0,
+      "formatted_start": "03:38:44.560",
+      "formatted_end": "03:38:59.000",
+      "text": "راستی رعایت دوره کارنز برای حفظ سلامت محصول رو حتماً منده داشته باشید"
+    },
+    {
+      "id": 12,
+      "start": 13139.0,
+      "end": 13142.44,
+      "formatted_start": "03:38:59.000",
+      "formatted_end": "03:39:02.440",
+      "text": "برای معابله و مبارزه با مگسی دیوهی مدیترانه"
+    },
+    {
+      "id": 13,
+      "start": 13142.44,
+      "end": 13145.0,
+      "formatted_start": "03:39:02.440",
+      "formatted_end": "03:39:05.000",
+      "text": "و تأییر محصولاتی که فرماندون مارک بیشتر"
+    },
+    {
+      "id": 14,
+      "start": 13145.0,
+      "end": 13147.08,
+      "formatted_start": "03:39:05.000",
+      "formatted_end": "03:39:07.080",
+      "text": "همینمان کلمه مبارزه رو براموند"
+    },
+    {
+      "id": 15,
+      "start": 13169.0,
+      "end": 13198.98,
+      "formatted_start": "03:39:29.000",
+      "formatted_end": "03:39:58.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 13199.0,
+      "end": 13200.0,
+      "formatted_start": "03:39:59.000",
+      "formatted_end": "03:40:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

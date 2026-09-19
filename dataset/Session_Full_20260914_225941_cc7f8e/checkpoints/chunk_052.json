@@ -1,0 +1,193 @@
+{
+  "chunk_index": 52,
+  "start_sec": 15600.0,
+  "end_sec": 15900.0,
+  "turns": [
+    {
+      "start": 15600.352,
+      "end": 15601.027,
+      "formatted_start": "04:20:00.352",
+      "formatted_end": "04:20:01.027",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 15601.904,
+      "end": 15603.794,
+      "formatted_start": "04:20:01.904",
+      "formatted_end": "04:20:03.794",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 15604.047,
+      "end": 15611.219,
+      "formatted_start": "04:20:04.047",
+      "formatted_end": "04:20:11.219",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 15604.908,
+      "end": 15605.768,
+      "formatted_start": "04:20:04.908",
+      "formatted_end": "04:20:05.768",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 15606.578,
+      "end": 15607.27,
+      "formatted_start": "04:20:06.578",
+      "formatted_end": "04:20:07.270",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 15611.523,
+      "end": 15614.037,
+      "formatted_start": "04:20:11.523",
+      "formatted_end": "04:20:14.037",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 15614.037,
+      "end": 15623.082,
+      "formatted_start": "04:20:14.037",
+      "formatted_end": "04:20:23.082",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 15657.98,
+      "end": 15658.655,
+      "formatted_start": "04:20:57.980",
+      "formatted_end": "04:20:58.655",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15658.975,
+      "end": 15659.718,
+      "formatted_start": "04:20:58.975",
+      "formatted_end": "04:20:59.718",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 15600.0,
+      "end": 15604.0,
+      "formatted_start": "04:20:00.000",
+      "formatted_end": "04:20:04.000",
+      "text": "این هم چرمونه بود. چرا با من باشیم؟"
+    },
+    {
+      "id": 1,
+      "start": 15604.0,
+      "end": 15606.0,
+      "formatted_start": "04:20:04.000",
+      "formatted_end": "04:20:06.000",
+      "text": "خدا مبتهم با من."
+    },
+    {
+      "id": 2,
+      "start": 15606.0,
+      "end": 15608.0,
+      "formatted_start": "04:20:06.000",
+      "formatted_end": "04:20:08.000",
+      "text": "خدا مبتهم با من."
+    },
+    {
+      "id": 3,
+      "start": 15608.0,
+      "end": 15610.0,
+      "formatted_start": "04:20:08.000",
+      "formatted_end": "04:20:10.000",
+      "text": "خدا مبتهم با من."
+    },
+    {
+      "id": 4,
+      "start": 15610.0,
+      "end": 15612.0,
+      "formatted_start": "04:20:10.000",
+      "formatted_end": "04:20:12.000",
+      "text": "خدا مبتهم با من."
+    },
+    {
+      "id": 5,
+      "start": 15612.0,
+      "end": 15614.0,
+      "formatted_start": "04:20:12.000",
+      "formatted_end": "04:20:14.000",
+      "text": "خدا مبتهم با من."
+    },
+    {
+      "id": 6,
+      "start": 15630.0,
+      "end": 15658.0,
+      "formatted_start": "04:20:30.000",
+      "formatted_end": "04:20:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 15658.0,
+      "end": 15682.0,
+      "formatted_start": "04:20:58.000",
+      "formatted_end": "04:21:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 15688.0,
+      "end": 15698.0,
+      "formatted_start": "04:21:28.000",
+      "formatted_end": "04:21:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 15718.0,
+      "end": 15746.0,
+      "formatted_start": "04:21:58.000",
+      "formatted_end": "04:22:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 15746.0,
+      "end": 15775.98,
+      "formatted_start": "04:22:26.000",
+      "formatted_end": "04:22:55.980",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 11,
+      "start": 15776.0,
+      "end": 15805.98,
+      "formatted_start": "04:22:56.000",
+      "formatted_end": "04:23:25.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 15806.0,
+      "end": 15835.98,
+      "formatted_start": "04:23:26.000",
+      "formatted_end": "04:23:55.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 15866.0,
+      "end": 15886.0,
+      "formatted_start": "04:24:26.000",
+      "formatted_end": "04:24:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 14,
+      "start": 15886.0,
+      "end": 15900.0,
+      "formatted_start": "04:24:46.000",
+      "formatted_end": "04:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

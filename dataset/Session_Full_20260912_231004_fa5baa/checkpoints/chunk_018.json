@@ -1,0 +1,875 @@
+{
+  "chunk_index": 18,
+  "start_sec": 5400.0,
+  "end_sec": 5700.0,
+  "turns": [
+    {
+      "start": 5400.031,
+      "end": 5401.027,
+      "formatted_start": "01:30:00.031",
+      "formatted_end": "01:30:01.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5407.034,
+      "end": 5407.743,
+      "formatted_start": "01:30:07.034",
+      "formatted_end": "01:30:07.743",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5408.182,
+      "end": 5409.413,
+      "formatted_start": "01:30:08.182",
+      "formatted_end": "01:30:09.413",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5409.802,
+      "end": 5424.145,
+      "formatted_start": "01:30:09.802",
+      "formatted_end": "01:30:24.145",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5412.856,
+      "end": 5417.885,
+      "formatted_start": "01:30:12.856",
+      "formatted_end": "01:30:17.885",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5418.948,
+      "end": 5420.028,
+      "formatted_start": "01:30:18.948",
+      "formatted_end": "01:30:20.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5424.972,
+      "end": 5425.833,
+      "formatted_start": "01:30:24.972",
+      "formatted_end": "01:30:25.833",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5425.951,
+      "end": 5440.582,
+      "formatted_start": "01:30:25.951",
+      "formatted_end": "01:30:40.582",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5440.885,
+      "end": 5441.763,
+      "formatted_start": "01:30:40.885",
+      "formatted_end": "01:30:41.763",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5442.168,
+      "end": 5442.893,
+      "formatted_start": "01:30:42.168",
+      "formatted_end": "01:30:42.893",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5444.969,
+      "end": 5452.023,
+      "formatted_start": "01:30:44.969",
+      "formatted_end": "01:30:52.023",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5452.023,
+      "end": 5452.681,
+      "formatted_start": "01:30:52.023",
+      "formatted_end": "01:30:52.681",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5453.39,
+      "end": 5466.518,
+      "formatted_start": "01:30:53.390",
+      "formatted_end": "01:31:06.518",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5485.975,
+      "end": 5487.899,
+      "formatted_start": "01:31:25.975",
+      "formatted_end": "01:31:27.899",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5487.967,
+      "end": 5489.03,
+      "formatted_start": "01:31:27.967",
+      "formatted_end": "01:31:29.030",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5489.198,
+      "end": 5490.835,
+      "formatted_start": "01:31:29.198",
+      "formatted_end": "01:31:30.835",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5505.112,
+      "end": 5506.293,
+      "formatted_start": "01:31:45.112",
+      "formatted_end": "01:31:46.293",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5506.647,
+      "end": 5518.595,
+      "formatted_start": "01:31:46.647",
+      "formatted_end": "01:31:58.595",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5520.181,
+      "end": 5520.772,
+      "formatted_start": "01:32:00.181",
+      "formatted_end": "01:32:00.772",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5520.974,
+      "end": 5523.674,
+      "formatted_start": "01:32:00.974",
+      "formatted_end": "01:32:03.674",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5523.775,
+      "end": 5526.88,
+      "formatted_start": "01:32:03.775",
+      "formatted_end": "01:32:06.880",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5527.184,
+      "end": 5527.927,
+      "formatted_start": "01:32:07.184",
+      "formatted_end": "01:32:07.927",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5528.095,
+      "end": 5530.795,
+      "formatted_start": "01:32:08.095",
+      "formatted_end": "01:32:10.795",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5530.897,
+      "end": 5554.623,
+      "formatted_start": "01:32:10.897",
+      "formatted_end": "01:32:34.623",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5541.865,
+      "end": 5542.27,
+      "formatted_start": "01:32:21.865",
+      "formatted_end": "01:32:22.270",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5555.922,
+      "end": 5568.562,
+      "formatted_start": "01:32:35.922",
+      "formatted_end": "01:32:48.562",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5562.757,
+      "end": 5565.119,
+      "formatted_start": "01:32:42.757",
+      "formatted_end": "01:32:45.119",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5569.017,
+      "end": 5573.607,
+      "formatted_start": "01:32:49.017",
+      "formatted_end": "01:32:53.607",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5573.675,
+      "end": 5578.855,
+      "formatted_start": "01:32:53.675",
+      "formatted_end": "01:32:58.855",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5578.923,
+      "end": 5579.294,
+      "formatted_start": "01:32:58.923",
+      "formatted_end": "01:32:59.294",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5579.564,
+      "end": 5581.032,
+      "formatted_start": "01:32:59.564",
+      "formatted_end": "01:33:01.032",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5581.15,
+      "end": 5581.859,
+      "formatted_start": "01:33:01.150",
+      "formatted_end": "01:33:01.859",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5581.977,
+      "end": 5584.357,
+      "formatted_start": "01:33:01.977",
+      "formatted_end": "01:33:04.357",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5586.432,
+      "end": 5599.038,
+      "formatted_start": "01:33:06.432",
+      "formatted_end": "01:33:19.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5599.139,
+      "end": 5600.033,
+      "formatted_start": "01:33:19.139",
+      "formatted_end": "01:33:20.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5606.969,
+      "end": 5607.509,
+      "formatted_start": "01:33:26.969",
+      "formatted_end": "01:33:27.509",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5609.382,
+      "end": 5609.804,
+      "formatted_start": "01:33:29.382",
+      "formatted_end": "01:33:29.804",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5611.475,
+      "end": 5614.36,
+      "formatted_start": "01:33:31.475",
+      "formatted_end": "01:33:34.360",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5660.497,
+      "end": 5662.032,
+      "formatted_start": "01:34:20.497",
+      "formatted_end": "01:34:22.032",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5662.606,
+      "end": 5665.897,
+      "formatted_start": "01:34:22.606",
+      "formatted_end": "01:34:25.897",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5666.96,
+      "end": 5674.537,
+      "formatted_start": "01:34:26.960",
+      "formatted_end": "01:34:34.537",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5674.604,
+      "end": 5683.025,
+      "formatted_start": "01:34:34.604",
+      "formatted_end": "01:34:43.025",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5683.447,
+      "end": 5684.476,
+      "formatted_start": "01:34:43.447",
+      "formatted_end": "01:34:44.476",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5684.78,
+      "end": 5686.028,
+      "formatted_start": "01:34:44.780",
+      "formatted_end": "01:34:46.028",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5694.955,
+      "end": 5695.968,
+      "formatted_start": "01:34:54.955",
+      "formatted_end": "01:34:55.968",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5696.457,
+      "end": 5697.014,
+      "formatted_start": "01:34:56.457",
+      "formatted_end": "01:34:57.014",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5697.368,
+      "end": 5699.967,
+      "formatted_start": "01:34:57.368",
+      "formatted_end": "01:34:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 5400.0,
+      "end": 5412.0,
+      "formatted_start": "01:30:00.000",
+      "formatted_end": "01:30:12.000",
+      "text": "خوصی درست کردیم و راست بودیم و هم اجمال کردیم یا قرارگاه کردیم یا قرارگاه پیش کردیم، انجام کردیم، اینش نیست."
+    },
+    {
+      "id": 1,
+      "start": 5412.0,
+      "end": 5424.0,
+      "formatted_start": "01:30:12.000",
+      "formatted_end": "01:30:24.000",
+      "text": "وگرنه هایی که بیمار درست کردن، اون راست بودند، اون راست بودند. وگرنه چون میشه، این یک روایت از بیمنامی است."
+    },
+    {
+      "id": 2,
+      "start": 5424.0,
+      "end": 5426.0,
+      "formatted_start": "01:30:24.000",
+      "formatted_end": "01:30:26.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 3,
+      "start": 5426.0,
+      "end": 5428.0,
+      "formatted_start": "01:30:26.000",
+      "formatted_end": "01:30:28.000",
+      "text": "یه نوایی که نموشه"
+    },
+    {
+      "id": 4,
+      "start": 5428.0,
+      "end": 5430.0,
+      "formatted_start": "01:30:28.000",
+      "formatted_end": "01:30:30.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 5,
+      "start": 5430.0,
+      "end": 5432.0,
+      "formatted_start": "01:30:30.000",
+      "formatted_end": "01:30:32.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 6,
+      "start": 5432.0,
+      "end": 5434.0,
+      "formatted_start": "01:30:32.000",
+      "formatted_end": "01:30:34.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 7,
+      "start": 5434.0,
+      "end": 5436.0,
+      "formatted_start": "01:30:34.000",
+      "formatted_end": "01:30:36.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 8,
+      "start": 5436.0,
+      "end": 5438.0,
+      "formatted_start": "01:30:36.000",
+      "formatted_end": "01:30:38.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 9,
+      "start": 5438.0,
+      "end": 5440.0,
+      "formatted_start": "01:30:38.000",
+      "formatted_end": "01:30:40.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 10,
+      "start": 5440.0,
+      "end": 5442.0,
+      "formatted_start": "01:30:40.000",
+      "formatted_end": "01:30:42.000",
+      "text": "که بشه دینی؟"
+    },
+    {
+      "id": 11,
+      "start": 5442.0,
+      "end": 5444.0,
+      "formatted_start": "01:30:42.000",
+      "formatted_end": "01:30:44.000",
+      "text": "کم سمیر؟"
+    },
+    {
+      "id": 12,
+      "start": 5444.0,
+      "end": 5446.0,
+      "formatted_start": "01:30:44.000",
+      "formatted_end": "01:30:46.000",
+      "text": "که در ایگلیز بشه دینی"
+    },
+    {
+      "id": 13,
+      "start": 5446.0,
+      "end": 5448.0,
+      "formatted_start": "01:30:46.000",
+      "formatted_end": "01:30:48.000",
+      "text": "در افزایی که سانی مثل"
+    },
+    {
+      "id": 14,
+      "start": 5448.0,
+      "end": 5450.0,
+      "formatted_start": "01:30:48.000",
+      "formatted_end": "01:30:50.000",
+      "text": "آلدر کامو"
+    },
+    {
+      "id": 15,
+      "start": 5450.0,
+      "end": 5452.0,
+      "formatted_start": "01:30:50.000",
+      "formatted_end": "01:30:52.000",
+      "text": "برگون اول بشه دینی"
+    },
+    {
+      "id": 16,
+      "start": 5452.0,
+      "end": 5453.0,
+      "formatted_start": "01:30:52.000",
+      "formatted_end": "01:30:53.000",
+      "text": "یک دقیقه"
+    },
+    {
+      "id": 17,
+      "start": 5453.54,
+      "end": 5454.24,
+      "formatted_start": "01:30:53.540",
+      "formatted_end": "01:30:54.240",
+      "text": "دیوین"
+    },
+    {
+      "id": 18,
+      "start": 5454.36,
+      "end": 5457.88,
+      "formatted_start": "01:30:54.360",
+      "formatted_end": "01:30:57.880",
+      "text": "دیوین من با این همدی چیز زدن همدی می کنم"
+    },
+    {
+      "id": 19,
+      "start": 5458.54,
+      "end": 5460.04,
+      "formatted_start": "01:30:58.540",
+      "formatted_end": "01:31:00.040",
+      "text": "اینو فعلا ببر"
+    },
+    {
+      "id": 20,
+      "start": 5460.34,
+      "end": 5461.9,
+      "formatted_start": "01:31:00.340",
+      "formatted_end": "01:31:01.900",
+      "text": "تو شارژ این هم باشه"
+    },
+    {
+      "id": 21,
+      "start": 5463.16,
+      "end": 5464.88,
+      "formatted_start": "01:31:03.160",
+      "formatted_end": "01:31:04.880",
+      "text": "یکی مریض این رو بیاد برداشت"
+    },
+    {
+      "id": 22,
+      "start": 5465.68,
+      "end": 5466.8,
+      "formatted_start": "01:31:05.680",
+      "formatted_end": "01:31:06.800",
+      "text": "اون پولی چیز"
+    },
+    {
+      "id": 23,
+      "start": 5482.0,
+      "end": 5489.0,
+      "formatted_start": "01:31:22.000",
+      "formatted_end": "01:31:29.000",
+      "text": "معقولیت این نظر است که این جهان در یک انسان معقول نیست"
+    },
+    {
+      "id": 24,
+      "start": 5489.0,
+      "end": 5496.0,
+      "formatted_start": "01:31:29.000",
+      "formatted_end": "01:31:36.000",
+      "text": "یعنی آمن محاسبه و اونم محاسبه اوکبر نیست"
+    },
+    {
+      "id": 25,
+      "start": 5496.0,
+      "end": 5503.0,
+      "formatted_start": "01:31:36.000",
+      "formatted_end": "01:31:43.000",
+      "text": "آدم که انتظاراتی در حد هست و برای این این اطلاعات شکر کنید نیست"
+    },
+    {
+      "id": 26,
+      "start": 5503.0,
+      "end": 5505.0,
+      "formatted_start": "01:31:43.000",
+      "formatted_end": "01:31:45.000",
+      "text": "ندارم می کنیم؟"
+    },
+    {
+      "id": 27,
+      "start": 5505.0,
+      "end": 5516.0,
+      "formatted_start": "01:31:45.000",
+      "formatted_end": "01:31:56.000",
+      "text": "مثلا آدم انتظار داره که در جهان اگر معقود، در جهان اگر کسی سعی و کوشش کرد، موفق بشه"
+    },
+    {
+      "id": 28,
+      "start": 5516.0,
+      "end": 5519.0,
+      "formatted_start": "01:31:56.000",
+      "formatted_end": "01:31:59.000",
+      "text": "برای همچین ترز و نگه درکار"
+    },
+    {
+      "id": 29,
+      "start": 5521.0,
+      "end": 5531.0,
+      "formatted_start": "01:32:01.000",
+      "formatted_end": "01:32:11.000",
+      "text": "انتظار داریم که اگر کسی خانه باشه، اهل خدمت باشه، ما برای ارزش و اعتبار واقع باشیم"
+    },
+    {
+      "id": 30,
+      "start": 5531.0,
+      "end": 5537.0,
+      "formatted_start": "01:32:11.000",
+      "formatted_end": "01:32:17.000",
+      "text": "و فرای خواهدنان ارزو دادن به اعتقار و ارزش خواهی نماشین و همه هم میشین"
+    },
+    {
+      "id": 31,
+      "start": 5537.0,
+      "end": 5546.0,
+      "formatted_start": "01:32:17.000",
+      "formatted_end": "01:32:26.000",
+      "text": "چقدر خواهدنان به بشریت آمدن و رفتن و کسی سر سیز موزن براشون وقتی خواهدن"
+    },
+    {
+      "id": 32,
+      "start": 5546.0,
+      "end": 5555.0,
+      "formatted_start": "01:32:26.000",
+      "formatted_end": "01:32:35.000",
+      "text": "و چقدر خواهدنان براشون به احترام خواهدن و کشی ما آمدن و همونم به اعتقار نماشین"
+    },
+    {
+      "id": 33,
+      "start": 5555.0,
+      "end": 5568.5,
+      "formatted_start": "01:32:35.000",
+      "formatted_end": "01:32:48.500",
+      "text": "آدم اعتزار داره که اگر پدر و مادر این تمام جنگ و جنگشون رو برای تبیت فرزندشون کردن، فرزندشون اینسان صالح بارو بیاد، این این صورت نه، که من میزنم من"
+    },
+    {
+      "id": 34,
+      "start": 5568.5,
+      "end": 5584.6,
+      "formatted_start": "01:32:48.500",
+      "formatted_end": "01:33:04.600",
+      "text": "و از اون طرف میگم اگر پدر و مادر کامل از سخت گار بودند، طرف کنید، و یکی اقتناعی به تبیت اینکه شنشون نشد، بچه ها شنید بچه های نصالح از آب در بیاد، ولی اینکه باهم ازش نمیشون"
+    },
+    {
+      "id": 35,
+      "start": 5584.6,
+      "end": 5589.32,
+      "formatted_start": "01:33:04.600",
+      "formatted_end": "01:33:09.320",
+      "text": "نمیتونیم چونکه بگذاریم"
+    },
+    {
+      "id": 36,
+      "start": 5589.32,
+      "end": 5592.94,
+      "formatted_start": "01:33:09.320",
+      "formatted_end": "01:33:12.940",
+      "text": "جهان انسانی جهان معبوری است"
+    },
+    {
+      "id": 37,
+      "start": 5592.94,
+      "end": 5594.66,
+      "formatted_start": "01:33:12.940",
+      "formatted_end": "01:33:14.660",
+      "text": "برخلاف جهان فیزیک"
+    },
+    {
+      "id": 38,
+      "start": 5594.66,
+      "end": 5596.46,
+      "formatted_start": "01:33:14.660",
+      "formatted_end": "01:33:16.460",
+      "text": "برخلاف جهان شیمی"
+    },
+    {
+      "id": 39,
+      "start": 5596.46,
+      "end": 5598.48,
+      "formatted_start": "01:33:16.460",
+      "formatted_end": "01:33:18.480",
+      "text": "برخلاف جهان زیست شناسی"
+    },
+    {
+      "id": 40,
+      "start": 5598.48,
+      "end": 5601.94,
+      "formatted_start": "01:33:18.480",
+      "formatted_end": "01:33:21.940",
+      "text": "جهان روش شناسی و جامع شناسی"
+    },
+    {
+      "id": 41,
+      "start": 5601.94,
+      "end": 5604.12,
+      "formatted_start": "01:33:21.940",
+      "formatted_end": "01:33:24.120",
+      "text": "دو جهان که جهان انسان نه"
+    },
+    {
+      "id": 42,
+      "start": 5604.12,
+      "end": 5607.66,
+      "formatted_start": "01:33:24.120",
+      "formatted_end": "01:33:27.660",
+      "text": "این ها معقولیتشون برشون حاکم نیست"
+    },
+    {
+      "id": 43,
+      "start": 5607.66,
+      "end": 5609.9,
+      "formatted_start": "01:33:27.660",
+      "formatted_end": "01:33:29.900",
+      "text": "نرمی کنیم"
+    },
+    {
+      "id": 44,
+      "start": 5609.9,
+      "end": 5614.28,
+      "formatted_start": "01:33:29.900",
+      "formatted_end": "01:33:34.280",
+      "text": "خب این هم اگر باشه با سیدیم شدیم معنا"
+    },
+    {
+      "id": 45,
+      "start": 5614.28,
+      "end": 5621.36,
+      "formatted_start": "01:33:34.280",
+      "formatted_end": "01:33:41.360",
+      "text": "چون نمیدونه آدم چه اگر بکنه حتما به نتیجه میرسه"
+    },
+    {
+      "id": 46,
+      "start": 5621.36,
+      "end": 5625.26,
+      "formatted_start": "01:33:41.360",
+      "formatted_end": "01:33:45.260",
+      "text": "و اگر چه کار رو نکرد حتما به نتیجه نمیرسه"
+    },
+    {
+      "id": 47,
+      "start": 5625.26,
+      "end": 5628.02,
+      "formatted_start": "01:33:45.260",
+      "formatted_end": "01:33:48.020",
+      "text": "همه چیز اینکار تابع چی خواهد بود"
+    },
+    {
+      "id": 48,
+      "start": 5628.02,
+      "end": 5630.04,
+      "formatted_start": "01:33:48.020",
+      "formatted_end": "01:33:50.040",
+      "text": "خواهد نمیخواد از این تحبیل استفاده کنم"
+    },
+    {
+      "id": 49,
+      "start": 5630.04,
+      "end": 5632.44,
+      "formatted_start": "01:33:50.040",
+      "formatted_end": "01:33:52.440",
+      "text": "که تحبیل فلسفی دقیقی نیست"
+    },
+    {
+      "id": 50,
+      "start": 5632.44,
+      "end": 5634.42,
+      "formatted_start": "01:33:52.440",
+      "formatted_end": "01:33:54.420",
+      "text": "و اینکار همه چیز تابع شانسه"
+    },
+    {
+      "id": 51,
+      "start": 5634.42,
+      "end": 5637.02,
+      "formatted_start": "01:33:54.420",
+      "formatted_end": "01:33:57.020",
+      "text": "همه چیز تابع تصادفه"
+    },
+    {
+      "id": 52,
+      "start": 5637.02,
+      "end": 5638.82,
+      "formatted_start": "01:33:57.020",
+      "formatted_end": "01:33:58.820",
+      "text": "معنایی بر جهانه"
+    },
+    {
+      "id": 53,
+      "start": 5638.82,
+      "end": 5640.52,
+      "formatted_start": "01:33:58.820",
+      "formatted_end": "01:34:00.520",
+      "text": "انسانی حاکم نیست"
+    },
+    {
+      "id": 54,
+      "start": 5640.52,
+      "end": 5641.52,
+      "formatted_start": "01:34:00.520",
+      "formatted_end": "01:34:01.520",
+      "text": "شانسی"
+    },
+    {
+      "id": 55,
+      "start": 5641.52,
+      "end": 5647.26,
+      "formatted_start": "01:34:01.520",
+      "formatted_end": "01:34:07.260",
+      "text": "یک وقت تو اهمالکاری ولی بچه بسیار خوبی بار میاد از تو"
+    },
+    {
+      "id": 56,
+      "start": 5647.26,
+      "end": 5653.6,
+      "formatted_start": "01:34:07.260",
+      "formatted_end": "01:34:13.600",
+      "text": "یک وقت تو بسیار جدی و سایی و سر سندنی که قهولت و کاهلی نداری"
+    },
+    {
+      "id": 57,
+      "start": 5653.6,
+      "end": 5659.58,
+      "formatted_start": "01:34:13.600",
+      "formatted_end": "01:34:19.580",
+      "text": "ولی با این هم چرا بچه ها میبینی که نمساله و خواب نداری"
+    },
+    {
+      "id": 58,
+      "start": 5659.58,
+      "end": 5662.56,
+      "formatted_start": "01:34:19.580",
+      "formatted_end": "01:34:22.560",
+      "text": "خب اینجا چی کار میخوایی بکنی تا؟"
+    },
+    {
+      "id": 59,
+      "start": 5662.56,
+      "end": 5665.86,
+      "formatted_start": "01:34:22.560",
+      "formatted_end": "01:34:25.860",
+      "text": "آیا میتونیم برنامه ریزی دقیقی بکنی؟ نه"
+    },
+    {
+      "id": 60,
+      "start": 5665.86,
+      "end": 5671.28,
+      "formatted_start": "01:34:25.860",
+      "formatted_end": "01:34:31.280",
+      "text": "خب این معنی شدید نه تو نهاد خانواده نه نهاد نهاد نهاد"
+    },
+    {
+      "id": 61,
+      "start": 5671.28,
+      "end": 5678.78,
+      "formatted_start": "01:34:31.280",
+      "formatted_end": "01:34:38.780",
+      "text": "نهاد سیاستر، تو هیچ نهادی مبنای محکم و زمین محکم و استواری نداریم"
+    },
+    {
+      "id": 62,
+      "start": 5678.78,
+      "end": 5684.78,
+      "formatted_start": "01:34:38.780",
+      "formatted_end": "01:34:44.780",
+      "text": "که بر اساس اون مبنا و بر اساس اون زمین و زمینه ما تصمیم بگیریم"
+    },
+    {
+      "id": 63,
+      "start": 5684.78,
+      "end": 5687.28,
+      "formatted_start": "01:34:44.780",
+      "formatted_end": "01:34:47.280",
+      "text": "خب این هم میشه زمینی میشه یکی بیمعنا دیگه"
+    },
+    {
+      "id": 64,
+      "start": 5687.28,
+      "end": 5692.28,
+      "formatted_start": "01:34:47.280",
+      "formatted_end": "01:34:52.280",
+      "text": "یعنی انگار یک نوع هرج و مرج بر آلم ایسانی حاکمه"
+    },
+    {
+      "id": 65,
+      "start": 5692.28,
+      "end": 5697.28,
+      "formatted_start": "01:34:52.280",
+      "formatted_end": "01:34:57.280",
+      "text": "یک نوع آنرشی حاکمه و هرج و هرج و مرج باشه، یک قانونی در کاریست"
+    },
+    {
+      "id": 66,
+      "start": 5697.28,
+      "end": 5700.28,
+      "formatted_start": "01:34:57.280",
+      "formatted_end": "01:35:00.280",
+      "text": "و هرج و قانونی نباشه، دیگه نمیشه فهمید که"
+    }
+  ],
+  "status": "completed"
+}

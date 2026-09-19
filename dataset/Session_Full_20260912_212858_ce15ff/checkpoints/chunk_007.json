@@ -1,0 +1,722 @@
+{
+  "chunk_index": 7,
+  "start_sec": 2100.0,
+  "end_sec": 2400.0,
+  "turns": [
+    {
+      "start": 2152.968,
+      "end": 2153.812,
+      "formatted_start": "00:35:52.968",
+      "formatted_end": "00:35:53.812",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2153.828,
+      "end": 2155.499,
+      "formatted_start": "00:35:53.828",
+      "formatted_end": "00:35:55.499",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2295.241,
+      "end": 2301.08,
+      "formatted_start": "00:38:15.241",
+      "formatted_end": "00:38:21.080",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2301.13,
+      "end": 2316.419,
+      "formatted_start": "00:38:21.130",
+      "formatted_end": "00:38:36.419",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2307.779,
+      "end": 2309.416,
+      "formatted_start": "00:38:27.779",
+      "formatted_end": "00:38:29.416",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2313.348,
+      "end": 2313.77,
+      "formatted_start": "00:38:33.348",
+      "formatted_end": "00:38:33.770",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2317.533,
+      "end": 2318.9,
+      "formatted_start": "00:38:37.533",
+      "formatted_end": "00:38:38.900",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2319.406,
+      "end": 2325.582,
+      "formatted_start": "00:38:39.406",
+      "formatted_end": "00:38:45.582",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2320.958,
+      "end": 2323.085,
+      "formatted_start": "00:38:40.958",
+      "formatted_end": "00:38:43.085",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2327.101,
+      "end": 2332.653,
+      "formatted_start": "00:38:47.101",
+      "formatted_end": "00:38:52.653",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2333.463,
+      "end": 2338.289,
+      "formatted_start": "00:38:53.463",
+      "formatted_end": "00:38:58.289",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2338.778,
+      "end": 2342.035,
+      "formatted_start": "00:38:58.778",
+      "formatted_end": "00:39:02.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2342.693,
+      "end": 2348.87,
+      "formatted_start": "00:39:02.693",
+      "formatted_end": "00:39:08.870",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2347.722,
+      "end": 2348.195,
+      "formatted_start": "00:39:07.722",
+      "formatted_end": "00:39:08.195",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2351.62,
+      "end": 2352.38,
+      "formatted_start": "00:39:11.620",
+      "formatted_end": "00:39:12.380",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2355.738,
+      "end": 2356.362,
+      "formatted_start": "00:39:15.738",
+      "formatted_end": "00:39:16.362",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2357.78,
+      "end": 2363.855,
+      "formatted_start": "00:39:17.780",
+      "formatted_end": "00:39:23.855",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2360.48,
+      "end": 2360.868,
+      "formatted_start": "00:39:20.480",
+      "formatted_end": "00:39:20.868",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2364.192,
+      "end": 2367.061,
+      "formatted_start": "00:39:24.192",
+      "formatted_end": "00:39:27.061",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2368.141,
+      "end": 2381.371,
+      "formatted_start": "00:39:28.141",
+      "formatted_end": "00:39:41.371",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2375.684,
+      "end": 2376.832,
+      "formatted_start": "00:39:35.684",
+      "formatted_end": "00:39:36.832",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2377.523,
+      "end": 2378.333,
+      "formatted_start": "00:39:37.523",
+      "formatted_end": "00:39:38.333",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2382.535,
+      "end": 2395.445,
+      "formatted_start": "00:39:42.535",
+      "formatted_end": "00:39:55.445",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2392.812,
+      "end": 2393.943,
+      "formatted_start": "00:39:52.812",
+      "formatted_end": "00:39:53.943",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 2100.0,
+      "end": 2129.98,
+      "formatted_start": "00:35:00.000",
+      "formatted_end": "00:35:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 2130.0,
+      "end": 2159.98,
+      "formatted_start": "00:35:30.000",
+      "formatted_end": "00:35:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 2160.0,
+      "end": 2189.98,
+      "formatted_start": "00:36:00.000",
+      "formatted_end": "00:36:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 2190.0,
+      "end": 2200.0,
+      "formatted_start": "00:36:30.000",
+      "formatted_end": "00:36:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 2220.0,
+      "end": 2249.98,
+      "formatted_start": "00:37:00.000",
+      "formatted_end": "00:37:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 2250.0,
+      "end": 2279.0,
+      "formatted_start": "00:37:30.000",
+      "formatted_end": "00:37:59.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 2280.0,
+      "end": 2282.0,
+      "formatted_start": "00:38:00.000",
+      "formatted_end": "00:38:02.000",
+      "text": "برنامه از اینجا باید برداریم"
+    },
+    {
+      "id": 7,
+      "start": 2282.0,
+      "end": 2284.0,
+      "formatted_start": "00:38:02.000",
+      "formatted_end": "00:38:04.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 8,
+      "start": 2284.0,
+      "end": 2286.0,
+      "formatted_start": "00:38:04.000",
+      "formatted_end": "00:38:06.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 9,
+      "start": 2286.0,
+      "end": 2288.0,
+      "formatted_start": "00:38:06.000",
+      "formatted_end": "00:38:08.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 10,
+      "start": 2288.0,
+      "end": 2290.0,
+      "formatted_start": "00:38:08.000",
+      "formatted_end": "00:38:10.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 11,
+      "start": 2290.0,
+      "end": 2292.0,
+      "formatted_start": "00:38:10.000",
+      "formatted_end": "00:38:12.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 12,
+      "start": 2292.0,
+      "end": 2294.0,
+      "formatted_start": "00:38:12.000",
+      "formatted_end": "00:38:14.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 13,
+      "start": 2294.0,
+      "end": 2296.0,
+      "formatted_start": "00:38:14.000",
+      "formatted_end": "00:38:16.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 14,
+      "start": 2296.0,
+      "end": 2298.0,
+      "formatted_start": "00:38:16.000",
+      "formatted_end": "00:38:18.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 15,
+      "start": 2298.0,
+      "end": 2300.0,
+      "formatted_start": "00:38:18.000",
+      "formatted_end": "00:38:20.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 16,
+      "start": 2300.0,
+      "end": 2302.0,
+      "formatted_start": "00:38:20.000",
+      "formatted_end": "00:38:22.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 17,
+      "start": 2302.0,
+      "end": 2304.0,
+      "formatted_start": "00:38:22.000",
+      "formatted_end": "00:38:24.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 18,
+      "start": 2304.0,
+      "end": 2306.0,
+      "formatted_start": "00:38:24.000",
+      "formatted_end": "00:38:26.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 19,
+      "start": 2306.0,
+      "end": 2308.0,
+      "formatted_start": "00:38:26.000",
+      "formatted_end": "00:38:28.000",
+      "text": "باید برداریم"
+    },
+    {
+      "id": 20,
+      "start": 2308.0,
+      "end": 2310.0,
+      "formatted_start": "00:38:28.000",
+      "formatted_end": "00:38:30.000",
+      "text": "آزر"
+    },
+    {
+      "id": 21,
+      "start": 2310.0,
+      "end": 2312.0,
+      "formatted_start": "00:38:30.000",
+      "formatted_end": "00:38:32.000",
+      "text": "آویزه"
+    },
+    {
+      "id": 22,
+      "start": 2312.0,
+      "end": 2314.0,
+      "formatted_start": "00:38:32.000",
+      "formatted_end": "00:38:34.000",
+      "text": "تب"
+    },
+    {
+      "id": 23,
+      "start": 2314.0,
+      "end": 2316.0,
+      "formatted_start": "00:38:34.000",
+      "formatted_end": "00:38:36.000",
+      "text": "گلیدر"
+    },
+    {
+      "id": 24,
+      "start": 2316.0,
+      "end": 2318.0,
+      "formatted_start": "00:38:36.000",
+      "formatted_end": "00:38:38.000",
+      "text": "خسک سینه"
+    },
+    {
+      "id": 25,
+      "start": 2318.0,
+      "end": 2320.0,
+      "formatted_start": "00:38:38.000",
+      "formatted_end": "00:38:40.000",
+      "text": "خب بیا اینجا موجود"
+    },
+    {
+      "id": 26,
+      "start": 2320.0,
+      "end": 2322.0,
+      "formatted_start": "00:38:40.000",
+      "formatted_end": "00:38:42.000",
+      "text": "اون پرانسیس"
+    },
+    {
+      "id": 27,
+      "start": 2322.0,
+      "end": 2324.0,
+      "formatted_start": "00:38:42.000",
+      "formatted_end": "00:38:44.000",
+      "text": "آبنان باهم پرانسیس"
+    },
+    {
+      "id": 28,
+      "start": 2324.0,
+      "end": 2326.0,
+      "formatted_start": "00:38:44.000",
+      "formatted_end": "00:38:46.000",
+      "text": "نه تو باز کن پرانسیس"
+    },
+    {
+      "id": 29,
+      "start": 2326.0,
+      "end": 2328.0,
+      "formatted_start": "00:38:46.000",
+      "formatted_end": "00:38:48.000",
+      "text": "آفرین"
+    },
+    {
+      "id": 30,
+      "start": 2328.0,
+      "end": 2330.0,
+      "formatted_start": "00:38:48.000",
+      "formatted_end": "00:38:50.000",
+      "text": "دیگه دارو بیریم"
+    },
+    {
+      "id": 31,
+      "start": 2330.0,
+      "end": 2332.0,
+      "formatted_start": "00:38:50.000",
+      "formatted_end": "00:38:52.000",
+      "text": "اینجا تکن نخواهیم"
+    },
+    {
+      "id": 32,
+      "start": 2332.0,
+      "end": 2334.0,
+      "formatted_start": "00:38:52.000",
+      "formatted_end": "00:38:54.000",
+      "text": "بشاتو ببینم"
+    },
+    {
+      "id": 33,
+      "start": 2334.0,
+      "end": 2336.0,
+      "formatted_start": "00:38:54.000",
+      "formatted_end": "00:38:56.000",
+      "text": "دیگه آنها"
+    },
+    {
+      "id": 34,
+      "start": 2336.0,
+      "end": 2338.0,
+      "formatted_start": "00:38:56.000",
+      "formatted_end": "00:38:58.000",
+      "text": "از اینجا همینطور که بودیم از اینجا همینطور که بودیم"
+    },
+    {
+      "id": 35,
+      "start": 2338.0,
+      "end": 2340.0,
+      "formatted_start": "00:38:58.000",
+      "formatted_end": "00:39:00.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 36,
+      "start": 2340.0,
+      "end": 2342.0,
+      "formatted_start": "00:39:00.000",
+      "formatted_end": "00:39:02.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 37,
+      "start": 2342.0,
+      "end": 2344.0,
+      "formatted_start": "00:39:02.000",
+      "formatted_end": "00:39:04.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 38,
+      "start": 2344.0,
+      "end": 2346.0,
+      "formatted_start": "00:39:04.000",
+      "formatted_end": "00:39:06.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 39,
+      "start": 2346.0,
+      "end": 2348.0,
+      "formatted_start": "00:39:06.000",
+      "formatted_end": "00:39:08.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 40,
+      "start": 2348.0,
+      "end": 2350.0,
+      "formatted_start": "00:39:08.000",
+      "formatted_end": "00:39:10.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 41,
+      "start": 2350.0,
+      "end": 2352.0,
+      "formatted_start": "00:39:10.000",
+      "formatted_end": "00:39:12.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 42,
+      "start": 2352.0,
+      "end": 2354.0,
+      "formatted_start": "00:39:12.000",
+      "formatted_end": "00:39:14.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 43,
+      "start": 2354.0,
+      "end": 2356.0,
+      "formatted_start": "00:39:14.000",
+      "formatted_end": "00:39:16.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 44,
+      "start": 2356.0,
+      "end": 2358.0,
+      "formatted_start": "00:39:16.000",
+      "formatted_end": "00:39:18.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 45,
+      "start": 2358.0,
+      "end": 2360.0,
+      "formatted_start": "00:39:18.000",
+      "formatted_end": "00:39:20.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 46,
+      "start": 2360.0,
+      "end": 2362.0,
+      "formatted_start": "00:39:20.000",
+      "formatted_end": "00:39:22.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 47,
+      "start": 2362.0,
+      "end": 2364.0,
+      "formatted_start": "00:39:22.000",
+      "formatted_end": "00:39:24.000",
+      "text": "نفس؟ نفس؟"
+    },
+    {
+      "id": 48,
+      "start": 2364.0,
+      "end": 2365.0,
+      "formatted_start": "00:39:24.000",
+      "formatted_end": "00:39:25.000",
+      "text": "دارو اوکی"
+    },
+    {
+      "id": 49,
+      "start": 2365.0,
+      "end": 2367.0,
+      "formatted_start": "00:39:25.000",
+      "formatted_end": "00:39:27.000",
+      "text": "اگه بددارویه که دختر تصویر میگیره"
+    },
+    {
+      "id": 50,
+      "start": 2367.0,
+      "end": 2368.0,
+      "formatted_start": "00:39:27.000",
+      "formatted_end": "00:39:28.000",
+      "text": "نه"
+    },
+    {
+      "id": 51,
+      "start": 2368.0,
+      "end": 2369.0,
+      "formatted_start": "00:39:28.000",
+      "formatted_end": "00:39:29.000",
+      "text": "بله؟"
+    },
+    {
+      "id": 52,
+      "start": 2369.0,
+      "end": 2370.0,
+      "formatted_start": "00:39:29.000",
+      "formatted_end": "00:39:30.000",
+      "text": "نه دارو بخوره"
+    },
+    {
+      "id": 53,
+      "start": 2370.0,
+      "end": 2371.0,
+      "formatted_start": "00:39:30.000",
+      "formatted_end": "00:39:31.000",
+      "text": "پس نه نمیسن؟"
+    },
+    {
+      "id": 54,
+      "start": 2371.0,
+      "end": 2372.0,
+      "formatted_start": "00:39:31.000",
+      "formatted_end": "00:39:32.000",
+      "text": "چی؟ تصویری؟"
+    },
+    {
+      "id": 55,
+      "start": 2372.0,
+      "end": 2373.0,
+      "formatted_start": "00:39:32.000",
+      "formatted_end": "00:39:33.000",
+      "text": "تصویری"
+    },
+    {
+      "id": 56,
+      "start": 2373.0,
+      "end": 2374.0,
+      "formatted_start": "00:39:33.000",
+      "formatted_end": "00:39:34.000",
+      "text": "آره آره"
+    },
+    {
+      "id": 57,
+      "start": 2374.0,
+      "end": 2375.0,
+      "formatted_start": "00:39:34.000",
+      "formatted_end": "00:39:35.000",
+      "text": "بزن آموشه بگیره"
+    },
+    {
+      "id": 58,
+      "start": 2375.0,
+      "end": 2376.0,
+      "formatted_start": "00:39:35.000",
+      "formatted_end": "00:39:36.000",
+      "text": "بزن نمیسن؟"
+    },
+    {
+      "id": 59,
+      "start": 2376.0,
+      "end": 2377.0,
+      "formatted_start": "00:39:36.000",
+      "formatted_end": "00:39:37.000",
+      "text": "آفرین"
+    },
+    {
+      "id": 60,
+      "start": 2378.0,
+      "end": 2381.0,
+      "formatted_start": "00:39:38.000",
+      "formatted_end": "00:39:41.000",
+      "text": "واقعا یه کوساری شجاعی هستی"
+    },
+    {
+      "id": 61,
+      "start": 2382.0,
+      "end": 2385.0,
+      "formatted_start": "00:39:42.000",
+      "formatted_end": "00:39:45.000",
+      "text": "اما اون کوساری ها باید که این از تو یاد بگیرن"
+    },
+    {
+      "id": 62,
+      "start": 2385.0,
+      "end": 2387.0,
+      "formatted_start": "00:39:45.000",
+      "formatted_end": "00:39:47.000",
+      "text": "من فکر میکنم کسرهای کوسار ما"
+    },
+    {
+      "id": 63,
+      "start": 2387.0,
+      "end": 2388.0,
+      "formatted_start": "00:39:47.000",
+      "formatted_end": "00:39:48.000",
+      "text": "باب"
+    },
+    {
+      "id": 64,
+      "start": 2388.0,
+      "end": 2390.0,
+      "formatted_start": "00:39:48.000",
+      "formatted_end": "00:39:50.000",
+      "text": "یه دختر شجاع"
+    },
+    {
+      "id": 65,
+      "start": 2390.0,
+      "end": 2392.0,
+      "formatted_start": "00:39:50.000",
+      "formatted_end": "00:39:52.000",
+      "text": "واقعا هران سیاسیگه"
+    },
+    {
+      "id": 66,
+      "start": 2392.0,
+      "end": 2394.0,
+      "formatted_start": "00:39:52.000",
+      "formatted_end": "00:39:54.000",
+      "text": "این که در این پیش نیست"
+    },
+    {
+      "id": 67,
+      "start": 2394.0,
+      "end": 2396.0,
+      "formatted_start": "00:39:54.000",
+      "formatted_end": "00:39:56.000",
+      "text": "این که در این پیش نیست"
+    }
+  ],
+  "status": "completed"
+}

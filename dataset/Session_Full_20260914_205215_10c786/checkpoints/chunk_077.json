@@ -1,0 +1,148 @@
+{
+  "chunk_index": 77,
+  "start_sec": 23100.0,
+  "end_sec": 23400.0,
+  "turns": [
+    {
+      "start": 23267.161,
+      "end": 23268.528,
+      "formatted_start": "06:27:47.161",
+      "formatted_end": "06:27:48.528",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 23269.54,
+      "end": 23272.038,
+      "formatted_start": "06:27:49.540",
+      "formatted_end": "06:27:52.038",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23272.19,
+      "end": 23272.932,
+      "formatted_start": "06:27:52.190",
+      "formatted_end": "06:27:52.932",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23273.607,
+      "end": 23275.058,
+      "formatted_start": "06:27:53.607",
+      "formatted_end": "06:27:55.058",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23277.05,
+      "end": 23278.433,
+      "formatted_start": "06:27:57.050",
+      "formatted_end": "06:27:58.433",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23281.538,
+      "end": 23282.028,
+      "formatted_start": "06:28:01.538",
+      "formatted_end": "06:28:02.028",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 23100.0,
+      "end": 23129.98,
+      "formatted_start": "06:25:00.000",
+      "formatted_end": "06:25:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 23130.0,
+      "end": 23159.98,
+      "formatted_start": "06:25:30.000",
+      "formatted_end": "06:25:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 2,
+      "start": 23160.0,
+      "end": 23189.98,
+      "formatted_start": "06:26:00.000",
+      "formatted_end": "06:26:29.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 3,
+      "start": 23190.0,
+      "end": 23219.98,
+      "formatted_start": "06:26:30.000",
+      "formatted_end": "06:26:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 4,
+      "start": 23220.0,
+      "end": 23240.0,
+      "formatted_start": "06:27:00.000",
+      "formatted_end": "06:27:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 23240.0,
+      "end": 23266.0,
+      "formatted_start": "06:27:20.000",
+      "formatted_end": "06:27:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 23266.0,
+      "end": 23279.0,
+      "formatted_start": "06:27:46.000",
+      "formatted_end": "06:27:59.000",
+      "text": "همون یه درکت... آره آره همون یه درکت بزنید"
+    },
+    {
+      "id": 7,
+      "start": 23296.0,
+      "end": 23306.0,
+      "formatted_start": "06:28:16.000",
+      "formatted_end": "06:28:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 23306.0,
+      "end": 23316.0,
+      "formatted_start": "06:28:26.000",
+      "formatted_end": "06:28:36.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 23316.0,
+      "end": 23345.98,
+      "formatted_start": "06:28:36.000",
+      "formatted_end": "06:29:05.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 10,
+      "start": 23346.0,
+      "end": 23375.98,
+      "formatted_start": "06:29:06.000",
+      "formatted_end": "06:29:35.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 11,
+      "start": 23376.0,
+      "end": 23400.0,
+      "formatted_start": "06:29:36.000",
+      "formatted_end": "06:30:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,347 @@
+{
+  "chunk_index": 24,
+  "start_sec": 7200.0,
+  "end_sec": 7500.0,
+  "turns": [
+    {
+      "start": 7305.061,
+      "end": 7311.878,
+      "formatted_start": "02:01:45.061",
+      "formatted_end": "02:01:51.878",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7330.964,
+      "end": 7333.867,
+      "formatted_start": "02:02:10.964",
+      "formatted_end": "02:02:13.867",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7334.727,
+      "end": 7335.655,
+      "formatted_start": "02:02:14.727",
+      "formatted_end": "02:02:15.655",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 7336.195,
+      "end": 7337.225,
+      "formatted_start": "02:02:16.195",
+      "formatted_end": "02:02:17.225",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 7340.448,
+      "end": 7347.518,
+      "formatted_start": "02:02:20.448",
+      "formatted_end": "02:02:27.518",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 7346.911,
+      "end": 7348.177,
+      "formatted_start": "02:02:26.911",
+      "formatted_end": "02:02:28.177",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7348.177,
+      "end": 7349.729,
+      "formatted_start": "02:02:28.177",
+      "formatted_end": "02:02:29.729",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 7349.729,
+      "end": 7351.822,
+      "formatted_start": "02:02:29.729",
+      "formatted_end": "02:02:31.822",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7471.448,
+      "end": 7472.41,
+      "formatted_start": "02:04:31.448",
+      "formatted_end": "02:04:32.410",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7477.051,
+      "end": 7478.384,
+      "formatted_start": "02:04:37.051",
+      "formatted_end": "02:04:38.384",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7484.054,
+      "end": 7484.881,
+      "formatted_start": "02:04:44.054",
+      "formatted_end": "02:04:44.881",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7485.421,
+      "end": 7487.665,
+      "formatted_start": "02:04:45.421",
+      "formatted_end": "02:04:47.665",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7487.699,
+      "end": 7498.465,
+      "formatted_start": "02:04:47.699",
+      "formatted_end": "02:04:58.465",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7498.415,
+      "end": 7498.972,
+      "formatted_start": "02:04:58.415",
+      "formatted_end": "02:04:58.972",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7498.55,
+      "end": 7499.967,
+      "formatted_start": "02:04:58.550",
+      "formatted_end": "02:04:59.967",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7200.0,
+      "end": 7229.98,
+      "formatted_start": "02:00:00.000",
+      "formatted_end": "02:00:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 7230.0,
+      "end": 7259.98,
+      "formatted_start": "02:00:30.000",
+      "formatted_end": "02:00:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 7260.0,
+      "end": 7280.0,
+      "formatted_start": "02:01:00.000",
+      "formatted_end": "02:01:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 7280.0,
+      "end": 7305.0,
+      "formatted_start": "02:01:20.000",
+      "formatted_end": "02:01:45.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 7305.0,
+      "end": 7308.0,
+      "formatted_start": "02:01:45.000",
+      "formatted_end": "02:01:48.000",
+      "text": "از خیلی گلیه و افتادتویرین سیمت دقیق"
+    },
+    {
+      "id": 5,
+      "start": 7308.0,
+      "end": 7310.0,
+      "formatted_start": "02:01:48.000",
+      "formatted_end": "02:01:50.000",
+      "text": "شد و های مفرد"
+    },
+    {
+      "id": 6,
+      "start": 7310.0,
+      "end": 7312.0,
+      "formatted_start": "02:01:50.000",
+      "formatted_end": "02:01:52.000",
+      "text": "در این اطراف یاد برادر"
+    },
+    {
+      "id": 7,
+      "start": 7335.0,
+      "end": 7337.0,
+      "formatted_start": "02:02:15.000",
+      "formatted_end": "02:02:17.000",
+      "text": "بله"
+    },
+    {
+      "id": 8,
+      "start": 7337.0,
+      "end": 7339.0,
+      "formatted_start": "02:02:17.000",
+      "formatted_end": "02:02:19.000",
+      "text": "تر آرام چند"
+    },
+    {
+      "id": 9,
+      "start": 7339.0,
+      "end": 7341.0,
+      "formatted_start": "02:02:19.000",
+      "formatted_end": "02:02:21.000",
+      "text": "آخه"
+    },
+    {
+      "id": 10,
+      "start": 7341.0,
+      "end": 7343.0,
+      "formatted_start": "02:02:21.000",
+      "formatted_end": "02:02:23.000",
+      "text": "اون کسان بگم بکی ببره"
+    },
+    {
+      "id": 11,
+      "start": 7343.0,
+      "end": 7345.0,
+      "formatted_start": "02:02:23.000",
+      "formatted_end": "02:02:25.000",
+      "text": "بله"
+    },
+    {
+      "id": 12,
+      "start": 7345.0,
+      "end": 7347.0,
+      "formatted_start": "02:02:25.000",
+      "formatted_end": "02:02:27.000",
+      "text": "ببرم باشه باشه"
+    },
+    {
+      "id": 13,
+      "start": 7347.0,
+      "end": 7349.0,
+      "formatted_start": "02:02:27.000",
+      "formatted_end": "02:02:29.000",
+      "text": "باشه باشه"
+    },
+    {
+      "id": 14,
+      "start": 7349.0,
+      "end": 7351.0,
+      "formatted_start": "02:02:29.000",
+      "formatted_end": "02:02:31.000",
+      "text": "باشه باشه"
+    },
+    {
+      "id": 15,
+      "start": 7351.0,
+      "end": 7353.0,
+      "formatted_start": "02:02:31.000",
+      "formatted_end": "02:02:33.000",
+      "text": "باشه باشه"
+    },
+    {
+      "id": 16,
+      "start": 7365.0,
+      "end": 7394.98,
+      "formatted_start": "02:02:45.000",
+      "formatted_end": "02:03:14.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 17,
+      "start": 7395.0,
+      "end": 7424.98,
+      "formatted_start": "02:03:15.000",
+      "formatted_end": "02:03:44.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 18,
+      "start": 7425.0,
+      "end": 7454.98,
+      "formatted_start": "02:03:45.000",
+      "formatted_end": "02:04:14.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 19,
+      "start": 7455.0,
+      "end": 7471.0,
+      "formatted_start": "02:04:15.000",
+      "formatted_end": "02:04:31.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 7471.0,
+      "end": 7473.0,
+      "formatted_start": "02:04:31.000",
+      "formatted_end": "02:04:33.000",
+      "text": "یه دقیقه بیا"
+    },
+    {
+      "id": 21,
+      "start": 7477.0,
+      "end": 7479.0,
+      "formatted_start": "02:04:37.000",
+      "formatted_end": "02:04:39.000",
+      "text": "حالان یه دقیقه بیا"
+    },
+    {
+      "id": 22,
+      "start": 7484.0,
+      "end": 7485.0,
+      "formatted_start": "02:04:44.000",
+      "formatted_end": "02:04:45.000",
+      "text": "ازداخته؟"
+    },
+    {
+      "id": 23,
+      "start": 7485.0,
+      "end": 7487.0,
+      "formatted_start": "02:04:45.000",
+      "formatted_end": "02:04:47.000",
+      "text": "ببین من باقی دوستانی همه هنگ کردم خب"
+    },
+    {
+      "id": 24,
+      "start": 7487.0,
+      "end": 7490.0,
+      "formatted_start": "02:04:47.000",
+      "formatted_end": "02:04:50.000",
+      "text": "اینو یکی باید ببره مطلب دوستان ناسلی"
+    },
+    {
+      "id": 25,
+      "start": 7490.0,
+      "end": 7492.0,
+      "formatted_start": "02:04:50.000",
+      "formatted_end": "02:04:52.000",
+      "text": "گو بیار آقای شیخه هست راننده"
+    },
+    {
+      "id": 26,
+      "start": 7492.0,
+      "end": 7494.0,
+      "formatted_start": "02:04:52.000",
+      "formatted_end": "02:04:54.000",
+      "text": "گو بدون ببره فقط یه کاری کن"
+    },
+    {
+      "id": 27,
+      "start": 7494.0,
+      "end": 7498.0,
+      "formatted_start": "02:04:54.000",
+      "formatted_end": "02:04:58.000",
+      "text": "بگو به خامدوشتور بگه که این حتما به برق باشه دیگه"
+    },
+    {
+      "id": 28,
+      "start": 7498.0,
+      "end": 7500.0,
+      "formatted_start": "02:04:58.000",
+      "formatted_end": "02:05:00.000",
+      "text": "یعنی گوشی به برق باشه"
+    }
+  ],
+  "status": "completed"
+}

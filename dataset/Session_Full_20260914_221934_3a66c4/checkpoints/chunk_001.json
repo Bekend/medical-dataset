@@ -1,0 +1,566 @@
+{
+  "chunk_index": 1,
+  "start_sec": 300.0,
+  "end_sec": 600.0,
+  "turns": [
+    {
+      "start": 318.391,
+      "end": 319.927,
+      "formatted_start": "00:05:18.391",
+      "formatted_end": "00:05:19.927",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 321.968,
+      "end": 322.88,
+      "formatted_start": "00:05:21.968",
+      "formatted_end": "00:05:22.880",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 323.605,
+      "end": 327.79,
+      "formatted_start": "00:05:23.605",
+      "formatted_end": "00:05:27.790",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 328.094,
+      "end": 329.967,
+      "formatted_start": "00:05:28.094",
+      "formatted_end": "00:05:29.967",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 334.625,
+      "end": 335.502,
+      "formatted_start": "00:05:34.625",
+      "formatted_end": "00:05:35.502",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 341.307,
+      "end": 353.255,
+      "formatted_start": "00:05:41.307",
+      "formatted_end": "00:05:53.255",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 354.453,
+      "end": 355.499,
+      "formatted_start": "00:05:54.453",
+      "formatted_end": "00:05:55.499",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 355.972,
+      "end": 356.798,
+      "formatted_start": "00:05:55.972",
+      "formatted_end": "00:05:56.798",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 356.866,
+      "end": 358.402,
+      "formatted_start": "00:05:56.866",
+      "formatted_end": "00:05:58.402",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 358.857,
+      "end": 360.427,
+      "formatted_start": "00:05:58.857",
+      "formatted_end": "00:06:00.427",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 361.473,
+      "end": 389.249,
+      "formatted_start": "00:06:01.473",
+      "formatted_end": "00:06:29.249",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 390.16,
+      "end": 401.028,
+      "formatted_start": "00:06:30.160",
+      "formatted_end": "00:06:41.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 401.872,
+      "end": 411.895,
+      "formatted_start": "00:06:41.872",
+      "formatted_end": "00:06:51.895",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 412.773,
+      "end": 413.887,
+      "formatted_start": "00:06:52.773",
+      "formatted_end": "00:06:53.887",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 414.882,
+      "end": 421.531,
+      "formatted_start": "00:06:54.882",
+      "formatted_end": "00:07:01.531",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 534.205,
+      "end": 535.758,
+      "formatted_start": "00:08:54.205",
+      "formatted_end": "00:08:55.758",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 580.73,
+      "end": 583.058,
+      "formatted_start": "00:09:40.730",
+      "formatted_end": "00:09:43.058",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 583.717,
+      "end": 584.746,
+      "formatted_start": "00:09:43.717",
+      "formatted_end": "00:09:44.746",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 587.53,
+      "end": 588.678,
+      "formatted_start": "00:09:47.530",
+      "formatted_end": "00:09:48.678",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 591.04,
+      "end": 592.171,
+      "formatted_start": "00:09:51.040",
+      "formatted_end": "00:09:52.171",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 300.0,
+      "end": 322.0,
+      "formatted_start": "00:05:00.000",
+      "formatted_end": "00:05:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 322.0,
+      "end": 323.0,
+      "formatted_start": "00:05:22.000",
+      "formatted_end": "00:05:23.000",
+      "text": "هلو سلام"
+    },
+    {
+      "id": 2,
+      "start": 323.64,
+      "end": 325.2,
+      "formatted_start": "00:05:23.640",
+      "formatted_end": "00:05:25.200",
+      "text": "خانه شما خوب هستی؟"
+    },
+    {
+      "id": 3,
+      "start": 325.2,
+      "end": 328.0,
+      "formatted_start": "00:05:25.200",
+      "formatted_end": "00:05:28.000",
+      "text": "قربونشان مرسی ممنونم مرسی"
+    },
+    {
+      "id": 4,
+      "start": 328.0,
+      "end": 330.0,
+      "formatted_start": "00:05:28.000",
+      "formatted_end": "00:05:30.000",
+      "text": "این سوما رو برای چی میخوای شما؟"
+    },
+    {
+      "id": 5,
+      "start": 334.68,
+      "end": 335.68,
+      "formatted_start": "00:05:34.680",
+      "formatted_end": "00:05:35.680",
+      "text": "درسته؟"
+    },
+    {
+      "id": 6,
+      "start": 341.36,
+      "end": 343.36,
+      "formatted_start": "00:05:41.360",
+      "formatted_end": "00:05:43.360",
+      "text": "ببین آخه این از سوما ده"
+    },
+    {
+      "id": 7,
+      "start": 343.36,
+      "end": 346.6,
+      "formatted_start": "00:05:43.360",
+      "formatted_end": "00:05:46.600",
+      "text": "جز داروهاییه که حتما باید توی لیست بله"
+    },
+    {
+      "id": 8,
+      "start": 346.6,
+      "end": 348.8,
+      "formatted_start": "00:05:46.600",
+      "formatted_end": "00:05:48.800",
+      "text": "اسم بچه میره و بذار از خونه"
+    },
+    {
+      "id": 9,
+      "start": 348.8,
+      "end": 350.8,
+      "formatted_start": "00:05:48.800",
+      "formatted_end": "00:05:50.800",
+      "text": "و بعدا برایش چیز میشه"
+    },
+    {
+      "id": 10,
+      "start": 350.8,
+      "end": 352.8,
+      "formatted_start": "00:05:50.800",
+      "formatted_end": "00:05:52.800",
+      "text": "خب نمیشه برای هر کسی نبشه"
+    },
+    {
+      "id": 11,
+      "start": 352.8,
+      "end": 354.8,
+      "formatted_start": "00:05:52.800",
+      "formatted_end": "00:05:54.800",
+      "text": "آره عزیزم"
+    },
+    {
+      "id": 12,
+      "start": 354.8,
+      "end": 356.8,
+      "formatted_start": "00:05:54.800",
+      "formatted_end": "00:05:56.800",
+      "text": "نه"
+    },
+    {
+      "id": 13,
+      "start": 356.8,
+      "end": 358.8,
+      "formatted_start": "00:05:56.800",
+      "formatted_end": "00:05:58.800",
+      "text": "نه نه نه"
+    },
+    {
+      "id": 14,
+      "start": 358.8,
+      "end": 360.8,
+      "formatted_start": "00:05:58.800",
+      "formatted_end": "00:06:00.800",
+      "text": "نه نه نمیشه"
+    },
+    {
+      "id": 15,
+      "start": 360.8,
+      "end": 362.8,
+      "formatted_start": "00:06:00.800",
+      "formatted_end": "00:06:02.800",
+      "text": "میدونم میدونم عزیزم"
+    },
+    {
+      "id": 16,
+      "start": 362.8,
+      "end": 364.8,
+      "formatted_start": "00:06:02.800",
+      "formatted_end": "00:06:04.800",
+      "text": "خب ببین سوماتیفتران"
+    },
+    {
+      "id": 17,
+      "start": 364.8,
+      "end": 366.8,
+      "formatted_start": "00:06:04.800",
+      "formatted_end": "00:06:06.800",
+      "text": "چیزیه که"
+    },
+    {
+      "id": 18,
+      "start": 366.8,
+      "end": 368.8,
+      "formatted_start": "00:06:06.800",
+      "formatted_end": "00:06:08.800",
+      "text": "باید جواب"
+    },
+    {
+      "id": 19,
+      "start": 368.8,
+      "end": 370.8,
+      "formatted_start": "00:06:08.800",
+      "formatted_end": "00:06:10.800",
+      "text": "آزمایش های هرمونیش"
+    },
+    {
+      "id": 20,
+      "start": 370.8,
+      "end": 372.8,
+      "formatted_start": "00:06:10.800",
+      "formatted_end": "00:06:12.800",
+      "text": "خب اپلود بشه"
+    },
+    {
+      "id": 21,
+      "start": 372.8,
+      "end": 374.8,
+      "formatted_start": "00:06:12.800",
+      "formatted_end": "00:06:14.800",
+      "text": "توی سایت بزارت خونه"
+    },
+    {
+      "id": 22,
+      "start": 374.8,
+      "end": 376.8,
+      "formatted_start": "00:06:14.800",
+      "formatted_end": "00:06:16.800",
+      "text": "اسمش بره تو لیز"
+    },
+    {
+      "id": 23,
+      "start": 376.8,
+      "end": 378.8,
+      "formatted_start": "00:06:16.800",
+      "formatted_end": "00:06:18.800",
+      "text": "و بعد این آنپولو بدن"
+    },
+    {
+      "id": 24,
+      "start": 378.8,
+      "end": 383.8,
+      "formatted_start": "00:06:18.800",
+      "formatted_end": "00:06:23.800",
+      "text": "به خاطر اینکه این آمپول آمپول گرمونیه دورت داردجوش سبسید میده"
+    },
+    {
+      "id": 25,
+      "start": 383.8,
+      "end": 386.8,
+      "formatted_start": "00:06:23.800",
+      "formatted_end": "00:06:26.800",
+      "text": "بعد خیلی ها میرن اینو با دفترچه هشون بیخرن"
+    },
+    {
+      "id": 26,
+      "start": 386.8,
+      "end": 389.8,
+      "formatted_start": "00:06:26.800",
+      "formatted_end": "00:06:29.800",
+      "text": "بعد میرن تو بازارو آزاد میفروشن"
+    },
+    {
+      "id": 27,
+      "start": 389.8,
+      "end": 391.8,
+      "formatted_start": "00:06:29.800",
+      "formatted_end": "00:06:31.800",
+      "text": "به خاطر اینکه جلو گیری از این بشه"
+    },
+    {
+      "id": 28,
+      "start": 391.8,
+      "end": 398.8,
+      "formatted_start": "00:06:31.800",
+      "formatted_end": "00:06:38.800",
+      "text": "حتما باید آزمایش های مریض که نشوندهنده اینه که این ویس اونها نیاز داره"
+    },
+    {
+      "id": 29,
+      "start": 398.8,
+      "end": 401.0,
+      "formatted_start": "00:06:38.800",
+      "formatted_end": "00:06:41.000",
+      "text": "همراه باتست"
+    },
+    {
+      "id": 30,
+      "start": 401.0,
+      "end": 404.64,
+      "formatted_start": "00:06:41.000",
+      "formatted_end": "00:06:44.640",
+      "text": "همراه با اسم ملیز و خود ملیش"
+    },
+    {
+      "id": 31,
+      "start": 404.64,
+      "end": 406.4,
+      "formatted_start": "00:06:44.640",
+      "formatted_end": "00:06:46.400",
+      "text": "توی بزارت خونه"
+    },
+    {
+      "id": 32,
+      "start": 406.4,
+      "end": 408.34,
+      "formatted_start": "00:06:46.400",
+      "formatted_end": "00:06:48.340",
+      "text": "توی سایت دارو"
+    },
+    {
+      "id": 33,
+      "start": 408.34,
+      "end": 409.36,
+      "formatted_start": "00:06:48.340",
+      "formatted_end": "00:06:49.360",
+      "text": "آره دارو وقتا"
+    },
+    {
+      "id": 34,
+      "start": 409.36,
+      "end": 411.9,
+      "formatted_start": "00:06:49.360",
+      "formatted_end": "00:06:51.900",
+      "text": "بزارت خونه سخت بشن"
+    },
+    {
+      "id": 35,
+      "start": 411.9,
+      "end": 413.78,
+      "formatted_start": "00:06:51.900",
+      "formatted_end": "00:06:53.780",
+      "text": "نمیدن و گرم"
+    },
+    {
+      "id": 36,
+      "start": 413.78,
+      "end": 415.72,
+      "formatted_start": "00:06:53.780",
+      "formatted_end": "00:06:55.720",
+      "text": "آره عزیزم"
+    },
+    {
+      "id": 37,
+      "start": 415.72,
+      "end": 417.94,
+      "formatted_start": "00:06:55.720",
+      "formatted_end": "00:06:57.940",
+      "text": "آره قربون شما خریش میکنم"
+    },
+    {
+      "id": 38,
+      "start": 417.94,
+      "end": 418.54,
+      "formatted_start": "00:06:57.940",
+      "formatted_end": "00:06:58.540",
+      "text": "خدا خدا"
+    },
+    {
+      "id": 39,
+      "start": 418.54,
+      "end": 420.62,
+      "formatted_start": "00:06:58.540",
+      "formatted_end": "00:07:00.620",
+      "text": "وقت قربون شما خریش میکنم"
+    },
+    {
+      "id": 40,
+      "start": 420.62,
+      "end": 421.16,
+      "formatted_start": "00:07:00.620",
+      "formatted_end": "00:07:01.160",
+      "text": "خدا خدا"
+    },
+    {
+      "id": 41,
+      "start": 428.8,
+      "end": 438.8,
+      "formatted_start": "00:07:08.800",
+      "formatted_end": "00:07:18.800",
+      "text": "موسیقی"
+    },
+    {
+      "id": 42,
+      "start": 458.8,
+      "end": 488.78,
+      "formatted_start": "00:07:38.800",
+      "formatted_end": "00:08:08.780",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 43,
+      "start": 488.8,
+      "end": 518.78,
+      "formatted_start": "00:08:08.800",
+      "formatted_end": "00:08:38.780",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 44,
+      "start": 518.8,
+      "end": 538.8,
+      "formatted_start": "00:08:38.800",
+      "formatted_end": "00:08:58.800",
+      "text": "موسیقی"
+    },
+    {
+      "id": 45,
+      "start": 548.8,
+      "end": 578.78,
+      "formatted_start": "00:09:08.800",
+      "formatted_end": "00:09:38.780",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 46,
+      "start": 578.8,
+      "end": 583.8,
+      "formatted_start": "00:09:38.800",
+      "formatted_end": "00:09:43.800",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 47,
+      "start": 583.8,
+      "end": 586.8,
+      "formatted_start": "00:09:43.800",
+      "formatted_end": "00:09:46.800",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 48,
+      "start": 586.8,
+      "end": 590.8,
+      "formatted_start": "00:09:46.800",
+      "formatted_end": "00:09:50.800",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 49,
+      "start": 590.8,
+      "end": 594.8,
+      "formatted_start": "00:09:50.800",
+      "formatted_end": "00:09:54.800",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 50,
+      "start": 594.8,
+      "end": 598.8,
+      "formatted_start": "00:09:54.800",
+      "formatted_end": "00:09:58.800",
+      "text": "از اینجا باید بردارید."
+    },
+    {
+      "id": 51,
+      "start": 598.8,
+      "end": 602.8,
+      "formatted_start": "00:09:58.800",
+      "formatted_end": "00:10:02.800",
+      "text": "از اینجا باید بردارید."
+    }
+  ],
+  "status": "completed"
+}

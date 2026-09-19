@@ -1,0 +1,113 @@
+{
+  "chunk_index": 21,
+  "start_sec": 6300.0,
+  "end_sec": 6600.0,
+  "turns": [
+    {
+      "start": 6490.162,
+      "end": 6491.123,
+      "formatted_start": "01:48:10.162",
+      "formatted_end": "01:48:11.123",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6300.0,
+      "end": 6329.98,
+      "formatted_start": "01:45:00.000",
+      "formatted_end": "01:45:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6330.0,
+      "end": 6350.0,
+      "formatted_start": "01:45:30.000",
+      "formatted_end": "01:45:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 6360.0,
+      "end": 6389.98,
+      "formatted_start": "01:46:00.000",
+      "formatted_end": "01:46:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 6390.0,
+      "end": 6419.98,
+      "formatted_start": "01:46:30.000",
+      "formatted_end": "01:46:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 6420.0,
+      "end": 6449.98,
+      "formatted_start": "01:47:00.000",
+      "formatted_end": "01:47:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 6450.0,
+      "end": 6479.98,
+      "formatted_start": "01:47:30.000",
+      "formatted_end": "01:47:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 6480.0,
+      "end": 6490.0,
+      "formatted_start": "01:48:00.000",
+      "formatted_end": "01:48:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 6490.0,
+      "end": 6491.92,
+      "formatted_start": "01:48:10.000",
+      "formatted_end": "01:48:11.920",
+      "text": "بسم الله و ایمان وکی"
+    },
+    {
+      "id": 8,
+      "start": 6491.92,
+      "end": 6505.92,
+      "formatted_start": "01:48:11.920",
+      "formatted_end": "01:48:25.920",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 6510.0,
+      "end": 6539.98,
+      "formatted_start": "01:48:30.000",
+      "formatted_end": "01:48:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 6540.0,
+      "end": 6569.98,
+      "formatted_start": "01:49:00.000",
+      "formatted_end": "01:49:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 11,
+      "start": 6570.0,
+      "end": 6599.98,
+      "formatted_start": "01:49:30.000",
+      "formatted_end": "01:49:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,404 @@
+{
+  "chunk_index": 46,
+  "start_sec": 13800.0,
+  "end_sec": 14100.0,
+  "turns": [
+    {
+      "start": 13984.795,
+      "end": 13987.175,
+      "formatted_start": "03:53:04.795",
+      "formatted_end": "03:53:07.175",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13990.33,
+      "end": 13991.596,
+      "formatted_start": "03:53:10.330",
+      "formatted_end": "03:53:11.596",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13992.085,
+      "end": 13996.034,
+      "formatted_start": "03:53:12.085",
+      "formatted_end": "03:53:16.034",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13997.08,
+      "end": 13999.443,
+      "formatted_start": "03:53:17.080",
+      "formatted_end": "03:53:19.443",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14003.965,
+      "end": 14009.382,
+      "formatted_start": "03:53:23.965",
+      "formatted_end": "03:53:29.382",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14009.45,
+      "end": 14019.068,
+      "formatted_start": "03:53:29.450",
+      "formatted_end": "03:53:39.068",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14020.418,
+      "end": 14029.227,
+      "formatted_start": "03:53:40.418",
+      "formatted_end": "03:53:49.227",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14030.881,
+      "end": 14035.758,
+      "formatted_start": "03:53:50.881",
+      "formatted_end": "03:53:55.758",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14040.162,
+      "end": 14041.664,
+      "formatted_start": "03:54:00.162",
+      "formatted_end": "03:54:01.664",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14043.655,
+      "end": 14047.823,
+      "formatted_start": "03:54:03.655",
+      "formatted_end": "03:54:07.823",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14048.414,
+      "end": 14057.189,
+      "formatted_start": "03:54:08.414",
+      "formatted_end": "03:54:17.189",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14057.915,
+      "end": 14061.712,
+      "formatted_start": "03:54:17.915",
+      "formatted_end": "03:54:21.712",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14062.049,
+      "end": 14065.205,
+      "formatted_start": "03:54:22.049",
+      "formatted_end": "03:54:25.205",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14065.745,
+      "end": 14068.242,
+      "formatted_start": "03:54:25.745",
+      "formatted_end": "03:54:28.242",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14068.748,
+      "end": 14074.891,
+      "formatted_start": "03:54:28.748",
+      "formatted_end": "03:54:34.891",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14075.6,
+      "end": 14081.067,
+      "formatted_start": "03:54:35.600",
+      "formatted_end": "03:54:41.067",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14081.573,
+      "end": 14086.737,
+      "formatted_start": "03:54:41.573",
+      "formatted_end": "03:54:46.737",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14087.834,
+      "end": 14092.272,
+      "formatted_start": "03:54:47.834",
+      "formatted_end": "03:54:52.272",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14089.808,
+      "end": 14090.467,
+      "formatted_start": "03:54:49.808",
+      "formatted_end": "03:54:50.467",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 14092.829,
+      "end": 14094.398,
+      "formatted_start": "03:54:52.829",
+      "formatted_end": "03:54:54.398",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14094.77,
+      "end": 14096.322,
+      "formatted_start": "03:54:54.770",
+      "formatted_end": "03:54:56.322",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14096.339,
+      "end": 14099.967,
+      "formatted_start": "03:54:56.339",
+      "formatted_end": "03:54:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 13800.0,
+      "end": 13829.98,
+      "formatted_start": "03:50:00.000",
+      "formatted_end": "03:50:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 13830.0,
+      "end": 13832.0,
+      "formatted_start": "03:50:30.000",
+      "formatted_end": "03:50:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 13860.0,
+      "end": 13889.98,
+      "formatted_start": "03:51:00.000",
+      "formatted_end": "03:51:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 13890.0,
+      "end": 13892.0,
+      "formatted_start": "03:51:30.000",
+      "formatted_end": "03:51:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 13920.0,
+      "end": 13940.0,
+      "formatted_start": "03:52:00.000",
+      "formatted_end": "03:52:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 13940.0,
+      "end": 13969.98,
+      "formatted_start": "03:52:20.000",
+      "formatted_end": "03:52:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 13970.0,
+      "end": 13990.0,
+      "formatted_start": "03:52:50.000",
+      "formatted_end": "03:53:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 14000.0,
+      "end": 14004.0,
+      "formatted_start": "03:53:20.000",
+      "formatted_end": "03:53:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 14030.0,
+      "end": 14033.0,
+      "formatted_start": "03:53:50.000",
+      "formatted_end": "03:53:53.000",
+      "text": "زمانی که چرا ثابت شد یعنی کتبه"
+    },
+    {
+      "id": 9,
+      "start": 14033.0,
+      "end": 14036.0,
+      "formatted_start": "03:53:53.000",
+      "formatted_end": "03:53:56.000",
+      "text": "و همینجور توی دو ماهی وردی رو به تقریب انجام داره"
+    },
+    {
+      "id": 10,
+      "start": 14040.0,
+      "end": 14042.0,
+      "formatted_start": "03:54:00.000",
+      "formatted_end": "03:54:02.000",
+      "text": "این از یک متکوکیه که ما انجام داریم"
+    },
+    {
+      "id": 11,
+      "start": 14043.0,
+      "end": 14048.0,
+      "formatted_start": "03:54:03.000",
+      "formatted_end": "03:54:08.000",
+      "text": "مولانا یه نصیحت داره، میگه سه تا چیز رو نظر مردم بفهمن"
+    },
+    {
+      "id": 12,
+      "start": 14048.0,
+      "end": 14051.0,
+      "formatted_start": "03:54:08.000",
+      "formatted_end": "03:54:11.000",
+      "text": "عجیب اینه که کل نصیحتشون در یه رجال داره"
+    },
+    {
+      "id": 13,
+      "start": 14051.0,
+      "end": 14054.0,
+      "formatted_start": "03:54:11.000",
+      "formatted_end": "03:54:14.000",
+      "text": "و عجیب تر میگه برای توصیف رو موضوع داشت"
+    },
+    {
+      "id": 14,
+      "start": 14054.0,
+      "end": 14057.0,
+      "formatted_start": "03:54:14.000",
+      "formatted_end": "03:54:17.000",
+      "text": "و سه تا کلمه همه مانو باید استفاده شد"
+    },
+    {
+      "id": 15,
+      "start": 14057.0,
+      "end": 14065.06,
+      "formatted_start": "03:54:17.000",
+      "formatted_end": "03:54:25.060",
+      "text": "میگه در بیان این سه کم جمع لبط از زهاب و از زهب و از مذهب"
+    },
+    {
+      "id": 16,
+      "start": 14065.06,
+      "end": 14068.44,
+      "formatted_start": "03:54:25.060",
+      "formatted_end": "03:54:28.440",
+      "text": "میگه در همه مورد سه تا چیز ما مردم صحبت ندید"
+    },
+    {
+      "id": 17,
+      "start": 14068.44,
+      "end": 14071.4,
+      "formatted_start": "03:54:28.440",
+      "formatted_end": "03:54:31.400",
+      "text": "نزار مردم از کار توی سه تا چیز سرده دیگرم"
+    },
+    {
+      "id": 18,
+      "start": 14071.4,
+      "end": 14073.4,
+      "formatted_start": "03:54:31.400",
+      "formatted_end": "03:54:33.400",
+      "text": "زهاب و زهب و مذهب"
+    },
+    {
+      "id": 19,
+      "start": 14073.4,
+      "end": 14075.0,
+      "formatted_start": "03:54:33.400",
+      "formatted_end": "03:54:35.000",
+      "text": "اما این سه تا چی؟"
+    },
+    {
+      "id": 20,
+      "start": 14075.7,
+      "end": 14078.58,
+      "formatted_start": "03:54:35.700",
+      "formatted_end": "03:54:38.580",
+      "text": "میدی میگن وسیله عیاب و زهاب برا همه"
+    },
+    {
+      "id": 21,
+      "start": 14078.58,
+      "end": 14081.0,
+      "formatted_start": "03:54:38.580",
+      "formatted_end": "03:54:41.000",
+      "text": "عیاب به نومدن زهاب به نفت"
+    },
+    {
+      "id": 22,
+      "start": 14081.0,
+      "end": 14084.38,
+      "formatted_start": "03:54:41.000",
+      "formatted_end": "03:54:44.380",
+      "text": "از زهاب یعنی مسیلی که تو زندگی میخوای بری"
+    },
+    {
+      "id": 23,
+      "start": 14084.38,
+      "end": 14086.76,
+      "formatted_start": "03:54:44.380",
+      "formatted_end": "03:54:46.760",
+      "text": "یعنی هدفی که تو سرد"
+    },
+    {
+      "id": 24,
+      "start": 14086.76,
+      "end": 14089.52,
+      "formatted_start": "03:54:46.760",
+      "formatted_end": "03:54:49.520",
+      "text": "زهب یعنی تلا یا سروت"
+    },
+    {
+      "id": 25,
+      "start": 14089.52,
+      "end": 14092.82,
+      "formatted_start": "03:54:49.520",
+      "formatted_end": "03:54:52.820",
+      "text": "چرا همیشه زهب یعنی رفتنه؟"
+    },
+    {
+      "id": 26,
+      "start": 14092.82,
+      "end": 14094.58,
+      "formatted_start": "03:54:52.820",
+      "formatted_end": "03:54:54.580",
+      "text": "چون سروت رفتنیه"
+    },
+    {
+      "id": 27,
+      "start": 14094.58,
+      "end": 14095.46,
+      "formatted_start": "03:54:54.580",
+      "formatted_end": "03:54:55.460",
+      "text": "نمیدونی"
+    },
+    {
+      "id": 28,
+      "start": 14095.46,
+      "end": 14097.88,
+      "formatted_start": "03:54:55.460",
+      "formatted_end": "03:54:57.880",
+      "text": "مذهب هم یعنی اعتقادات"
+    },
+    {
+      "id": 29,
+      "start": 14097.88,
+      "end": 14099.94,
+      "formatted_start": "03:54:57.880",
+      "formatted_end": "03:54:59.940",
+      "text": "رایی که اعتقاد دارید درسته"
+    }
+  ],
+  "status": "completed"
+}

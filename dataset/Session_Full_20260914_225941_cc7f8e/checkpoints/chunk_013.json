@@ -1,0 +1,252 @@
+{
+  "chunk_index": 13,
+  "start_sec": 3900.0,
+  "end_sec": 4200.0,
+  "turns": [
+    {
+      "start": 3901.212,
+      "end": 3903.676,
+      "formatted_start": "01:05:01.212",
+      "formatted_end": "01:05:03.676",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3903.997,
+      "end": 3910.595,
+      "formatted_start": "01:05:03.997",
+      "formatted_end": "01:05:10.595",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3912.62,
+      "end": 3914.24,
+      "formatted_start": "01:05:12.620",
+      "formatted_end": "01:05:14.240",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3914.898,
+      "end": 3915.623,
+      "formatted_start": "01:05:14.898",
+      "formatted_end": "01:05:15.623",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3917.294,
+      "end": 3919.673,
+      "formatted_start": "01:05:17.294",
+      "formatted_end": "01:05:19.673",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3929.377,
+      "end": 3931.351,
+      "formatted_start": "01:05:29.377",
+      "formatted_end": "01:05:31.351",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3941.02,
+      "end": 3944.834,
+      "formatted_start": "01:05:41.020",
+      "formatted_end": "01:05:44.834",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3945.644,
+      "end": 3948.023,
+      "formatted_start": "01:05:45.644",
+      "formatted_end": "01:05:48.023",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3948.766,
+      "end": 3950.032,
+      "formatted_start": "01:05:48.766",
+      "formatted_end": "01:05:50.032",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4059.095,
+      "end": 4061.17,
+      "formatted_start": "01:07:39.095",
+      "formatted_end": "01:07:41.170",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4062.115,
+      "end": 4062.554,
+      "formatted_start": "01:07:42.115",
+      "formatted_end": "01:07:42.554",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4062.605,
+      "end": 4063.027,
+      "formatted_start": "01:07:42.605",
+      "formatted_end": "01:07:43.027",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4087.968,
+      "end": 4092.575,
+      "formatted_start": "01:08:07.968",
+      "formatted_end": "01:08:12.575",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4102.413,
+      "end": 4103.037,
+      "formatted_start": "01:08:22.413",
+      "formatted_end": "01:08:23.037",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4103.965,
+      "end": 4104.455,
+      "formatted_start": "01:08:23.965",
+      "formatted_end": "01:08:24.455",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4157.527,
+      "end": 4158.134,
+      "formatted_start": "01:09:17.527",
+      "formatted_end": "01:09:18.134",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4161.239,
+      "end": 4166.555,
+      "formatted_start": "01:09:21.239",
+      "formatted_end": "01:09:26.555",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4170.402,
+      "end": 4172.68,
+      "formatted_start": "01:09:30.402",
+      "formatted_end": "01:09:32.680",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4173.035,
+      "end": 4174.115,
+      "formatted_start": "01:09:33.035",
+      "formatted_end": "01:09:34.115",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4174.553,
+      "end": 4177.81,
+      "formatted_start": "01:09:34.553",
+      "formatted_end": "01:09:37.810",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4178.367,
+      "end": 4181.033,
+      "formatted_start": "01:09:38.367",
+      "formatted_end": "01:09:41.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4183.548,
+      "end": 4184.442,
+      "formatted_start": "01:09:43.548",
+      "formatted_end": "01:09:44.442",
+      "speaker": "SPEAKER_03"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3900.0,
+      "end": 3930.0,
+      "formatted_start": "01:05:00.000",
+      "formatted_end": "01:05:30.000",
+      "text": "باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید بردارید که باید برد"
+    },
+    {
+      "id": 1,
+      "start": 3930.0,
+      "end": 3958.0,
+      "formatted_start": "01:05:30.000",
+      "formatted_end": "01:05:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3960.0,
+      "end": 3989.98,
+      "formatted_start": "01:06:00.000",
+      "formatted_end": "01:06:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 3990.0,
+      "end": 4019.98,
+      "formatted_start": "01:06:30.000",
+      "formatted_end": "01:06:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 4020.0,
+      "end": 4040.0,
+      "formatted_start": "01:07:00.000",
+      "formatted_end": "01:07:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4040.0,
+      "end": 4069.98,
+      "formatted_start": "01:07:20.000",
+      "formatted_end": "01:07:49.980",
+      "text": "موسیقی در موسیقی دیگه"
+    },
+    {
+      "id": 6,
+      "start": 4070.0,
+      "end": 4099.98,
+      "formatted_start": "01:07:50.000",
+      "formatted_end": "01:08:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4100.0,
+      "end": 4120.0,
+      "formatted_start": "01:08:20.000",
+      "formatted_end": "01:08:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 4120.0,
+      "end": 4150.0,
+      "formatted_start": "01:08:40.000",
+      "formatted_end": "01:09:10.000",
+      "text": "باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید بای"
+    },
+    {
+      "id": 9,
+      "start": 4150.0,
+      "end": 4179.98,
+      "formatted_start": "01:09:10.000",
+      "formatted_end": "01:09:39.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 4180.0,
+      "end": 4200.0,
+      "formatted_start": "01:09:40.000",
+      "formatted_end": "01:10:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

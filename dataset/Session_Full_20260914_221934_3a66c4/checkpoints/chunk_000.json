@@ -1,0 +1,397 @@
+{
+  "chunk_index": 0,
+  "start_sec": 0.0,
+  "end_sec": 300.0,
+  "turns": [
+    {
+      "start": 93.721,
+      "end": 95.375,
+      "formatted_start": "00:01:33.721",
+      "formatted_end": "00:01:35.375",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 96.168,
+      "end": 97.906,
+      "formatted_start": "00:01:36.168",
+      "formatted_end": "00:01:37.906",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 98.497,
+      "end": 105.55,
+      "formatted_start": "00:01:38.497",
+      "formatted_end": "00:01:45.550",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 106.057,
+      "end": 118.848,
+      "formatted_start": "00:01:46.057",
+      "formatted_end": "00:01:58.848",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 119.32,
+      "end": 138.642,
+      "formatted_start": "00:01:59.320",
+      "formatted_end": "00:02:18.642",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 139.317,
+      "end": 147.822,
+      "formatted_start": "00:02:19.317",
+      "formatted_end": "00:02:27.822",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 182.838,
+      "end": 185.116,
+      "formatted_start": "00:03:02.838",
+      "formatted_end": "00:03:05.116",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 185.538,
+      "end": 188.137,
+      "formatted_start": "00:03:05.538",
+      "formatted_end": "00:03:08.137",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 185.723,
+      "end": 186.112,
+      "formatted_start": "00:03:05.723",
+      "formatted_end": "00:03:06.112",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 188.288,
+      "end": 188.761,
+      "formatted_start": "00:03:08.288",
+      "formatted_end": "00:03:08.761",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 189.908,
+      "end": 193.233,
+      "formatted_start": "00:03:09.908",
+      "formatted_end": "00:03:13.233",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 196.591,
+      "end": 199.628,
+      "formatted_start": "00:03:16.591",
+      "formatted_end": "00:03:19.628",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 204.353,
+      "end": 205.67,
+      "formatted_start": "00:03:24.353",
+      "formatted_end": "00:03:25.670",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 207.323,
+      "end": 215.305,
+      "formatted_start": "00:03:27.323",
+      "formatted_end": "00:03:35.305",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 215.423,
+      "end": 218.377,
+      "formatted_start": "00:03:35.423",
+      "formatted_end": "00:03:38.377",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 218.832,
+      "end": 219.895,
+      "formatted_start": "00:03:38.832",
+      "formatted_end": "00:03:39.895",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 221.6,
+      "end": 222.612,
+      "formatted_start": "00:03:41.600",
+      "formatted_end": "00:03:42.612",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 223.625,
+      "end": 228.4,
+      "formatted_start": "00:03:43.625",
+      "formatted_end": "00:03:48.400",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 224.35,
+      "end": 225.616,
+      "formatted_start": "00:03:44.350",
+      "formatted_end": "00:03:45.616",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 229.598,
+      "end": 231.623,
+      "formatted_start": "00:03:49.598",
+      "formatted_end": "00:03:51.623",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 232.383,
+      "end": 233.75,
+      "formatted_start": "00:03:52.383",
+      "formatted_end": "00:03:53.750",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.98,
+      "formatted_start": "00:00:00.000",
+      "formatted_end": "00:00:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 59.98,
+      "formatted_start": "00:00:30.000",
+      "formatted_end": "00:00:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 60.0,
+      "end": 88.0,
+      "formatted_start": "00:01:00.000",
+      "formatted_end": "00:01:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 90.0,
+      "end": 98.12,
+      "formatted_start": "00:01:30.000",
+      "formatted_end": "00:01:38.120",
+      "text": "سنما فایده جون حال شما؟ شما هنگم جما خوبی؟"
+    },
+    {
+      "id": 4,
+      "start": 98.12,
+      "end": 103.36,
+      "formatted_start": "00:01:38.120",
+      "formatted_end": "00:01:43.360",
+      "text": "بربونت برم مرسی آقای دکتور خوبن؟ گل پسرات خوبن؟"
+    },
+    {
+      "id": 5,
+      "start": 103.36,
+      "end": 105.48,
+      "formatted_start": "00:01:43.360",
+      "formatted_end": "00:01:45.480",
+      "text": "بعد موقعی که مضاهمه نشدن مرز زن"
+    },
+    {
+      "id": 6,
+      "start": 105.48,
+      "end": 111.44,
+      "formatted_start": "00:01:45.480",
+      "formatted_end": "00:01:51.440",
+      "text": "بربونت مرسی همه خوبن فلان میرسیم نم فایده جون بربونت شکلت ممنون مرسی"
+    },
+    {
+      "id": 7,
+      "start": 111.44,
+      "end": 119.36,
+      "formatted_start": "00:01:51.440",
+      "formatted_end": "00:01:59.360",
+      "text": "مرسی همچنین فایده جون شما برای مهمونی گل ناز جان پول واریس کرده بودی؟"
+    },
+    {
+      "id": 8,
+      "start": 119.36,
+      "end": 124.36,
+      "formatted_start": "00:01:59.360",
+      "formatted_end": "00:02:04.360",
+      "text": "آمان، آمان، چون من داشتم الان حساب کتابا رو واضح گلنات می نوشتم"
+    },
+    {
+      "id": 9,
+      "start": 124.36,
+      "end": 128.36,
+      "formatted_start": "00:02:04.360",
+      "formatted_end": "00:02:08.360",
+      "text": "بعد یه دوملیون اضافه آوردم، خب؟"
+    },
+    {
+      "id": 10,
+      "start": 128.36,
+      "end": 132.36,
+      "formatted_start": "00:02:08.360",
+      "formatted_end": "00:02:12.360",
+      "text": "بعد اصلا گروه رو نگاه کردم، دیدم که شما مفت دادی از گروه"
+    },
+    {
+      "id": 11,
+      "start": 132.36,
+      "end": 136.36,
+      "formatted_start": "00:02:12.360",
+      "formatted_end": "00:02:16.360",
+      "text": "گفتم، نم کنه، خریده بوده اسمشو اونجا اضافه نکرده؟"
+    },
+    {
+      "id": 12,
+      "start": 136.36,
+      "end": 140.36,
+      "formatted_start": "00:02:16.360",
+      "formatted_end": "00:02:20.360",
+      "text": "آره، خب باشه، باشه، باشه عزیزم"
+    },
+    {
+      "id": 13,
+      "start": 140.36,
+      "end": 142.36,
+      "formatted_start": "00:02:20.360",
+      "formatted_end": "00:02:22.360",
+      "text": "من باید خیلی دا کنم ببینم این دوملیون مالی کیه؟"
+    },
+    {
+      "id": 14,
+      "start": 142.36,
+      "end": 147.5,
+      "formatted_start": "00:02:22.360",
+      "formatted_end": "00:02:27.500",
+      "text": "مرسی ممنونم خواهشون کنم خدا خدا"
+    },
+    {
+      "id": 15,
+      "start": 172.36,
+      "end": 182.36,
+      "formatted_start": "00:02:52.360",
+      "formatted_end": "00:03:02.360",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 202.36,
+      "end": 206.36,
+      "formatted_start": "00:03:22.360",
+      "formatted_end": "00:03:26.360",
+      "text": "بگو آنفول چیه؟"
+    },
+    {
+      "id": 17,
+      "start": 206.36,
+      "end": 210.36,
+      "formatted_start": "00:03:26.360",
+      "formatted_end": "00:03:30.360",
+      "text": "بگو یه فرقی از آنفولها رو فقط باید متفسر قادرت بنویسه"
+    },
+    {
+      "id": 18,
+      "start": 210.36,
+      "end": 212.36,
+      "formatted_start": "00:03:30.360",
+      "formatted_end": "00:03:32.360",
+      "text": "با امتحان نمی نیسته"
+    },
+    {
+      "id": 19,
+      "start": 212.36,
+      "end": 214.36,
+      "formatted_start": "00:03:32.360",
+      "formatted_end": "00:03:34.360",
+      "text": "برای اینکه منظورش سوماتی ریبتانه"
+    },
+    {
+      "id": 20,
+      "start": 214.36,
+      "end": 218.36,
+      "formatted_start": "00:03:34.360",
+      "formatted_end": "00:03:38.360",
+      "text": "باید با سوماتی کامله شو بگو چیه؟"
+    },
+    {
+      "id": 21,
+      "start": 218.36,
+      "end": 220.36,
+      "formatted_start": "00:03:38.360",
+      "formatted_end": "00:03:40.360",
+      "text": "برای قدشه؟"
+    },
+    {
+      "id": 22,
+      "start": 220.36,
+      "end": 222.36,
+      "formatted_start": "00:03:40.360",
+      "formatted_end": "00:03:42.360",
+      "text": "محتمالا دیگه"
+    },
+    {
+      "id": 23,
+      "start": 222.36,
+      "end": 224.36,
+      "formatted_start": "00:03:42.360",
+      "formatted_end": "00:03:44.360",
+      "text": "همون پتاوی که نشته داره"
+    },
+    {
+      "id": 24,
+      "start": 224.36,
+      "end": 226.36,
+      "formatted_start": "00:03:44.360",
+      "formatted_end": "00:03:46.360",
+      "text": "توی مرایش داشت دیگه"
+    },
+    {
+      "id": 25,
+      "start": 226.36,
+      "end": 228.36,
+      "formatted_start": "00:03:46.360",
+      "formatted_end": "00:03:48.360",
+      "text": "افراد چی سوماتی داره؟"
+    },
+    {
+      "id": 26,
+      "start": 228.36,
+      "end": 230.36,
+      "formatted_start": "00:03:48.360",
+      "formatted_end": "00:03:50.360",
+      "text": "زنگ در برگوان می سنه"
+    },
+    {
+      "id": 27,
+      "start": 230.36,
+      "end": 260.36,
+      "formatted_start": "00:03:50.360",
+      "formatted_end": "00:04:20.360",
+      "text": "برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای من برای"
+    },
+    {
+      "id": 28,
+      "start": 260.36,
+      "end": 290.34,
+      "formatted_start": "00:04:20.360",
+      "formatted_end": "00:04:50.340",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 29,
+      "start": 290.36,
+      "end": 299.36,
+      "formatted_start": "00:04:50.360",
+      "formatted_end": "00:04:59.360",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

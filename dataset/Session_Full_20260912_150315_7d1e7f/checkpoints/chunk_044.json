@@ -1,0 +1,253 @@
+{
+  "chunk_index": 44,
+  "start_sec": 13200.0,
+  "end_sec": 13500.0,
+  "turns": [
+    {
+      "start": 13221.361,
+      "end": 13222.711,
+      "formatted_start": "03:40:21.361",
+      "formatted_end": "03:40:22.711",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13240.075,
+      "end": 13242.117,
+      "formatted_start": "03:40:40.075",
+      "formatted_end": "03:40:42.117",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13245.357,
+      "end": 13248.023,
+      "formatted_start": "03:40:45.357",
+      "formatted_end": "03:40:48.023",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13248.901,
+      "end": 13253.491,
+      "formatted_start": "03:40:48.901",
+      "formatted_end": "03:40:53.491",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13251.787,
+      "end": 13253.609,
+      "formatted_start": "03:40:51.787",
+      "formatted_end": "03:40:53.609",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13253.997,
+      "end": 13255.6,
+      "formatted_start": "03:40:53.997",
+      "formatted_end": "03:40:55.600",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13256.191,
+      "end": 13264.595,
+      "formatted_start": "03:40:56.191",
+      "formatted_end": "03:41:04.595",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13267.885,
+      "end": 13269.573,
+      "formatted_start": "03:41:07.885",
+      "formatted_end": "03:41:09.573",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13269.573,
+      "end": 13275.715,
+      "formatted_start": "03:41:09.573",
+      "formatted_end": "03:41:15.715",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13269.623,
+      "end": 13269.978,
+      "formatted_start": "03:41:09.623",
+      "formatted_end": "03:41:09.978",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13272.087,
+      "end": 13275.175,
+      "formatted_start": "03:41:12.087",
+      "formatted_end": "03:41:15.175",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13277.572,
+      "end": 13287.798,
+      "formatted_start": "03:41:17.572",
+      "formatted_end": "03:41:27.798",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13290.093,
+      "end": 13290.599,
+      "formatted_start": "03:41:30.093",
+      "formatted_end": "03:41:30.599",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13291.915,
+      "end": 13294.835,
+      "formatted_start": "03:41:31.915",
+      "formatted_end": "03:41:34.835",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13339.722,
+      "end": 13341.73,
+      "formatted_start": "03:42:19.722",
+      "formatted_end": "03:42:21.730",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13341.967,
+      "end": 13346.033,
+      "formatted_start": "03:42:21.967",
+      "formatted_end": "03:42:26.033",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13404.64,
+      "end": 13406.817,
+      "formatted_start": "03:43:24.640",
+      "formatted_end": "03:43:26.817",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13407.053,
+      "end": 13407.695,
+      "formatted_start": "03:43:27.053",
+      "formatted_end": "03:43:27.695",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13454.725,
+      "end": 13455.518,
+      "formatted_start": "03:44:14.725",
+      "formatted_end": "03:44:15.518",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13456.632,
+      "end": 13458.033,
+      "formatted_start": "03:44:16.632",
+      "formatted_end": "03:44:18.033",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13458.978,
+      "end": 13461.965,
+      "formatted_start": "03:44:18.978",
+      "formatted_end": "03:44:21.965",
+      "speaker": "SPEAKER_03"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 13200.0,
+      "end": 13229.98,
+      "formatted_start": "03:40:00.000",
+      "formatted_end": "03:40:29.980",
+      "text": "از اینجا بیمار بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 13260.0,
+      "end": 13264.0,
+      "formatted_start": "03:41:00.000",
+      "formatted_end": "03:41:04.000",
+      "text": "این چه هستیدی بوده بابون تاموز که میدونه یک جان بیتر میده"
+    },
+    {
+      "id": 2,
+      "start": 13272.0,
+      "end": 13274.0,
+      "formatted_start": "03:41:12.000",
+      "formatted_end": "03:41:14.000",
+      "text": "از این بچه ها اولد میرونه"
+    },
+    {
+      "id": 3,
+      "start": 13274.0,
+      "end": 13276.0,
+      "formatted_start": "03:41:14.000",
+      "formatted_end": "03:41:16.000",
+      "text": "از این بچه ها اولد میرونه"
+    },
+    {
+      "id": 4,
+      "start": 13290.0,
+      "end": 13318.0,
+      "formatted_start": "03:41:30.000",
+      "formatted_end": "03:41:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 13320.0,
+      "end": 13340.0,
+      "formatted_start": "03:42:00.000",
+      "formatted_end": "03:42:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 13340.0,
+      "end": 13369.0,
+      "formatted_start": "03:42:20.000",
+      "formatted_end": "03:42:49.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 13370.0,
+      "end": 13399.0,
+      "formatted_start": "03:42:50.000",
+      "formatted_end": "03:43:19.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 13400.0,
+      "end": 13428.0,
+      "formatted_start": "03:43:20.000",
+      "formatted_end": "03:43:48.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 13430.0,
+      "end": 13450.0,
+      "formatted_start": "03:43:50.000",
+      "formatted_end": "03:44:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 13450.0,
+      "end": 13480.0,
+      "formatted_start": "03:44:10.000",
+      "formatted_end": "03:44:40.000",
+      "text": "مردم های بیشتر با بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر"
+    },
+    {
+      "id": 11,
+      "start": 13480.0,
+      "end": 13500.0,
+      "formatted_start": "03:44:40.000",
+      "formatted_end": "03:45:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

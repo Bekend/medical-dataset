@@ -1,0 +1,285 @@
+{
+  "chunk_index": 45,
+  "start_sec": 13500.0,
+  "end_sec": 13800.0,
+  "turns": [
+    {
+      "start": 13500.892,
+      "end": 13516.872,
+      "formatted_start": "03:45:00.892",
+      "formatted_end": "03:45:16.872",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13517.193,
+      "end": 13522.188,
+      "formatted_start": "03:45:17.193",
+      "formatted_end": "03:45:22.188",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13521.277,
+      "end": 13522.238,
+      "formatted_start": "03:45:21.277",
+      "formatted_end": "03:45:22.238",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13522.238,
+      "end": 13522.964,
+      "formatted_start": "03:45:22.238",
+      "formatted_end": "03:45:22.964",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 13522.964,
+      "end": 13524.263,
+      "formatted_start": "03:45:22.964",
+      "formatted_end": "03:45:24.263",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13529.123,
+      "end": 13529.528,
+      "formatted_start": "03:45:29.123",
+      "formatted_end": "03:45:29.528",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 13562.418,
+      "end": 13563.278,
+      "formatted_start": "03:46:02.418",
+      "formatted_end": "03:46:03.278",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13563.515,
+      "end": 13564.19,
+      "formatted_start": "03:46:03.515",
+      "formatted_end": "03:46:04.190",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13564.696,
+      "end": 13565.658,
+      "formatted_start": "03:46:04.696",
+      "formatted_end": "03:46:05.658",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13565.995,
+      "end": 13566.822,
+      "formatted_start": "03:46:05.995",
+      "formatted_end": "03:46:06.822",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13569.353,
+      "end": 13569.893,
+      "formatted_start": "03:46:09.353",
+      "formatted_end": "03:46:09.893",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13571.26,
+      "end": 13572.121,
+      "formatted_start": "03:46:11.260",
+      "formatted_end": "03:46:12.121",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13572.29,
+      "end": 13572.847,
+      "formatted_start": "03:46:12.290",
+      "formatted_end": "03:46:12.847",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 13500.0,
+      "end": 13520.0,
+      "formatted_start": "03:45:00.000",
+      "formatted_end": "03:45:20.000",
+      "text": "اینو توش آب قاطی میکنی تا این بالا روزی دوبار میدید، نوشه تفکه دست روی، دقیق کار کردن شکمش شده، اینو هشت ساعت پشت کرده، اینو هشت ساعت ما رفت بخورید، این شیا، اگه شکمش کار نمیکنه روزی یه نونه میتونی بزنی، آره آره بیرون، الان هم اگه کار نکردی یه نونه بزنی، خوب؟"
+    },
+    {
+      "id": 1,
+      "start": 13520.0,
+      "end": 13522.0,
+      "formatted_start": "03:45:20.000",
+      "formatted_end": "03:45:22.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 2,
+      "start": 13522.0,
+      "end": 13524.0,
+      "formatted_start": "03:45:22.000",
+      "formatted_end": "03:45:24.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 3,
+      "start": 13524.0,
+      "end": 13526.0,
+      "formatted_start": "03:45:24.000",
+      "formatted_end": "03:45:26.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 4,
+      "start": 13526.0,
+      "end": 13528.0,
+      "formatted_start": "03:45:26.000",
+      "formatted_end": "03:45:28.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 5,
+      "start": 13528.0,
+      "end": 13530.0,
+      "formatted_start": "03:45:28.000",
+      "formatted_end": "03:45:30.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 6,
+      "start": 13530.0,
+      "end": 13532.0,
+      "formatted_start": "03:45:30.000",
+      "formatted_end": "03:45:32.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 7,
+      "start": 13532.0,
+      "end": 13534.0,
+      "formatted_start": "03:45:32.000",
+      "formatted_end": "03:45:34.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 8,
+      "start": 13534.0,
+      "end": 13536.0,
+      "formatted_start": "03:45:34.000",
+      "formatted_end": "03:45:36.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 9,
+      "start": 13536.0,
+      "end": 13538.0,
+      "formatted_start": "03:45:36.000",
+      "formatted_end": "03:45:38.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 10,
+      "start": 13538.0,
+      "end": 13540.0,
+      "formatted_start": "03:45:38.000",
+      "formatted_end": "03:45:40.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 11,
+      "start": 13540.0,
+      "end": 13542.0,
+      "formatted_start": "03:45:40.000",
+      "formatted_end": "03:45:42.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 12,
+      "start": 13542.0,
+      "end": 13544.0,
+      "formatted_start": "03:45:42.000",
+      "formatted_end": "03:45:44.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 13,
+      "start": 13544.0,
+      "end": 13546.0,
+      "formatted_start": "03:45:44.000",
+      "formatted_end": "03:45:46.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 14,
+      "start": 13546.0,
+      "end": 13548.0,
+      "formatted_start": "03:45:46.000",
+      "formatted_end": "03:45:48.000",
+      "text": "خوشتون رو برم"
+    },
+    {
+      "id": 15,
+      "start": 13578.0,
+      "end": 13606.0,
+      "formatted_start": "03:46:18.000",
+      "formatted_end": "03:46:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 13608.0,
+      "end": 13637.98,
+      "formatted_start": "03:46:48.000",
+      "formatted_end": "03:47:17.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 13638.0,
+      "end": 13648.0,
+      "formatted_start": "03:47:18.000",
+      "formatted_end": "03:47:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 13668.0,
+      "end": 13697.98,
+      "formatted_start": "03:47:48.000",
+      "formatted_end": "03:48:17.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 13698.0,
+      "end": 13727.98,
+      "formatted_start": "03:48:18.000",
+      "formatted_end": "03:48:47.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 13728.0,
+      "end": 13757.98,
+      "formatted_start": "03:48:48.000",
+      "formatted_end": "03:49:17.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 21,
+      "start": 13758.0,
+      "end": 13787.98,
+      "formatted_start": "03:49:18.000",
+      "formatted_end": "03:49:47.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 13788.0,
+      "end": 13800.0,
+      "formatted_start": "03:49:48.000",
+      "formatted_end": "03:50:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

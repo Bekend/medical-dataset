@@ -1,0 +1,133 @@
+{
+  "chunk_index": 66,
+  "start_sec": 19800.0,
+  "end_sec": 20100.0,
+  "turns": [
+    {
+      "start": 20061.593,
+      "end": 20063.112,
+      "formatted_start": "05:34:21.593",
+      "formatted_end": "05:34:23.112",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 20066.521,
+      "end": 20067.01,
+      "formatted_start": "05:34:26.521",
+      "formatted_end": "05:34:27.010",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 20068.36,
+      "end": 20069.187,
+      "formatted_start": "05:34:28.360",
+      "formatted_end": "05:34:29.187",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 20069.255,
+      "end": 20070.031,
+      "formatted_start": "05:34:29.255",
+      "formatted_end": "05:34:30.031",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 20070.267,
+      "end": 20071.027,
+      "formatted_start": "05:34:30.267",
+      "formatted_end": "05:34:31.027",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 19800.0,
+      "end": 19829.98,
+      "formatted_start": "05:30:00.000",
+      "formatted_end": "05:30:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 19830.0,
+      "end": 19840.0,
+      "formatted_start": "05:30:30.000",
+      "formatted_end": "05:30:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 19860.0,
+      "end": 19889.98,
+      "formatted_start": "05:31:00.000",
+      "formatted_end": "05:31:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 19890.0,
+      "end": 19910.0,
+      "formatted_start": "05:31:30.000",
+      "formatted_end": "05:31:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 19910.0,
+      "end": 19939.98,
+      "formatted_start": "05:31:50.000",
+      "formatted_end": "05:32:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 19940.0,
+      "end": 19969.98,
+      "formatted_start": "05:32:20.000",
+      "formatted_end": "05:32:49.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 19970.0,
+      "end": 19972.0,
+      "formatted_start": "05:32:50.000",
+      "formatted_end": "05:32:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 20000.0,
+      "end": 20029.98,
+      "formatted_start": "05:33:20.000",
+      "formatted_end": "05:33:49.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 20030.0,
+      "end": 20059.98,
+      "formatted_start": "05:33:50.000",
+      "formatted_end": "05:34:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 20060.0,
+      "end": 20062.0,
+      "formatted_start": "05:34:20.000",
+      "formatted_end": "05:34:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 20090.0,
+      "end": 20100.0,
+      "formatted_start": "05:34:50.000",
+      "formatted_end": "05:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

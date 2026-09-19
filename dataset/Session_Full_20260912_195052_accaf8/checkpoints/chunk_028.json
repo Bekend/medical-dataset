@@ -1,0 +1,516 @@
+{
+  "chunk_index": 28,
+  "start_sec": 8400.0,
+  "end_sec": 8700.0,
+  "turns": [
+    {
+      "start": 8400.031,
+      "end": 8421.108,
+      "formatted_start": "02:20:00.031",
+      "formatted_end": "02:20:21.108",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8421.563,
+      "end": 8424.398,
+      "formatted_start": "02:20:21.563",
+      "formatted_end": "02:20:24.398",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8424.736,
+      "end": 8451.871,
+      "formatted_start": "02:20:24.736",
+      "formatted_end": "02:20:51.871",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8452.04,
+      "end": 8453.913,
+      "formatted_start": "02:20:52.040",
+      "formatted_end": "02:20:53.913",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8454.672,
+      "end": 8464.477,
+      "formatted_start": "02:20:54.672",
+      "formatted_end": "02:21:04.477",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8464.814,
+      "end": 8473.184,
+      "formatted_start": "02:21:04.814",
+      "formatted_end": "02:21:13.184",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8473.572,
+      "end": 8478.635,
+      "formatted_start": "02:21:13.572",
+      "formatted_end": "02:21:18.635",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8478.989,
+      "end": 8490.886,
+      "formatted_start": "02:21:18.989",
+      "formatted_end": "02:21:30.886",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8486.195,
+      "end": 8487.106,
+      "formatted_start": "02:21:26.195",
+      "formatted_end": "02:21:27.106",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8488.692,
+      "end": 8489.84,
+      "formatted_start": "02:21:28.692",
+      "formatted_end": "02:21:29.840",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8491.763,
+      "end": 8493.029,
+      "formatted_start": "02:21:31.763",
+      "formatted_end": "02:21:33.029",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8492.253,
+      "end": 8492.742,
+      "formatted_start": "02:21:32.253",
+      "formatted_end": "02:21:32.742",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8493.35,
+      "end": 8501.956,
+      "formatted_start": "02:21:33.350",
+      "formatted_end": "02:21:41.956",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8502.968,
+      "end": 8512.604,
+      "formatted_start": "02:21:42.968",
+      "formatted_end": "02:21:52.604",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8513.127,
+      "end": 8528.028,
+      "formatted_start": "02:21:53.127",
+      "formatted_end": "02:22:08.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8528.568,
+      "end": 8536.162,
+      "formatted_start": "02:22:08.568",
+      "formatted_end": "02:22:16.162",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8536.465,
+      "end": 8537.782,
+      "formatted_start": "02:22:16.465",
+      "formatted_end": "02:22:17.782",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8538.693,
+      "end": 8539.992,
+      "formatted_start": "02:22:18.693",
+      "formatted_end": "02:22:19.992",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8543.148,
+      "end": 8543.992,
+      "formatted_start": "02:22:23.148",
+      "formatted_end": "02:22:23.992",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8547.113,
+      "end": 8548.818,
+      "formatted_start": "02:22:27.113",
+      "formatted_end": "02:22:28.818",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8602.278,
+      "end": 8604.033,
+      "formatted_start": "02:23:22.278",
+      "formatted_end": "02:23:24.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8604.117,
+      "end": 8606.564,
+      "formatted_start": "02:23:24.117",
+      "formatted_end": "02:23:26.564",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 8400.0,
+      "end": 8406.0,
+      "formatted_start": "02:20:00.000",
+      "formatted_end": "02:20:06.000",
+      "text": "از 3 تا تیپ و آپشن مختلف، کامداری 2.5 هیبریدش شما میتونید تیعیه کنید."
+    },
+    {
+      "id": 1,
+      "start": 8406.0,
+      "end": 8412.0,
+      "formatted_start": "02:20:06.000",
+      "formatted_end": "02:20:12.000",
+      "text": "از فورترینش، کامیره یه لومیل، سفارش چین و سفارش جاپن تیپ ال ای."
+    },
+    {
+      "id": 2,
+      "start": 8412.0,
+      "end": 8423.0,
+      "formatted_start": "02:20:12.000",
+      "formatted_end": "02:20:23.000",
+      "text": "توابوت هاشون در همین ابتدا شما سفارش دلال رو ببینید که مال سفارش چین همرنگ بدنی میشه و مال سفارش جاپن دورنگ نزدیکتر میره."
+    },
+    {
+      "id": 3,
+      "start": 8423.0,
+      "end": 8430.5,
+      "formatted_start": "02:20:23.000",
+      "formatted_end": "02:20:30.500",
+      "text": "و اینجوری از همین فرق های اولیه، دیگل آیت ها شروع میبینید که من خودم حالا مال سفارش چین رو بیشتر دوست دارم"
+    },
+    {
+      "id": 4,
+      "start": 8430.5,
+      "end": 8437.0,
+      "formatted_start": "02:20:30.500",
+      "formatted_end": "02:20:37.000",
+      "text": "و چرا بخواهش اون تمام حدودی که مهم داره مال سفارش جاپن دو لنزه و مال سفارش چین تک لنز میشه"
+    },
+    {
+      "id": 5,
+      "start": 8437.0,
+      "end": 8443.0,
+      "formatted_start": "02:20:37.000",
+      "formatted_end": "02:20:43.000",
+      "text": "سوائز رنگ ها، عبادی همه چی یکی، تو نمای بیرون ما دو تا فرق داریم"
+    },
+    {
+      "id": 6,
+      "start": 8443.0,
+      "end": 8447.0,
+      "formatted_start": "02:20:43.000",
+      "formatted_end": "02:20:47.000",
+      "text": "که سفارش جاپن سفر برانه هاون به صورت باز شمنده است"
+    },
+    {
+      "id": 7,
+      "start": 8447.0,
+      "end": 8452.0,
+      "formatted_start": "02:20:47.000",
+      "formatted_end": "02:20:52.000",
+      "text": "و سخت سفارش چینی هاون مثل یک تیک شیشه برمونون رو پستش"
+    },
+    {
+      "id": 8,
+      "start": 8452.0,
+      "end": 8457.0,
+      "formatted_start": "02:20:52.000",
+      "formatted_end": "02:20:57.000",
+      "text": "و بگو سفارش جاپن تیپ ایل ای آپشنش کم تر"
+    },
+    {
+      "id": 9,
+      "start": 8457.0,
+      "end": 8461.0,
+      "formatted_start": "02:20:57.000",
+      "formatted_end": "02:21:01.000",
+      "text": "ولی سفارش جاپن برای کسی که پولش به دون میره نمیرسه"
+    },
+    {
+      "id": 10,
+      "start": 8461.0,
+      "end": 8467.0,
+      "formatted_start": "02:21:01.000",
+      "formatted_end": "02:21:07.000",
+      "text": "و همینجا دقیقه هاشون هم بگم ایل ای ۲۰۲۵ از ۱۰۰ روند تا ۱۰۵۰"
+    },
+    {
+      "id": 11,
+      "start": 8467.0,
+      "end": 8473.0,
+      "formatted_start": "02:21:07.000",
+      "formatted_end": "02:21:13.000",
+      "text": "از ۱۱ روند تا ۱۱۵۰ از ۱۵۰ روند تا ۱۶۰ روند میدیر کنن"
+    },
+    {
+      "id": 12,
+      "start": 8473.0,
+      "end": 8476.08,
+      "formatted_start": "02:21:13.000",
+      "formatted_end": "02:21:16.080",
+      "text": "به تاریخ امروز قیمت میخوره"
+    },
+    {
+      "id": 13,
+      "start": 8476.08,
+      "end": 8477.28,
+      "formatted_start": "02:21:16.080",
+      "formatted_end": "02:21:17.280",
+      "text": "و بیای جلاب"
+    },
+    {
+      "id": 14,
+      "start": 8477.28,
+      "end": 8478.52,
+      "formatted_start": "02:21:17.280",
+      "formatted_end": "02:21:18.520",
+      "text": "سپ آبشن"
+    },
+    {
+      "id": 15,
+      "start": 8478.52,
+      "end": 8480.34,
+      "formatted_start": "02:21:18.520",
+      "formatted_end": "02:21:20.340",
+      "text": "ایلی ایل جاپون"
+    },
+    {
+      "id": 16,
+      "start": 8480.34,
+      "end": 8483.18,
+      "formatted_start": "02:21:20.340",
+      "formatted_end": "02:21:23.180",
+      "text": "همشون داخلشون کارچه میشه"
+    },
+    {
+      "id": 17,
+      "start": 8483.18,
+      "end": 8485.02,
+      "formatted_start": "02:21:23.180",
+      "formatted_end": "02:21:25.020",
+      "text": "آبشن های کمتر داره"
+    },
+    {
+      "id": 18,
+      "start": 8485.02,
+      "end": 8487.02,
+      "formatted_start": "02:21:25.020",
+      "formatted_end": "02:21:27.020",
+      "text": "و رادار ها نداره"
+    },
+    {
+      "id": 19,
+      "start": 8487.02,
+      "end": 8488.36,
+      "formatted_start": "02:21:27.020",
+      "formatted_end": "02:21:28.360",
+      "text": "گمکون سرکون نداره"
+    },
+    {
+      "id": 20,
+      "start": 8488.36,
+      "end": 8489.58,
+      "formatted_start": "02:21:28.360",
+      "formatted_end": "02:21:29.580",
+      "text": "و پرده عقبو داره"
+    },
+    {
+      "id": 21,
+      "start": 8489.58,
+      "end": 8490.64,
+      "formatted_start": "02:21:29.580",
+      "formatted_end": "02:21:30.640",
+      "text": "سختش باز میشه"
+    },
+    {
+      "id": 22,
+      "start": 8490.64,
+      "end": 8492.88,
+      "formatted_start": "02:21:30.640",
+      "formatted_end": "02:21:32.880",
+      "text": "آینه تاشو"
+    },
+    {
+      "id": 23,
+      "start": 8492.88,
+      "end": 8495.82,
+      "formatted_start": "02:21:32.880",
+      "formatted_end": "02:21:35.820",
+      "text": "سپ فلشه چینون همه چی داره"
+    },
+    {
+      "id": 24,
+      "start": 8495.82,
+      "end": 8497.6,
+      "formatted_start": "02:21:35.820",
+      "formatted_end": "02:21:37.600",
+      "text": "از سیستم صوتی"
+    },
+    {
+      "id": 25,
+      "start": 8497.6,
+      "end": 8499.96,
+      "formatted_start": "02:21:37.600",
+      "formatted_end": "02:21:39.960",
+      "text": "از اصلایی باید هدف"
+    },
+    {
+      "id": 26,
+      "start": 8499.96,
+      "end": 8501.3,
+      "formatted_start": "02:21:39.960",
+      "formatted_end": "02:21:41.300",
+      "text": "دیسپلی ماشین بگیرید"
+    },
+    {
+      "id": 27,
+      "start": 8501.3,
+      "end": 8505.76,
+      "formatted_start": "02:21:41.300",
+      "formatted_end": "02:21:45.760",
+      "text": "گم کن، شب کن، مموری ها و تیریم داخلش چرم میشه"
+    },
+    {
+      "id": 28,
+      "start": 8505.76,
+      "end": 8508.68,
+      "formatted_start": "02:21:45.760",
+      "formatted_end": "02:21:48.680",
+      "text": "دوستان همون نشون بده، همه شما میدونن مشکی اکثرن"
+    },
+    {
+      "id": 29,
+      "start": 8508.68,
+      "end": 8514.06,
+      "formatted_start": "02:21:48.680",
+      "formatted_end": "02:21:54.060",
+      "text": "رادار هاش کامل میشه، این قسمت زیر مانیکل که شما ببینید"
+    },
+    {
+      "id": 30,
+      "start": 8514.06,
+      "end": 8517.06,
+      "formatted_start": "02:21:54.060",
+      "formatted_end": "02:21:57.060",
+      "text": "ما دکمه ای نیستش و به صورت تاشپنل هستش"
+    },
+    {
+      "id": 31,
+      "start": 8517.06,
+      "end": 8520.26,
+      "formatted_start": "02:21:57.060",
+      "formatted_end": "02:22:00.260",
+      "text": "و داخلی لومیه رو به دوستان همون نشون بده"
+    },
+    {
+      "id": 32,
+      "start": 8520.26,
+      "end": 8523.54,
+      "formatted_start": "02:22:00.260",
+      "formatted_end": "02:22:03.540",
+      "text": "داخلی لومیه، فضاش فرم میکنه، داخلی سفاره جاپون"
+    },
+    {
+      "id": 33,
+      "start": 8523.54,
+      "end": 8528.06,
+      "formatted_start": "02:22:03.540",
+      "formatted_end": "02:22:08.060",
+      "text": "کلمت کنترلش به صورت دکمه ای هستش و مانیکلش فرم میکنه"
+    },
+    {
+      "id": 34,
+      "start": 8528.06,
+      "end": 8534.06,
+      "formatted_start": "02:22:08.060",
+      "formatted_end": "02:22:14.060",
+      "text": "و دیگه دیپ دنیا ما همه ای آپشن ها رو داریم برای سیستم صورتی جدید"
+    },
+    {
+      "id": 35,
+      "start": 8534.06,
+      "end": 8538.06,
+      "formatted_start": "02:22:14.060",
+      "formatted_end": "02:22:18.060",
+      "text": "و از آنهایی میتونیم اینجا رو نشون بده"
+    },
+    {
+      "id": 36,
+      "start": 8538.06,
+      "end": 8544.06,
+      "formatted_start": "02:22:18.060",
+      "formatted_end": "02:22:24.060",
+      "text": "ما در داخل به قسمت اقل رو میکنیم"
+    },
+    {
+      "id": 37,
+      "start": 8544.06,
+      "end": 8546.06,
+      "formatted_start": "02:22:24.060",
+      "formatted_end": "02:22:26.060",
+      "text": "نشنش کنیم"
+    },
+    {
+      "id": 38,
+      "start": 8546.06,
+      "end": 8549.06,
+      "formatted_start": "02:22:26.060",
+      "formatted_end": "02:22:29.060",
+      "text": "تنظیمات پرده"
+    },
+    {
+      "id": 39,
+      "start": 8558.06,
+      "end": 8588.04,
+      "formatted_start": "02:22:38.060",
+      "formatted_end": "02:23:08.040",
+      "text": "موسیقی درست دارید"
+    },
+    {
+      "id": 40,
+      "start": 8588.06,
+      "end": 8602.06,
+      "formatted_start": "02:23:08.060",
+      "formatted_end": "02:23:22.060",
+      "text": "موسیقی"
+    },
+    {
+      "id": 41,
+      "start": 8618.06,
+      "end": 8648.04,
+      "formatted_start": "02:23:38.060",
+      "formatted_end": "02:24:08.040",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 42,
+      "start": 8648.06,
+      "end": 8678.04,
+      "formatted_start": "02:24:08.060",
+      "formatted_end": "02:24:38.040",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 43,
+      "start": 8678.06,
+      "end": 8700.06,
+      "formatted_start": "02:24:38.060",
+      "formatted_end": "02:25:00.060",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

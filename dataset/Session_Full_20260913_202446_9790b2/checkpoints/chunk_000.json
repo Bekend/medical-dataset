@@ -1,0 +1,311 @@
+{
+  "chunk_index": 0,
+  "start_sec": 0.0,
+  "end_sec": 300.0,
+  "turns": [
+    {
+      "start": 33.882,
+      "end": 34.962,
+      "formatted_start": "00:00:33.882",
+      "formatted_end": "00:00:34.962",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 34.287,
+      "end": 34.827,
+      "formatted_start": "00:00:34.287",
+      "formatted_end": "00:00:34.827",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.962,
+      "end": 35.587,
+      "formatted_start": "00:00:34.962",
+      "formatted_end": "00:00:35.587",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 35.975,
+      "end": 37.628,
+      "formatted_start": "00:00:35.975",
+      "formatted_end": "00:00:37.628",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 36.869,
+      "end": 39.502,
+      "formatted_start": "00:00:36.869",
+      "formatted_end": "00:00:39.502",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 39.265,
+      "end": 39.721,
+      "formatted_start": "00:00:39.265",
+      "formatted_end": "00:00:39.721",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 40.177,
+      "end": 45.408,
+      "formatted_start": "00:00:40.177",
+      "formatted_end": "00:00:45.408",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 45.391,
+      "end": 47.062,
+      "formatted_start": "00:00:45.391",
+      "formatted_end": "00:00:47.062",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 47.062,
+      "end": 52.006,
+      "formatted_start": "00:00:47.062",
+      "formatted_end": "00:00:52.006",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 52.512,
+      "end": 53.525,
+      "formatted_start": "00:00:52.512",
+      "formatted_end": "00:00:53.525",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 186.753,
+      "end": 187.124,
+      "formatted_start": "00:03:06.753",
+      "formatted_end": "00:03:07.124",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.98,
+      "formatted_start": "00:00:00.000",
+      "formatted_end": "00:00:29.980",
+      "text": "موسیقی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 32.0,
+      "formatted_start": "00:00:30.000",
+      "formatted_end": "00:00:32.000",
+      "text": "برنامه در کجا؟"
+    },
+    {
+      "id": 2,
+      "start": 32.0,
+      "end": 34.0,
+      "formatted_start": "00:00:32.000",
+      "formatted_end": "00:00:34.000",
+      "text": "همه سه همه هایی جاکیری عزیز، خوبی؟"
+    },
+    {
+      "id": 3,
+      "start": 34.0,
+      "end": 34.5,
+      "formatted_start": "00:00:34.000",
+      "formatted_end": "00:00:34.500",
+      "text": "مردم در کجا؟"
+    },
+    {
+      "id": 4,
+      "start": 34.5,
+      "end": 35.66,
+      "formatted_start": "00:00:34.500",
+      "formatted_end": "00:00:35.660",
+      "text": "از هم های جاکیره عزیز"
+    },
+    {
+      "id": 5,
+      "start": 35.66,
+      "end": 36.16,
+      "formatted_start": "00:00:35.660",
+      "formatted_end": "00:00:36.160",
+      "text": "خوبی؟"
+    },
+    {
+      "id": 6,
+      "start": 36.16,
+      "end": 36.66,
+      "formatted_start": "00:00:36.160",
+      "formatted_end": "00:00:36.660",
+      "text": "نه راضی هست"
+    },
+    {
+      "id": 7,
+      "start": 36.66,
+      "end": 37.16,
+      "formatted_start": "00:00:36.660",
+      "formatted_end": "00:00:37.160",
+      "text": "مردم در کجا؟"
+    },
+    {
+      "id": 8,
+      "start": 37.16,
+      "end": 37.66,
+      "formatted_start": "00:00:37.160",
+      "formatted_end": "00:00:37.660",
+      "text": "مردم در کجا؟"
+    },
+    {
+      "id": 9,
+      "start": 37.66,
+      "end": 39.66,
+      "formatted_start": "00:00:37.660",
+      "formatted_end": "00:00:39.660",
+      "text": "اما پیرو به فرمایشتون که گفتی شب"
+    },
+    {
+      "id": 10,
+      "start": 39.66,
+      "end": 40.16,
+      "formatted_start": "00:00:39.660",
+      "formatted_end": "00:00:40.160",
+      "text": "شب"
+    },
+    {
+      "id": 11,
+      "start": 40.16,
+      "end": 41.7,
+      "formatted_start": "00:00:40.160",
+      "formatted_end": "00:00:41.700",
+      "text": "اینو فقط پیامک کن برای من"
+    },
+    {
+      "id": 12,
+      "start": 41.7,
+      "end": 43.46,
+      "formatted_start": "00:00:41.700",
+      "formatted_end": "00:00:43.460",
+      "text": "چی از برنامهاتون و ساعتشون"
+    },
+    {
+      "id": 13,
+      "start": 43.46,
+      "end": 44.66,
+      "formatted_start": "00:00:43.460",
+      "formatted_end": "00:00:44.660",
+      "text": "من در پیستن وایده خبر گروه گان"
+    },
+    {
+      "id": 14,
+      "start": 44.66,
+      "end": 45.34,
+      "formatted_start": "00:00:44.660",
+      "formatted_end": "00:00:45.340",
+      "text": "نم داری شب"
+    },
+    {
+      "id": 15,
+      "start": 45.34,
+      "end": 47.0,
+      "formatted_start": "00:00:45.340",
+      "formatted_end": "00:00:47.000",
+      "text": "باشه من الان توی مرسی رسم"
+    },
+    {
+      "id": 16,
+      "start": 47.0,
+      "end": 47.66,
+      "formatted_start": "00:00:47.000",
+      "formatted_end": "00:00:47.660",
+      "text": "وازداشهر سیده"
+    },
+    {
+      "id": 17,
+      "start": 47.66,
+      "end": 49.84,
+      "formatted_start": "00:00:47.660",
+      "formatted_end": "00:00:49.840",
+      "text": "باشه هر موقع فای من کردی من تیری جو بدم"
+    },
+    {
+      "id": 18,
+      "start": 49.84,
+      "end": 50.34,
+      "formatted_start": "00:00:49.840",
+      "formatted_end": "00:00:50.340",
+      "text": "چشم"
+    },
+    {
+      "id": 19,
+      "start": 50.34,
+      "end": 52.34,
+      "formatted_start": "00:00:50.340",
+      "formatted_end": "00:00:52.340",
+      "text": "مرمو خدم"
+    },
+    {
+      "id": 20,
+      "start": 80.34,
+      "end": 108.34,
+      "formatted_start": "00:01:20.340",
+      "formatted_end": "00:01:48.340",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 110.34,
+      "end": 138.34,
+      "formatted_start": "00:01:50.340",
+      "formatted_end": "00:02:18.340",
+      "text": "موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 140.34,
+      "end": 170.34,
+      "formatted_start": "00:02:20.340",
+      "formatted_end": "00:02:50.340",
+      "text": "بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی بی ب"
+    },
+    {
+      "id": 23,
+      "start": 170.34,
+      "end": 200.32,
+      "formatted_start": "00:02:50.340",
+      "formatted_end": "00:03:20.320",
+      "text": "بیماری کنید"
+    },
+    {
+      "id": 24,
+      "start": 200.34,
+      "end": 220.34,
+      "formatted_start": "00:03:20.340",
+      "formatted_end": "00:03:40.340",
+      "text": "موسیقی"
+    },
+    {
+      "id": 25,
+      "start": 220.34,
+      "end": 250.32,
+      "formatted_start": "00:03:40.340",
+      "formatted_end": "00:04:10.320",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 250.34,
+      "end": 280.32,
+      "formatted_start": "00:04:10.340",
+      "formatted_end": "00:04:40.320",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 27,
+      "start": 280.34,
+      "end": 300.34,
+      "formatted_start": "00:04:40.340",
+      "formatted_end": "00:05:00.340",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,174 @@
+{
+  "chunk_index": 42,
+  "start_sec": 12600.0,
+  "end_sec": 12900.0,
+  "turns": [
+    {
+      "start": 12600.031,
+      "end": 12603.153,
+      "formatted_start": "03:30:00.031",
+      "formatted_end": "03:30:03.153",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12607.625,
+      "end": 12612.637,
+      "formatted_start": "03:30:07.625",
+      "formatted_end": "03:30:12.637",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12613.379,
+      "end": 12614.662,
+      "formatted_start": "03:30:13.379",
+      "formatted_end": "03:30:14.662",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12614.999,
+      "end": 12616.923,
+      "formatted_start": "03:30:14.999",
+      "formatted_end": "03:30:16.923",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12617.26,
+      "end": 12618.762,
+      "formatted_start": "03:30:17.260",
+      "formatted_end": "03:30:18.762",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12620.787,
+      "end": 12637.038,
+      "formatted_start": "03:30:20.787",
+      "formatted_end": "03:30:37.038",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12648.513,
+      "end": 12651.787,
+      "formatted_start": "03:30:48.513",
+      "formatted_end": "03:30:51.787",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 12651.787,
+      "end": 12653.879,
+      "formatted_start": "03:30:51.787",
+      "formatted_end": "03:30:53.879",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 12653.98,
+      "end": 12659.667,
+      "formatted_start": "03:30:53.980",
+      "formatted_end": "03:30:59.667",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 12667.025,
+      "end": 12668.358,
+      "formatted_start": "03:31:07.025",
+      "formatted_end": "03:31:08.358",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 12672.543,
+      "end": 12675.26,
+      "formatted_start": "03:31:12.543",
+      "formatted_end": "03:31:15.260",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 12675.8,
+      "end": 12677.572,
+      "formatted_start": "03:31:15.800",
+      "formatted_end": "03:31:17.572",
+      "speaker": "SPEAKER_03"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12600.0,
+      "end": 12630.0,
+      "formatted_start": "03:30:00.000",
+      "formatted_end": "03:30:30.000",
+      "text": "باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید باید بای"
+    },
+    {
+      "id": 1,
+      "start": 12630.0,
+      "end": 12652.0,
+      "formatted_start": "03:30:30.000",
+      "formatted_end": "03:30:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 12660.0,
+      "end": 12684.0,
+      "formatted_start": "03:31:00.000",
+      "formatted_end": "03:31:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 12690.0,
+      "end": 12719.98,
+      "formatted_start": "03:31:30.000",
+      "formatted_end": "03:31:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 12720.0,
+      "end": 12749.98,
+      "formatted_start": "03:32:00.000",
+      "formatted_end": "03:32:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 5,
+      "start": 12750.0,
+      "end": 12779.98,
+      "formatted_start": "03:32:30.000",
+      "formatted_end": "03:32:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 12780.0,
+      "end": 12809.98,
+      "formatted_start": "03:33:00.000",
+      "formatted_end": "03:33:29.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 7,
+      "start": 12810.0,
+      "end": 12839.98,
+      "formatted_start": "03:33:30.000",
+      "formatted_end": "03:33:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 12840.0,
+      "end": 12869.98,
+      "formatted_start": "03:34:00.000",
+      "formatted_end": "03:34:29.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 9,
+      "start": 12870.0,
+      "end": 12899.98,
+      "formatted_start": "03:34:30.000",
+      "formatted_end": "03:34:59.980",
+      "text": "مردم در اینجا"
+    }
+  ],
+  "status": "completed"
+}

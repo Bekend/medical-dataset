@@ -1,0 +1,97 @@
+{
+  "chunk_index": 10,
+  "start_sec": 3000.0,
+  "end_sec": 3300.0,
+  "turns": [],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3000.0,
+      "end": 3029.98,
+      "formatted_start": "00:50:00.000",
+      "formatted_end": "00:50:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 3030.0,
+      "end": 3050.0,
+      "formatted_start": "00:50:30.000",
+      "formatted_end": "00:50:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3050.0,
+      "end": 3079.98,
+      "formatted_start": "00:50:50.000",
+      "formatted_end": "00:51:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3080.0,
+      "end": 3109.98,
+      "formatted_start": "00:51:20.000",
+      "formatted_end": "00:51:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 3110.0,
+      "end": 3138.0,
+      "formatted_start": "00:51:50.000",
+      "formatted_end": "00:52:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 3140.0,
+      "end": 3169.98,
+      "formatted_start": "00:52:20.000",
+      "formatted_end": "00:52:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 3170.0,
+      "end": 3199.98,
+      "formatted_start": "00:52:50.000",
+      "formatted_end": "00:53:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 3200.0,
+      "end": 3229.98,
+      "formatted_start": "00:53:20.000",
+      "formatted_end": "00:53:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 3230.0,
+      "end": 3240.0,
+      "formatted_start": "00:53:50.000",
+      "formatted_end": "00:54:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 3260.0,
+      "end": 3282.0,
+      "formatted_start": "00:54:20.000",
+      "formatted_end": "00:54:42.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 3282.0,
+      "end": 3300.0,
+      "formatted_start": "00:54:42.000",
+      "formatted_end": "00:55:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,209 @@
+{
+  "chunk_index": 15,
+  "start_sec": 4500.0,
+  "end_sec": 4800.0,
+  "turns": [
+    {
+      "start": 4556.579,
+      "end": 4556.95,
+      "formatted_start": "01:15:56.579",
+      "formatted_end": "01:15:56.950",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4613.296,
+      "end": 4618.46,
+      "formatted_start": "01:16:53.296",
+      "formatted_end": "01:16:58.460",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4618.679,
+      "end": 4621.227,
+      "formatted_start": "01:16:58.679",
+      "formatted_end": "01:17:01.227",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4621.362,
+      "end": 4625.969,
+      "formatted_start": "01:17:01.362",
+      "formatted_end": "01:17:05.969",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4622.273,
+      "end": 4623.252,
+      "formatted_start": "01:17:02.273",
+      "formatted_end": "01:17:03.252",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 4625.969,
+      "end": 4627.167,
+      "formatted_start": "01:17:05.969",
+      "formatted_end": "01:17:07.167",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 4627.387,
+      "end": 4633.546,
+      "formatted_start": "01:17:07.387",
+      "formatted_end": "01:17:13.546",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 4627.589,
+      "end": 4628.028,
+      "formatted_start": "01:17:07.589",
+      "formatted_end": "01:17:08.028",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4628.028,
+      "end": 4629.952,
+      "formatted_start": "01:17:08.028",
+      "formatted_end": "01:17:09.952",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4633.732,
+      "end": 4634.322,
+      "formatted_start": "01:17:13.732",
+      "formatted_end": "01:17:14.322",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 4635.065,
+      "end": 4637.765,
+      "formatted_start": "01:17:15.065",
+      "formatted_end": "01:17:17.765",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4637.967,
+      "end": 4638.642,
+      "formatted_start": "01:17:17.967",
+      "formatted_end": "01:17:18.642",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4641.848,
+      "end": 4649.037,
+      "formatted_start": "01:17:21.848",
+      "formatted_end": "01:17:29.037",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4649.273,
+      "end": 4649.813,
+      "formatted_start": "01:17:29.273",
+      "formatted_end": "01:17:29.813",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 4661.457,
+      "end": 4664.528,
+      "formatted_start": "01:17:41.457",
+      "formatted_end": "01:17:44.528",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4665.625,
+      "end": 4667.937,
+      "formatted_start": "01:17:45.625",
+      "formatted_end": "01:17:47.937",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4674.485,
+      "end": 4675.548,
+      "formatted_start": "01:17:54.485",
+      "formatted_end": "01:17:55.548",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4500.0,
+      "end": 4529.98,
+      "formatted_start": "01:15:00.000",
+      "formatted_end": "01:15:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 4530.0,
+      "end": 4558.0,
+      "formatted_start": "01:15:30.000",
+      "formatted_end": "01:15:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4560.0,
+      "end": 4588.0,
+      "formatted_start": "01:16:00.000",
+      "formatted_end": "01:16:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 4590.0,
+      "end": 4618.0,
+      "formatted_start": "01:16:30.000",
+      "formatted_end": "01:16:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4620.0,
+      "end": 4650.0,
+      "formatted_start": "01:17:00.000",
+      "formatted_end": "01:17:30.000",
+      "text": "این هایی که با شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما برای شما ب"
+    },
+    {
+      "id": 5,
+      "start": 4650.0,
+      "end": 4674.0,
+      "formatted_start": "01:17:30.000",
+      "formatted_end": "01:17:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 4680.0,
+      "end": 4709.98,
+      "formatted_start": "01:18:00.000",
+      "formatted_end": "01:18:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4710.0,
+      "end": 4738.0,
+      "formatted_start": "01:18:30.000",
+      "formatted_end": "01:18:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 4740.0,
+      "end": 4742.0,
+      "formatted_start": "01:19:00.000",
+      "formatted_end": "01:19:02.000",
+      "text": "موسیقی در مدرسه"
+    },
+    {
+      "id": 9,
+      "start": 4770.0,
+      "end": 4796.0,
+      "formatted_start": "01:19:30.000",
+      "formatted_end": "01:19:56.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

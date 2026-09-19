@@ -1,0 +1,492 @@
+{
+  "chunk_index": 4,
+  "start_sec": 1200.0,
+  "end_sec": 1500.0,
+  "turns": [
+    {
+      "start": 1200.031,
+      "end": 1203.271,
+      "formatted_start": "00:20:00.031",
+      "formatted_end": "00:20:03.271",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1203.659,
+      "end": 1212.248,
+      "formatted_start": "00:20:03.659",
+      "formatted_end": "00:20:12.248",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1205.718,
+      "end": 1206.376,
+      "formatted_start": "00:20:05.718",
+      "formatted_end": "00:20:06.376",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1212.687,
+      "end": 1214.324,
+      "formatted_start": "00:20:12.687",
+      "formatted_end": "00:20:14.324",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1214.543,
+      "end": 1222.036,
+      "formatted_start": "00:20:14.543",
+      "formatted_end": "00:20:22.036",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1217.395,
+      "end": 1218.475,
+      "formatted_start": "00:20:17.395",
+      "formatted_end": "00:20:18.475",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1218.526,
+      "end": 1220.213,
+      "formatted_start": "00:20:18.526",
+      "formatted_end": "00:20:20.213",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1251.567,
+      "end": 1260.494,
+      "formatted_start": "00:20:51.567",
+      "formatted_end": "00:21:00.494",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1267.582,
+      "end": 1268.307,
+      "formatted_start": "00:21:07.582",
+      "formatted_end": "00:21:08.307",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1268.459,
+      "end": 1270.568,
+      "formatted_start": "00:21:08.459",
+      "formatted_end": "00:21:10.568",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1271.007,
+      "end": 1272.914,
+      "formatted_start": "00:21:11.007",
+      "formatted_end": "00:21:12.914",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1273.083,
+      "end": 1276.019,
+      "formatted_start": "00:21:13.083",
+      "formatted_end": "00:21:16.019",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1276.255,
+      "end": 1277.453,
+      "formatted_start": "00:21:16.255",
+      "formatted_end": "00:21:17.453",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1277.825,
+      "end": 1279.529,
+      "formatted_start": "00:21:17.825",
+      "formatted_end": "00:21:19.529",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1280.086,
+      "end": 1281.537,
+      "formatted_start": "00:21:20.086",
+      "formatted_end": "00:21:21.537",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1281.689,
+      "end": 1283.798,
+      "formatted_start": "00:21:21.689",
+      "formatted_end": "00:21:23.798",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1284.254,
+      "end": 1286.903,
+      "formatted_start": "00:21:24.254",
+      "formatted_end": "00:21:26.903",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1287.545,
+      "end": 1288.844,
+      "formatted_start": "00:21:27.545",
+      "formatted_end": "00:21:28.844",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1289.283,
+      "end": 1290.903,
+      "formatted_start": "00:21:29.283",
+      "formatted_end": "00:21:30.903",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1291.325,
+      "end": 1292.624,
+      "formatted_start": "00:21:31.325",
+      "formatted_end": "00:21:32.624",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1293.299,
+      "end": 1295.476,
+      "formatted_start": "00:21:33.299",
+      "formatted_end": "00:21:35.476",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1296.117,
+      "end": 1298.412,
+      "formatted_start": "00:21:36.117",
+      "formatted_end": "00:21:38.412",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1299.121,
+      "end": 1299.593,
+      "formatted_start": "00:21:39.121",
+      "formatted_end": "00:21:39.593",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1299.695,
+      "end": 1300.15,
+      "formatted_start": "00:21:39.695",
+      "formatted_end": "00:21:40.150",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1300.437,
+      "end": 1302.023,
+      "formatted_start": "00:21:40.437",
+      "formatted_end": "00:21:42.023",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1303.087,
+      "end": 1304.065,
+      "formatted_start": "00:21:43.087",
+      "formatted_end": "00:21:44.065",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1304.572,
+      "end": 1305.972,
+      "formatted_start": "00:21:44.572",
+      "formatted_end": "00:21:45.972",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1306.698,
+      "end": 1307.137,
+      "formatted_start": "00:21:46.698",
+      "formatted_end": "00:21:47.137",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1494.263,
+      "end": 1499.967,
+      "formatted_start": "00:24:54.263",
+      "formatted_end": "00:24:59.967",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1498.297,
+      "end": 1499.967,
+      "formatted_start": "00:24:58.297",
+      "formatted_end": "00:24:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 1200.0,
+      "end": 1203.5,
+      "formatted_start": "00:20:00.000",
+      "formatted_end": "00:20:03.500",
+      "text": "باید یک کلو گروب ساعت 6-7 بیانیم، ما تا 7 هستیم."
+    },
+    {
+      "id": 1,
+      "start": 1203.5,
+      "end": 1206.0,
+      "formatted_start": "00:20:03.500",
+      "formatted_end": "00:20:06.000",
+      "text": "بعد شربت هم درش داریم، سر ساعت نیم."
+    },
+    {
+      "id": 2,
+      "start": 1206.0,
+      "end": 1209.0,
+      "formatted_start": "00:20:06.000",
+      "formatted_end": "00:20:09.000",
+      "text": "آیا مهم باشید بشه برام بزنیم، من چون سرکار میکنم برام من."
+    },
+    {
+      "id": 3,
+      "start": 1209.0,
+      "end": 1214.0,
+      "formatted_start": "00:20:09.000",
+      "formatted_end": "00:20:14.000",
+      "text": "خب، گروب بزنیم خب رو راسته ره دیگه، یعنی ساعتش میکنه."
+    },
+    {
+      "id": 4,
+      "start": 1214.0,
+      "end": 1215.0,
+      "formatted_start": "00:20:14.000",
+      "formatted_end": "00:20:15.000",
+      "text": "همونطور نرم از نیزنن."
+    },
+    {
+      "id": 5,
+      "start": 1215.0,
+      "end": 1218.0,
+      "formatted_start": "00:20:15.000",
+      "formatted_end": "00:20:18.000",
+      "text": "الان که نیزنن، دکتر رو الان میزن یک کلو از نیزن نفر نتر."
+    },
+    {
+      "id": 6,
+      "start": 1218.0,
+      "end": 1219.0,
+      "formatted_start": "00:20:18.000",
+      "formatted_end": "00:20:19.000",
+      "text": "باش."
+    },
+    {
+      "id": 7,
+      "start": 1219.0,
+      "end": 1221.0,
+      "formatted_start": "00:20:19.000",
+      "formatted_end": "00:20:21.000",
+      "text": "هرمون شما خدا نگهند"
+    },
+    {
+      "id": 8,
+      "start": 1249.0,
+      "end": 1258.0,
+      "formatted_start": "00:20:49.000",
+      "formatted_end": "00:20:58.000",
+      "text": "امروز جمعه ۲۸ و اومدیم کو ارتفاعات حلقاتی"
+    },
+    {
+      "id": 9,
+      "start": 1258.0,
+      "end": 1261.0,
+      "formatted_start": "00:20:58.000",
+      "formatted_end": "00:21:01.000",
+      "text": "درمیان ما دو گروه ما هستیم"
+    },
+    {
+      "id": 10,
+      "start": 1261.0,
+      "end": 1264.0,
+      "formatted_start": "00:21:01.000",
+      "formatted_end": "00:21:04.000",
+      "text": "دختر خانم کو نورد ۷ ساله داریم"
+    },
+    {
+      "id": 11,
+      "start": 1264.0,
+      "end": 1268.0,
+      "formatted_start": "00:21:04.000",
+      "formatted_end": "00:21:08.000",
+      "text": "نوجوان ۱۶ ساله داریم"
+    },
+    {
+      "id": 12,
+      "start": 1268.0,
+      "end": 1270.0,
+      "formatted_start": "00:21:08.000",
+      "formatted_end": "00:21:10.000",
+      "text": "دختر خانم ۲۸ ساله داریم"
+    },
+    {
+      "id": 13,
+      "start": 1270.0,
+      "end": 1274.0,
+      "formatted_start": "00:21:10.000",
+      "formatted_end": "00:21:14.000",
+      "text": "و خانم ۷۰ خدا قبر"
+    },
+    {
+      "id": 14,
+      "start": 1274.0,
+      "end": 1277.0,
+      "formatted_start": "00:21:14.000",
+      "formatted_end": "00:21:17.000",
+      "text": "عالی بودیم هاش خانم خیلی عالی بودیم"
+    },
+    {
+      "id": 15,
+      "start": 1277.0,
+      "end": 1281.0,
+      "formatted_start": "00:21:17.000",
+      "formatted_end": "00:21:21.000",
+      "text": "از 72 سال تا 7 سال می‌گیر."
+    },
+    {
+      "id": 16,
+      "start": 1281.0,
+      "end": 1283.0,
+      "formatted_start": "00:21:21.000",
+      "formatted_end": "00:21:23.000",
+      "text": "این عزلت می‌خوام. 8 سال."
+    },
+    {
+      "id": 17,
+      "start": 1283.0,
+      "end": 1285.0,
+      "formatted_start": "00:21:23.000",
+      "formatted_end": "00:21:25.000",
+      "text": "8 سال داریم."
+    },
+    {
+      "id": 18,
+      "start": 1285.0,
+      "end": 1287.0,
+      "formatted_start": "00:21:25.000",
+      "formatted_end": "00:21:27.000",
+      "text": "بلا و ازایی تیم می‌گه"
+    },
+    {
+      "id": 19,
+      "start": 1287.0,
+      "end": 1292.0,
+      "formatted_start": "00:21:27.000",
+      "formatted_end": "00:21:32.000",
+      "text": "مختلف هستن و خرسخارهایی که می‌بینید دارن می‌آم."
+    },
+    {
+      "id": 20,
+      "start": 1292.0,
+      "end": 1293.0,
+      "formatted_start": "00:21:32.000",
+      "formatted_end": "00:21:33.000",
+      "text": "خوش آمدید."
+    },
+    {
+      "id": 21,
+      "start": 1293.0,
+      "end": 1295.0,
+      "formatted_start": "00:21:33.000",
+      "formatted_end": "00:21:35.000",
+      "text": "و این خرسخارهایی می‌گه"
+    },
+    {
+      "id": 22,
+      "start": 1295.0,
+      "end": 1298.0,
+      "formatted_start": "00:21:35.000",
+      "formatted_end": "00:21:38.000",
+      "text": "خوش آمدید می‌گه"
+    },
+    {
+      "id": 23,
+      "start": 1298.0,
+      "end": 1300.0,
+      "formatted_start": "00:21:38.000",
+      "formatted_end": "00:21:40.000",
+      "text": "خند"
+    },
+    {
+      "id": 24,
+      "start": 1302.0,
+      "end": 1304.0,
+      "formatted_start": "00:21:42.000",
+      "formatted_end": "00:21:44.000",
+      "text": "دیدید دیدید"
+    },
+    {
+      "id": 25,
+      "start": 1304.0,
+      "end": 1306.0,
+      "formatted_start": "00:21:44.000",
+      "formatted_end": "00:21:46.000",
+      "text": "خانه خستن نماشه"
+    },
+    {
+      "id": 26,
+      "start": 1306.0,
+      "end": 1308.0,
+      "formatted_start": "00:21:46.000",
+      "formatted_end": "00:21:48.000",
+      "text": "باید بردارید"
+    },
+    {
+      "id": 27,
+      "start": 1336.0,
+      "end": 1346.0,
+      "formatted_start": "00:22:16.000",
+      "formatted_end": "00:22:26.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 1366.0,
+      "end": 1395.98,
+      "formatted_start": "00:22:46.000",
+      "formatted_end": "00:23:15.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 29,
+      "start": 1396.0,
+      "end": 1425.98,
+      "formatted_start": "00:23:16.000",
+      "formatted_end": "00:23:45.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 30,
+      "start": 1426.0,
+      "end": 1455.98,
+      "formatted_start": "00:23:46.000",
+      "formatted_end": "00:24:15.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 31,
+      "start": 1456.0,
+      "end": 1472.0,
+      "formatted_start": "00:24:16.000",
+      "formatted_end": "00:24:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 32,
+      "start": 1472.0,
+      "end": 1494.0,
+      "formatted_start": "00:24:32.000",
+      "formatted_end": "00:24:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 33,
+      "start": 1494.0,
+      "end": 1500.0,
+      "formatted_start": "00:24:54.000",
+      "formatted_end": "00:25:00.000",
+      "text": "بخند"
+    }
+  ],
+  "status": "completed"
+}

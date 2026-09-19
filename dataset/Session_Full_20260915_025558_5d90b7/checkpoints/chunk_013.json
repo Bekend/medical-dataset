@@ -1,0 +1,104 @@
+{
+  "chunk_index": 13,
+  "start_sec": 3900.0,
+  "end_sec": 4200.0,
+  "turns": [
+    {
+      "start": 4036.178,
+      "end": 4038.035,
+      "formatted_start": "01:07:16.178",
+      "formatted_end": "01:07:18.035",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4038.794,
+      "end": 4041.038,
+      "formatted_start": "01:07:18.794",
+      "formatted_end": "01:07:21.038",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3900.0,
+      "end": 3929.98,
+      "formatted_start": "01:05:00.000",
+      "formatted_end": "01:05:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 3930.0,
+      "end": 3959.98,
+      "formatted_start": "01:05:30.000",
+      "formatted_end": "01:05:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3960.0,
+      "end": 3980.0,
+      "formatted_start": "01:06:00.000",
+      "formatted_end": "01:06:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3980.0,
+      "end": 4009.98,
+      "formatted_start": "01:06:20.000",
+      "formatted_end": "01:06:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4010.0,
+      "end": 4034.0,
+      "formatted_start": "01:06:50.000",
+      "formatted_end": "01:07:14.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4034.0,
+      "end": 4062.0,
+      "formatted_start": "01:07:14.000",
+      "formatted_end": "01:07:42.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 4064.0,
+      "end": 4084.0,
+      "formatted_start": "01:07:44.000",
+      "formatted_end": "01:08:04.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4084.0,
+      "end": 4086.0,
+      "formatted_start": "01:08:04.000",
+      "formatted_end": "01:08:06.000",
+      "text": "مرد"
+    },
+    {
+      "id": 8,
+      "start": 4114.0,
+      "end": 4143.98,
+      "formatted_start": "01:08:34.000",
+      "formatted_end": "01:09:03.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4144.0,
+      "end": 4173.98,
+      "formatted_start": "01:09:04.000",
+      "formatted_end": "01:09:33.980",
+      "text": "موسیقی در موسیقی درسته"
+    }
+  ],
+  "status": "completed"
+}

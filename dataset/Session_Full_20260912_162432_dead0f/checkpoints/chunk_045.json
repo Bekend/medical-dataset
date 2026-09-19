@@ -1,0 +1,465 @@
+{
+  "chunk_index": 45,
+  "start_sec": 13500.0,
+  "end_sec": 13800.0,
+  "turns": [
+    {
+      "start": 13500.031,
+      "end": 13508.097,
+      "formatted_start": "03:45:00.031",
+      "formatted_end": "03:45:08.097",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13508.502,
+      "end": 13510.73,
+      "formatted_start": "03:45:08.502",
+      "formatted_end": "03:45:10.730",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13522.964,
+      "end": 13524.348,
+      "formatted_start": "03:45:22.964",
+      "formatted_end": "03:45:24.348",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13527.942,
+      "end": 13539.923,
+      "formatted_start": "03:45:27.942",
+      "formatted_end": "03:45:39.923",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13546.606,
+      "end": 13554.031,
+      "formatted_start": "03:45:46.606",
+      "formatted_end": "03:45:54.031",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13555.988,
+      "end": 13557.338,
+      "formatted_start": "03:45:55.988",
+      "formatted_end": "03:45:57.338",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13557.457,
+      "end": 13575.293,
+      "formatted_start": "03:45:57.457",
+      "formatted_end": "03:46:15.293",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13567.598,
+      "end": 13570.248,
+      "formatted_start": "03:46:07.598",
+      "formatted_end": "03:46:10.248",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13575.479,
+      "end": 13575.968,
+      "formatted_start": "03:46:15.479",
+      "formatted_end": "03:46:15.968",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13731.067,
+      "end": 13736.956,
+      "formatted_start": "03:48:51.067",
+      "formatted_end": "03:48:56.956",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13736.99,
+      "end": 13739.605,
+      "formatted_start": "03:48:56.990",
+      "formatted_end": "03:48:59.605",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13740.972,
+      "end": 13743.031,
+      "formatted_start": "03:49:00.972",
+      "formatted_end": "03:49:03.031",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13752.97,
+      "end": 13756.48,
+      "formatted_start": "03:49:12.970",
+      "formatted_end": "03:49:16.480",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13756.835,
+      "end": 13774.402,
+      "formatted_start": "03:49:16.835",
+      "formatted_end": "03:49:34.402",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13775.583,
+      "end": 13778.182,
+      "formatted_start": "03:49:35.583",
+      "formatted_end": "03:49:38.182",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13784.864,
+      "end": 13787.48,
+      "formatted_start": "03:49:44.864",
+      "formatted_end": "03:49:47.480",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13789.117,
+      "end": 13797.47,
+      "formatted_start": "03:49:49.117",
+      "formatted_end": "03:49:57.470",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 13500.0,
+      "end": 13528.0,
+      "formatted_start": "03:45:00.000",
+      "formatted_end": "03:45:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 13528.0,
+      "end": 13530.0,
+      "formatted_start": "03:45:28.000",
+      "formatted_end": "03:45:30.000",
+      "text": "این بابوش بندردار میشه"
+    },
+    {
+      "id": 2,
+      "start": 13530.0,
+      "end": 13532.0,
+      "formatted_start": "03:45:30.000",
+      "formatted_end": "03:45:32.000",
+      "text": "توی یکی برمشینی رو"
+    },
+    {
+      "id": 3,
+      "start": 13532.0,
+      "end": 13534.0,
+      "formatted_start": "03:45:32.000",
+      "formatted_end": "03:45:34.000",
+      "text": "توی یکی برمشینی رو برمشینی نداریم"
+    },
+    {
+      "id": 4,
+      "start": 13534.0,
+      "end": 13536.0,
+      "formatted_start": "03:45:34.000",
+      "formatted_end": "03:45:36.000",
+      "text": "که برگردیم"
+    },
+    {
+      "id": 5,
+      "start": 13536.0,
+      "end": 13538.0,
+      "formatted_start": "03:45:36.000",
+      "formatted_end": "03:45:38.000",
+      "text": "با من"
+    },
+    {
+      "id": 6,
+      "start": 13538.0,
+      "end": 13540.0,
+      "formatted_start": "03:45:38.000",
+      "formatted_end": "03:45:40.000",
+      "text": "با من با این سال کردم"
+    },
+    {
+      "id": 7,
+      "start": 13546.0,
+      "end": 13548.0,
+      "formatted_start": "03:45:46.000",
+      "formatted_end": "03:45:48.000",
+      "text": "این دوتا"
+    },
+    {
+      "id": 8,
+      "start": 13548.0,
+      "end": 13550.0,
+      "formatted_start": "03:45:48.000",
+      "formatted_end": "03:45:50.000",
+      "text": "یک برگردی رو هستم"
+    },
+    {
+      "id": 9,
+      "start": 13550.0,
+      "end": 13552.0,
+      "formatted_start": "03:45:50.000",
+      "formatted_end": "03:45:52.000",
+      "text": "یکم که نشتیم"
+    },
+    {
+      "id": 10,
+      "start": 13552.0,
+      "end": 13554.0,
+      "formatted_start": "03:45:52.000",
+      "formatted_end": "03:45:54.000",
+      "text": "یک سه، سه و چهار"
+    },
+    {
+      "id": 11,
+      "start": 13554.0,
+      "end": 13556.0,
+      "formatted_start": "03:45:54.000",
+      "formatted_end": "03:45:56.000",
+      "text": "همین باشیم"
+    },
+    {
+      "id": 12,
+      "start": 13556.0,
+      "end": 13566.0,
+      "formatted_start": "03:45:56.000",
+      "formatted_end": "03:46:06.000",
+      "text": "برسه؟ یکم بیشتر بنده نافرد. با بنده نافردش کن."
+    },
+    {
+      "id": 13,
+      "start": 13566.0,
+      "end": 13568.0,
+      "formatted_start": "03:46:06.000",
+      "formatted_end": "03:46:08.000",
+      "text": "با بنده نافردش کن. از اینکه باید کلک کنیم."
+    },
+    {
+      "id": 14,
+      "start": 13568.0,
+      "end": 13570.0,
+      "formatted_start": "03:46:08.000",
+      "formatted_end": "03:46:10.000",
+      "text": "باید کلک کنیم. باید کلک کنیم."
+    },
+    {
+      "id": 15,
+      "start": 13570.0,
+      "end": 13572.0,
+      "formatted_start": "03:46:10.000",
+      "formatted_end": "03:46:12.000",
+      "text": "باید کلک کنیم."
+    },
+    {
+      "id": 16,
+      "start": 13572.0,
+      "end": 13574.0,
+      "formatted_start": "03:46:12.000",
+      "formatted_end": "03:46:14.000",
+      "text": "باید کلک کنیم."
+    },
+    {
+      "id": 17,
+      "start": 13574.0,
+      "end": 13576.0,
+      "formatted_start": "03:46:14.000",
+      "formatted_end": "03:46:16.000",
+      "text": "باید کلک کنیم."
+    },
+    {
+      "id": 18,
+      "start": 13586.0,
+      "end": 13615.98,
+      "formatted_start": "03:46:26.000",
+      "formatted_end": "03:46:55.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 13616.0,
+      "end": 13645.98,
+      "formatted_start": "03:46:56.000",
+      "formatted_end": "03:47:25.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 20,
+      "start": 13646.0,
+      "end": 13670.0,
+      "formatted_start": "03:47:26.000",
+      "formatted_end": "03:47:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 13676.0,
+      "end": 13705.98,
+      "formatted_start": "03:47:56.000",
+      "formatted_end": "03:48:25.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 13706.0,
+      "end": 13731.0,
+      "formatted_start": "03:48:26.000",
+      "formatted_end": "03:48:51.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 13731.0,
+      "end": 13737.0,
+      "formatted_start": "03:48:51.000",
+      "formatted_end": "03:48:57.000",
+      "text": "اونو منی دیدید چیزی دلده اوام، خب، نفتر به جدو دارو بوده"
+    },
+    {
+      "id": 24,
+      "start": 13737.0,
+      "end": 13740.0,
+      "formatted_start": "03:48:57.000",
+      "formatted_end": "03:49:00.000",
+      "text": "ببینم جایگه باشه، میام اونجا یا نبود"
+    },
+    {
+      "id": 25,
+      "start": 13740.0,
+      "end": 13743.0,
+      "formatted_start": "03:49:00.000",
+      "formatted_end": "03:49:03.000",
+      "text": "میدید باستان باید برمیده"
+    },
+    {
+      "id": 26,
+      "start": 13753.0,
+      "end": 13755.0,
+      "formatted_start": "03:49:13.000",
+      "formatted_end": "03:49:15.000",
+      "text": "سلام دکتر جان، خسته نباشی"
+    },
+    {
+      "id": 27,
+      "start": 13755.0,
+      "end": 13757.0,
+      "formatted_start": "03:49:15.000",
+      "formatted_end": "03:49:17.000",
+      "text": "خوبی، اون رو ازمونت بشم"
+    },
+    {
+      "id": 28,
+      "start": 13757.0,
+      "end": 13759.0,
+      "formatted_start": "03:49:17.000",
+      "formatted_end": "03:49:19.000",
+      "text": "خوشتون یه زحمتی براتون داشتم اینهایی"
+    },
+    {
+      "id": 29,
+      "start": 13759.0,
+      "end": 13761.0,
+      "formatted_start": "03:49:19.000",
+      "formatted_end": "03:49:21.000",
+      "text": "سه چهار تا دستا هست"
+    },
+    {
+      "id": 30,
+      "start": 13761.0,
+      "end": 13763.0,
+      "formatted_start": "03:49:21.000",
+      "formatted_end": "03:49:23.000",
+      "text": "خوب اگر زحمتی بودی که از بچه ها بیاد"
+    },
+    {
+      "id": 31,
+      "start": 13763.0,
+      "end": 13765.0,
+      "formatted_start": "03:49:23.000",
+      "formatted_end": "03:49:25.000",
+      "text": "همینطور آسانسور بذاره"
+    },
+    {
+      "id": 32,
+      "start": 13765.0,
+      "end": 13767.0,
+      "formatted_start": "03:49:25.000",
+      "formatted_end": "03:49:27.000",
+      "text": "تا این ماشینه بیارم اینها داخلش به ذهن کامید"
+    },
+    {
+      "id": 33,
+      "start": 13767.0,
+      "end": 13769.0,
+      "formatted_start": "03:49:27.000",
+      "formatted_end": "03:49:29.000",
+      "text": "هر حال من اصلا تو مدتبم"
+    },
+    {
+      "id": 34,
+      "start": 13769.0,
+      "end": 13771.0,
+      "formatted_start": "03:49:29.000",
+      "formatted_end": "03:49:31.000",
+      "text": "دارم میدم"
+    },
+    {
+      "id": 35,
+      "start": 13771.0,
+      "end": 13773.0,
+      "formatted_start": "03:49:31.000",
+      "formatted_end": "03:49:33.000",
+      "text": "مثلا پارکینگ ماشینه"
+    },
+    {
+      "id": 36,
+      "start": 13773.0,
+      "end": 13775.0,
+      "formatted_start": "03:49:33.000",
+      "formatted_end": "03:49:35.000",
+      "text": "خوب اینا"
+    },
+    {
+      "id": 37,
+      "start": 13775.0,
+      "end": 13777.0,
+      "formatted_start": "03:49:35.000",
+      "formatted_end": "03:49:37.000",
+      "text": "آره آره خوش"
+    },
+    {
+      "id": 38,
+      "start": 13777.0,
+      "end": 13779.0,
+      "formatted_start": "03:49:37.000",
+      "formatted_end": "03:49:39.000",
+      "text": "مرسی خدا"
+    },
+    {
+      "id": 39,
+      "start": 13779.0,
+      "end": 13788.0,
+      "formatted_start": "03:49:39.000",
+      "formatted_end": "03:49:48.000",
+      "text": "خانسمیر من الان یکی میاد خوب؟"
+    },
+    {
+      "id": 40,
+      "start": 13788.0,
+      "end": 13794.0,
+      "formatted_start": "03:49:48.000",
+      "formatted_end": "03:49:54.000",
+      "text": "کما چیز کن اینا رو کم کم بیار خوب؟"
+    },
+    {
+      "id": 41,
+      "start": 13794.0,
+      "end": 13797.0,
+      "formatted_start": "03:49:54.000",
+      "formatted_end": "03:49:57.000",
+      "text": "من ببینم اینجا پارکین چجوریه؟"
+    }
+  ],
+  "status": "completed"
+}

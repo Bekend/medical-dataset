@@ -1,0 +1,139 @@
+{
+  "chunk_index": 70,
+  "start_sec": 21000.0,
+  "end_sec": 21300.0,
+  "turns": [
+    {
+      "start": 21083.967,
+      "end": 21084.642,
+      "formatted_start": "05:51:23.967",
+      "formatted_end": "05:51:24.642",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21084.963,
+      "end": 21090.16,
+      "formatted_start": "05:51:24.963",
+      "formatted_end": "05:51:30.160",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21090.228,
+      "end": 21096.725,
+      "formatted_start": "05:51:30.228",
+      "formatted_end": "05:51:36.725",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21102.968,
+      "end": 21108.368,
+      "formatted_start": "05:51:42.968",
+      "formatted_end": "05:51:48.368",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21109.178,
+      "end": 21117.397,
+      "formatted_start": "05:51:49.178",
+      "formatted_end": "05:51:57.397",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21117.92,
+      "end": 21121.025,
+      "formatted_start": "05:51:57.920",
+      "formatted_end": "05:52:01.025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21121.143,
+      "end": 21122.037,
+      "formatted_start": "05:52:01.143",
+      "formatted_end": "05:52:02.037",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 21000.0,
+      "end": 21029.98,
+      "formatted_start": "05:50:00.000",
+      "formatted_end": "05:50:29.980",
+      "text": "مردی بیشتر"
+    },
+    {
+      "id": 1,
+      "start": 21030.0,
+      "end": 21059.98,
+      "formatted_start": "05:50:30.000",
+      "formatted_end": "05:50:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 21060.0,
+      "end": 21084.0,
+      "formatted_start": "05:51:00.000",
+      "formatted_end": "05:51:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 21090.0,
+      "end": 21118.0,
+      "formatted_start": "05:51:30.000",
+      "formatted_end": "05:51:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 21148.0,
+      "end": 21177.98,
+      "formatted_start": "05:52:28.000",
+      "formatted_end": "05:52:57.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 5,
+      "start": 21178.0,
+      "end": 21207.98,
+      "formatted_start": "05:52:58.000",
+      "formatted_end": "05:53:27.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 21208.0,
+      "end": 21237.98,
+      "formatted_start": "05:53:28.000",
+      "formatted_end": "05:53:57.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 7,
+      "start": 21238.0,
+      "end": 21267.98,
+      "formatted_start": "05:53:58.000",
+      "formatted_end": "05:54:27.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 8,
+      "start": 21268.0,
+      "end": 21297.98,
+      "formatted_start": "05:54:28.000",
+      "formatted_end": "05:54:57.980",
+      "text": "مردم درست دارید"
+    },
+    {
+      "id": 9,
+      "start": 21298.0,
+      "end": 21300.0,
+      "formatted_start": "05:54:58.000",
+      "formatted_end": "05:55:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

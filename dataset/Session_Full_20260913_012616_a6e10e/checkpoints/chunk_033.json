@@ -1,0 +1,337 @@
+{
+  "chunk_index": 33,
+  "start_sec": 9900.0,
+  "end_sec": 10200.0,
+  "turns": [
+    {
+      "start": 10027.1,
+      "end": 10029.513,
+      "formatted_start": "02:47:07.100",
+      "formatted_end": "02:47:09.513",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10032.871,
+      "end": 10033.495,
+      "formatted_start": "02:47:12.871",
+      "formatted_end": "02:47:13.495",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10043.941,
+      "end": 10044.768,
+      "formatted_start": "02:47:23.941",
+      "formatted_end": "02:47:24.768",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10047.569,
+      "end": 10052.21,
+      "formatted_start": "02:47:27.569",
+      "formatted_end": "02:47:32.210",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10052.935,
+      "end": 10056.698,
+      "formatted_start": "02:47:32.935",
+      "formatted_end": "02:47:36.698",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10054.808,
+      "end": 10055.45,
+      "formatted_start": "02:47:34.808",
+      "formatted_end": "02:47:35.450",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10057.272,
+      "end": 10058.032,
+      "formatted_start": "02:47:37.272",
+      "formatted_end": "02:47:38.032",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10067.38,
+      "end": 10068.443,
+      "formatted_start": "02:47:47.380",
+      "formatted_end": "02:47:48.443",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10068.443,
+      "end": 10069.0,
+      "formatted_start": "02:47:48.443",
+      "formatted_end": "02:47:49.000",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10069.0,
+      "end": 10069.675,
+      "formatted_start": "02:47:49.000",
+      "formatted_end": "02:47:49.675",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10070.232,
+      "end": 10071.835,
+      "formatted_start": "02:47:50.232",
+      "formatted_end": "02:47:51.835",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10156.362,
+      "end": 10157.037,
+      "formatted_start": "02:49:16.362",
+      "formatted_end": "02:49:17.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10157.577,
+      "end": 10164.833,
+      "formatted_start": "02:49:17.577",
+      "formatted_end": "02:49:24.833",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10166.403,
+      "end": 10166.909,
+      "formatted_start": "02:49:26.403",
+      "formatted_end": "02:49:26.909",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10170.301,
+      "end": 10175.077,
+      "formatted_start": "02:49:30.301",
+      "formatted_end": "02:49:35.077",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 10177.355,
+      "end": 10178.738,
+      "formatted_start": "02:49:37.355",
+      "formatted_end": "02:49:38.738",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 10189.91,
+      "end": 10190.517,
+      "formatted_start": "02:49:49.910",
+      "formatted_end": "02:49:50.517",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9900.0,
+      "end": 9929.98,
+      "formatted_start": "02:45:00.000",
+      "formatted_end": "02:45:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 9930.0,
+      "end": 9959.98,
+      "formatted_start": "02:45:30.000",
+      "formatted_end": "02:45:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 9960.0,
+      "end": 9989.98,
+      "formatted_start": "02:46:00.000",
+      "formatted_end": "02:46:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 9990.0,
+      "end": 10000.0,
+      "formatted_start": "02:46:30.000",
+      "formatted_end": "02:46:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 10020.0,
+      "end": 10030.0,
+      "formatted_start": "02:47:00.000",
+      "formatted_end": "02:47:10.000",
+      "text": "از آزماشگاه آب سرد نداره؟"
+    },
+    {
+      "id": 5,
+      "start": 10030.0,
+      "end": 10034.0,
+      "formatted_start": "02:47:10.000",
+      "formatted_end": "02:47:14.000",
+      "text": "نداره"
+    },
+    {
+      "id": 6,
+      "start": 10034.0,
+      "end": 10044.0,
+      "formatted_start": "02:47:14.000",
+      "formatted_end": "02:47:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 10044.0,
+      "end": 10052.0,
+      "formatted_start": "02:47:24.000",
+      "formatted_end": "02:47:32.000",
+      "text": "آنیه چرمنگ برای مدیداش چیز نداره؟ یکشار نداره؟"
+    },
+    {
+      "id": 8,
+      "start": 10052.0,
+      "end": 10056.0,
+      "formatted_start": "02:47:32.000",
+      "formatted_end": "02:47:36.000",
+      "text": "آب و کن"
+    },
+    {
+      "id": 9,
+      "start": 10056.0,
+      "end": 10068.0,
+      "formatted_start": "02:47:36.000",
+      "formatted_end": "02:47:48.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 10086.0,
+      "end": 10108.0,
+      "formatted_start": "02:48:06.000",
+      "formatted_end": "02:48:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 10138.0,
+      "end": 10156.0,
+      "formatted_start": "02:48:58.000",
+      "formatted_end": "02:49:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 10156.0,
+      "end": 10158.0,
+      "formatted_start": "02:49:16.000",
+      "formatted_end": "02:49:18.000",
+      "text": "بسه برد"
+    },
+    {
+      "id": 13,
+      "start": 10158.0,
+      "end": 10160.0,
+      "formatted_start": "02:49:18.000",
+      "formatted_end": "02:49:20.000",
+      "text": "میگرد چون اون توشی باشه باهار"
+    },
+    {
+      "id": 14,
+      "start": 10160.0,
+      "end": 10162.0,
+      "formatted_start": "02:49:20.000",
+      "formatted_end": "02:49:22.000",
+      "text": "آره ولی باعث جای ما"
+    },
+    {
+      "id": 15,
+      "start": 10162.0,
+      "end": 10165.0,
+      "formatted_start": "02:49:22.000",
+      "formatted_end": "02:49:25.000",
+      "text": "خامسنمی اتحار کن زن باهاری بیار"
+    },
+    {
+      "id": 16,
+      "start": 10165.0,
+      "end": 10167.0,
+      "formatted_start": "02:49:25.000",
+      "formatted_end": "02:49:27.000",
+      "text": "آره یکترین اونجوری برد"
+    },
+    {
+      "id": 17,
+      "start": 10170.0,
+      "end": 10175.0,
+      "formatted_start": "02:49:30.000",
+      "formatted_end": "02:49:35.000",
+      "text": "اونروز محتب دکتر نفسی رفتم بردم این محتبه مارما دکه"
+    },
+    {
+      "id": 18,
+      "start": 10175.0,
+      "end": 10177.0,
+      "formatted_start": "02:49:35.000",
+      "formatted_end": "02:49:37.000",
+      "text": "آره"
+    },
+    {
+      "id": 19,
+      "start": 10177.0,
+      "end": 10179.0,
+      "formatted_start": "02:49:37.000",
+      "formatted_end": "02:49:39.000",
+      "text": "در خواهی در فرقه"
+    },
+    {
+      "id": 20,
+      "start": 10179.0,
+      "end": 10181.0,
+      "formatted_start": "02:49:39.000",
+      "formatted_end": "02:49:41.000",
+      "text": "آره"
+    },
+    {
+      "id": 21,
+      "start": 10181.0,
+      "end": 10183.0,
+      "formatted_start": "02:49:41.000",
+      "formatted_end": "02:49:43.000",
+      "text": "در اینکه یکترین خوشی باشید"
+    },
+    {
+      "id": 22,
+      "start": 10183.0,
+      "end": 10185.0,
+      "formatted_start": "02:49:43.000",
+      "formatted_end": "02:49:45.000",
+      "text": "مرد با اینکه باید برداری کنید."
+    },
+    {
+      "id": 23,
+      "start": 10185.0,
+      "end": 10187.0,
+      "formatted_start": "02:49:45.000",
+      "formatted_end": "02:49:47.000",
+      "text": "اینکه باید برداری کنید."
+    },
+    {
+      "id": 24,
+      "start": 10187.0,
+      "end": 10189.0,
+      "formatted_start": "02:49:47.000",
+      "formatted_end": "02:49:49.000",
+      "text": "اینکه باید برداری کنید."
+    },
+    {
+      "id": 25,
+      "start": 10189.0,
+      "end": 10191.0,
+      "formatted_start": "02:49:49.000",
+      "formatted_end": "02:49:51.000",
+      "text": "اینکه باید برداری کنید."
+    }
+  ],
+  "status": "completed"
+}

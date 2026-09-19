@@ -1,0 +1,168 @@
+{
+  "chunk_index": 30,
+  "start_sec": 9000.0,
+  "end_sec": 9300.0,
+  "turns": [
+    {
+      "start": 9004.216,
+      "end": 9005.532,
+      "formatted_start": "02:30:04.216",
+      "formatted_end": "02:30:05.532",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9024.432,
+      "end": 9024.871,
+      "formatted_start": "02:30:24.432",
+      "formatted_end": "02:30:24.871",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9025.377,
+      "end": 9027.419,
+      "formatted_start": "02:30:25.377",
+      "formatted_end": "02:30:27.419",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9029.14,
+      "end": 9031.773,
+      "formatted_start": "02:30:29.140",
+      "formatted_end": "02:30:31.773",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9032.093,
+      "end": 9033.173,
+      "formatted_start": "02:30:32.093",
+      "formatted_end": "02:30:33.173",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9033.612,
+      "end": 9039.029,
+      "formatted_start": "02:30:33.612",
+      "formatted_end": "02:30:39.029",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9050.673,
+      "end": 9060.038,
+      "formatted_start": "02:30:50.673",
+      "formatted_end": "02:31:00.038",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9070.973,
+      "end": 9076.306,
+      "formatted_start": "02:31:10.973",
+      "formatted_end": "02:31:16.306",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9241.327,
+      "end": 9242.069,
+      "formatted_start": "02:34:01.327",
+      "formatted_end": "02:34:02.069",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9264.85,
+      "end": 9266.639,
+      "formatted_start": "02:34:24.850",
+      "formatted_end": "02:34:26.639",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9000.0,
+      "end": 9029.98,
+      "formatted_start": "02:30:00.000",
+      "formatted_end": "02:30:29.980",
+      "text": "بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 9030.0,
+      "end": 9050.0,
+      "formatted_start": "02:30:30.000",
+      "formatted_end": "02:30:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 9050.0,
+      "end": 9070.0,
+      "formatted_start": "02:30:50.000",
+      "formatted_end": "02:31:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 9080.0,
+      "end": 9109.98,
+      "formatted_start": "02:31:20.000",
+      "formatted_end": "02:31:49.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 9110.0,
+      "end": 9139.98,
+      "formatted_start": "02:31:50.000",
+      "formatted_end": "02:32:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 9140.0,
+      "end": 9169.98,
+      "formatted_start": "02:32:20.000",
+      "formatted_end": "02:32:49.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 9170.0,
+      "end": 9199.98,
+      "formatted_start": "02:32:50.000",
+      "formatted_end": "02:33:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 7,
+      "start": 9200.0,
+      "end": 9229.98,
+      "formatted_start": "02:33:20.000",
+      "formatted_end": "02:33:49.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 8,
+      "start": 9230.0,
+      "end": 9259.98,
+      "formatted_start": "02:33:50.000",
+      "formatted_end": "02:34:19.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 9,
+      "start": 9260.0,
+      "end": 9289.98,
+      "formatted_start": "02:34:20.000",
+      "formatted_end": "02:34:49.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 9290.0,
+      "end": 9300.0,
+      "formatted_start": "02:34:50.000",
+      "formatted_end": "02:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

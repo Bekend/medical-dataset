@@ -1,0 +1,419 @@
+{
+  "chunk_index": 36,
+  "start_sec": 10800.0,
+  "end_sec": 11100.0,
+  "turns": [
+    {
+      "start": 10800.031,
+      "end": 10812.299,
+      "formatted_start": "03:00:00.031",
+      "formatted_end": "03:00:12.299",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10812.923,
+      "end": 10815.033,
+      "formatted_start": "03:00:12.923",
+      "formatted_end": "03:00:15.033",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10823.116,
+      "end": 10823.521,
+      "formatted_start": "03:00:23.116",
+      "formatted_end": "03:00:23.521",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10823.909,
+      "end": 10827.031,
+      "formatted_start": "03:00:23.909",
+      "formatted_end": "03:00:27.031",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10827.335,
+      "end": 10833.545,
+      "formatted_start": "03:00:27.335",
+      "formatted_end": "03:00:33.545",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10833.764,
+      "end": 10839.417,
+      "formatted_start": "03:00:33.764",
+      "formatted_end": "03:00:39.417",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10839.451,
+      "end": 10850.217,
+      "formatted_start": "03:00:39.451",
+      "formatted_end": "03:00:50.217",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10851.01,
+      "end": 10858.03,
+      "formatted_start": "03:00:51.010",
+      "formatted_end": "03:00:58.030",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10947.451,
+      "end": 10948.598,
+      "formatted_start": "03:02:27.451",
+      "formatted_end": "03:02:28.598",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10948.801,
+      "end": 10950.438,
+      "formatted_start": "03:02:28.801",
+      "formatted_end": "03:02:30.438",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11037.8,
+      "end": 11038.34,
+      "formatted_start": "03:03:57.800",
+      "formatted_end": "03:03:58.340",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11039.842,
+      "end": 11042.018,
+      "formatted_start": "03:03:59.842",
+      "formatted_end": "03:04:02.018",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11054.32,
+      "end": 11055.502,
+      "formatted_start": "03:04:14.320",
+      "formatted_end": "03:04:15.502",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11068.681,
+      "end": 11070.217,
+      "formatted_start": "03:04:28.681",
+      "formatted_end": "03:04:30.217",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11070.706,
+      "end": 11077.186,
+      "formatted_start": "03:04:30.706",
+      "formatted_end": "03:04:37.186",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11074.469,
+      "end": 11076.494,
+      "formatted_start": "03:04:34.469",
+      "formatted_end": "03:04:36.494",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11078.35,
+      "end": 11084.813,
+      "formatted_start": "03:04:38.350",
+      "formatted_end": "03:04:44.813",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11079.295,
+      "end": 11080.072,
+      "formatted_start": "03:04:39.295",
+      "formatted_end": "03:04:40.072",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11080.831,
+      "end": 11083.666,
+      "formatted_start": "03:04:40.831",
+      "formatted_end": "03:04:43.666",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11086.282,
+      "end": 11087.227,
+      "formatted_start": "03:04:46.282",
+      "formatted_end": "03:04:47.227",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11089.589,
+      "end": 11090.146,
+      "formatted_start": "03:04:49.589",
+      "formatted_end": "03:04:50.146",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11092.407,
+      "end": 11094.382,
+      "formatted_start": "03:04:52.407",
+      "formatted_end": "03:04:54.382",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11095.394,
+      "end": 11097.554,
+      "formatted_start": "03:04:55.394",
+      "formatted_end": "03:04:57.554",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 10800.0,
+      "end": 10804.0,
+      "formatted_start": "03:00:00.000",
+      "formatted_end": "03:00:04.000",
+      "text": "بردر بردر شده، گرده را با خود بر میدارند و از انجیر خارج میشوند."
+    },
+    {
+      "id": 1,
+      "start": 10804.0,
+      "end": 10807.0,
+      "formatted_start": "03:00:04.000",
+      "formatted_end": "03:00:07.000",
+      "text": "تا وارد انجیر نیگر شوند، این چرخی را ادامه دهند."
+    },
+    {
+      "id": 2,
+      "start": 10807.0,
+      "end": 10812.0,
+      "formatted_start": "03:00:07.000",
+      "formatted_end": "03:00:12.000",
+      "text": "اما زنبوهای نر همگز از انجیر خارجی نمیشوند و همونجا میدونند."
+    },
+    {
+      "id": 3,
+      "start": 10812.0,
+      "end": 10815.0,
+      "formatted_start": "03:00:12.000",
+      "formatted_end": "03:00:15.000",
+      "text": "حالا به بخش اینگی داستان میرسید."
+    },
+    {
+      "id": 4,
+      "start": 10815.0,
+      "end": 10819.0,
+      "formatted_start": "03:00:15.000",
+      "formatted_end": "03:00:19.000",
+      "text": "داخل انجیر آنزیب ویژیت به نام فیسی موجود دارد."
+    },
+    {
+      "id": 5,
+      "start": 10819.0,
+      "end": 10823.0,
+      "formatted_start": "03:00:19.000",
+      "formatted_end": "03:00:23.000",
+      "text": "این آنزیب بدن زنبوهای موضوعها به طور کامی تکزیه کرده"
+    },
+    {
+      "id": 6,
+      "start": 10823.0,
+      "end": 10839.0,
+      "formatted_start": "03:00:23.000",
+      "formatted_end": "03:00:39.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 10839.0,
+      "end": 10843.0,
+      "formatted_start": "03:00:39.000",
+      "formatted_end": "03:00:43.000",
+      "text": "اگر کمارگر رقصی این سی ثانیه، ماینده شغلی و زندگی تو نجات میده"
+    },
+    {
+      "id": 8,
+      "start": 10843.0,
+      "end": 10846.0,
+      "formatted_start": "03:00:43.000",
+      "formatted_end": "03:00:46.000",
+      "text": "ببین، الان دنیا داشت آره خستگی شد و بهتر خستگی دیتویتا دید"
+    },
+    {
+      "id": 9,
+      "start": 10846.0,
+      "end": 10850.0,
+      "formatted_start": "03:00:46.000",
+      "formatted_end": "03:00:50.000",
+      "text": "یعنی قبلن اگر یک فرد کمارگر، محسوسا توی یک هیچه یک طوری ممکنه باشه"
+    },
+    {
+      "id": 10,
+      "start": 10850.0,
+      "end": 10854.0,
+      "formatted_start": "03:00:50.000",
+      "formatted_end": "03:00:54.000",
+      "text": "خودش خسته میشه و ولی محصول نهایش خواهان داشت بالاخره"
+    },
+    {
+      "id": 11,
+      "start": 10854.0,
+      "end": 10857.0,
+      "formatted_start": "03:00:54.000",
+      "formatted_end": "03:00:57.000",
+      "text": "اما الان مخاطر خستگی دیتویتا آردید"
+    },
+    {
+      "id": 12,
+      "start": 10869.0,
+      "end": 10879.0,
+      "formatted_start": "03:01:09.000",
+      "formatted_end": "03:01:19.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 10899.0,
+      "end": 10928.98,
+      "formatted_start": "03:01:39.000",
+      "formatted_end": "03:02:08.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 14,
+      "start": 10929.0,
+      "end": 10947.0,
+      "formatted_start": "03:02:09.000",
+      "formatted_end": "03:02:27.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 10959.0,
+      "end": 10988.0,
+      "formatted_start": "03:02:39.000",
+      "formatted_end": "03:03:08.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 10989.0,
+      "end": 11018.0,
+      "formatted_start": "03:03:09.000",
+      "formatted_end": "03:03:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 11019.0,
+      "end": 11037.0,
+      "formatted_start": "03:03:39.000",
+      "formatted_end": "03:03:57.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 11037.0,
+      "end": 11039.0,
+      "formatted_start": "03:03:57.000",
+      "formatted_end": "03:03:59.000",
+      "text": "چرا؟"
+    },
+    {
+      "id": 19,
+      "start": 11039.0,
+      "end": 11042.0,
+      "formatted_start": "03:03:59.000",
+      "formatted_end": "03:04:02.000",
+      "text": "نه بزنم الان به شد زن بزنم"
+    },
+    {
+      "id": 20,
+      "start": 11042.0,
+      "end": 11068.0,
+      "formatted_start": "03:04:02.000",
+      "formatted_end": "03:04:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 11068.0,
+      "end": 11070.0,
+      "formatted_start": "03:04:28.000",
+      "formatted_end": "03:04:30.000",
+      "text": "حالا سلام شاپ جاییم خوبیه"
+    },
+    {
+      "id": 22,
+      "start": 11070.0,
+      "end": 11074.0,
+      "formatted_start": "03:04:30.000",
+      "formatted_end": "03:04:34.000",
+      "text": "شاپ ایه اینترنت محتم رو ما تمام شده"
+    },
+    {
+      "id": 23,
+      "start": 11074.0,
+      "end": 11076.0,
+      "formatted_start": "03:04:34.000",
+      "formatted_end": "03:04:36.000",
+      "text": "اون شماره رو دارید دیگه مال محتم"
+    },
+    {
+      "id": 24,
+      "start": 11076.0,
+      "end": 11080.0,
+      "formatted_start": "03:04:36.000",
+      "formatted_end": "03:04:40.000",
+      "text": "باشه یادت باشه"
+    },
+    {
+      "id": 25,
+      "start": 11080.0,
+      "end": 11085.0,
+      "formatted_start": "03:04:40.000",
+      "formatted_end": "03:04:45.000",
+      "text": "شاپ بخوامشی برگام ها که ایه؟"
+    },
+    {
+      "id": 26,
+      "start": 11085.0,
+      "end": 11088.0,
+      "formatted_start": "03:04:45.000",
+      "formatted_end": "03:04:48.000",
+      "text": "ها"
+    },
+    {
+      "id": 27,
+      "start": 11088.0,
+      "end": 11091.0,
+      "formatted_start": "03:04:48.000",
+      "formatted_end": "03:04:51.000",
+      "text": "چهار تا"
+    },
+    {
+      "id": 28,
+      "start": 11091.0,
+      "end": 11094.0,
+      "formatted_start": "03:04:51.000",
+      "formatted_end": "03:04:54.000",
+      "text": "نه نه باید ما تغییر میشیم"
+    },
+    {
+      "id": 29,
+      "start": 11094.0,
+      "end": 11097.0,
+      "formatted_start": "03:04:54.000",
+      "formatted_end": "03:04:57.000",
+      "text": "ببین یه نگاه کن باشه خدافزه"
+    },
+    {
+      "id": 30,
+      "start": 11097.0,
+      "end": 11099.0,
+      "formatted_start": "03:04:57.000",
+      "formatted_end": "03:04:59.000",
+      "text": "با درمیزه"
+    }
+  ],
+  "status": "completed"
+}

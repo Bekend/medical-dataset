@@ -1,0 +1,65 @@
+{
+  "chunk_index": 40,
+  "start_sec": 12000.0,
+  "end_sec": 12181.44,
+  "turns": [],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 12000.0,
+      "end": 12029.98,
+      "formatted_start": "03:20:00.000",
+      "formatted_end": "03:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 12030.0,
+      "end": 12059.98,
+      "formatted_start": "03:20:30.000",
+      "formatted_end": "03:20:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 12060.0,
+      "end": 12089.98,
+      "formatted_start": "03:21:00.000",
+      "formatted_end": "03:21:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 12090.0,
+      "end": 12119.98,
+      "formatted_start": "03:21:30.000",
+      "formatted_end": "03:21:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 4,
+      "start": 12120.0,
+      "end": 12149.98,
+      "formatted_start": "03:22:00.000",
+      "formatted_end": "03:22:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 12150.0,
+      "end": 12179.98,
+      "formatted_start": "03:22:30.000",
+      "formatted_end": "03:22:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 12180.0,
+      "end": 12182.0,
+      "formatted_start": "03:23:00.000",
+      "formatted_end": "03:23:02.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

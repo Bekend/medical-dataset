@@ -1,0 +1,134 @@
+{
+  "chunk_index": 1,
+  "start_sec": 300.0,
+  "end_sec": 600.0,
+  "turns": [
+    {
+      "start": 357.794,
+      "end": 364.038,
+      "formatted_start": "00:05:57.794",
+      "formatted_end": "00:06:04.038",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 438.136,
+      "end": 452.53,
+      "formatted_start": "00:07:18.136",
+      "formatted_end": "00:07:32.530",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 452.817,
+      "end": 456.175,
+      "formatted_start": "00:07:32.817",
+      "formatted_end": "00:07:36.175",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 547.368,
+      "end": 560.834,
+      "formatted_start": "00:09:07.368",
+      "formatted_end": "00:09:20.834",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 300.0,
+      "end": 329.98,
+      "formatted_start": "00:05:00.000",
+      "formatted_end": "00:05:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 330.0,
+      "end": 343.0,
+      "formatted_start": "00:05:30.000",
+      "formatted_end": "00:05:43.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 360.0,
+      "end": 374.0,
+      "formatted_start": "00:06:00.000",
+      "formatted_end": "00:06:14.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 390.0,
+      "end": 419.98,
+      "formatted_start": "00:06:30.000",
+      "formatted_end": "00:06:59.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 4,
+      "start": 420.0,
+      "end": 438.0,
+      "formatted_start": "00:07:00.000",
+      "formatted_end": "00:07:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 450.0,
+      "end": 460.0,
+      "formatted_start": "00:07:30.000",
+      "formatted_end": "00:07:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 480.0,
+      "end": 500.0,
+      "formatted_start": "00:08:00.000",
+      "formatted_end": "00:08:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 500.0,
+      "end": 506.0,
+      "formatted_start": "00:08:20.000",
+      "formatted_end": "00:08:26.000",
+      "text": "سراغ در اینجا، با من بچه های مردم بچه"
+    },
+    {
+      "id": 8,
+      "start": 508.0,
+      "end": 510.0,
+      "formatted_start": "00:08:28.000",
+      "formatted_end": "00:08:30.000",
+      "text": "سراغ در اینجا"
+    },
+    {
+      "id": 9,
+      "start": 530.0,
+      "end": 559.98,
+      "formatted_start": "00:08:50.000",
+      "formatted_end": "00:09:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 560.0,
+      "end": 589.98,
+      "formatted_start": "00:09:20.000",
+      "formatted_end": "00:09:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 590.0,
+      "end": 600.0,
+      "formatted_start": "00:09:50.000",
+      "formatted_end": "00:10:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

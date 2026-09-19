@@ -1,0 +1,507 @@
+{
+  "chunk_index": 33,
+  "start_sec": 9900.0,
+  "end_sec": 10200.0,
+  "turns": [
+    {
+      "start": 9900.031,
+      "end": 9905.971,
+      "formatted_start": "02:45:00.031",
+      "formatted_end": "02:45:05.971",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9902.68,
+      "end": 9903.862,
+      "formatted_start": "02:45:02.680",
+      "formatted_end": "02:45:03.862",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9906.494,
+      "end": 9913.177,
+      "formatted_start": "02:45:06.494",
+      "formatted_end": "02:45:13.177",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9914.375,
+      "end": 9915.303,
+      "formatted_start": "02:45:14.375",
+      "formatted_end": "02:45:15.303",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9915.742,
+      "end": 9916.872,
+      "formatted_start": "02:45:15.742",
+      "formatted_end": "02:45:16.872",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9918.155,
+      "end": 9924.922,
+      "formatted_start": "02:45:18.155",
+      "formatted_end": "02:45:24.922",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9925.411,
+      "end": 9932.228,
+      "formatted_start": "02:45:25.411",
+      "formatted_end": "02:45:32.228",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9933.393,
+      "end": 9934.186,
+      "formatted_start": "02:45:33.393",
+      "formatted_end": "02:45:34.186",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9934.793,
+      "end": 9942.657,
+      "formatted_start": "02:45:34.793",
+      "formatted_end": "02:45:42.657",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9942.353,
+      "end": 9942.708,
+      "formatted_start": "02:45:42.353",
+      "formatted_end": "02:45:42.708",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9942.657,
+      "end": 9944.598,
+      "formatted_start": "02:45:42.657",
+      "formatted_end": "02:45:44.598",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 9944.598,
+      "end": 9998.513,
+      "formatted_start": "02:45:44.598",
+      "formatted_end": "02:46:38.513",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10043.62,
+      "end": 10048.649,
+      "formatted_start": "02:47:23.620",
+      "formatted_end": "02:47:28.649",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10048.649,
+      "end": 10050.252,
+      "formatted_start": "02:47:28.649",
+      "formatted_end": "02:47:30.252",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10050.607,
+      "end": 10052.294,
+      "formatted_start": "02:47:30.607",
+      "formatted_end": "02:47:32.294",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10053.475,
+      "end": 10054.724,
+      "formatted_start": "02:47:33.475",
+      "formatted_end": "02:47:34.724",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10056.968,
+      "end": 10060.732,
+      "formatted_start": "02:47:36.968",
+      "formatted_end": "02:47:40.732",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10061.086,
+      "end": 10064.461,
+      "formatted_start": "02:47:41.086",
+      "formatted_end": "02:47:44.461",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10065.237,
+      "end": 10066.891,
+      "formatted_start": "02:47:45.237",
+      "formatted_end": "02:47:46.891",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10068.089,
+      "end": 10068.815,
+      "formatted_start": "02:47:48.089",
+      "formatted_end": "02:47:48.815",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10141.968,
+      "end": 10149.545,
+      "formatted_start": "02:49:01.968",
+      "formatted_end": "02:49:09.545",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10149.663,
+      "end": 10151.367,
+      "formatted_start": "02:49:09.663",
+      "formatted_end": "02:49:11.367",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10151.671,
+      "end": 10154.084,
+      "formatted_start": "02:49:11.671",
+      "formatted_end": "02:49:14.084",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10154.658,
+      "end": 10162.268,
+      "formatted_start": "02:49:14.658",
+      "formatted_end": "02:49:22.268",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10162.623,
+      "end": 10164.192,
+      "formatted_start": "02:49:22.623",
+      "formatted_end": "02:49:24.192",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10166.622,
+      "end": 10167.803,
+      "formatted_start": "02:49:26.622",
+      "formatted_end": "02:49:27.803",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10168.867,
+      "end": 10171.482,
+      "formatted_start": "02:49:28.867",
+      "formatted_end": "02:49:31.482",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10171.718,
+      "end": 10190.956,
+      "formatted_start": "02:49:31.718",
+      "formatted_end": "02:49:50.956",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10190.973,
+      "end": 10192.07,
+      "formatted_start": "02:49:50.973",
+      "formatted_end": "02:49:52.070",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10192.492,
+      "end": 10196.727,
+      "formatted_start": "02:49:52.492",
+      "formatted_end": "02:49:56.727",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10196.795,
+      "end": 10199.562,
+      "formatted_start": "02:49:56.795",
+      "formatted_end": "02:49:59.562",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9900.0,
+      "end": 9930.0,
+      "formatted_start": "02:45:00.000",
+      "formatted_end": "02:45:30.000",
+      "text": "این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست، این موطوع در اینجا نیست"
+    },
+    {
+      "id": 1,
+      "start": 9930.0,
+      "end": 9932.0,
+      "formatted_start": "02:45:30.000",
+      "formatted_end": "02:45:32.000",
+      "text": "فارموف رو بگیر و خیلی راقید ماشین رو"
+    },
+    {
+      "id": 2,
+      "start": 9933.0,
+      "end": 9934.0,
+      "formatted_start": "02:45:33.000",
+      "formatted_end": "02:45:34.000",
+      "text": "ستارت کنید"
+    },
+    {
+      "id": 3,
+      "start": 9934.0,
+      "end": 9936.0,
+      "formatted_start": "02:45:34.000",
+      "formatted_end": "02:45:36.000",
+      "text": "هم ماشین روشن بیشه"
+    },
+    {
+      "id": 4,
+      "start": 9936.0,
+      "end": 9938.0,
+      "formatted_start": "02:45:36.000",
+      "formatted_end": "02:45:38.000",
+      "text": "و هم ماشینی که به صدا دادن آمده بود"
+    },
+    {
+      "id": 5,
+      "start": 9938.0,
+      "end": 9939.0,
+      "formatted_start": "02:45:38.000",
+      "formatted_end": "02:45:39.000",
+      "text": "باید ماشینی"
+    },
+    {
+      "id": 6,
+      "start": 9939.0,
+      "end": 9940.0,
+      "formatted_start": "02:45:39.000",
+      "formatted_end": "02:45:40.000",
+      "text": "به همین وقت"
+    },
+    {
+      "id": 7,
+      "start": 9940.0,
+      "end": 9943.0,
+      "formatted_start": "02:45:40.000",
+      "formatted_end": "02:45:43.000",
+      "text": "ویدیو رو سیف کنید که قراره تو موقعیتش به درده تو برده"
+    },
+    {
+      "id": 8,
+      "start": 9943.0,
+      "end": 9945.0,
+      "formatted_start": "02:45:43.000",
+      "formatted_end": "02:45:45.000",
+      "text": "ماشینی"
+    },
+    {
+      "id": 9,
+      "start": 9945.0,
+      "end": 9948.0,
+      "formatted_start": "02:45:45.000",
+      "formatted_end": "02:45:48.000",
+      "text": "همین دیروز 6 میلیار فورده این ماشین رو دادم آنجا"
+    },
+    {
+      "id": 10,
+      "start": 9948.0,
+      "end": 9949.0,
+      "formatted_start": "02:45:48.000",
+      "formatted_end": "02:45:49.000",
+      "text": "پس یک خط روش بیافته"
+    },
+    {
+      "id": 11,
+      "start": 9949.0,
+      "end": 9951.0,
+      "formatted_start": "02:45:49.000",
+      "formatted_end": "02:45:51.000",
+      "text": "این حرف مالک این تویتا کوروناهی"
+    },
+    {
+      "id": 12,
+      "start": 9951.0,
+      "end": 9954.0,
+      "formatted_start": "02:45:51.000",
+      "formatted_end": "02:45:54.000",
+      "text": "بلا فاصله بعد خرده ماشین اومد پیش ما و گفت"
+    },
+    {
+      "id": 13,
+      "start": 9954.0,
+      "end": 9956.0,
+      "formatted_start": "02:45:54.000",
+      "formatted_end": "02:45:56.000",
+      "text": "چونی ماشین رو ازت زرگردیم؟"
+    },
+    {
+      "id": 14,
+      "start": 9956.0,
+      "end": 9958.0,
+      "formatted_start": "02:45:56.000",
+      "formatted_end": "02:45:58.000",
+      "text": "اوکی یاد دادیم اون ماشین رو پذیرش کردیم"
+    },
+    {
+      "id": 15,
+      "start": 9958.0,
+      "end": 9960.0,
+      "formatted_start": "02:45:58.000",
+      "formatted_end": "02:46:00.000",
+      "text": "بردیم اجتماعات شدتشوی مجموعه"
+    },
+    {
+      "id": 16,
+      "start": 9960.0,
+      "end": 9962.0,
+      "formatted_start": "02:46:00.000",
+      "formatted_end": "02:46:02.000",
+      "text": "و با یک هفت بطری هسافی سطح بدنه آمده همجب خدا ماشین"
+    },
+    {
+      "id": 17,
+      "start": 9962.0,
+      "end": 9964.0,
+      "formatted_start": "02:46:02.000",
+      "formatted_end": "02:46:04.000",
+      "text": "از کافوت ماشین شروع کردیم"
+    },
+    {
+      "id": 18,
+      "start": 9964.0,
+      "end": 9967.0,
+      "formatted_start": "02:46:04.000",
+      "formatted_end": "02:46:07.000",
+      "text": "ستیکیر جلوی ماشین کابل بی پی اف شفاف نزدیک"
+    },
+    {
+      "id": 19,
+      "start": 9967.0,
+      "end": 9970.0,
+      "formatted_start": "02:46:07.000",
+      "formatted_end": "02:46:10.000",
+      "text": "که هم خیالشون تا سالها از تنکردگی جاده راحت باشه"
+    },
+    {
+      "id": 20,
+      "start": 9970.0,
+      "end": 9974.88,
+      "formatted_start": "02:46:10.000",
+      "formatted_end": "02:46:14.880",
+      "text": "هم اگر خدایی نکرده تصدیف کردن، کابر پی پی اف جدای آسیب رنگ بدن رو بکی"
+    },
+    {
+      "id": 21,
+      "start": 9974.88,
+      "end": 9978.12,
+      "formatted_start": "02:46:14.880",
+      "formatted_end": "02:46:18.120",
+      "text": "بعد از اون، مابقی بدن سه مرحل اقیای رنگ شد"
+    },
+    {
+      "id": 22,
+      "start": 9978.12,
+      "end": 9981.84,
+      "formatted_start": "02:46:18.120",
+      "formatted_end": "02:46:21.840",
+      "text": "موایه سرامیک ها هرمانی بر راقیت ماشین تا پنگ تا تصمیم شد"
+    },
+    {
+      "id": 23,
+      "start": 9981.84,
+      "end": 9982.98,
+      "formatted_start": "02:46:21.840",
+      "formatted_end": "02:46:22.980",
+      "text": "رفتیم طراب داخل"
+    },
+    {
+      "id": 24,
+      "start": 9982.98,
+      "end": 9988.14,
+      "formatted_start": "02:46:22.980",
+      "formatted_end": "02:46:28.140",
+      "text": "برای مانیتور، سفه کیروهرد و تمام اگزای داخلی ماشین کابر پی پی اف نصفی"
+    },
+    {
+      "id": 25,
+      "start": 9988.14,
+      "end": 9991.12,
+      "formatted_start": "02:46:28.140",
+      "formatted_end": "02:46:31.120",
+      "text": "را این ماشین تا آخر عمرش رنگی خط و خشونه بید"
+    },
+    {
+      "id": 26,
+      "start": 9991.12,
+      "end": 9998.36,
+      "formatted_start": "02:46:31.120",
+      "formatted_end": "02:46:38.360",
+      "text": "در نهای علایه تمام قسمت های چرمی ماشین دوسیون چرم جا کردیش و این شما اینم خروجی مجموعه خواهرباد"
+    },
+    {
+      "id": 27,
+      "start": 10021.12,
+      "end": 10043.12,
+      "formatted_start": "02:47:01.120",
+      "formatted_end": "02:47:23.120",
+      "text": "موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 10043.12,
+      "end": 10067.12,
+      "formatted_start": "02:47:23.120",
+      "formatted_end": "02:47:47.120",
+      "text": "موسیقی"
+    },
+    {
+      "id": 29,
+      "start": 10067.12,
+      "end": 10087.12,
+      "formatted_start": "02:47:47.120",
+      "formatted_end": "02:48:07.120",
+      "text": "موسیقی"
+    },
+    {
+      "id": 30,
+      "start": 10087.12,
+      "end": 10107.12,
+      "formatted_start": "02:48:07.120",
+      "formatted_end": "02:48:27.120",
+      "text": "موسیقی"
+    },
+    {
+      "id": 31,
+      "start": 10107.12,
+      "end": 10137.1,
+      "formatted_start": "02:48:27.120",
+      "formatted_end": "02:48:57.100",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 32,
+      "start": 10137.12,
+      "end": 10142.12,
+      "formatted_start": "02:48:57.120",
+      "formatted_end": "02:49:02.120",
+      "text": "موسیقی"
+    },
+    {
+      "id": 33,
+      "start": 10167.12,
+      "end": 10192.12,
+      "formatted_start": "02:49:27.120",
+      "formatted_end": "02:49:52.120",
+      "text": "موسیقی"
+    },
+    {
+      "id": 34,
+      "start": 10192.12,
+      "end": 10199.46,
+      "formatted_start": "02:49:52.120",
+      "formatted_end": "02:49:59.460",
+      "text": "جورج برنامه سوی جمله داره خیلی جمعی جالبیه میگه آدم منطقی خودش رو با شرطش وقف بوده"
+    }
+  ],
+  "status": "completed"
+}

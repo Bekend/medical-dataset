@@ -1,0 +1,174 @@
+{
+  "chunk_index": 62,
+  "start_sec": 18600.0,
+  "end_sec": 18900.0,
+  "turns": [
+    {
+      "start": 18624.854,
+      "end": 18630.659,
+      "formatted_start": "05:10:24.854",
+      "formatted_end": "05:10:30.659",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18634.912,
+      "end": 18637.375,
+      "formatted_start": "05:10:34.912",
+      "formatted_end": "05:10:37.375",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18686.431,
+      "end": 18687.19,
+      "formatted_start": "05:11:26.431",
+      "formatted_end": "05:11:27.190",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18688.523,
+      "end": 18689.08,
+      "formatted_start": "05:11:28.523",
+      "formatted_end": "05:11:29.080",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18689.755,
+      "end": 18690.127,
+      "formatted_start": "05:11:29.755",
+      "formatted_end": "05:11:30.127",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18690.717,
+      "end": 18691.122,
+      "formatted_start": "05:11:30.717",
+      "formatted_end": "05:11:31.122",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18708.301,
+      "end": 18709.887,
+      "formatted_start": "05:11:48.301",
+      "formatted_end": "05:11:49.887",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18781.488,
+      "end": 18782.247,
+      "formatted_start": "05:13:01.488",
+      "formatted_end": "05:13:02.247",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18817.195,
+      "end": 18829.497,
+      "formatted_start": "05:13:37.195",
+      "formatted_end": "05:13:49.497",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18874.52,
+      "end": 18876.697,
+      "formatted_start": "05:14:34.520",
+      "formatted_end": "05:14:36.697",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18890.112,
+      "end": 18892.272,
+      "formatted_start": "05:14:50.112",
+      "formatted_end": "05:14:52.272",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18893.926,
+      "end": 18899.967,
+      "formatted_start": "05:14:53.926",
+      "formatted_end": "05:14:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 18600.0,
+      "end": 18629.98,
+      "formatted_start": "05:10:00.000",
+      "formatted_end": "05:10:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 18630.0,
+      "end": 18640.0,
+      "formatted_start": "05:10:30.000",
+      "formatted_end": "05:10:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 18660.0,
+      "end": 18689.98,
+      "formatted_start": "05:11:00.000",
+      "formatted_end": "05:11:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 18690.0,
+      "end": 18719.98,
+      "formatted_start": "05:11:30.000",
+      "formatted_end": "05:11:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 18720.0,
+      "end": 18730.0,
+      "formatted_start": "05:12:00.000",
+      "formatted_end": "05:12:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 18750.0,
+      "end": 18770.0,
+      "formatted_start": "05:12:30.000",
+      "formatted_end": "05:12:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 18770.0,
+      "end": 18790.0,
+      "formatted_start": "05:12:50.000",
+      "formatted_end": "05:13:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 18790.0,
+      "end": 18819.98,
+      "formatted_start": "05:13:10.000",
+      "formatted_end": "05:13:39.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 18820.0,
+      "end": 18848.0,
+      "formatted_start": "05:13:40.000",
+      "formatted_end": "05:14:08.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 18848.0,
+      "end": 18874.0,
+      "formatted_start": "05:14:08.000",
+      "formatted_end": "05:14:34.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

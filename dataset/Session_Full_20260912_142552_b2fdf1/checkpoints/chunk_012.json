@@ -1,0 +1,226 @@
+{
+  "chunk_index": 12,
+  "start_sec": 3600.0,
+  "end_sec": 3900.0,
+  "turns": [
+    {
+      "start": 3602.039,
+      "end": 3602.68,
+      "formatted_start": "01:00:02.039",
+      "formatted_end": "01:00:02.680",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3761.609,
+      "end": 3763.786,
+      "formatted_start": "01:02:41.609",
+      "formatted_end": "01:02:43.786",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3879.532,
+      "end": 3887.058,
+      "formatted_start": "01:04:39.532",
+      "formatted_end": "01:04:47.058",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3885.472,
+      "end": 3886.028,
+      "formatted_start": "01:04:45.472",
+      "formatted_end": "01:04:46.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3887.075,
+      "end": 3895.175,
+      "formatted_start": "01:04:47.075",
+      "formatted_end": "01:04:55.175",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3895.175,
+      "end": 3897.098,
+      "formatted_start": "01:04:55.175",
+      "formatted_end": "01:04:57.098",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3896.423,
+      "end": 3899.967,
+      "formatted_start": "01:04:56.423",
+      "formatted_end": "01:04:59.967",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3898.28,
+      "end": 3899.967,
+      "formatted_start": "01:04:58.280",
+      "formatted_end": "01:04:59.967",
+      "speaker": "SPEAKER_03"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3600.0,
+      "end": 3630.0,
+      "formatted_start": "01:00:00.000",
+      "formatted_end": "01:00:30.000",
+      "text": "مدیشه بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیش"
+    },
+    {
+      "id": 1,
+      "start": 3630.0,
+      "end": 3640.0,
+      "formatted_start": "01:00:30.000",
+      "formatted_end": "01:00:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3660.0,
+      "end": 3688.0,
+      "formatted_start": "01:01:00.000",
+      "formatted_end": "01:01:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3690.0,
+      "end": 3719.0,
+      "formatted_start": "01:01:30.000",
+      "formatted_end": "01:01:59.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 3720.0,
+      "end": 3740.0,
+      "formatted_start": "01:02:00.000",
+      "formatted_end": "01:02:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 3740.0,
+      "end": 3760.0,
+      "formatted_start": "01:02:20.000",
+      "formatted_end": "01:02:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 3760.0,
+      "end": 3780.0,
+      "formatted_start": "01:02:40.000",
+      "formatted_end": "01:03:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 3780.0,
+      "end": 3790.0,
+      "formatted_start": "01:03:00.000",
+      "formatted_end": "01:03:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 3810.0,
+      "end": 3830.0,
+      "formatted_start": "01:03:30.000",
+      "formatted_end": "01:03:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 3830.0,
+      "end": 3850.0,
+      "formatted_start": "01:03:50.000",
+      "formatted_end": "01:04:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 3860.0,
+      "end": 3880.0,
+      "formatted_start": "01:04:20.000",
+      "formatted_end": "01:04:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 3880.0,
+      "end": 3882.0,
+      "formatted_start": "01:04:40.000",
+      "formatted_end": "01:04:42.000",
+      "text": "سلامت شیفی"
+    },
+    {
+      "id": 12,
+      "start": 3882.0,
+      "end": 3884.0,
+      "formatted_start": "01:04:42.000",
+      "formatted_end": "01:04:44.000",
+      "text": "برگراه"
+    },
+    {
+      "id": 13,
+      "start": 3884.0,
+      "end": 3886.0,
+      "formatted_start": "01:04:44.000",
+      "formatted_end": "01:04:46.000",
+      "text": "خانمه خساوی چی شده باشی؟"
+    },
+    {
+      "id": 14,
+      "start": 3886.0,
+      "end": 3890.0,
+      "formatted_start": "01:04:46.000",
+      "formatted_end": "01:04:50.000",
+      "text": "این آیدوزه فقط دستانو بره رو پوششو و بازتر شد"
+    },
+    {
+      "id": 15,
+      "start": 3890.0,
+      "end": 3892.0,
+      "formatted_start": "01:04:50.000",
+      "formatted_end": "01:04:52.000",
+      "text": "بغراوی اصلا خواب نداره"
+    },
+    {
+      "id": 16,
+      "start": 3892.0,
+      "end": 3894.0,
+      "formatted_start": "01:04:52.000",
+      "formatted_end": "01:04:54.000",
+      "text": "خیلی عذر از یک خانمه داره"
+    },
+    {
+      "id": 17,
+      "start": 3894.0,
+      "end": 3896.0,
+      "formatted_start": "01:04:54.000",
+      "formatted_end": "01:04:56.000",
+      "text": "بغراوی شدید داره"
+    },
+    {
+      "id": 18,
+      "start": 3896.0,
+      "end": 3898.0,
+      "formatted_start": "01:04:56.000",
+      "formatted_end": "01:04:58.000",
+      "text": "اصلا خواب نداره"
+    },
+    {
+      "id": 19,
+      "start": 3898.0,
+      "end": 3900.0,
+      "formatted_start": "01:04:58.000",
+      "formatted_end": "01:05:00.000",
+      "text": "بازتر شده"
+    }
+  ],
+  "status": "completed"
+}

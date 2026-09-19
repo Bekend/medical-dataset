@@ -1,0 +1,209 @@
+{
+  "chunk_index": 30,
+  "start_sec": 9000.0,
+  "end_sec": 9300.0,
+  "turns": [
+    {
+      "start": 9000.031,
+      "end": 9005.92,
+      "formatted_start": "02:30:00.031",
+      "formatted_end": "02:30:05.920",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9007.338,
+      "end": 9011.05,
+      "formatted_start": "02:30:07.338",
+      "formatted_end": "02:30:11.050",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9015.353,
+      "end": 9017.21,
+      "formatted_start": "02:30:15.353",
+      "formatted_end": "02:30:17.210",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9017.75,
+      "end": 9029.663,
+      "formatted_start": "02:30:17.750",
+      "formatted_end": "02:30:29.663",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9026.12,
+      "end": 9026.93,
+      "formatted_start": "02:30:26.120",
+      "formatted_end": "02:30:26.930",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9208.522,
+      "end": 9214.9,
+      "formatted_start": "02:33:28.522",
+      "formatted_end": "02:33:34.900",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9220.604,
+      "end": 9222.747,
+      "formatted_start": "02:33:40.604",
+      "formatted_end": "02:33:42.747",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9225.498,
+      "end": 9228.367,
+      "formatted_start": "02:33:45.498",
+      "formatted_end": "02:33:48.367",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9228.704,
+      "end": 9229.902,
+      "formatted_start": "02:33:48.704",
+      "formatted_end": "02:33:49.902",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 9000.0,
+      "end": 9006.0,
+      "formatted_start": "02:30:00.000",
+      "formatted_end": "02:30:06.000",
+      "text": "اگر هم میتونید، یک سروم هم بهش بزنید. یک سروم هندید."
+    },
+    {
+      "id": 1,
+      "start": 9006.0,
+      "end": 9011.0,
+      "formatted_start": "02:30:06.000",
+      "formatted_end": "02:30:11.000",
+      "text": "چون اگر آب ضعف و بی حالی داره، بهتره بزنید."
+    },
+    {
+      "id": 2,
+      "start": 9011.0,
+      "end": 9017.0,
+      "formatted_start": "02:30:11.000",
+      "formatted_end": "02:30:17.000",
+      "text": "باشه باشه، متعشق شده."
+    },
+    {
+      "id": 3,
+      "start": 9017.0,
+      "end": 9021.0,
+      "formatted_start": "02:30:17.000",
+      "formatted_end": "02:30:21.000",
+      "text": "زنده باشین، من برایتون پیامک میدونم. خواهش بکنم."
+    },
+    {
+      "id": 4,
+      "start": 9021.0,
+      "end": 9024.0,
+      "formatted_start": "02:30:21.000",
+      "formatted_end": "02:30:24.000",
+      "text": "خواهش بکنم، زنده باشین. سپاس بذارم."
+    },
+    {
+      "id": 5,
+      "start": 9024.0,
+      "end": 9027.0,
+      "formatted_start": "02:30:24.000",
+      "formatted_end": "02:30:27.000",
+      "text": "سلام برسونید مامان اینها رو خدا نگهدارون."
+    },
+    {
+      "id": 6,
+      "start": 9027.0,
+      "end": 9029.0,
+      "formatted_start": "02:30:27.000",
+      "formatted_end": "02:30:29.000",
+      "text": "باشه خداحافظ"
+    },
+    {
+      "id": 7,
+      "start": 9057.0,
+      "end": 9086.98,
+      "formatted_start": "02:30:57.000",
+      "formatted_end": "02:31:26.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 9087.0,
+      "end": 9116.98,
+      "formatted_start": "02:31:27.000",
+      "formatted_end": "02:31:56.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 9,
+      "start": 9117.0,
+      "end": 9146.98,
+      "formatted_start": "02:31:57.000",
+      "formatted_end": "02:32:26.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 9147.0,
+      "end": 9176.98,
+      "formatted_start": "02:32:27.000",
+      "formatted_end": "02:32:56.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 9177.0,
+      "end": 9197.0,
+      "formatted_start": "02:32:57.000",
+      "formatted_end": "02:33:17.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 9197.0,
+      "end": 9208.0,
+      "formatted_start": "02:33:17.000",
+      "formatted_end": "02:33:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 13,
+      "start": 9227.0,
+      "end": 9229.0,
+      "formatted_start": "02:33:47.000",
+      "formatted_end": "02:33:49.000",
+      "text": "ممنون ماشکل"
+    },
+    {
+      "id": 14,
+      "start": 9229.0,
+      "end": 9231.0,
+      "formatted_start": "02:33:49.000",
+      "formatted_end": "02:33:51.000",
+      "text": "مرسی خدافز"
+    },
+    {
+      "id": 15,
+      "start": 9257.0,
+      "end": 9286.98,
+      "formatted_start": "02:34:17.000",
+      "formatted_end": "02:34:46.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 9287.0,
+      "end": 9300.0,
+      "formatted_start": "02:34:47.000",
+      "formatted_end": "02:35:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

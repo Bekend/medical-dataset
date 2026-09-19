@@ -1,0 +1,343 @@
+{
+  "chunk_index": 26,
+  "start_sec": 7800.0,
+  "end_sec": 8100.0,
+  "turns": [
+    {
+      "start": 7856.984,
+      "end": 7858.013,
+      "formatted_start": "02:10:56.984",
+      "formatted_end": "02:10:58.013",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7858.638,
+      "end": 7859.363,
+      "formatted_start": "02:10:58.638",
+      "formatted_end": "02:10:59.363",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7859.718,
+      "end": 7860.477,
+      "formatted_start": "02:10:59.718",
+      "formatted_end": "02:11:00.477",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7862.789,
+      "end": 7864.173,
+      "formatted_start": "02:11:02.789",
+      "formatted_end": "02:11:04.173",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7867.109,
+      "end": 7868.037,
+      "formatted_start": "02:11:07.109",
+      "formatted_end": "02:11:08.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7974.113,
+      "end": 7975.227,
+      "formatted_start": "02:12:54.113",
+      "formatted_end": "02:12:55.227",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7977.235,
+      "end": 7979.345,
+      "formatted_start": "02:12:57.235",
+      "formatted_end": "02:12:59.345",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7982.534,
+      "end": 7983.395,
+      "formatted_start": "02:13:02.534",
+      "formatted_end": "02:13:03.395",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7987.107,
+      "end": 7987.816,
+      "formatted_start": "02:13:07.107",
+      "formatted_end": "02:13:07.816",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7988.761,
+      "end": 7990.887,
+      "formatted_start": "02:13:08.761",
+      "formatted_end": "02:13:10.887",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7993.942,
+      "end": 7997.671,
+      "formatted_start": "02:13:13.942",
+      "formatted_end": "02:13:17.671",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7998.38,
+      "end": 8000.05,
+      "formatted_start": "02:13:18.380",
+      "formatted_end": "02:13:20.050",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 8024.114,
+      "end": 8025.413,
+      "formatted_start": "02:13:44.114",
+      "formatted_end": "02:13:45.413",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 8024.958,
+      "end": 8028.704,
+      "formatted_start": "02:13:44.958",
+      "formatted_end": "02:13:48.704",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8030.307,
+      "end": 8031.691,
+      "formatted_start": "02:13:50.307",
+      "formatted_end": "02:13:51.691",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 8032.062,
+      "end": 8032.889,
+      "formatted_start": "02:13:52.062",
+      "formatted_end": "02:13:52.889",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 8032.13,
+      "end": 8032.788,
+      "formatted_start": "02:13:52.130",
+      "formatted_end": "02:13:52.788",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 8033.632,
+      "end": 8037.226,
+      "formatted_start": "02:13:53.632",
+      "formatted_end": "02:13:57.226",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 8033.767,
+      "end": 8034.644,
+      "formatted_start": "02:13:53.767",
+      "formatted_end": "02:13:54.644",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7800.0,
+      "end": 7829.98,
+      "formatted_start": "02:10:00.000",
+      "formatted_end": "02:10:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 7830.0,
+      "end": 7856.0,
+      "formatted_start": "02:10:30.000",
+      "formatted_end": "02:10:56.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 7856.0,
+      "end": 7858.0,
+      "formatted_start": "02:10:56.000",
+      "formatted_end": "02:10:58.000",
+      "text": "مردم بابا"
+    },
+    {
+      "id": 3,
+      "start": 7858.0,
+      "end": 7860.0,
+      "formatted_start": "02:10:58.000",
+      "formatted_end": "02:11:00.000",
+      "text": "بابا بابا"
+    },
+    {
+      "id": 4,
+      "start": 7860.0,
+      "end": 7862.0,
+      "formatted_start": "02:11:00.000",
+      "formatted_end": "02:11:02.000",
+      "text": "جنون"
+    },
+    {
+      "id": 5,
+      "start": 7862.0,
+      "end": 7864.0,
+      "formatted_start": "02:11:02.000",
+      "formatted_end": "02:11:04.000",
+      "text": "من خودم بگذارم"
+    },
+    {
+      "id": 6,
+      "start": 7864.0,
+      "end": 7866.0,
+      "formatted_start": "02:11:04.000",
+      "formatted_end": "02:11:06.000",
+      "text": "من دیگه خودم میرم بهش"
+    },
+    {
+      "id": 7,
+      "start": 7866.0,
+      "end": 7868.0,
+      "formatted_start": "02:11:06.000",
+      "formatted_end": "02:11:08.000",
+      "text": "خودم میرم"
+    },
+    {
+      "id": 8,
+      "start": 7886.0,
+      "end": 7914.0,
+      "formatted_start": "02:11:26.000",
+      "formatted_end": "02:11:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 7916.0,
+      "end": 7945.98,
+      "formatted_start": "02:11:56.000",
+      "formatted_end": "02:12:25.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 10,
+      "start": 7946.0,
+      "end": 7974.0,
+      "formatted_start": "02:12:26.000",
+      "formatted_end": "02:12:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 7974.0,
+      "end": 7976.0,
+      "formatted_start": "02:12:54.000",
+      "formatted_end": "02:12:56.000",
+      "text": "مجاز کرده"
+    },
+    {
+      "id": 12,
+      "start": 7977.22,
+      "end": 7979.22,
+      "formatted_start": "02:12:57.220",
+      "formatted_end": "02:12:59.220",
+      "text": "بابا میزنه بیام دنبالش"
+    },
+    {
+      "id": 13,
+      "start": 7982.42,
+      "end": 7984.42,
+      "formatted_start": "02:13:02.420",
+      "formatted_end": "02:13:04.420",
+      "text": "کجا رسیدی؟"
+    },
+    {
+      "id": 14,
+      "start": 7987.06,
+      "end": 7989.06,
+      "formatted_start": "02:13:07.060",
+      "formatted_end": "02:13:09.060",
+      "text": "برگردی"
+    },
+    {
+      "id": 15,
+      "start": 7989.06,
+      "end": 7991.06,
+      "formatted_start": "02:13:09.060",
+      "formatted_end": "02:13:11.060",
+      "text": "آره برو اگه نزدیکی برگرد دیگه"
+    },
+    {
+      "id": 16,
+      "start": 7993.9,
+      "end": 7995.9,
+      "formatted_start": "02:13:13.900",
+      "formatted_end": "02:13:15.900",
+      "text": "نه برو برو برشی جمعه داره"
+    },
+    {
+      "id": 17,
+      "start": 7995.9,
+      "end": 7997.9,
+      "formatted_start": "02:13:15.900",
+      "formatted_end": "02:13:17.900",
+      "text": "الان هم دنبال خود رو زنگی برد"
+    },
+    {
+      "id": 18,
+      "start": 7997.9,
+      "end": 7999.9,
+      "formatted_start": "02:13:17.900",
+      "formatted_end": "02:13:19.900",
+      "text": "برشون مرسه این خطه فرست"
+    },
+    {
+      "id": 19,
+      "start": 8004.0,
+      "end": 8026.48,
+      "formatted_start": "02:13:24.000",
+      "formatted_end": "02:13:46.480",
+      "text": "بابا اگه می آید الان بیا"
+    },
+    {
+      "id": 20,
+      "start": 8026.48,
+      "end": 8028.72,
+      "formatted_start": "02:13:46.480",
+      "formatted_end": "02:13:48.720",
+      "text": "الان میتونی بیا باید"
+    },
+    {
+      "id": 21,
+      "start": 8028.72,
+      "end": 8032.66,
+      "formatted_start": "02:13:48.720",
+      "formatted_end": "02:13:52.660",
+      "text": "خب بیا"
+    },
+    {
+      "id": 22,
+      "start": 8032.66,
+      "end": 8034.66,
+      "formatted_start": "02:13:52.660",
+      "formatted_end": "02:13:54.660",
+      "text": "بیا کنی میره سیر"
+    },
+    {
+      "id": 23,
+      "start": 8062.66,
+      "end": 8092.64,
+      "formatted_start": "02:14:22.660",
+      "formatted_end": "02:14:52.640",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 24,
+      "start": 8092.66,
+      "end": 8099.66,
+      "formatted_start": "02:14:52.660",
+      "formatted_end": "02:14:59.660",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

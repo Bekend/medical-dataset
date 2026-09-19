@@ -1,0 +1,336 @@
+{
+  "chunk_index": 12,
+  "start_sec": 3600.0,
+  "end_sec": 3900.0,
+  "turns": [
+    {
+      "start": 3602.073,
+      "end": 3602.68,
+      "formatted_start": "01:00:02.073",
+      "formatted_end": "01:00:02.680",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3605.532,
+      "end": 3610.004,
+      "formatted_start": "01:00:05.532",
+      "formatted_end": "01:00:10.004",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3610.358,
+      "end": 3611.033,
+      "formatted_start": "01:00:10.358",
+      "formatted_end": "01:00:11.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3614.392,
+      "end": 3614.881,
+      "formatted_start": "01:00:14.392",
+      "formatted_end": "01:00:14.881",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3617.986,
+      "end": 3618.543,
+      "formatted_start": "01:00:17.986",
+      "formatted_end": "01:00:18.543",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3629.208,
+      "end": 3638.033,
+      "formatted_start": "01:00:29.208",
+      "formatted_end": "01:00:38.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3770.047,
+      "end": 3770.823,
+      "formatted_start": "01:02:50.047",
+      "formatted_end": "01:02:50.823",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3772.207,
+      "end": 3773.793,
+      "formatted_start": "01:02:52.207",
+      "formatted_end": "01:02:53.793",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3777.1,
+      "end": 3777.623,
+      "formatted_start": "01:02:57.100",
+      "formatted_end": "01:02:57.623",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3787.867,
+      "end": 3789.233,
+      "formatted_start": "01:03:07.867",
+      "formatted_end": "01:03:09.233",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3792.592,
+      "end": 3793.773,
+      "formatted_start": "01:03:12.592",
+      "formatted_end": "01:03:13.773",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3794.752,
+      "end": 3795.14,
+      "formatted_start": "01:03:14.752",
+      "formatted_end": "01:03:15.140",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3804.927,
+      "end": 3809.078,
+      "formatted_start": "01:03:24.927",
+      "formatted_end": "01:03:29.078",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3812.673,
+      "end": 3815.677,
+      "formatted_start": "01:03:32.673",
+      "formatted_end": "01:03:35.677",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3816.385,
+      "end": 3821.009,
+      "formatted_start": "01:03:36.385",
+      "formatted_end": "01:03:41.009",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3821.853,
+      "end": 3833.885,
+      "formatted_start": "01:03:41.853",
+      "formatted_end": "01:03:53.885",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3834.357,
+      "end": 3835.403,
+      "formatted_start": "01:03:54.357",
+      "formatted_end": "01:03:55.403",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3835.842,
+      "end": 3837.31,
+      "formatted_start": "01:03:55.842",
+      "formatted_end": "01:03:57.310",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3600.0,
+      "end": 3620.0,
+      "formatted_start": "01:00:00.000",
+      "formatted_end": "01:00:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 3630.0,
+      "end": 3640.0,
+      "formatted_start": "01:00:30.000",
+      "formatted_end": "01:00:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3660.0,
+      "end": 3689.98,
+      "formatted_start": "01:01:00.000",
+      "formatted_end": "01:01:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 3690.0,
+      "end": 3710.0,
+      "formatted_start": "01:01:30.000",
+      "formatted_end": "01:01:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 3710.0,
+      "end": 3739.98,
+      "formatted_start": "01:01:50.000",
+      "formatted_end": "01:02:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 3740.0,
+      "end": 3766.0,
+      "formatted_start": "01:02:20.000",
+      "formatted_end": "01:02:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 3766.0,
+      "end": 3770.4,
+      "formatted_start": "01:02:46.000",
+      "formatted_end": "01:02:50.400",
+      "text": "بله"
+    },
+    {
+      "id": 7,
+      "start": 3770.4,
+      "end": 3773.78,
+      "formatted_start": "01:02:50.400",
+      "formatted_end": "01:02:53.780",
+      "text": "ممنون با سکت جانم"
+    },
+    {
+      "id": 8,
+      "start": 3773.78,
+      "end": 3777.56,
+      "formatted_start": "01:02:53.780",
+      "formatted_end": "01:02:57.560",
+      "text": "خوبه"
+    },
+    {
+      "id": 9,
+      "start": 3787.64,
+      "end": 3788.2,
+      "formatted_start": "01:03:07.640",
+      "formatted_end": "01:03:08.200",
+      "text": "خوبه"
+    },
+    {
+      "id": 10,
+      "start": 3788.2,
+      "end": 3789.36,
+      "formatted_start": "01:03:08.200",
+      "formatted_end": "01:03:09.360",
+      "text": "خوبه زیر فوتو باشید"
+    },
+    {
+      "id": 11,
+      "start": 3789.36,
+      "end": 3793.7,
+      "formatted_start": "01:03:09.360",
+      "formatted_end": "01:03:13.700",
+      "text": "خوبه کسی میشن"
+    },
+    {
+      "id": 12,
+      "start": 3793.7,
+      "end": 3795.1,
+      "formatted_start": "01:03:13.700",
+      "formatted_end": "01:03:15.100",
+      "text": "بله"
+    },
+    {
+      "id": 13,
+      "start": 3795.1,
+      "end": 3808.94,
+      "formatted_start": "01:03:15.100",
+      "formatted_end": "01:03:28.940",
+      "text": "خب دیگه اصلا ما اوریکراتینی نخواستیم مشکل می کنیم چرا اوریکراتینی رفته"
+    },
+    {
+      "id": 14,
+      "start": 3808.94,
+      "end": 3815.1,
+      "formatted_start": "01:03:28.940",
+      "formatted_end": "01:03:35.100",
+      "text": "حالا ببینیم دقیقا دیگه تکرار نشیدی خواهیم"
+    },
+    {
+      "id": 15,
+      "start": 3815.1,
+      "end": 3816.48,
+      "formatted_start": "01:03:35.100",
+      "formatted_end": "01:03:36.480",
+      "text": "خواهیش؟"
+    },
+    {
+      "id": 16,
+      "start": 3816.48,
+      "end": 3820.12,
+      "formatted_start": "01:03:36.480",
+      "formatted_end": "01:03:40.120",
+      "text": "ببینید مگه شما تک نفری چند تا مریض دارید تو برشون"
+    },
+    {
+      "id": 17,
+      "start": 3820.12,
+      "end": 3820.96,
+      "formatted_start": "01:03:40.120",
+      "formatted_end": "01:03:40.960",
+      "text": "یکی دوتا"
+    },
+    {
+      "id": 18,
+      "start": 3820.96,
+      "end": 3825.62,
+      "formatted_start": "01:03:40.960",
+      "formatted_end": "01:03:45.620",
+      "text": "حالا ببینید که یک تک نفره یعنی مریض زیاد من نتونستم"
+    },
+    {
+      "id": 19,
+      "start": 3825.62,
+      "end": 3831.06,
+      "formatted_start": "01:03:45.620",
+      "formatted_end": "01:03:51.060",
+      "text": "ولی وقتی که اطفال خلوت ترین بخش ما هستی که دوتا دیگه اشتباه نباید بشه"
+    },
+    {
+      "id": 20,
+      "start": 3831.06,
+      "end": 3833.44,
+      "formatted_start": "01:03:51.060",
+      "formatted_end": "01:03:53.440",
+      "text": "بسیار ممنون خدافصی"
+    },
+    {
+      "id": 21,
+      "start": 3833.44,
+      "end": 3835.28,
+      "formatted_start": "01:03:53.440",
+      "formatted_end": "01:03:55.280",
+      "text": "بعده بعده"
+    },
+    {
+      "id": 22,
+      "start": 3835.28,
+      "end": 3837.32,
+      "formatted_start": "01:03:55.280",
+      "formatted_end": "01:03:57.320",
+      "text": "بعده خدافصی"
+    },
+    {
+      "id": 23,
+      "start": 3850.96,
+      "end": 3880.94,
+      "formatted_start": "01:04:10.960",
+      "formatted_end": "01:04:40.940",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 24,
+      "start": 3880.96,
+      "end": 3899.96,
+      "formatted_start": "01:04:40.960",
+      "formatted_end": "01:04:59.960",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

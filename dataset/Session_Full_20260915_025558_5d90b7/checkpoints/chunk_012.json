@@ -1,0 +1,349 @@
+{
+  "chunk_index": 12,
+  "start_sec": 3600.0,
+  "end_sec": 3900.0,
+  "turns": [
+    {
+      "start": 3600.824,
+      "end": 3608.367,
+      "formatted_start": "01:00:00.824",
+      "formatted_end": "01:00:08.367",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 3619.943,
+      "end": 3622.34,
+      "formatted_start": "01:00:19.943",
+      "formatted_end": "01:00:22.340",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 3622.728,
+      "end": 3624.533,
+      "formatted_start": "01:00:22.728",
+      "formatted_end": "01:00:24.533",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 3624.77,
+      "end": 3625.529,
+      "formatted_start": "01:00:24.770",
+      "formatted_end": "01:00:25.529",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 3626.963,
+      "end": 3627.571,
+      "formatted_start": "01:00:26.963",
+      "formatted_end": "01:00:27.571",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 3628.043,
+      "end": 3629.275,
+      "formatted_start": "01:00:28.043",
+      "formatted_end": "01:00:29.275",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 3683.663,
+      "end": 3685.773,
+      "formatted_start": "01:01:23.663",
+      "formatted_end": "01:01:25.773",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3685.773,
+      "end": 3688.439,
+      "formatted_start": "01:01:25.773",
+      "formatted_end": "01:01:28.439",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3689.941,
+      "end": 3691.898,
+      "formatted_start": "01:01:29.941",
+      "formatted_end": "01:01:31.898",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3692.27,
+      "end": 3696.033,
+      "formatted_start": "01:01:32.270",
+      "formatted_end": "01:01:36.033",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3710.292,
+      "end": 3717.278,
+      "formatted_start": "01:01:50.292",
+      "formatted_end": "01:01:57.278",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3773.641,
+      "end": 3774.029,
+      "formatted_start": "01:02:53.641",
+      "formatted_end": "01:02:54.029",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 3774.029,
+      "end": 3774.856,
+      "formatted_start": "01:02:54.029",
+      "formatted_end": "01:02:54.856",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3600.0,
+      "end": 3630.0,
+      "formatted_start": "01:00:00.000",
+      "formatted_end": "01:00:30.000",
+      "text": "مردی بیمار، سو، بیمار، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، نسخه، بیمار، ن"
+    },
+    {
+      "id": 1,
+      "start": 3630.0,
+      "end": 3659.98,
+      "formatted_start": "01:00:30.000",
+      "formatted_end": "01:00:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 3660.0,
+      "end": 3684.0,
+      "formatted_start": "01:01:00.000",
+      "formatted_end": "01:01:24.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3684.0,
+      "end": 3686.0,
+      "formatted_start": "01:01:24.000",
+      "formatted_end": "01:01:26.000",
+      "text": "این ها کار کنید"
+    },
+    {
+      "id": 4,
+      "start": 3686.0,
+      "end": 3688.0,
+      "formatted_start": "01:01:26.000",
+      "formatted_end": "01:01:28.000",
+      "text": "این هایی که باید باشید"
+    },
+    {
+      "id": 5,
+      "start": 3688.0,
+      "end": 3690.0,
+      "formatted_start": "01:01:28.000",
+      "formatted_end": "01:01:30.000",
+      "text": "این هایی که باید باشید"
+    },
+    {
+      "id": 6,
+      "start": 3690.0,
+      "end": 3692.0,
+      "formatted_start": "01:01:30.000",
+      "formatted_end": "01:01:32.000",
+      "text": "این هایی که باید باشید"
+    },
+    {
+      "id": 7,
+      "start": 3692.0,
+      "end": 3694.0,
+      "formatted_start": "01:01:32.000",
+      "formatted_end": "01:01:34.000",
+      "text": "این هایی که باید باشید"
+    },
+    {
+      "id": 8,
+      "start": 3694.0,
+      "end": 3696.0,
+      "formatted_start": "01:01:34.000",
+      "formatted_end": "01:01:36.000",
+      "text": "این هایی که باید باشید"
+    },
+    {
+      "id": 9,
+      "start": 3696.0,
+      "end": 3698.0,
+      "formatted_start": "01:01:36.000",
+      "formatted_end": "01:01:38.000",
+      "text": "این هایی که باید باشید"
+    },
+    {
+      "id": 10,
+      "start": 3698.0,
+      "end": 3700.0,
+      "formatted_start": "01:01:38.000",
+      "formatted_end": "01:01:40.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 11,
+      "start": 3700.0,
+      "end": 3702.0,
+      "formatted_start": "01:01:40.000",
+      "formatted_end": "01:01:42.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 12,
+      "start": 3702.0,
+      "end": 3704.0,
+      "formatted_start": "01:01:42.000",
+      "formatted_end": "01:01:44.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 13,
+      "start": 3704.0,
+      "end": 3706.0,
+      "formatted_start": "01:01:44.000",
+      "formatted_end": "01:01:46.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 14,
+      "start": 3706.0,
+      "end": 3708.0,
+      "formatted_start": "01:01:46.000",
+      "formatted_end": "01:01:48.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 15,
+      "start": 3708.0,
+      "end": 3710.0,
+      "formatted_start": "01:01:48.000",
+      "formatted_end": "01:01:50.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 16,
+      "start": 3710.0,
+      "end": 3712.0,
+      "formatted_start": "01:01:50.000",
+      "formatted_end": "01:01:52.000",
+      "text": "این هایی که باشید"
+    },
+    {
+      "id": 17,
+      "start": 3712.0,
+      "end": 3714.0,
+      "formatted_start": "01:01:52.000",
+      "formatted_end": "01:01:54.000",
+      "text": "این هایی که با شما شما را در مورد دست دارند."
+    },
+    {
+      "id": 18,
+      "start": 3714.0,
+      "end": 3716.0,
+      "formatted_start": "01:01:54.000",
+      "formatted_end": "01:01:56.000",
+      "text": "این هایی که با شما شما شما در مورد دست دارند."
+    },
+    {
+      "id": 19,
+      "start": 3716.0,
+      "end": 3718.0,
+      "formatted_start": "01:01:56.000",
+      "formatted_end": "01:01:58.000",
+      "text": "این هایی که با شما شما شما در مورد دست دارند."
+    },
+    {
+      "id": 20,
+      "start": 3718.0,
+      "end": 3720.0,
+      "formatted_start": "01:01:58.000",
+      "formatted_end": "01:02:00.000",
+      "text": "این هایی که با شما شما شما شما در مورد دست دارند."
+    },
+    {
+      "id": 21,
+      "start": 3720.0,
+      "end": 3722.0,
+      "formatted_start": "01:02:00.000",
+      "formatted_end": "01:02:02.000",
+      "text": "این هایی که با شما شما شما شما در مورد دست دارند."
+    },
+    {
+      "id": 22,
+      "start": 3722.0,
+      "end": 3724.0,
+      "formatted_start": "01:02:02.000",
+      "formatted_end": "01:02:04.000",
+      "text": "این هایی که با شما شما شما شما در مورد دست دارند."
+    },
+    {
+      "id": 23,
+      "start": 3724.0,
+      "end": 3726.0,
+      "formatted_start": "01:02:04.000",
+      "formatted_end": "01:02:06.000",
+      "text": "این هایی که با شما شما شما شما در مورد دست دارند."
+    },
+    {
+      "id": 24,
+      "start": 3726.0,
+      "end": 3755.98,
+      "formatted_start": "01:02:06.000",
+      "formatted_end": "01:02:35.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 25,
+      "start": 3756.0,
+      "end": 3774.0,
+      "formatted_start": "01:02:36.000",
+      "formatted_end": "01:02:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 3774.0,
+      "end": 3803.98,
+      "formatted_start": "01:02:54.000",
+      "formatted_end": "01:03:23.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 27,
+      "start": 3804.0,
+      "end": 3833.98,
+      "formatted_start": "01:03:24.000",
+      "formatted_end": "01:03:53.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 3834.0,
+      "end": 3863.98,
+      "formatted_start": "01:03:54.000",
+      "formatted_end": "01:04:23.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 29,
+      "start": 3864.0,
+      "end": 3893.98,
+      "formatted_start": "01:04:24.000",
+      "formatted_end": "01:04:53.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 30,
+      "start": 3894.0,
+      "end": 3900.0,
+      "formatted_start": "01:04:54.000",
+      "formatted_end": "01:05:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

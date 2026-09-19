@@ -1,0 +1,566 @@
+{
+  "chunk_index": 16,
+  "start_sec": 4800.0,
+  "end_sec": 5100.0,
+  "turns": [
+    {
+      "start": 4800.267,
+      "end": 4803.322,
+      "formatted_start": "01:20:00.267",
+      "formatted_end": "01:20:03.322",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4875.395,
+      "end": 4875.884,
+      "formatted_start": "01:21:15.395",
+      "formatted_end": "01:21:15.884",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4876.981,
+      "end": 4889.738,
+      "formatted_start": "01:21:16.981",
+      "formatted_end": "01:21:29.738",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4892.253,
+      "end": 4893.029,
+      "formatted_start": "01:21:32.253",
+      "formatted_end": "01:21:33.029",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4893.974,
+      "end": 4898.328,
+      "formatted_start": "01:21:33.974",
+      "formatted_end": "01:21:38.328",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4899.391,
+      "end": 4904.538,
+      "formatted_start": "01:21:39.391",
+      "formatted_end": "01:21:44.538",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4904.993,
+      "end": 4908.048,
+      "formatted_start": "01:21:44.993",
+      "formatted_end": "01:21:48.048",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4908.352,
+      "end": 4913.92,
+      "formatted_start": "01:21:48.352",
+      "formatted_end": "01:21:53.920",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4915.135,
+      "end": 4917.65,
+      "formatted_start": "01:21:55.135",
+      "formatted_end": "01:21:57.650",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4917.852,
+      "end": 4928.753,
+      "formatted_start": "01:21:57.852",
+      "formatted_end": "01:22:08.753",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4930.863,
+      "end": 4950.033,
+      "formatted_start": "01:22:10.863",
+      "formatted_end": "01:22:30.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4950.32,
+      "end": 4952.024,
+      "formatted_start": "01:22:30.320",
+      "formatted_end": "01:22:32.024",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4952.277,
+      "end": 4954.471,
+      "formatted_start": "01:22:32.277",
+      "formatted_end": "01:22:34.471",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4955.315,
+      "end": 4955.821,
+      "formatted_start": "01:22:35.315",
+      "formatted_end": "01:22:35.821",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4956.293,
+      "end": 4959.415,
+      "formatted_start": "01:22:36.293",
+      "formatted_end": "01:22:39.415",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4959.044,
+      "end": 4971.16,
+      "formatted_start": "01:22:39.044",
+      "formatted_end": "01:22:51.160",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4972.038,
+      "end": 4976.662,
+      "formatted_start": "01:22:52.038",
+      "formatted_end": "01:22:56.662",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4976.797,
+      "end": 4977.556,
+      "formatted_start": "01:22:56.797",
+      "formatted_end": "01:22:57.556",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4977.961,
+      "end": 4979.176,
+      "formatted_start": "01:22:57.961",
+      "formatted_end": "01:22:59.176",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4979.412,
+      "end": 4985.453,
+      "formatted_start": "01:22:59.412",
+      "formatted_end": "01:23:05.453",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4983.327,
+      "end": 4984.829,
+      "formatted_start": "01:23:03.327",
+      "formatted_end": "01:23:04.829",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5015.677,
+      "end": 5025.65,
+      "formatted_start": "01:23:35.677",
+      "formatted_end": "01:23:45.650",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5026.308,
+      "end": 5032.214,
+      "formatted_start": "01:23:46.308",
+      "formatted_end": "01:23:52.214",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5032.383,
+      "end": 5034.003,
+      "formatted_start": "01:23:52.383",
+      "formatted_end": "01:23:54.003",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5034.695,
+      "end": 5038.475,
+      "formatted_start": "01:23:54.695",
+      "formatted_end": "01:23:58.475",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5038.627,
+      "end": 5040.027,
+      "formatted_start": "01:23:58.627",
+      "formatted_end": "01:24:00.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5050.945,
+      "end": 5052.127,
+      "formatted_start": "01:24:10.945",
+      "formatted_end": "01:24:12.127",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5052.363,
+      "end": 5061.037,
+      "formatted_start": "01:24:12.363",
+      "formatted_end": "01:24:21.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 5061.037,
+      "end": 5061.88,
+      "formatted_start": "01:24:21.037",
+      "formatted_end": "01:24:21.880",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 5064.766,
+      "end": 5067.533,
+      "formatted_start": "01:24:24.766",
+      "formatted_end": "01:24:27.533",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 5068.04,
+      "end": 5070.588,
+      "formatted_start": "01:24:28.040",
+      "formatted_end": "01:24:30.588",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 5070.065,
+      "end": 5072.545,
+      "formatted_start": "01:24:30.065",
+      "formatted_end": "01:24:32.545",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 5078.317,
+      "end": 5084.24,
+      "formatted_start": "01:24:38.317",
+      "formatted_end": "01:24:44.240",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 5085.59,
+      "end": 5086.822,
+      "formatted_start": "01:24:45.590",
+      "formatted_end": "01:24:46.822",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 5086.822,
+      "end": 5087.952,
+      "formatted_start": "01:24:46.822",
+      "formatted_end": "01:24:47.952",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 5097.352,
+      "end": 5099.967,
+      "formatted_start": "01:24:57.352",
+      "formatted_end": "01:24:59.967",
+      "speaker": "SPEAKER_02"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4800.0,
+      "end": 4830.0,
+      "formatted_start": "01:20:00.000",
+      "formatted_end": "01:20:30.000",
+      "text": "مدیشه بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیشتر بیش"
+    },
+    {
+      "id": 1,
+      "start": 4830.0,
+      "end": 4859.98,
+      "formatted_start": "01:20:30.000",
+      "formatted_end": "01:20:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 4860.0,
+      "end": 4876.0,
+      "formatted_start": "01:21:00.000",
+      "formatted_end": "01:21:16.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 4890.0,
+      "end": 4892.0,
+      "formatted_start": "01:21:30.000",
+      "formatted_end": "01:21:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4920.0,
+      "end": 4950.0,
+      "formatted_start": "01:22:00.000",
+      "formatted_end": "01:22:30.000",
+      "text": "اگر اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه اینکه"
+    },
+    {
+      "id": 5,
+      "start": 4950.0,
+      "end": 4954.64,
+      "formatted_start": "01:22:30.000",
+      "formatted_end": "01:22:34.640",
+      "text": "ارزش همه هیچند یا به طریقی بگید همه توچند"
+    },
+    {
+      "id": 6,
+      "start": 4954.64,
+      "end": 4959.24,
+      "formatted_start": "01:22:34.640",
+      "formatted_end": "01:22:39.240",
+      "text": "و یک معنیش اینکه تراب داد کرد چه جور دارد"
+    },
+    {
+      "id": 7,
+      "start": 4959.24,
+      "end": 4963.76,
+      "formatted_start": "01:22:39.240",
+      "formatted_end": "01:22:43.760",
+      "text": "پس این رای مسلک پیام نیمده که زیمه شما تاوم شده"
+    },
+    {
+      "id": 8,
+      "start": 4963.76,
+      "end": 4964.76,
+      "formatted_start": "01:22:43.760",
+      "formatted_end": "01:22:44.760",
+      "text": "نه چیزی نمیدونه"
+    },
+    {
+      "id": 9,
+      "start": 4964.76,
+      "end": 4965.76,
+      "formatted_start": "01:22:44.760",
+      "formatted_end": "01:22:45.760",
+      "text": "و پشتی چیزی نمیدونه"
+    },
+    {
+      "id": 10,
+      "start": 4965.76,
+      "end": 4969.68,
+      "formatted_start": "01:22:45.760",
+      "formatted_end": "01:22:49.680",
+      "text": "زیمه تاوم شده و از اینکه میترسیم اینکه زیمه را قبول نکنه"
+    },
+    {
+      "id": 11,
+      "start": 4969.68,
+      "end": 4971.68,
+      "formatted_start": "01:22:49.680",
+      "formatted_end": "01:22:51.680",
+      "text": "نه چیزی نمیدونه"
+    },
+    {
+      "id": 12,
+      "start": 4971.68,
+      "end": 4973.68,
+      "formatted_start": "01:22:51.680",
+      "formatted_end": "01:22:53.680",
+      "text": "و اینکه درست نشد مگه"
+    },
+    {
+      "id": 13,
+      "start": 4973.68,
+      "end": 4976.68,
+      "formatted_start": "01:22:53.680",
+      "formatted_end": "01:22:56.680",
+      "text": "تمنی اشتماعی درست شده نه اینکه نمیدونه"
+    },
+    {
+      "id": 14,
+      "start": 4976.68,
+      "end": 4982.68,
+      "formatted_start": "01:22:56.680",
+      "formatted_end": "01:23:02.680",
+      "text": "این کود قبلاً ۷۵۸ کنید و باید شویدید"
+    },
+    {
+      "id": 15,
+      "start": 4982.68,
+      "end": 4992.68,
+      "formatted_start": "01:23:02.680",
+      "formatted_end": "01:23:12.680",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 5012.68,
+      "end": 5014.68,
+      "formatted_start": "01:23:32.680",
+      "formatted_end": "01:23:34.680",
+      "text": "موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 5042.68,
+      "end": 5046.84,
+      "formatted_start": "01:24:02.680",
+      "formatted_end": "01:24:06.840",
+      "text": "وقتی نیوهایی در ارترنجیب اون به این اندازه رسید یه زد میشه"
+    },
+    {
+      "id": 18,
+      "start": 5046.84,
+      "end": 5051.4,
+      "formatted_start": "01:24:06.840",
+      "formatted_end": "01:24:11.400",
+      "text": "را بیزن میبنیم و انجیبهایی برموند از این داخلش"
+    },
+    {
+      "id": 19,
+      "start": 5051.4,
+      "end": 5057.24,
+      "formatted_start": "01:24:11.400",
+      "formatted_end": "01:24:17.240",
+      "text": "پشه ها اول سبک میان ویرون و میرن داخل این نیوه"
+    },
+    {
+      "id": 20,
+      "start": 5057.24,
+      "end": 5059.64,
+      "formatted_start": "01:24:17.240",
+      "formatted_end": "01:24:19.640",
+      "text": "و باعث میشه که گرد رفت"
+    },
+    {
+      "id": 21,
+      "start": 5059.64,
+      "end": 5060.14,
+      "formatted_start": "01:24:19.640",
+      "formatted_end": "01:24:20.140",
+      "text": "سلام"
+    },
+    {
+      "id": 22,
+      "start": 5060.14,
+      "end": 5060.56,
+      "formatted_start": "01:24:20.140",
+      "formatted_end": "01:24:20.560",
+      "text": "سلام سلام"
+    },
+    {
+      "id": 23,
+      "start": 5060.56,
+      "end": 5061.2,
+      "formatted_start": "01:24:20.560",
+      "formatted_end": "01:24:21.200",
+      "text": "خوشید"
+    },
+    {
+      "id": 24,
+      "start": 5061.2,
+      "end": 5065.58,
+      "formatted_start": "01:24:21.200",
+      "formatted_end": "01:24:25.580",
+      "text": "خوبه"
+    },
+    {
+      "id": 25,
+      "start": 5065.58,
+      "end": 5066.22,
+      "formatted_start": "01:24:25.580",
+      "formatted_end": "01:24:26.220",
+      "text": "سلام"
+    },
+    {
+      "id": 26,
+      "start": 5066.22,
+      "end": 5066.26,
+      "formatted_start": "01:24:26.220",
+      "formatted_end": "01:24:26.260",
+      "text": "سلام"
+    },
+    {
+      "id": 27,
+      "start": 5066.26,
+      "end": 5068.06,
+      "formatted_start": "01:24:26.260",
+      "formatted_end": "01:24:28.060",
+      "text": "این شهر چی بوده؟"
+    },
+    {
+      "id": 28,
+      "start": 5068.06,
+      "end": 5069.18,
+      "formatted_start": "01:24:28.060",
+      "formatted_end": "01:24:29.180",
+      "text": "جاستانش را بردم"
+    },
+    {
+      "id": 29,
+      "start": 5069.18,
+      "end": 5070.1,
+      "formatted_start": "01:24:29.180",
+      "formatted_end": "01:24:30.100",
+      "text": "ترابه دور بشیم"
+    },
+    {
+      "id": 30,
+      "start": 5070.1,
+      "end": 5070.38,
+      "formatted_start": "01:24:30.100",
+      "formatted_end": "01:24:30.380",
+      "text": "آه"
+    },
+    {
+      "id": 31,
+      "start": 5070.38,
+      "end": 5071.78,
+      "formatted_start": "01:24:30.380",
+      "formatted_end": "01:24:31.780",
+      "text": "ترابه شیر کن کن بود"
+    },
+    {
+      "id": 32,
+      "start": 5071.78,
+      "end": 5072.36,
+      "formatted_start": "01:24:31.780",
+      "formatted_end": "01:24:32.360",
+      "text": "آه آه"
+    },
+    {
+      "id": 33,
+      "start": 5072.36,
+      "end": 5081.36,
+      "formatted_start": "01:24:32.360",
+      "formatted_end": "01:24:41.360",
+      "text": "خانمه، دارو چیزی هم دادی بودن بهش؟"
+    },
+    {
+      "id": 34,
+      "start": 5081.36,
+      "end": 5082.36,
+      "formatted_start": "01:24:41.360",
+      "formatted_end": "01:24:42.360",
+      "text": "نه"
+    },
+    {
+      "id": 35,
+      "start": 5082.36,
+      "end": 5087.36,
+      "formatted_start": "01:24:42.360",
+      "formatted_end": "01:24:47.360",
+      "text": "دستگیر رو خواهیم دید اگر میخوایید بردر میزنی؟"
+    },
+    {
+      "id": 36,
+      "start": 5087.36,
+      "end": 5089.36,
+      "formatted_start": "01:24:47.360",
+      "formatted_end": "01:24:49.360",
+      "text": "این از ماشاش بود"
+    },
+    {
+      "id": 37,
+      "start": 5097.36,
+      "end": 5100.36,
+      "formatted_start": "01:24:57.360",
+      "formatted_end": "01:25:00.360",
+      "text": "این دار بردرش ادرار، این دار مستانهش ادرار"
+    }
+  ],
+  "status": "completed"
+}

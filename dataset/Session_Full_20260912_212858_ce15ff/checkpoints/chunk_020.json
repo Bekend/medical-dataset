@@ -1,0 +1,292 @@
+{
+  "chunk_index": 20,
+  "start_sec": 6000.0,
+  "end_sec": 6300.0,
+  "turns": [
+    {
+      "start": 6109.043,
+      "end": 6118.004,
+      "formatted_start": "01:41:49.043",
+      "formatted_end": "01:41:58.004",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6118.156,
+      "end": 6122.712,
+      "formatted_start": "01:41:58.156",
+      "formatted_end": "01:42:02.712",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6125.648,
+      "end": 6126.796,
+      "formatted_start": "01:42:05.648",
+      "formatted_end": "01:42:06.796",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6127.353,
+      "end": 6132.871,
+      "formatted_start": "01:42:07.353",
+      "formatted_end": "01:42:12.871",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6133.006,
+      "end": 6156.226,
+      "formatted_start": "01:42:13.006",
+      "formatted_end": "01:42:36.226",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6296.947,
+      "end": 6297.385,
+      "formatted_start": "01:44:56.947",
+      "formatted_end": "01:44:57.385",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6000.0,
+      "end": 6029.98,
+      "formatted_start": "01:40:00.000",
+      "formatted_end": "01:40:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6030.0,
+      "end": 6058.0,
+      "formatted_start": "01:40:30.000",
+      "formatted_end": "01:40:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 6060.0,
+      "end": 6080.0,
+      "formatted_start": "01:41:00.000",
+      "formatted_end": "01:41:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 6080.0,
+      "end": 6109.0,
+      "formatted_start": "01:41:20.000",
+      "formatted_end": "01:41:49.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 6109.0,
+      "end": 6111.0,
+      "formatted_start": "01:41:49.000",
+      "formatted_end": "01:41:51.000",
+      "text": "سلام و دلوت"
+    },
+    {
+      "id": 5,
+      "start": 6111.0,
+      "end": 6112.2,
+      "formatted_start": "01:41:51.000",
+      "formatted_end": "01:41:52.200",
+      "text": "سلام خوب هستیم"
+    },
+    {
+      "id": 6,
+      "start": 6112.2,
+      "end": 6113.24,
+      "formatted_start": "01:41:52.200",
+      "formatted_end": "01:41:53.240",
+      "text": "قربونش بشم"
+    },
+    {
+      "id": 7,
+      "start": 6113.24,
+      "end": 6114.76,
+      "formatted_start": "01:41:53.240",
+      "formatted_end": "01:41:54.760",
+      "text": "دنده باشی"
+    },
+    {
+      "id": 8,
+      "start": 6114.76,
+      "end": 6115.24,
+      "formatted_start": "01:41:54.760",
+      "formatted_end": "01:41:55.240",
+      "text": "خواهش میکنم"
+    },
+    {
+      "id": 9,
+      "start": 6115.24,
+      "end": 6118.2,
+      "formatted_start": "01:41:55.240",
+      "formatted_end": "01:41:58.200",
+      "text": "با زحمتهای ما زحمت افتادی"
+    },
+    {
+      "id": 10,
+      "start": 6118.2,
+      "end": 6119.88,
+      "formatted_start": "01:41:58.200",
+      "formatted_end": "01:41:59.880",
+      "text": "آره راضی نمیدونیم"
+    },
+    {
+      "id": 11,
+      "start": 6119.88,
+      "end": 6120.84,
+      "formatted_start": "01:41:59.880",
+      "formatted_end": "01:42:00.840",
+      "text": "خواهش میکنم"
+    },
+    {
+      "id": 12,
+      "start": 6120.84,
+      "end": 6122.12,
+      "formatted_start": "01:42:00.840",
+      "formatted_end": "01:42:02.120",
+      "text": "دفتر مطمئنم"
+    },
+    {
+      "id": 13,
+      "start": 6122.12,
+      "end": 6125.56,
+      "formatted_start": "01:42:02.120",
+      "formatted_end": "01:42:05.560",
+      "text": "جانم"
+    },
+    {
+      "id": 14,
+      "start": 6125.56,
+      "end": 6130.52,
+      "formatted_start": "01:42:05.560",
+      "formatted_end": "01:42:10.520",
+      "text": "ما تقریبا بعد یه تقریبا هفت و روپ دیگه"
+    },
+    {
+      "id": 15,
+      "start": 6130.52,
+      "end": 6133.0,
+      "formatted_start": "01:42:10.520",
+      "formatted_end": "01:42:13.000",
+      "text": "یه نیم سال چند دقیقه دیگه"
+    },
+    {
+      "id": 16,
+      "start": 6133.0,
+      "end": 6133.88,
+      "formatted_start": "01:42:13.000",
+      "formatted_end": "01:42:13.880",
+      "text": "آره آره"
+    },
+    {
+      "id": 17,
+      "start": 6133.88,
+      "end": 6138.84,
+      "formatted_start": "01:42:13.880",
+      "formatted_end": "01:42:18.840",
+      "text": "حالا ما به طرف فارسیان که افتادیم"
+    },
+    {
+      "id": 18,
+      "start": 6138.84,
+      "end": 6140.84,
+      "formatted_start": "01:42:18.840",
+      "formatted_end": "01:42:20.840",
+      "text": "برات زنگ می‌زنم، خوب؟"
+    },
+    {
+      "id": 19,
+      "start": 6140.84,
+      "end": 6144.84,
+      "formatted_start": "01:42:20.840",
+      "formatted_end": "01:42:24.840",
+      "text": "باشه، مثلا تو بالیکش وقت این فارسیان"
+    },
+    {
+      "id": 20,
+      "start": 6144.84,
+      "end": 6146.84,
+      "formatted_start": "01:42:24.840",
+      "formatted_end": "01:42:26.840",
+      "text": "چرا تو فارسیان رفتیدی، به زنگ می‌زن"
+    },
+    {
+      "id": 21,
+      "start": 6146.84,
+      "end": 6148.84,
+      "formatted_start": "01:42:26.840",
+      "formatted_end": "01:42:28.840",
+      "text": "باشه، مرسی، قربانت"
+    },
+    {
+      "id": 22,
+      "start": 6148.84,
+      "end": 6151.84,
+      "formatted_start": "01:42:28.840",
+      "formatted_end": "01:42:31.840",
+      "text": "چیزی لازمه بگیرم، اگر... آم؟"
+    },
+    {
+      "id": 23,
+      "start": 6151.84,
+      "end": 6153.84,
+      "formatted_start": "01:42:31.840",
+      "formatted_end": "01:42:33.840",
+      "text": "تاروخ نکنید"
+    },
+    {
+      "id": 24,
+      "start": 6153.84,
+      "end": 6156.84,
+      "formatted_start": "01:42:33.840",
+      "formatted_end": "01:42:36.840",
+      "text": "خواهش می‌کنم، زنده باشی، خدا نگهان"
+    },
+    {
+      "id": 25,
+      "start": 6168.84,
+      "end": 6196.84,
+      "formatted_start": "01:42:48.840",
+      "formatted_end": "01:43:16.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 6198.84,
+      "end": 6228.82,
+      "formatted_start": "01:43:18.840",
+      "formatted_end": "01:43:48.820",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 27,
+      "start": 6228.84,
+      "end": 6257.84,
+      "formatted_start": "01:43:48.840",
+      "formatted_end": "01:44:17.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 28,
+      "start": 6258.84,
+      "end": 6284.84,
+      "formatted_start": "01:44:18.840",
+      "formatted_end": "01:44:44.840",
+      "text": "موسیقی"
+    },
+    {
+      "id": 29,
+      "start": 6284.84,
+      "end": 6299.84,
+      "formatted_start": "01:44:44.840",
+      "formatted_end": "01:44:59.840",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

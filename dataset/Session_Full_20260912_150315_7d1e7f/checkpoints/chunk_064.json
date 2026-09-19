@@ -1,0 +1,172 @@
+{
+  "chunk_index": 64,
+  "start_sec": 19200.0,
+  "end_sec": 19500.0,
+  "turns": [
+    {
+      "start": 19419.963,
+      "end": 19421.026,
+      "formatted_start": "05:23:39.963",
+      "formatted_end": "05:23:41.026",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 19423.625,
+      "end": 19428.991,
+      "formatted_start": "05:23:43.625",
+      "formatted_end": "05:23:48.991",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 19477.523,
+      "end": 19478.975,
+      "formatted_start": "05:24:37.523",
+      "formatted_end": "05:24:38.975",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19488.813,
+      "end": 19489.336,
+      "formatted_start": "05:24:48.813",
+      "formatted_end": "05:24:49.336",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19491.85,
+      "end": 19496.288,
+      "formatted_start": "05:24:51.850",
+      "formatted_end": "05:24:56.288",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19495.833,
+      "end": 19499.967,
+      "formatted_start": "05:24:55.833",
+      "formatted_end": "05:24:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 19200.0,
+      "end": 19229.98,
+      "formatted_start": "05:20:00.000",
+      "formatted_end": "05:20:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 19230.0,
+      "end": 19259.98,
+      "formatted_start": "05:20:30.000",
+      "formatted_end": "05:20:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 19260.0,
+      "end": 19289.98,
+      "formatted_start": "05:21:00.000",
+      "formatted_end": "05:21:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 19290.0,
+      "end": 19310.0,
+      "formatted_start": "05:21:30.000",
+      "formatted_end": "05:21:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 19310.0,
+      "end": 19339.98,
+      "formatted_start": "05:21:50.000",
+      "formatted_end": "05:22:19.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 5,
+      "start": 19340.0,
+      "end": 19369.98,
+      "formatted_start": "05:22:20.000",
+      "formatted_end": "05:22:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 19370.0,
+      "end": 19399.98,
+      "formatted_start": "05:22:50.000",
+      "formatted_end": "05:23:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 19400.0,
+      "end": 19429.98,
+      "formatted_start": "05:23:20.000",
+      "formatted_end": "05:23:49.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 19430.0,
+      "end": 19450.0,
+      "formatted_start": "05:23:50.000",
+      "formatted_end": "05:24:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 19450.0,
+      "end": 19477.0,
+      "formatted_start": "05:24:10.000",
+      "formatted_end": "05:24:37.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 19477.0,
+      "end": 19479.0,
+      "formatted_start": "05:24:37.000",
+      "formatted_end": "05:24:39.000",
+      "text": "خانسمی دفتر میادی؟"
+    },
+    {
+      "id": 11,
+      "start": 19479.0,
+      "end": 19481.0,
+      "formatted_start": "05:24:39.000",
+      "formatted_end": "05:24:41.000",
+      "text": "نه"
+    },
+    {
+      "id": 12,
+      "start": 19491.0,
+      "end": 19495.0,
+      "formatted_start": "05:24:51.000",
+      "formatted_end": "05:24:55.000",
+      "text": "اینها رو خانسمی نگفتن اینجا درشته داره"
+    },
+    {
+      "id": 13,
+      "start": 19495.0,
+      "end": 19497.0,
+      "formatted_start": "05:24:55.000",
+      "formatted_end": "05:24:57.000",
+      "text": "جمع کل رو"
+    },
+    {
+      "id": 14,
+      "start": 19497.0,
+      "end": 19500.0,
+      "formatted_start": "05:24:57.000",
+      "formatted_end": "05:25:00.000",
+      "text": "جمع کل رو من چون چیز درده دیدم هم از اصابه از خانسمی خود"
+    }
+  ],
+  "status": "completed"
+}

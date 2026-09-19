@@ -1,0 +1,502 @@
+{
+  "chunk_index": 10,
+  "start_sec": 3000.0,
+  "end_sec": 3300.0,
+  "turns": [
+    {
+      "start": 3105.179,
+      "end": 3106.478,
+      "formatted_start": "00:51:45.179",
+      "formatted_end": "00:51:46.478",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3108.082,
+      "end": 3110.022,
+      "formatted_start": "00:51:48.082",
+      "formatted_end": "00:51:50.022",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3112.553,
+      "end": 3114.646,
+      "formatted_start": "00:51:52.553",
+      "formatted_end": "00:51:54.646",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3118.814,
+      "end": 3120.738,
+      "formatted_start": "00:51:58.814",
+      "formatted_end": "00:52:00.738",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3128.905,
+      "end": 3132.331,
+      "formatted_start": "00:52:08.905",
+      "formatted_end": "00:52:12.331",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3133.192,
+      "end": 3133.563,
+      "formatted_start": "00:52:13.192",
+      "formatted_end": "00:52:13.563",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3135.419,
+      "end": 3136.077,
+      "formatted_start": "00:52:15.419",
+      "formatted_end": "00:52:16.077",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3136.33,
+      "end": 3141.376,
+      "formatted_start": "00:52:16.330",
+      "formatted_end": "00:52:21.376",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3142.338,
+      "end": 3158.74,
+      "formatted_start": "00:52:22.338",
+      "formatted_end": "00:52:38.740",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3159.854,
+      "end": 3165.946,
+      "formatted_start": "00:52:39.854",
+      "formatted_end": "00:52:45.946",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3168.747,
+      "end": 3175.092,
+      "formatted_start": "00:52:48.747",
+      "formatted_end": "00:52:55.092",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3175.48,
+      "end": 3183.817,
+      "formatted_start": "00:52:55.480",
+      "formatted_end": "00:53:03.817",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3181.032,
+      "end": 3181.64,
+      "formatted_start": "00:53:01.032",
+      "formatted_end": "00:53:01.640",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3186.23,
+      "end": 3193.621,
+      "formatted_start": "00:53:06.230",
+      "formatted_end": "00:53:13.621",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3195.865,
+      "end": 3196.979,
+      "formatted_start": "00:53:15.865",
+      "formatted_end": "00:53:16.979",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3198.565,
+      "end": 3231.387,
+      "formatted_start": "00:53:18.565",
+      "formatted_end": "00:53:51.387",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3238.087,
+      "end": 3238.981,
+      "formatted_start": "00:53:58.087",
+      "formatted_end": "00:53:58.981",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3240.179,
+      "end": 3241.006,
+      "formatted_start": "00:54:00.179",
+      "formatted_end": "00:54:01.006",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3258.286,
+      "end": 3261.678,
+      "formatted_start": "00:54:18.286",
+      "formatted_end": "00:54:21.678",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3261.965,
+      "end": 3265.863,
+      "formatted_start": "00:54:21.965",
+      "formatted_end": "00:54:25.863",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3000.0,
+      "end": 3029.98,
+      "formatted_start": "00:50:00.000",
+      "formatted_end": "00:50:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 3030.0,
+      "end": 3059.98,
+      "formatted_start": "00:50:30.000",
+      "formatted_end": "00:50:59.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 2,
+      "start": 3060.0,
+      "end": 3089.98,
+      "formatted_start": "00:51:00.000",
+      "formatted_end": "00:51:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 3,
+      "start": 3090.0,
+      "end": 3105.0,
+      "formatted_start": "00:51:30.000",
+      "formatted_end": "00:51:45.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 3105.0,
+      "end": 3107.0,
+      "formatted_start": "00:51:45.000",
+      "formatted_end": "00:51:47.000",
+      "text": "مردم سلام"
+    },
+    {
+      "id": 5,
+      "start": 3109.0,
+      "end": 3111.0,
+      "formatted_start": "00:51:49.000",
+      "formatted_end": "00:51:51.000",
+      "text": "کجایی؟"
+    },
+    {
+      "id": 6,
+      "start": 3113.0,
+      "end": 3115.0,
+      "formatted_start": "00:51:53.000",
+      "formatted_end": "00:51:55.000",
+      "text": "کجا؟ با ماشین؟"
+    },
+    {
+      "id": 7,
+      "start": 3119.0,
+      "end": 3121.0,
+      "formatted_start": "00:51:59.000",
+      "formatted_end": "00:52:01.000",
+      "text": "میگم که اینه، باید بیرون بیریم"
+    },
+    {
+      "id": 8,
+      "start": 3129.0,
+      "end": 3131.0,
+      "formatted_start": "00:52:09.000",
+      "formatted_end": "00:52:11.000",
+      "text": "آهان، نه، ماشین دست داره؟"
+    },
+    {
+      "id": 9,
+      "start": 3131.0,
+      "end": 3133.0,
+      "formatted_start": "00:52:11.000",
+      "formatted_end": "00:52:13.000",
+      "text": "یا بابا میخواد؟"
+    },
+    {
+      "id": 10,
+      "start": 3135.0,
+      "end": 3143.5,
+      "formatted_start": "00:52:15.000",
+      "formatted_end": "00:52:23.500",
+      "text": "این رادیاتور ما من الان چند روزه یا یه صدای بیز تو خونه میشندم"
+    },
+    {
+      "id": 11,
+      "start": 3143.5,
+      "end": 3148.5,
+      "formatted_start": "00:52:23.500",
+      "formatted_end": "00:52:28.500",
+      "text": "امروز همین بر این از رادیاتوره پاشتارم این مشکل داشت اصلا یادم رکه داریم"
+    },
+    {
+      "id": 12,
+      "start": 3148.5,
+      "end": 3151.16,
+      "formatted_start": "00:52:28.500",
+      "formatted_end": "00:52:31.160",
+      "text": "من اینطورم به ممشی گفت آدوست بده میام"
+    },
+    {
+      "id": 13,
+      "start": 3151.16,
+      "end": 3153.44,
+      "formatted_start": "00:52:31.160",
+      "formatted_end": "00:52:33.440",
+      "text": "بعد این که همه خونه تنهاست"
+    },
+    {
+      "id": 14,
+      "start": 3153.44,
+      "end": 3158.58,
+      "formatted_start": "00:52:33.440",
+      "formatted_end": "00:52:38.580",
+      "text": "بخواد بیاد اگر یه وقتی خودت یا بابا میتونی بریه رو به اونجا بشینی"
+    },
+    {
+      "id": 15,
+      "start": 3158.58,
+      "end": 3161.74,
+      "formatted_start": "00:52:38.580",
+      "formatted_end": "00:52:41.740",
+      "text": "بابا گفت نمیدونم"
+    },
+    {
+      "id": 16,
+      "start": 3161.74,
+      "end": 3165.98,
+      "formatted_start": "00:52:41.740",
+      "formatted_end": "00:52:45.980",
+      "text": "من گفت من ۵ ساعت قبلش کار زیاده بهت خبر میدم خواستم برم سبت خونتون"
+    },
+    {
+      "id": 17,
+      "start": 3165.98,
+      "end": 3173.24,
+      "formatted_start": "00:52:45.980",
+      "formatted_end": "00:52:53.240",
+      "text": "آره یا خودم هم شاید برسن تا اون موقع نمیدونم این نوبتش کهی میشه"
+    },
+    {
+      "id": 18,
+      "start": 3173.24,
+      "end": 3177.74,
+      "formatted_start": "00:52:53.240",
+      "formatted_end": "00:52:57.740",
+      "text": "پناه وست احتیاط گفتم خودت بابا یا من یکی دیگه"
+    },
+    {
+      "id": 19,
+      "start": 3177.74,
+      "end": 3183.74,
+      "formatted_start": "00:52:57.740",
+      "formatted_end": "00:53:03.740",
+      "text": "آره آره اگه نشد با اجازه خورم با تصویب آره آره آره آره آره"
+    },
+    {
+      "id": 20,
+      "start": 3183.74,
+      "end": 3189.78,
+      "formatted_start": "00:53:03.740",
+      "formatted_end": "00:53:09.780",
+      "text": "اما اینجا نشد با ایناتوران خودم رو خواستم بگم"
+    },
+    {
+      "id": 21,
+      "start": 3189.78,
+      "end": 3194.02,
+      "formatted_start": "00:53:09.780",
+      "formatted_end": "00:53:14.020",
+      "text": "چیز به شبشی شده؟ سمس دادی یا ندی؟"
+    },
+    {
+      "id": 22,
+      "start": 3194.02,
+      "end": 3197.28,
+      "formatted_start": "00:53:14.020",
+      "formatted_end": "00:53:17.280",
+      "text": "همونو نوشتی؟"
+    },
+    {
+      "id": 23,
+      "start": 3197.28,
+      "end": 3199.16,
+      "formatted_start": "00:53:17.280",
+      "formatted_end": "00:53:19.160",
+      "text": "خوب کردی"
+    },
+    {
+      "id": 24,
+      "start": 3199.16,
+      "end": 3202.1,
+      "formatted_start": "00:53:19.160",
+      "formatted_end": "00:53:22.100",
+      "text": "من احساس می کنم اون سمس همون خودش پرستاده"
+    },
+    {
+      "id": 25,
+      "start": 3202.1,
+      "end": 3204.66,
+      "formatted_start": "00:53:22.100",
+      "formatted_end": "00:53:24.660",
+      "text": "به دختر و خانومتون سلام برسونیم"
+    },
+    {
+      "id": 26,
+      "start": 3204.66,
+      "end": 3205.78,
+      "formatted_start": "00:53:24.660",
+      "formatted_end": "00:53:25.780",
+      "text": "حسین آقا"
+    },
+    {
+      "id": 27,
+      "start": 3205.78,
+      "end": 3208.02,
+      "formatted_start": "00:53:25.780",
+      "formatted_end": "00:53:28.020",
+      "text": "اینو من خوب آره"
+    },
+    {
+      "id": 28,
+      "start": 3208.02,
+      "end": 3209.0,
+      "formatted_start": "00:53:28.020",
+      "formatted_end": "00:53:29.000",
+      "text": "من می فهمم"
+    },
+    {
+      "id": 29,
+      "start": 3209.0,
+      "end": 3211.62,
+      "formatted_start": "00:53:29.000",
+      "formatted_end": "00:53:31.620",
+      "text": "این از طرف خودش بوده"
+    },
+    {
+      "id": 30,
+      "start": 3211.62,
+      "end": 3214.86,
+      "formatted_start": "00:53:31.620",
+      "formatted_end": "00:53:34.860",
+      "text": "کشش نده و بینام، آره پدرس، بگیر"
+    },
+    {
+      "id": 31,
+      "start": 3214.86,
+      "end": 3218.38,
+      "formatted_start": "00:53:34.860",
+      "formatted_end": "00:53:38.380",
+      "text": "آره اینو که می کرده مثلا اینجوری میتونه به ما عزیز بشه"
+    },
+    {
+      "id": 32,
+      "start": 3218.38,
+      "end": 3222.5,
+      "formatted_start": "00:53:38.380",
+      "formatted_end": "00:53:42.500",
+      "text": "به دخترتون و فلا سلام برسیم، اون رنگه پدرش اینو بگه"
+    },
+    {
+      "id": 33,
+      "start": 3222.5,
+      "end": 3224.38,
+      "formatted_start": "00:53:42.500",
+      "formatted_end": "00:53:44.380",
+      "text": "پدرش بیزاره از تو"
+    },
+    {
+      "id": 34,
+      "start": 3224.38,
+      "end": 3226.9,
+      "formatted_start": "00:53:44.380",
+      "formatted_end": "00:53:46.900",
+      "text": "که بخواد مثلا برای حفظه"
+    },
+    {
+      "id": 35,
+      "start": 3226.9,
+      "end": 3228.9,
+      "formatted_start": "00:53:46.900",
+      "formatted_end": "00:53:48.900",
+      "text": "آفرین، آره، آره"
+    },
+    {
+      "id": 36,
+      "start": 3228.9,
+      "end": 3231.54,
+      "formatted_start": "00:53:48.900",
+      "formatted_end": "00:53:51.540",
+      "text": "خوبه پرستادی، خوب کردی، باید باید"
+    },
+    {
+      "id": 37,
+      "start": 3237.9,
+      "end": 3238.9,
+      "formatted_start": "00:53:57.900",
+      "formatted_end": "00:53:58.900",
+      "text": "خوب کردی"
+    },
+    {
+      "id": 38,
+      "start": 3240.1,
+      "end": 3241.1,
+      "formatted_start": "00:54:00.100",
+      "formatted_end": "00:54:01.100",
+      "text": "آفرین"
+    },
+    {
+      "id": 39,
+      "start": 3241.62,
+      "end": 3257.62,
+      "formatted_start": "00:54:01.620",
+      "formatted_end": "00:54:17.620",
+      "text": "موسیقی"
+    },
+    {
+      "id": 40,
+      "start": 3257.62,
+      "end": 3261.14,
+      "formatted_start": "00:54:17.620",
+      "formatted_end": "00:54:21.140",
+      "text": "آها خوب کردی برو من گشم از که ندیدمش"
+    },
+    {
+      "id": 41,
+      "start": 3261.14,
+      "end": 3265.76,
+      "formatted_start": "00:54:21.140",
+      "formatted_end": "00:54:25.760",
+      "text": "باش باش دست درم کن خدا هست"
+    },
+    {
+      "id": 42,
+      "start": 3265.76,
+      "end": 3270.76,
+      "formatted_start": "00:54:25.760",
+      "formatted_end": "00:54:30.760",
+      "text": "موسیقی"
+    },
+    {
+      "id": 43,
+      "start": 3271.62,
+      "end": 3299.62,
+      "formatted_start": "00:54:31.620",
+      "formatted_end": "00:54:59.620",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

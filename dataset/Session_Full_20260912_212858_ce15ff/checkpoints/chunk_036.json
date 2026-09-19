@@ -1,0 +1,54 @@
+{
+  "chunk_index": 36,
+  "start_sec": 10800.0,
+  "end_sec": 10814.68,
+  "turns": [
+    {
+      "start": 10800.166,
+      "end": 10801.111,
+      "formatted_start": "03:00:00.166",
+      "formatted_end": "03:00:01.111",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10803.203,
+      "end": 10804.638,
+      "formatted_start": "03:00:03.203",
+      "formatted_end": "03:00:04.638",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10806.713,
+      "end": 10809.127,
+      "formatted_start": "03:00:06.713",
+      "formatted_end": "03:00:09.127",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10809.43,
+      "end": 10809.953,
+      "formatted_start": "03:00:09.430",
+      "formatted_end": "03:00:09.953",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 10800.0,
+      "end": 10802.0,
+      "formatted_start": "03:00:00.000",
+      "formatted_end": "03:00:02.000",
+      "text": "خاطر این طرف"
+    },
+    {
+      "id": 1,
+      "start": 10806.64,
+      "end": 10808.64,
+      "formatted_start": "03:00:06.640",
+      "formatted_end": "03:00:08.640",
+      "text": "اینجا، کابینه سازی اینجا"
+    }
+  ],
+  "status": "completed"
+}

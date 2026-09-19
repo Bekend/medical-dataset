@@ -1,0 +1,128 @@
+{
+  "chunk_index": 21,
+  "start_sec": 6300.0,
+  "end_sec": 6600.0,
+  "turns": [
+    {
+      "start": 6578.553,
+      "end": 6580.848,
+      "formatted_start": "01:49:38.553",
+      "formatted_end": "01:49:40.848",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6581.54,
+      "end": 6593.048,
+      "formatted_start": "01:49:41.540",
+      "formatted_end": "01:49:53.048",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6300.0,
+      "end": 6329.98,
+      "formatted_start": "01:45:00.000",
+      "formatted_end": "01:45:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6330.0,
+      "end": 6359.98,
+      "formatted_start": "01:45:30.000",
+      "formatted_end": "01:45:59.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 2,
+      "start": 6360.0,
+      "end": 6389.98,
+      "formatted_start": "01:46:00.000",
+      "formatted_end": "01:46:29.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 3,
+      "start": 6390.0,
+      "end": 6406.0,
+      "formatted_start": "01:46:30.000",
+      "formatted_end": "01:46:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 6406.0,
+      "end": 6412.0,
+      "formatted_start": "01:46:46.000",
+      "formatted_end": "01:46:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 6436.0,
+      "end": 6465.98,
+      "formatted_start": "01:47:16.000",
+      "formatted_end": "01:47:45.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 6,
+      "start": 6466.0,
+      "end": 6495.98,
+      "formatted_start": "01:47:46.000",
+      "formatted_end": "01:48:15.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 7,
+      "start": 6496.0,
+      "end": 6511.0,
+      "formatted_start": "01:48:16.000",
+      "formatted_end": "01:48:31.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 6526.0,
+      "end": 6552.0,
+      "formatted_start": "01:48:46.000",
+      "formatted_end": "01:49:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 6552.0,
+      "end": 6578.0,
+      "formatted_start": "01:49:12.000",
+      "formatted_end": "01:49:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 6578.0,
+      "end": 6581.0,
+      "formatted_start": "01:49:38.000",
+      "formatted_end": "01:49:41.000",
+      "text": "حالا، حالا سلام جنوه یه دید؟"
+    },
+    {
+      "id": 11,
+      "start": 6581.0,
+      "end": 6586.0,
+      "formatted_start": "01:49:41.000",
+      "formatted_end": "01:49:46.000",
+      "text": "حالا سلام، خسته نباشید، خوب هستید، با زحمتهای ما"
+    },
+    {
+      "id": 12,
+      "start": 6586.0,
+      "end": 6594.0,
+      "formatted_start": "01:49:46.000",
+      "formatted_end": "01:49:54.000",
+      "text": "از خواهیم کنم، آقاییدک جان دیروز با حسام یه جلسه داشته داشته، خواستم بینم نتیجه خواستی گرفتید"
+    }
+  ],
+  "status": "completed"
+}

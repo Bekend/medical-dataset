@@ -1,0 +1,251 @@
+{
+  "chunk_index": 13,
+  "start_sec": 3900.0,
+  "end_sec": 4200.0,
+  "turns": [
+    {
+      "start": 3900.031,
+      "end": 3902.107,
+      "formatted_start": "01:05:00.031",
+      "formatted_end": "01:05:02.107",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3902.765,
+      "end": 3903.608,
+      "formatted_start": "01:05:02.765",
+      "formatted_end": "01:05:03.608",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3904.958,
+      "end": 3907.962,
+      "formatted_start": "01:05:04.958",
+      "formatted_end": "01:05:07.962",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3909.008,
+      "end": 3909.616,
+      "formatted_start": "01:05:09.008",
+      "formatted_end": "01:05:09.616",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3910.73,
+      "end": 3911.168,
+      "formatted_start": "01:05:10.730",
+      "formatted_end": "01:05:11.168",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3913.565,
+      "end": 3914.037,
+      "formatted_start": "01:05:13.565",
+      "formatted_end": "01:05:14.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3929.748,
+      "end": 3930.912,
+      "formatted_start": "01:05:29.748",
+      "formatted_end": "01:05:30.912",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3931.857,
+      "end": 3947.028,
+      "formatted_start": "01:05:31.857",
+      "formatted_end": "01:05:47.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3947.973,
+      "end": 3950.032,
+      "formatted_start": "01:05:47.973",
+      "formatted_end": "01:05:50.032",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3967.447,
+      "end": 3968.037,
+      "formatted_start": "01:06:07.447",
+      "formatted_end": "01:06:08.037",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4030.306,
+      "end": 4030.863,
+      "formatted_start": "01:07:10.306",
+      "formatted_end": "01:07:10.863",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4031.386,
+      "end": 4032.398,
+      "formatted_start": "01:07:11.386",
+      "formatted_end": "01:07:12.398",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4033.968,
+      "end": 4034.39,
+      "formatted_start": "01:07:13.968",
+      "formatted_end": "01:07:14.390",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4037.343,
+      "end": 4038.035,
+      "formatted_start": "01:07:17.343",
+      "formatted_end": "01:07:18.035",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4065.355,
+      "end": 4073.624,
+      "formatted_start": "01:07:45.355",
+      "formatted_end": "01:07:53.624",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4074.788,
+      "end": 4076.51,
+      "formatted_start": "01:07:54.788",
+      "formatted_end": "01:07:56.510",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4079.716,
+      "end": 4084.778,
+      "formatted_start": "01:07:59.716",
+      "formatted_end": "01:08:04.778",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4114.141,
+      "end": 4116.385,
+      "formatted_start": "01:08:34.141",
+      "formatted_end": "01:08:36.385",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4166.133,
+      "end": 4166.791,
+      "formatted_start": "01:09:26.133",
+      "formatted_end": "01:09:26.791",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4167.989,
+      "end": 4168.512,
+      "formatted_start": "01:09:27.989",
+      "formatted_end": "01:09:28.512",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4186.855,
+      "end": 4187.48,
+      "formatted_start": "01:09:46.855",
+      "formatted_end": "01:09:47.480",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4189.37,
+      "end": 4189.927,
+      "formatted_start": "01:09:49.370",
+      "formatted_end": "01:09:49.927",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4192.171,
+      "end": 4198.482,
+      "formatted_start": "01:09:52.171",
+      "formatted_end": "01:09:58.482",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3900.0,
+      "end": 3929.98,
+      "formatted_start": "01:05:00.000",
+      "formatted_end": "01:05:29.980",
+      "text": "بیمار در مطب پزشکی، معاینه بیمار در مطب پزشکی، داروها، آزمایش و نسخه."
+    },
+    {
+      "id": 1,
+      "start": 3930.0,
+      "end": 3950.0,
+      "formatted_start": "01:05:30.000",
+      "formatted_end": "01:05:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3960.0,
+      "end": 3980.0,
+      "formatted_start": "01:06:00.000",
+      "formatted_end": "01:06:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 3980.0,
+      "end": 4000.0,
+      "formatted_start": "01:06:20.000",
+      "formatted_end": "01:06:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 4000.0,
+      "end": 4029.98,
+      "formatted_start": "01:06:40.000",
+      "formatted_end": "01:07:09.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 4030.0,
+      "end": 4059.98,
+      "formatted_start": "01:07:10.000",
+      "formatted_end": "01:07:39.980",
+      "text": "مرد در اینجا"
+    },
+    {
+      "id": 6,
+      "start": 4060.0,
+      "end": 4080.0,
+      "formatted_start": "01:07:40.000",
+      "formatted_end": "01:08:00.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 4090.0,
+      "end": 4119.98,
+      "formatted_start": "01:08:10.000",
+      "formatted_end": "01:08:39.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 8,
+      "start": 4120.0,
+      "end": 4130.0,
+      "formatted_start": "01:08:40.000",
+      "formatted_end": "01:08:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4150.0,
+      "end": 4180.0,
+      "formatted_start": "01:09:10.000",
+      "formatted_end": "01:09:40.000",
+      "text": "مرد در اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با اینجا با این"
+    }
+  ],
+  "status": "completed"
+}

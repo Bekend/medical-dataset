@@ -1,0 +1,379 @@
+{
+  "chunk_index": 0,
+  "start_sec": 0.0,
+  "end_sec": 300.0,
+  "turns": [
+    {
+      "start": 26.812,
+      "end": 28.718,
+      "formatted_start": "00:00:26.812",
+      "formatted_end": "00:00:28.718",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 29.798,
+      "end": 30.575,
+      "formatted_start": "00:00:29.798",
+      "formatted_end": "00:00:30.575",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 30.845,
+      "end": 31.587,
+      "formatted_start": "00:00:30.845",
+      "formatted_end": "00:00:31.587",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 33.528,
+      "end": 54.79,
+      "formatted_start": "00:00:33.528",
+      "formatted_end": "00:00:54.790",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 42.877,
+      "end": 43.653,
+      "formatted_start": "00:00:42.877",
+      "formatted_end": "00:00:43.653",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 45.509,
+      "end": 47.652,
+      "formatted_start": "00:00:45.509",
+      "formatted_end": "00:00:47.652",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 58.992,
+      "end": 61.169,
+      "formatted_start": "00:00:58.992",
+      "formatted_end": "00:01:01.169",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 61.338,
+      "end": 62.57,
+      "formatted_start": "00:01:01.338",
+      "formatted_end": "00:01:02.570",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 63.768,
+      "end": 67.531,
+      "formatted_start": "00:01:03.768",
+      "formatted_end": "00:01:07.531",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 79.445,
+      "end": 80.373,
+      "formatted_start": "00:01:19.445",
+      "formatted_end": "00:01:20.373",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 89.215,
+      "end": 103.272,
+      "formatted_start": "00:01:29.215",
+      "formatted_end": "00:01:43.272",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 103.846,
+      "end": 113.212,
+      "formatted_start": "00:01:43.846",
+      "formatted_end": "00:01:53.212",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 105.128,
+      "end": 106.968,
+      "formatted_start": "00:01:45.128",
+      "formatted_end": "00:01:46.968",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 108.993,
+      "end": 109.938,
+      "formatted_start": "00:01:48.993",
+      "formatted_end": "00:01:49.938",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 152.497,
+      "end": 154.589,
+      "formatted_start": "00:02:32.497",
+      "formatted_end": "00:02:34.589",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 155.365,
+      "end": 157.61,
+      "formatted_start": "00:02:35.365",
+      "formatted_end": "00:02:37.610",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 174.468,
+      "end": 177.353,
+      "formatted_start": "00:02:54.468",
+      "formatted_end": "00:02:57.353",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 178.973,
+      "end": 180.847,
+      "formatted_start": "00:02:58.973",
+      "formatted_end": "00:03:00.847",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 238.542,
+      "end": 239.808,
+      "formatted_start": "00:03:58.542",
+      "formatted_end": "00:03:59.808",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 267.449,
+      "end": 275.026,
+      "formatted_start": "00:04:27.449",
+      "formatted_end": "00:04:35.026",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 275.161,
+      "end": 275.887,
+      "formatted_start": "00:04:35.161",
+      "formatted_end": "00:04:35.887",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 277.405,
+      "end": 278.35,
+      "formatted_start": "00:04:37.405",
+      "formatted_end": "00:04:38.350",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 281.911,
+      "end": 284.375,
+      "formatted_start": "00:04:41.911",
+      "formatted_end": "00:04:44.375",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.98,
+      "formatted_start": "00:00:00.000",
+      "formatted_end": "00:00:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 32.0,
+      "formatted_start": "00:00:30.000",
+      "formatted_end": "00:00:32.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 2,
+      "start": 32.0,
+      "end": 34.0,
+      "formatted_start": "00:00:32.000",
+      "formatted_end": "00:00:34.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 3,
+      "start": 34.0,
+      "end": 36.0,
+      "formatted_start": "00:00:34.000",
+      "formatted_end": "00:00:36.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 4,
+      "start": 36.0,
+      "end": 38.0,
+      "formatted_start": "00:00:36.000",
+      "formatted_end": "00:00:38.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 5,
+      "start": 38.0,
+      "end": 40.0,
+      "formatted_start": "00:00:38.000",
+      "formatted_end": "00:00:40.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 6,
+      "start": 40.0,
+      "end": 42.0,
+      "formatted_start": "00:00:40.000",
+      "formatted_end": "00:00:42.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 7,
+      "start": 42.0,
+      "end": 44.0,
+      "formatted_start": "00:00:42.000",
+      "formatted_end": "00:00:44.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 8,
+      "start": 44.0,
+      "end": 46.0,
+      "formatted_start": "00:00:44.000",
+      "formatted_end": "00:00:46.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 9,
+      "start": 46.0,
+      "end": 48.0,
+      "formatted_start": "00:00:46.000",
+      "formatted_end": "00:00:48.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 10,
+      "start": 48.0,
+      "end": 50.0,
+      "formatted_start": "00:00:48.000",
+      "formatted_end": "00:00:50.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 11,
+      "start": 50.0,
+      "end": 52.0,
+      "formatted_start": "00:00:50.000",
+      "formatted_end": "00:00:52.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 12,
+      "start": 52.0,
+      "end": 54.0,
+      "formatted_start": "00:00:52.000",
+      "formatted_end": "00:00:54.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 13,
+      "start": 54.0,
+      "end": 56.0,
+      "formatted_start": "00:00:54.000",
+      "formatted_end": "00:00:56.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 14,
+      "start": 56.0,
+      "end": 58.0,
+      "formatted_start": "00:00:56.000",
+      "formatted_end": "00:00:58.000",
+      "text": "از کلر هم هستید."
+    },
+    {
+      "id": 15,
+      "start": 58.0,
+      "end": 68.0,
+      "formatted_start": "00:00:58.000",
+      "formatted_end": "00:01:08.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 88.0,
+      "end": 118.0,
+      "formatted_start": "00:01:28.000",
+      "formatted_end": "00:01:58.000",
+      "text": "از اینجا باید بردارید که اینجا باید بردارید که اینجا باید بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا بردارید که اینجا ب"
+    },
+    {
+      "id": 17,
+      "start": 148.0,
+      "end": 174.0,
+      "formatted_start": "00:02:28.000",
+      "formatted_end": "00:02:54.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 174.0,
+      "end": 176.0,
+      "formatted_start": "00:02:54.000",
+      "formatted_end": "00:02:56.000",
+      "text": "این ها در جنگل سرده هستند."
+    },
+    {
+      "id": 19,
+      "start": 176.0,
+      "end": 178.0,
+      "formatted_start": "00:02:56.000",
+      "formatted_end": "00:02:58.000",
+      "text": "این ها سرده هستند."
+    },
+    {
+      "id": 20,
+      "start": 178.0,
+      "end": 180.0,
+      "formatted_start": "00:02:58.000",
+      "formatted_end": "00:03:00.000",
+      "text": "این ها سرده هستند."
+    },
+    {
+      "id": 21,
+      "start": 180.0,
+      "end": 182.0,
+      "formatted_start": "00:03:00.000",
+      "formatted_end": "00:03:02.000",
+      "text": "این ها سرده هستند."
+    },
+    {
+      "id": 22,
+      "start": 204.0,
+      "end": 233.0,
+      "formatted_start": "00:03:24.000",
+      "formatted_end": "00:03:53.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 233.0,
+      "end": 257.0,
+      "formatted_start": "00:03:53.000",
+      "formatted_end": "00:04:17.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 24,
+      "start": 263.0,
+      "end": 283.0,
+      "formatted_start": "00:04:23.000",
+      "formatted_end": "00:04:43.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 25,
+      "start": 293.0,
+      "end": 300.0,
+      "formatted_start": "00:04:53.000",
+      "formatted_end": "00:05:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

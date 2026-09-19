@@ -1,0 +1,366 @@
+{
+  "chunk_index": 16,
+  "start_sec": 4800.0,
+  "end_sec": 5100.0,
+  "turns": [
+    {
+      "start": 4800.031,
+      "end": 4805.178,
+      "formatted_start": "01:20:00.031",
+      "formatted_end": "01:20:05.178",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4805.465,
+      "end": 4809.295,
+      "formatted_start": "01:20:05.465",
+      "formatted_end": "01:20:09.295",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4810.088,
+      "end": 4814.375,
+      "formatted_start": "01:20:10.088",
+      "formatted_end": "01:20:14.375",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4814.864,
+      "end": 4819.032,
+      "formatted_start": "01:20:14.864",
+      "formatted_end": "01:20:19.032",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4819.353,
+      "end": 4822.677,
+      "formatted_start": "01:20:19.353",
+      "formatted_end": "01:20:22.677",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4823.842,
+      "end": 4826.913,
+      "formatted_start": "01:20:23.842",
+      "formatted_end": "01:20:26.913",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4828.364,
+      "end": 4832.515,
+      "formatted_start": "01:20:28.364",
+      "formatted_end": "01:20:32.515",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4833.089,
+      "end": 4839.215,
+      "formatted_start": "01:20:33.089",
+      "formatted_end": "01:20:39.215",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4839.468,
+      "end": 4843.028,
+      "formatted_start": "01:20:39.468",
+      "formatted_end": "01:20:43.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4844.277,
+      "end": 4845.037,
+      "formatted_start": "01:20:44.277",
+      "formatted_end": "01:20:45.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4913.245,
+      "end": 4913.887,
+      "formatted_start": "01:21:53.245",
+      "formatted_end": "01:21:53.887",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4916.063,
+      "end": 4919.202,
+      "formatted_start": "01:21:56.063",
+      "formatted_end": "01:21:59.202",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4916.249,
+      "end": 4917.65,
+      "formatted_start": "01:21:56.249",
+      "formatted_end": "01:21:57.650",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4919.202,
+      "end": 4922.206,
+      "formatted_start": "01:21:59.202",
+      "formatted_end": "01:22:02.206",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4920.248,
+      "end": 4920.653,
+      "formatted_start": "01:22:00.248",
+      "formatted_end": "01:22:00.653",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4922.206,
+      "end": 4924.417,
+      "formatted_start": "01:22:02.206",
+      "formatted_end": "01:22:04.417",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4924.062,
+      "end": 4926.762,
+      "formatted_start": "01:22:04.062",
+      "formatted_end": "01:22:06.762",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 4925.395,
+      "end": 4927.268,
+      "formatted_start": "01:22:05.395",
+      "formatted_end": "01:22:07.268",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4927.673,
+      "end": 4928.467,
+      "formatted_start": "01:22:07.673",
+      "formatted_end": "01:22:08.467",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4944.616,
+      "end": 4945.105,
+      "formatted_start": "01:22:24.616",
+      "formatted_end": "01:22:25.105",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 4800.0,
+      "end": 4810.0,
+      "formatted_start": "01:20:00.000",
+      "formatted_end": "01:20:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 4830.0,
+      "end": 4832.0,
+      "formatted_start": "01:20:30.000",
+      "formatted_end": "01:20:32.000",
+      "text": "در خبش دسته"
+    },
+    {
+      "id": 2,
+      "start": 4832.0,
+      "end": 4835.36,
+      "formatted_start": "01:20:32.000",
+      "formatted_end": "01:20:35.360",
+      "text": "آری منو کنه"
+    },
+    {
+      "id": 3,
+      "start": 4835.36,
+      "end": 4837.32,
+      "formatted_start": "01:20:35.360",
+      "formatted_end": "01:20:37.320",
+      "text": "قرورمو"
+    },
+    {
+      "id": 4,
+      "start": 4837.32,
+      "end": 4839.24,
+      "formatted_start": "01:20:37.320",
+      "formatted_end": "01:20:39.240",
+      "text": "در مورد ببین"
+    },
+    {
+      "id": 5,
+      "start": 4839.24,
+      "end": 4841.0,
+      "formatted_start": "01:20:39.240",
+      "formatted_end": "01:20:41.000",
+      "text": "از فان شمسی"
+    },
+    {
+      "id": 6,
+      "start": 4841.0,
+      "end": 4843.0,
+      "formatted_start": "01:20:41.000",
+      "formatted_end": "01:20:43.000",
+      "text": "نوجه"
+    },
+    {
+      "id": 7,
+      "start": 4843.0,
+      "end": 4845.24,
+      "formatted_start": "01:20:43.000",
+      "formatted_end": "01:20:45.240",
+      "text": "ولی با منو شده"
+    },
+    {
+      "id": 8,
+      "start": 4860.0,
+      "end": 4866.0,
+      "formatted_start": "01:21:00.000",
+      "formatted_end": "01:21:06.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 4890.0,
+      "end": 4916.0,
+      "formatted_start": "01:21:30.000",
+      "formatted_end": "01:21:56.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 4916.0,
+      "end": 4917.0,
+      "formatted_start": "01:21:56.000",
+      "formatted_end": "01:21:57.000",
+      "text": "بله باید نسیدیم"
+    },
+    {
+      "id": 11,
+      "start": 4917.0,
+      "end": 4919.0,
+      "formatted_start": "01:21:57.000",
+      "formatted_end": "01:21:59.000",
+      "text": "شنبه ماشالله خوبیه"
+    },
+    {
+      "id": 12,
+      "start": 4919.0,
+      "end": 4922.0,
+      "formatted_start": "01:21:59.000",
+      "formatted_end": "01:22:02.000",
+      "text": "آره شنبه خوبیه بلی ده تا از دید سنویبان دو درده"
+    },
+    {
+      "id": 13,
+      "start": 4922.0,
+      "end": 4923.0,
+      "formatted_start": "01:22:02.000",
+      "formatted_end": "01:22:03.000",
+      "text": "دستت درد نکنه"
+    },
+    {
+      "id": 14,
+      "start": 4923.0,
+      "end": 4924.0,
+      "formatted_start": "01:22:03.000",
+      "formatted_end": "01:22:04.000",
+      "text": "ده تا بلد؟"
+    },
+    {
+      "id": 15,
+      "start": 4924.0,
+      "end": 4925.0,
+      "formatted_start": "01:22:04.000",
+      "formatted_end": "01:22:05.000",
+      "text": "ده تا نکنم"
+    },
+    {
+      "id": 16,
+      "start": 4925.0,
+      "end": 4926.0,
+      "formatted_start": "01:22:05.000",
+      "formatted_end": "01:22:06.000",
+      "text": "ده تا"
+    },
+    {
+      "id": 17,
+      "start": 4926.0,
+      "end": 4927.0,
+      "formatted_start": "01:22:06.000",
+      "formatted_end": "01:22:07.000",
+      "text": "دوست تا ده تا بلد"
+    },
+    {
+      "id": 18,
+      "start": 4927.0,
+      "end": 4928.0,
+      "formatted_start": "01:22:07.000",
+      "formatted_end": "01:22:08.000",
+      "text": "خیلا بکنم"
+    },
+    {
+      "id": 19,
+      "start": 4928.0,
+      "end": 4929.0,
+      "formatted_start": "01:22:08.000",
+      "formatted_end": "01:22:09.000",
+      "text": "ساده بکنیم"
+    },
+    {
+      "id": 20,
+      "start": 4946.0,
+      "end": 4966.0,
+      "formatted_start": "01:22:26.000",
+      "formatted_end": "01:22:46.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 21,
+      "start": 4966.0,
+      "end": 4992.0,
+      "formatted_start": "01:22:46.000",
+      "formatted_end": "01:23:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 22,
+      "start": 4992.0,
+      "end": 5002.0,
+      "formatted_start": "01:23:12.000",
+      "formatted_end": "01:23:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 23,
+      "start": 5022.0,
+      "end": 5032.0,
+      "formatted_start": "01:23:42.000",
+      "formatted_end": "01:23:52.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 24,
+      "start": 5032.0,
+      "end": 5042.0,
+      "formatted_start": "01:23:52.000",
+      "formatted_end": "01:24:02.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 25,
+      "start": 5042.0,
+      "end": 5052.0,
+      "formatted_start": "01:24:02.000",
+      "formatted_end": "01:24:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 26,
+      "start": 5072.0,
+      "end": 5100.0,
+      "formatted_start": "01:24:32.000",
+      "formatted_end": "01:25:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,807 @@
+{
+  "chunk_index": 24,
+  "start_sec": 7200.0,
+  "end_sec": 7500.0,
+  "turns": [
+    {
+      "start": 7262.958,
+      "end": 7265.033,
+      "formatted_start": "02:01:02.958",
+      "formatted_end": "02:01:05.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7268.223,
+      "end": 7268.847,
+      "formatted_start": "02:01:08.223",
+      "formatted_end": "02:01:08.847",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7268.999,
+      "end": 7269.927,
+      "formatted_start": "02:01:08.999",
+      "formatted_end": "02:01:09.927",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7270.805,
+      "end": 7273.285,
+      "formatted_start": "02:01:10.805",
+      "formatted_end": "02:01:13.285",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7275.412,
+      "end": 7277.369,
+      "formatted_start": "02:01:15.412",
+      "formatted_end": "02:01:17.369",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7279.597,
+      "end": 7283.022,
+      "formatted_start": "02:01:19.597",
+      "formatted_end": "02:01:23.022",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7284.541,
+      "end": 7292.81,
+      "formatted_start": "02:01:24.541",
+      "formatted_end": "02:01:32.810",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7287.173,
+      "end": 7288.523,
+      "formatted_start": "02:01:27.173",
+      "formatted_end": "02:01:28.523",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7292.877,
+      "end": 7294.075,
+      "formatted_start": "02:01:32.877",
+      "formatted_end": "02:01:34.075",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7295.037,
+      "end": 7298.547,
+      "formatted_start": "02:01:35.037",
+      "formatted_end": "02:01:38.547",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7300.167,
+      "end": 7301.028,
+      "formatted_start": "02:01:40.167",
+      "formatted_end": "02:01:41.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7308.976,
+      "end": 7310.444,
+      "formatted_start": "02:01:48.976",
+      "formatted_end": "02:01:50.444",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7310.528,
+      "end": 7311.254,
+      "formatted_start": "02:01:50.528",
+      "formatted_end": "02:01:51.254",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7312.435,
+      "end": 7314.038,
+      "formatted_start": "02:01:52.435",
+      "formatted_end": "02:01:54.038",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7355.483,
+      "end": 7356.935,
+      "formatted_start": "02:02:35.483",
+      "formatted_end": "02:02:36.935",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7359.972,
+      "end": 7361.035,
+      "formatted_start": "02:02:39.972",
+      "formatted_end": "02:02:41.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7370.57,
+      "end": 7376.493,
+      "formatted_start": "02:02:50.570",
+      "formatted_end": "02:02:56.493",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7376.611,
+      "end": 7378.028,
+      "formatted_start": "02:02:56.611",
+      "formatted_end": "02:02:58.028",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7402.413,
+      "end": 7404.86,
+      "formatted_start": "02:03:22.413",
+      "formatted_end": "02:03:24.860",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7423.962,
+      "end": 7427.455,
+      "formatted_start": "02:03:43.962",
+      "formatted_end": "02:03:47.455",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7428.147,
+      "end": 7433.26,
+      "formatted_start": "02:03:48.147",
+      "formatted_end": "02:03:53.260",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7434.408,
+      "end": 7434.847,
+      "formatted_start": "02:03:54.408",
+      "formatted_end": "02:03:54.847",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7437.277,
+      "end": 7438.458,
+      "formatted_start": "02:03:57.277",
+      "formatted_end": "02:03:58.458",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7438.998,
+      "end": 7440.584,
+      "formatted_start": "02:03:58.998",
+      "formatted_end": "02:04:00.584",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7440.719,
+      "end": 7449.73,
+      "formatted_start": "02:04:00.719",
+      "formatted_end": "02:04:09.730",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7451.62,
+      "end": 7452.025,
+      "formatted_start": "02:04:11.620",
+      "formatted_end": "02:04:12.025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7460.513,
+      "end": 7460.986,
+      "formatted_start": "02:04:20.513",
+      "formatted_end": "02:04:20.986",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7463.821,
+      "end": 7467.145,
+      "formatted_start": "02:04:23.821",
+      "formatted_end": "02:04:27.145",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7468.934,
+      "end": 7477.034,
+      "formatted_start": "02:04:28.934",
+      "formatted_end": "02:04:37.034",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7481.017,
+      "end": 7481.877,
+      "formatted_start": "02:04:41.017",
+      "formatted_end": "02:04:41.877",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7482.62,
+      "end": 7483.025,
+      "formatted_start": "02:04:42.620",
+      "formatted_end": "02:04:43.025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7483.042,
+      "end": 7484.037,
+      "formatted_start": "02:04:43.042",
+      "formatted_end": "02:04:44.037",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7486.788,
+      "end": 7488.222,
+      "formatted_start": "02:04:46.788",
+      "formatted_end": "02:04:48.222",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7488.948,
+      "end": 7489.403,
+      "formatted_start": "02:04:48.948",
+      "formatted_end": "02:04:49.403",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7495.816,
+      "end": 7497.858,
+      "formatted_start": "02:04:55.816",
+      "formatted_end": "02:04:57.858",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7200.0,
+      "end": 7220.0,
+      "formatted_start": "02:00:00.000",
+      "formatted_end": "02:00:20.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 1,
+      "start": 7230.0,
+      "end": 7248.0,
+      "formatted_start": "02:00:30.000",
+      "formatted_end": "02:00:48.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 7248.0,
+      "end": 7252.0,
+      "formatted_start": "02:00:48.000",
+      "formatted_end": "02:00:52.000",
+      "text": "زندگیش واقعا به جهنم میخواد"
+    },
+    {
+      "id": 3,
+      "start": 7254.0,
+      "end": 7258.0,
+      "formatted_start": "02:00:54.000",
+      "formatted_end": "02:00:58.000",
+      "text": "و این شخصی که محل بحث ماست یعنی حلاله"
+    },
+    {
+      "id": 4,
+      "start": 7262.0,
+      "end": 7266.0,
+      "formatted_start": "02:01:02.000",
+      "formatted_end": "02:01:06.000",
+      "text": "دست برقضا اینجوریه میشود زندگیشی"
+    },
+    {
+      "id": 5,
+      "start": 7266.0,
+      "end": 7270.0,
+      "formatted_start": "02:01:06.000",
+      "formatted_end": "02:01:10.000",
+      "text": "که همتون که گفتم نازل زندگیشی"
+    },
+    {
+      "id": 6,
+      "start": 7270.0,
+      "end": 7274.0,
+      "formatted_start": "02:01:10.000",
+      "formatted_end": "02:01:14.000",
+      "text": "خیلی از بالا به زندگیشی نگاه داره"
+    },
+    {
+      "id": 7,
+      "start": 7274.0,
+      "end": 7277.3,
+      "formatted_start": "02:01:14.000",
+      "formatted_end": "02:01:17.300",
+      "text": "فقط آمل زندگی نیست"
+    },
+    {
+      "id": 8,
+      "start": 7277.3,
+      "end": 7280.76,
+      "formatted_start": "02:01:17.300",
+      "formatted_end": "02:01:20.760",
+      "text": "و از این جههد هم"
+    },
+    {
+      "id": 9,
+      "start": 7280.76,
+      "end": 7283.24,
+      "formatted_start": "02:01:20.760",
+      "formatted_end": "02:01:23.240",
+      "text": "از توده های مردم متنفرد"
+    },
+    {
+      "id": 10,
+      "start": 7283.24,
+      "end": 7286.9,
+      "formatted_start": "02:01:23.240",
+      "formatted_end": "02:01:26.900",
+      "text": "چون فکر میکنه توده های مردم"
+    },
+    {
+      "id": 11,
+      "start": 7286.9,
+      "end": 7289.94,
+      "formatted_start": "02:01:26.900",
+      "formatted_end": "02:01:29.940",
+      "text": "اصلا نمیدونن چرا اینجوریدن زندگی میکنن"
+    },
+    {
+      "id": 12,
+      "start": 7289.94,
+      "end": 7291.56,
+      "formatted_start": "02:01:29.940",
+      "formatted_end": "02:01:31.560",
+      "text": "چون فقط توده های مردم"
+    },
+    {
+      "id": 13,
+      "start": 7291.56,
+      "end": 7292.68,
+      "formatted_start": "02:01:31.560",
+      "formatted_end": "02:01:32.680",
+      "text": "به نظر اون"
+    },
+    {
+      "id": 14,
+      "start": 7292.68,
+      "end": 7294.1,
+      "formatted_start": "02:01:32.680",
+      "formatted_end": "02:01:34.100",
+      "text": "فقط آمل هست"
+    },
+    {
+      "id": 15,
+      "start": 7294.1,
+      "end": 7296.98,
+      "formatted_start": "02:01:34.100",
+      "formatted_end": "02:01:36.980",
+      "text": "و این اصلا گلزجه از زندگی"
+    },
+    {
+      "id": 16,
+      "start": 7296.98,
+      "end": 7298.54,
+      "formatted_start": "02:01:36.980",
+      "formatted_end": "02:01:38.540",
+      "text": "که توش فقط آمل باشن"
+    },
+    {
+      "id": 17,
+      "start": 7298.54,
+      "end": 7300.68,
+      "formatted_start": "02:01:38.540",
+      "formatted_end": "02:01:40.680",
+      "text": "در نظر میکنید همیشه میگه"
+    },
+    {
+      "id": 18,
+      "start": 7300.68,
+      "end": 7302.52,
+      "formatted_start": "02:01:40.680",
+      "formatted_end": "02:01:42.520",
+      "text": "چقدر اینا توده که مغزن"
+    },
+    {
+      "id": 19,
+      "start": 7302.52,
+      "end": 7311.68,
+      "formatted_start": "02:01:42.520",
+      "formatted_end": "02:01:51.680",
+      "text": "چقدر سبک مغزند، هیچوقت فکر نمی کنند که چرا ما این موسیقی را گوش میدیم، نه اون موسیقی را"
+    },
+    {
+      "id": 20,
+      "start": 7311.68,
+      "end": 7315.56,
+      "formatted_start": "02:01:51.680",
+      "formatted_end": "02:01:55.560",
+      "text": "چرا این رقص را ترجیم میدیم در اون رقص"
+    },
+    {
+      "id": 21,
+      "start": 7315.56,
+      "end": 7321.26,
+      "formatted_start": "02:01:55.560",
+      "formatted_end": "02:02:01.260",
+      "text": "چرا از این نوع جلسات خوشمون میاد، نه از اون جلسات"
+    },
+    {
+      "id": 22,
+      "start": 7321.26,
+      "end": 7327.52,
+      "formatted_start": "02:02:01.260",
+      "formatted_end": "02:02:07.520",
+      "text": "چرا از این فیلم ها و نمایشنامه ها خوشمون میدید، نه از فیلم های دیگه و نمایشنامه های دیگه"
+    },
+    {
+      "id": 23,
+      "start": 7327.52,
+      "end": 7329.52,
+      "formatted_start": "02:02:07.520",
+      "formatted_end": "02:02:09.520",
+      "text": "نه بگو بگیم"
+    },
+    {
+      "id": 24,
+      "start": 7329.52,
+      "end": 7333.52,
+      "formatted_start": "02:02:09.520",
+      "formatted_end": "02:02:13.520",
+      "text": "چرا این نوع تفریم رو ترجیم میدیم برای ما مطلب؟"
+    },
+    {
+      "id": 25,
+      "start": 7333.52,
+      "end": 7338.52,
+      "formatted_start": "02:02:13.520",
+      "formatted_end": "02:02:18.520",
+      "text": "چرا به جای کتاب های گوته، کتاب های دیگری رو ما ترجیم میدیم؟"
+    },
+    {
+      "id": 26,
+      "start": 7338.52,
+      "end": 7344.52,
+      "formatted_start": "02:02:18.520",
+      "formatted_end": "02:02:24.520",
+      "text": "چرا به جای موسیقی مطصفت و با خود قومه، ما موسیقی های مقتزر رو ترجیم میدیم؟"
+    },
+    {
+      "id": 27,
+      "start": 7344.52,
+      "end": 7348.52,
+      "formatted_start": "02:02:24.520",
+      "formatted_end": "02:02:28.520",
+      "text": "چرا مثلا به نظرمون جز رو ترجیم میدیم؟"
+    },
+    {
+      "id": 28,
+      "start": 7348.52,
+      "end": 7350.52,
+      "formatted_start": "02:02:28.520",
+      "formatted_end": "02:02:30.520",
+      "text": "این رو از خودشونه میپرسن"
+    },
+    {
+      "id": 29,
+      "start": 7350.52,
+      "end": 7357.52,
+      "formatted_start": "02:02:30.520",
+      "formatted_end": "02:02:37.520",
+      "text": "اگر بپرسید چرا تو موسیقی جز دوست دارید که چون همه موسیقی جز دوست دارند؟"
+    },
+    {
+      "id": 30,
+      "start": 7358.62,
+      "end": 7359.34,
+      "formatted_start": "02:02:38.620",
+      "formatted_end": "02:02:39.340",
+      "text": "ندارید"
+    },
+    {
+      "id": 31,
+      "start": 7359.34,
+      "end": 7364.4,
+      "formatted_start": "02:02:39.340",
+      "formatted_end": "02:02:44.400",
+      "text": "بنابراین نه برای ترجیحاتشون در سوگ و زیان"
+    },
+    {
+      "id": 32,
+      "start": 7364.4,
+      "end": 7367.34,
+      "formatted_start": "02:02:44.400",
+      "formatted_end": "02:02:47.340",
+      "text": "نه برای ترجیحاتشون در هنر"
+    },
+    {
+      "id": 33,
+      "start": 7367.34,
+      "end": 7370.0,
+      "formatted_start": "02:02:47.340",
+      "formatted_end": "02:02:50.000",
+      "text": "یعنی در زیبای و زشتی"
+    },
+    {
+      "id": 34,
+      "start": 7370.0,
+      "end": 7372.56,
+      "formatted_start": "02:02:50.000",
+      "formatted_end": "02:02:52.560",
+      "text": "نه در ترجیحاتشون در عمل"
+    },
+    {
+      "id": 35,
+      "start": 7372.56,
+      "end": 7374.32,
+      "formatted_start": "02:02:52.560",
+      "formatted_end": "02:02:54.320",
+      "text": "یعنی خوبی و بلی عمل"
+    },
+    {
+      "id": 36,
+      "start": 7374.32,
+      "end": 7376.3,
+      "formatted_start": "02:02:54.320",
+      "formatted_end": "02:02:56.300",
+      "text": "روسیانان روسی عمل"
+    },
+    {
+      "id": 37,
+      "start": 7376.3,
+      "end": 7378.68,
+      "formatted_start": "02:02:56.300",
+      "formatted_end": "02:02:58.680",
+      "text": "اینه اصلا هیچ استقلالی ندارند"
+    },
+    {
+      "id": 38,
+      "start": 7378.68,
+      "end": 7388.88,
+      "formatted_start": "02:02:58.680",
+      "formatted_end": "02:03:08.880",
+      "text": "هری حالف گریزش و نفرتش از توده های مردم که تو سر تا سر این کتاب میدونید به خاطر اینه"
+    },
+    {
+      "id": 39,
+      "start": 7388.88,
+      "end": 7397.48,
+      "formatted_start": "02:03:08.880",
+      "formatted_end": "02:03:17.480",
+      "text": "که میدین اینم فقط آمل هست ناظرم نیستن هر چیز رو ازشون بپرسیم چرا این کتاب نمون کتاب"
+    },
+    {
+      "id": 40,
+      "start": 7397.48,
+      "end": 7404.0,
+      "formatted_start": "02:03:17.480",
+      "formatted_end": "02:03:24.000",
+      "text": "و به هر ترتیب دیگری هر چیز رو بپرسیم چرا این و نمون میگم چون بقیه اینجوری هم بگوییم"
+    },
+    {
+      "id": 41,
+      "start": 7404.0,
+      "end": 7406.0,
+      "formatted_start": "02:03:24.000",
+      "formatted_end": "02:03:26.000",
+      "text": "اما اونوسته بقیه ایم"
+    },
+    {
+      "id": 42,
+      "start": 7408.0,
+      "end": 7410.0,
+      "formatted_start": "02:03:28.000",
+      "formatted_end": "02:03:30.000",
+      "text": "اینا کسانی هستن که"
+    },
+    {
+      "id": 43,
+      "start": 7410.0,
+      "end": 7412.0,
+      "formatted_start": "02:03:30.000",
+      "formatted_end": "02:03:32.000",
+      "text": "مجتمعا فضایی هیچ میشن"
+    },
+    {
+      "id": 44,
+      "start": 7412.0,
+      "end": 7414.0,
+      "formatted_start": "02:03:32.000",
+      "formatted_end": "02:03:34.000",
+      "text": "همه شون"
+    },
+    {
+      "id": 45,
+      "start": 7414.0,
+      "end": 7416.0,
+      "formatted_start": "02:03:34.000",
+      "formatted_end": "02:03:36.000",
+      "text": "فضایی هیچ میشن"
+    },
+    {
+      "id": 46,
+      "start": 7416.0,
+      "end": 7418.0,
+      "formatted_start": "02:03:36.000",
+      "formatted_end": "02:03:38.000",
+      "text": "چرا؟"
+    },
+    {
+      "id": 47,
+      "start": 7418.0,
+      "end": 7422.0,
+      "formatted_start": "02:03:38.000",
+      "formatted_end": "02:03:42.000",
+      "text": "چون وقتی از توی آقای و خانم میپرسن"
+    },
+    {
+      "id": 48,
+      "start": 7422.0,
+      "end": 7424.0,
+      "formatted_start": "02:03:42.000",
+      "formatted_end": "02:03:44.000",
+      "text": "چرا اینجوری زندگی میکنیم"
+    },
+    {
+      "id": 49,
+      "start": 7424.0,
+      "end": 7426.0,
+      "formatted_start": "02:03:44.000",
+      "formatted_end": "02:03:46.000",
+      "text": "وقتی به شون میگی که"
+    },
+    {
+      "id": 50,
+      "start": 7428.0,
+      "end": 7430.0,
+      "formatted_start": "02:03:48.000",
+      "formatted_end": "02:03:50.000",
+      "text": "چون دیگران زندگی شون اینجوریه"
+    },
+    {
+      "id": 51,
+      "start": 7430.0,
+      "end": 7432.0,
+      "formatted_start": "02:03:50.000",
+      "formatted_end": "02:03:52.000",
+      "text": "یکی از اون دیگران"
+    },
+    {
+      "id": 52,
+      "start": 7432.0,
+      "end": 7449.64,
+      "formatted_start": "02:03:52.000",
+      "formatted_end": "02:04:09.640",
+      "text": "اینجوری زندگی می کنیم بگم چون دیگران می کنن یکی از دیگران هم توی دیگران"
+    },
+    {
+      "id": 53,
+      "start": 7449.64,
+      "end": 7457.42,
+      "formatted_start": "02:04:09.640",
+      "formatted_end": "02:04:17.420",
+      "text": "و با این استقرار قلب ببینید همه ما داریم فدایی نابود میشیم"
+    },
+    {
+      "id": 54,
+      "start": 7457.42,
+      "end": 7461.64,
+      "formatted_start": "02:04:17.420",
+      "formatted_end": "02:04:21.640",
+      "text": "فدایی نابوده، فدایی موجودی که موجود نداره"
+    },
+    {
+      "id": 55,
+      "start": 7461.64,
+      "end": 7467.64,
+      "formatted_start": "02:04:21.640",
+      "formatted_end": "02:04:27.640",
+      "text": "چون من تکیه به تو میکنم، تو تکیه به من داریم"
+    },
+    {
+      "id": 56,
+      "start": 7468.44,
+      "end": 7472.76,
+      "formatted_start": "02:04:28.440",
+      "formatted_end": "02:04:32.760",
+      "text": "ممکنه بگید نه من فقط تکیه به تو ندارم"
+    },
+    {
+      "id": 57,
+      "start": 7472.76,
+      "end": 7474.78,
+      "formatted_start": "02:04:32.760",
+      "formatted_end": "02:04:34.780",
+      "text": "تکیه به هزاران هزارت گم دارم"
+    },
+    {
+      "id": 58,
+      "start": 7474.78,
+      "end": 7476.9,
+      "formatted_start": "02:04:34.780",
+      "formatted_end": "02:04:36.900",
+      "text": "یا با من هزارت هزارت گم همینجونم"
+    },
+    {
+      "id": 59,
+      "start": 7476.9,
+      "end": 7478.64,
+      "formatted_start": "02:04:36.900",
+      "formatted_end": "02:04:38.640",
+      "text": "سراغه هر کدامشون برید"
+    },
+    {
+      "id": 60,
+      "start": 7478.64,
+      "end": 7482.22,
+      "formatted_start": "02:04:38.640",
+      "formatted_end": "02:04:42.220",
+      "text": "میگن به دیگران ما اعتماد کردیم"
+    },
+    {
+      "id": 61,
+      "start": 7482.22,
+      "end": 7484.64,
+      "formatted_start": "02:04:42.220",
+      "formatted_end": "02:04:44.640",
+      "text": "و یکی از اون دیگران خودتونیم"
+    },
+    {
+      "id": 62,
+      "start": 7484.64,
+      "end": 7488.82,
+      "formatted_start": "02:04:44.640",
+      "formatted_end": "02:04:48.820",
+      "text": "پس همه ما فدایی هیچ میشیم"
+    },
+    {
+      "id": 63,
+      "start": 7488.82,
+      "end": 7489.5,
+      "formatted_start": "02:04:48.820",
+      "formatted_end": "02:04:49.500",
+      "text": "در واقع"
+    },
+    {
+      "id": 64,
+      "start": 7489.5,
+      "end": 7491.64,
+      "formatted_start": "02:04:49.500",
+      "formatted_end": "02:04:51.640",
+      "text": "نداری کنیم"
+    },
+    {
+      "id": 65,
+      "start": 7491.64,
+      "end": 7494.26,
+      "formatted_start": "02:04:51.640",
+      "formatted_end": "02:04:54.260",
+      "text": "یک نوع هر یا اون برسید"
+    },
+    {
+      "id": 66,
+      "start": 7494.26,
+      "end": 7495.54,
+      "formatted_start": "02:04:54.260",
+      "formatted_end": "02:04:55.540",
+      "text": "به طرف شیخ سمیت"
+    },
+    {
+      "id": 67,
+      "start": 7495.54,
+      "end": 7497.64,
+      "formatted_start": "02:04:55.540",
+      "formatted_end": "02:04:57.640",
+      "text": "یک نوع هر یا اون برسید هیچ کنیم"
+    },
+    {
+      "id": 68,
+      "start": 7498.28,
+      "end": 7499.64,
+      "formatted_start": "02:04:58.280",
+      "formatted_end": "02:04:59.640",
+      "text": "چون دیگران"
+    }
+  ],
+  "status": "completed"
+}

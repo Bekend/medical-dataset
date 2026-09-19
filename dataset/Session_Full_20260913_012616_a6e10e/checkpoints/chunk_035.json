@@ -1,0 +1,265 @@
+{
+  "chunk_index": 35,
+  "start_sec": 10500.0,
+  "end_sec": 10800.0,
+  "turns": [
+    {
+      "start": 10500.031,
+      "end": 10502.647,
+      "formatted_start": "02:55:00.031",
+      "formatted_end": "02:55:02.647",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 10503.305,
+      "end": 10508.857,
+      "formatted_start": "02:55:03.305",
+      "formatted_end": "02:55:08.857",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 10510.527,
+      "end": 10524.027,
+      "formatted_start": "02:55:10.527",
+      "formatted_end": "02:55:24.027",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 10524.027,
+      "end": 10526.39,
+      "formatted_start": "02:55:24.027",
+      "formatted_end": "02:55:26.390",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 10746.828,
+      "end": 10748.026,
+      "formatted_start": "02:59:06.828",
+      "formatted_end": "02:59:08.026",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10775.144,
+      "end": 10777.928,
+      "formatted_start": "02:59:35.144",
+      "formatted_end": "02:59:37.928",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10783.058,
+      "end": 10786.028,
+      "formatted_start": "02:59:43.058",
+      "formatted_end": "02:59:46.028",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10786.028,
+      "end": 10795.411,
+      "formatted_start": "02:59:46.028",
+      "formatted_end": "02:59:55.411",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10796.609,
+      "end": 10799.967,
+      "formatted_start": "02:59:56.609",
+      "formatted_end": "02:59:59.967",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 10500.0,
+      "end": 10502.0,
+      "formatted_start": "02:55:00.000",
+      "formatted_end": "02:55:02.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 1,
+      "start": 10504.0,
+      "end": 10506.0,
+      "formatted_start": "02:55:04.000",
+      "formatted_end": "02:55:06.000",
+      "text": "نسخه هایی همه سال ما رو بردر دیدن."
+    },
+    {
+      "id": 2,
+      "start": 10506.0,
+      "end": 10508.0,
+      "formatted_start": "02:55:06.000",
+      "formatted_end": "02:55:08.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 3,
+      "start": 10508.0,
+      "end": 10510.0,
+      "formatted_start": "02:55:08.000",
+      "formatted_end": "02:55:10.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 4,
+      "start": 10510.0,
+      "end": 10512.0,
+      "formatted_start": "02:55:10.000",
+      "formatted_end": "02:55:12.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 5,
+      "start": 10512.0,
+      "end": 10514.0,
+      "formatted_start": "02:55:12.000",
+      "formatted_end": "02:55:14.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 6,
+      "start": 10514.0,
+      "end": 10516.0,
+      "formatted_start": "02:55:14.000",
+      "formatted_end": "02:55:16.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 7,
+      "start": 10516.0,
+      "end": 10518.0,
+      "formatted_start": "02:55:16.000",
+      "formatted_end": "02:55:18.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 8,
+      "start": 10518.0,
+      "end": 10520.0,
+      "formatted_start": "02:55:18.000",
+      "formatted_end": "02:55:20.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 9,
+      "start": 10520.0,
+      "end": 10522.0,
+      "formatted_start": "02:55:20.000",
+      "formatted_end": "02:55:22.000",
+      "text": "این سراروز رو بردر دیدن."
+    },
+    {
+      "id": 10,
+      "start": 10522.0,
+      "end": 10532.0,
+      "formatted_start": "02:55:22.000",
+      "formatted_end": "02:55:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 11,
+      "start": 10552.0,
+      "end": 10581.98,
+      "formatted_start": "02:55:52.000",
+      "formatted_end": "02:56:21.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 10582.0,
+      "end": 10611.98,
+      "formatted_start": "02:56:22.000",
+      "formatted_end": "02:56:51.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 13,
+      "start": 10612.0,
+      "end": 10641.98,
+      "formatted_start": "02:56:52.000",
+      "formatted_end": "02:57:21.980",
+      "text": "موسیقی در موسیقی دیگر"
+    },
+    {
+      "id": 14,
+      "start": 10642.0,
+      "end": 10671.98,
+      "formatted_start": "02:57:22.000",
+      "formatted_end": "02:57:51.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 15,
+      "start": 10672.0,
+      "end": 10698.0,
+      "formatted_start": "02:57:52.000",
+      "formatted_end": "02:58:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 16,
+      "start": 10698.0,
+      "end": 10720.0,
+      "formatted_start": "02:58:18.000",
+      "formatted_end": "02:58:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 10720.0,
+      "end": 10747.0,
+      "formatted_start": "02:58:40.000",
+      "formatted_end": "02:59:07.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 18,
+      "start": 10750.0,
+      "end": 10775.0,
+      "formatted_start": "02:59:10.000",
+      "formatted_end": "02:59:35.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 19,
+      "start": 10775.0,
+      "end": 10778.24,
+      "formatted_start": "02:59:35.000",
+      "formatted_end": "02:59:38.240",
+      "text": "موازه باشم دارم، برای سرار این دیگر رو میشنید"
+    },
+    {
+      "id": 20,
+      "start": 10783.04,
+      "end": 10787.76,
+      "formatted_start": "02:59:43.040",
+      "formatted_end": "02:59:47.760",
+      "text": "خب سبون، با این اعراض کم کم داری کنید، بلو در این کاریریت شما نیستی"
+    },
+    {
+      "id": 21,
+      "start": 10787.76,
+      "end": 10790.36,
+      "formatted_start": "02:59:47.760",
+      "formatted_end": "02:59:50.360",
+      "text": "اگه با که رو بکنه کنید، کشیدت بره"
+    },
+    {
+      "id": 22,
+      "start": 10790.36,
+      "end": 10795.56,
+      "formatted_start": "02:59:50.360",
+      "formatted_end": "02:59:55.560",
+      "text": "اگه یازده ساله پیش، موبیلای شما رو نمیفروختی، الان چه میلیار دولشون؟"
+    },
+    {
+      "id": 23,
+      "start": 10796.6,
+      "end": 10800.0,
+      "formatted_start": "02:59:56.600",
+      "formatted_end": "03:00:00.000",
+      "text": "اگه بجای پارگری رو مهم نکردم، برای برای خودتون"
+    }
+  ],
+  "status": "completed"
+}
