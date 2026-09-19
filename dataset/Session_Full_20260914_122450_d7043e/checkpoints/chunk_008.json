@@ -1,0 +1,210 @@
+{
+  "chunk_index": 8,
+  "start_sec": 2400.0,
+  "end_sec": 2700.0,
+  "turns": [
+    {
+      "start": 2400.031,
+      "end": 2403.035,
+      "formatted_start": "00:40:00.031",
+      "formatted_end": "00:40:03.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2407.473,
+      "end": 2411.303,
+      "formatted_start": "00:40:07.473",
+      "formatted_end": "00:40:11.303",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2411.793,
+      "end": 2430.457,
+      "formatted_start": "00:40:11.793",
+      "formatted_end": "00:40:30.457",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2430.71,
+      "end": 2435.047,
+      "formatted_start": "00:40:30.710",
+      "formatted_end": "00:40:35.047",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2463.869,
+      "end": 2466.94,
+      "formatted_start": "00:41:03.869",
+      "formatted_end": "00:41:06.940",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2467.717,
+      "end": 2475.732,
+      "formatted_start": "00:41:07.717",
+      "formatted_end": "00:41:15.732",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2479.293,
+      "end": 2481.031,
+      "formatted_start": "00:41:19.293",
+      "formatted_end": "00:41:21.031",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2481.098,
+      "end": 2482.027,
+      "formatted_start": "00:41:21.098",
+      "formatted_end": "00:41:22.027",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2485.283,
+      "end": 2486.262,
+      "formatted_start": "00:41:25.283",
+      "formatted_end": "00:41:26.262",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2486.33,
+      "end": 2486.718,
+      "formatted_start": "00:41:26.330",
+      "formatted_end": "00:41:26.718",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2490.076,
+      "end": 2492.033,
+      "formatted_start": "00:41:30.076",
+      "formatted_end": "00:41:32.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2492.675,
+      "end": 2495.341,
+      "formatted_start": "00:41:32.675",
+      "formatted_end": "00:41:35.341",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2528.213,
+      "end": 2528.568,
+      "formatted_start": "00:42:08.213",
+      "formatted_end": "00:42:08.568",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2630.948,
+      "end": 2640.955,
+      "formatted_start": "00:43:50.948",
+      "formatted_end": "00:44:00.955",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2641.259,
+      "end": 2642.12,
+      "formatted_start": "00:44:01.259",
+      "formatted_end": "00:44:02.120",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2642.575,
+      "end": 2642.947,
+      "formatted_start": "00:44:02.575",
+      "formatted_end": "00:44:02.947",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 2400.0,
+      "end": 2429.98,
+      "formatted_start": "00:40:00.000",
+      "formatted_end": "00:40:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 2430.0,
+      "end": 2440.0,
+      "formatted_start": "00:40:30.000",
+      "formatted_end": "00:40:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 2460.0,
+      "end": 2488.0,
+      "formatted_start": "00:41:00.000",
+      "formatted_end": "00:41:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 2490.0,
+      "end": 2492.0,
+      "formatted_start": "00:41:30.000",
+      "formatted_end": "00:41:32.000",
+      "text": "باید گره این رو باید برن"
+    },
+    {
+      "id": 4,
+      "start": 2520.0,
+      "end": 2549.98,
+      "formatted_start": "00:42:00.000",
+      "formatted_end": "00:42:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 2550.0,
+      "end": 2579.98,
+      "formatted_start": "00:42:30.000",
+      "formatted_end": "00:42:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 2580.0,
+      "end": 2602.0,
+      "formatted_start": "00:43:00.000",
+      "formatted_end": "00:43:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 2602.0,
+      "end": 2630.0,
+      "formatted_start": "00:43:22.000",
+      "formatted_end": "00:43:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 2632.0,
+      "end": 2652.0,
+      "formatted_start": "00:43:52.000",
+      "formatted_end": "00:44:12.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 2652.0,
+      "end": 2681.98,
+      "formatted_start": "00:44:12.000",
+      "formatted_end": "00:44:41.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 2682.0,
+      "end": 2700.0,
+      "formatted_start": "00:44:42.000",
+      "formatted_end": "00:45:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}
