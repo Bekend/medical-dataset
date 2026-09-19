@@ -1,0 +1,317 @@
+{
+  "chunk_index": 24,
+  "start_sec": 7200.0,
+  "end_sec": 7500.0,
+  "turns": [
+    {
+      "start": 7301.956,
+      "end": 7303.019,
+      "formatted_start": "02:01:41.956",
+      "formatted_end": "02:01:43.019",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7304.099,
+      "end": 7306.04,
+      "formatted_start": "02:01:44.099",
+      "formatted_end": "02:01:46.040",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7308.217,
+      "end": 7309.027,
+      "formatted_start": "02:01:48.217",
+      "formatted_end": "02:01:49.027",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7417.972,
+      "end": 7419.507,
+      "formatted_start": "02:03:37.972",
+      "formatted_end": "02:03:39.507",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7419.963,
+      "end": 7421.988,
+      "formatted_start": "02:03:39.963",
+      "formatted_end": "02:03:41.988",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7449.815,
+      "end": 7450.321,
+      "formatted_start": "02:04:09.815",
+      "formatted_end": "02:04:10.321",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7455.063,
+      "end": 7458.252,
+      "formatted_start": "02:04:15.063",
+      "formatted_end": "02:04:18.252",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7463.99,
+      "end": 7466.285,
+      "formatted_start": "02:04:23.990",
+      "formatted_end": "02:04:26.285",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7470.942,
+      "end": 7477.034,
+      "formatted_start": "02:04:30.942",
+      "formatted_end": "02:04:37.034",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7477.034,
+      "end": 7478.485,
+      "formatted_start": "02:04:37.034",
+      "formatted_end": "02:04:38.485",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7479.093,
+      "end": 7485.455,
+      "formatted_start": "02:04:39.093",
+      "formatted_end": "02:04:45.455",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7486.67,
+      "end": 7487.176,
+      "formatted_start": "02:04:46.670",
+      "formatted_end": "02:04:47.176",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7487.497,
+      "end": 7487.902,
+      "formatted_start": "02:04:47.497",
+      "formatted_end": "02:04:47.902",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7489.741,
+      "end": 7490.315,
+      "formatted_start": "02:04:49.741",
+      "formatted_end": "02:04:50.315",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 7490.315,
+      "end": 7491.125,
+      "formatted_start": "02:04:50.315",
+      "formatted_end": "02:04:51.125",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7493.791,
+      "end": 7494.348,
+      "formatted_start": "02:04:53.791",
+      "formatted_end": "02:04:54.348",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7494.432,
+      "end": 7494.905,
+      "formatted_start": "02:04:54.432",
+      "formatted_end": "02:04:54.905",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7494.533,
+      "end": 7497.976,
+      "formatted_start": "02:04:54.533",
+      "formatted_end": "02:04:57.976",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 7496.474,
+      "end": 7497.47,
+      "formatted_start": "02:04:56.474",
+      "formatted_end": "02:04:57.470",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7497.976,
+      "end": 7498.499,
+      "formatted_start": "02:04:57.976",
+      "formatted_end": "02:04:58.499",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7498.516,
+      "end": 7499.815,
+      "formatted_start": "02:04:58.516",
+      "formatted_end": "02:04:59.815",
+      "speaker": "SPEAKER_04"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 7200.0,
+      "end": 7229.98,
+      "formatted_start": "02:00:00.000",
+      "formatted_end": "02:00:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 7230.0,
+      "end": 7240.0,
+      "formatted_start": "02:00:30.000",
+      "formatted_end": "02:00:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 7260.0,
+      "end": 7289.98,
+      "formatted_start": "02:01:00.000",
+      "formatted_end": "02:01:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 7290.0,
+      "end": 7310.0,
+      "formatted_start": "02:01:30.000",
+      "formatted_end": "02:01:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 7310.0,
+      "end": 7339.98,
+      "formatted_start": "02:01:50.000",
+      "formatted_end": "02:02:19.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 7340.0,
+      "end": 7342.0,
+      "formatted_start": "02:02:20.000",
+      "formatted_end": "02:02:22.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 7370.0,
+      "end": 7398.0,
+      "formatted_start": "02:02:50.000",
+      "formatted_end": "02:03:18.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 7400.0,
+      "end": 7428.0,
+      "formatted_start": "02:03:20.000",
+      "formatted_end": "02:03:48.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 7428.0,
+      "end": 7450.0,
+      "formatted_start": "02:03:48.000",
+      "formatted_end": "02:04:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 7450.0,
+      "end": 7458.0,
+      "formatted_start": "02:04:10.000",
+      "formatted_end": "02:04:18.000",
+      "text": "ببینید مخامیت برو بیا"
+    },
+    {
+      "id": 10,
+      "start": 7458.0,
+      "end": 7473.0,
+      "formatted_start": "02:04:18.000",
+      "formatted_end": "02:04:33.000",
+      "text": "ببینید این کتره هشت ساعت هشت کتره"
+    },
+    {
+      "id": 11,
+      "start": 7473.0,
+      "end": 7476.0,
+      "formatted_start": "02:04:33.000",
+      "formatted_end": "02:04:36.000",
+      "text": "این هشت ساعت ما رفت بخوریم"
+    },
+    {
+      "id": 12,
+      "start": 7476.0,
+      "end": 7484.0,
+      "formatted_start": "02:04:36.000",
+      "formatted_end": "02:04:44.000",
+      "text": "این موقعی که خیلی گریه می کنه شدید 15 قریبه همینجوری نده داشته"
+    },
+    {
+      "id": 13,
+      "start": 7484.0,
+      "end": 7486.0,
+      "formatted_start": "02:04:44.000",
+      "formatted_end": "02:04:46.000",
+      "text": "روش نوشته ده"
+    },
+    {
+      "id": 14,
+      "start": 7486.0,
+      "end": 7488.0,
+      "formatted_start": "02:04:46.000",
+      "formatted_end": "02:04:48.000",
+      "text": "خوشتون"
+    },
+    {
+      "id": 15,
+      "start": 7488.0,
+      "end": 7490.0,
+      "formatted_start": "02:04:48.000",
+      "formatted_end": "02:04:50.000",
+      "text": "خوشتون"
+    },
+    {
+      "id": 16,
+      "start": 7490.0,
+      "end": 7494.0,
+      "formatted_start": "02:04:50.000",
+      "formatted_end": "02:04:54.000",
+      "text": "اون دستارا"
+    },
+    {
+      "id": 17,
+      "start": 7494.0,
+      "end": 7496.0,
+      "formatted_start": "02:04:54.000",
+      "formatted_end": "02:04:56.000",
+      "text": "چه هر کفتن؟"
+    },
+    {
+      "id": 18,
+      "start": 7496.0,
+      "end": 7498.0,
+      "formatted_start": "02:04:56.000",
+      "formatted_end": "02:04:58.000",
+      "text": "چه هر ست دومان؟"
+    },
+    {
+      "id": 19,
+      "start": 7498.0,
+      "end": 7500.0,
+      "formatted_start": "02:04:58.000",
+      "formatted_end": "02:05:00.000",
+      "text": "چه هر کفتن؟"
+    }
+  ],
+  "status": "completed"
+}

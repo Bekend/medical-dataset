@@ -1,0 +1,255 @@
+{
+  "chunk_index": 11,
+  "start_sec": 3300.0,
+  "end_sec": 3600.0,
+  "turns": [
+    {
+      "start": 3341.881,
+      "end": 3344.615,
+      "formatted_start": "00:55:41.881",
+      "formatted_end": "00:55:44.615",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3344.699,
+      "end": 3346.589,
+      "formatted_start": "00:55:44.699",
+      "formatted_end": "00:55:46.589",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3346.741,
+      "end": 3348.243,
+      "formatted_start": "00:55:46.741",
+      "formatted_end": "00:55:48.243",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3348.985,
+      "end": 3372.678,
+      "formatted_start": "00:55:48.985",
+      "formatted_end": "00:56:12.678",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3373.859,
+      "end": 3375.007,
+      "formatted_start": "00:56:13.859",
+      "formatted_end": "00:56:15.007",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3513.432,
+      "end": 3516.284,
+      "formatted_start": "00:58:33.432",
+      "formatted_end": "00:58:36.284",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3519.203,
+      "end": 3524.148,
+      "formatted_start": "00:58:39.203",
+      "formatted_end": "00:58:44.148",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3525.363,
+      "end": 3528.637,
+      "formatted_start": "00:58:45.363",
+      "formatted_end": "00:58:48.637",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3530.138,
+      "end": 3533.682,
+      "formatted_start": "00:58:50.138",
+      "formatted_end": "00:58:53.682",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3585.91,
+      "end": 3586.771,
+      "formatted_start": "00:59:45.910",
+      "formatted_end": "00:59:46.771",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3587.648,
+      "end": 3588.037,
+      "formatted_start": "00:59:47.648",
+      "formatted_end": "00:59:48.037",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 3300.0,
+      "end": 3329.98,
+      "formatted_start": "00:55:00.000",
+      "formatted_end": "00:55:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 3330.0,
+      "end": 3337.0,
+      "formatted_start": "00:55:30.000",
+      "formatted_end": "00:55:37.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 3360.0,
+      "end": 3362.0,
+      "formatted_start": "00:56:00.000",
+      "formatted_end": "00:56:02.000",
+      "text": "هر جا باشی"
+    },
+    {
+      "id": 3,
+      "start": 3363.1,
+      "end": 3365.1,
+      "formatted_start": "00:56:03.100",
+      "formatted_end": "00:56:05.100",
+      "text": "چراق پونت روشنه"
+    },
+    {
+      "id": 4,
+      "start": 3365.1,
+      "end": 3367.1,
+      "formatted_start": "00:56:05.100",
+      "formatted_end": "00:56:07.100",
+      "text": "یادت باشه"
+    },
+    {
+      "id": 5,
+      "start": 3367.1,
+      "end": 3369.1,
+      "formatted_start": "00:56:07.100",
+      "formatted_end": "00:56:09.100",
+      "text": "حتی اگه من نباشم"
+    },
+    {
+      "id": 6,
+      "start": 3369.1,
+      "end": 3373.1,
+      "formatted_start": "00:56:09.100",
+      "formatted_end": "00:56:13.100",
+      "text": "یکی تو رو تو پونه پر یاد نده"
+    },
+    {
+      "id": 7,
+      "start": 3373.1,
+      "end": 3377.1,
+      "formatted_start": "00:56:13.100",
+      "formatted_end": "00:56:17.100",
+      "text": "یکی تو رو تو پونه پر یاد نده"
+    },
+    {
+      "id": 8,
+      "start": 3377.1,
+      "end": 3381.1,
+      "formatted_start": "00:56:17.100",
+      "formatted_end": "00:56:21.100",
+      "text": "یکی تو رو تو پونه پر یاد نده"
+    },
+    {
+      "id": 9,
+      "start": 3390.0,
+      "end": 3415.0,
+      "formatted_start": "00:56:30.000",
+      "formatted_end": "00:56:55.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 10,
+      "start": 3420.0,
+      "end": 3449.98,
+      "formatted_start": "00:57:00.000",
+      "formatted_end": "00:57:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 11,
+      "start": 3450.0,
+      "end": 3458.0,
+      "formatted_start": "00:57:30.000",
+      "formatted_end": "00:57:38.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 12,
+      "start": 3480.0,
+      "end": 3509.98,
+      "formatted_start": "00:58:00.000",
+      "formatted_end": "00:58:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 13,
+      "start": 3510.0,
+      "end": 3523.92,
+      "formatted_start": "00:58:30.000",
+      "formatted_end": "00:58:43.920",
+      "text": "در کشوریش هیچ کس رفتر نیست"
+    },
+    {
+      "id": 14,
+      "start": 3523.92,
+      "end": 3534.0,
+      "formatted_start": "00:58:43.920",
+      "formatted_end": "00:58:54.000",
+      "text": "هیچ جایی به گدستر فرمید"
+    },
+    {
+      "id": 15,
+      "start": 3540.0,
+      "end": 3569.98,
+      "formatted_start": "00:59:00.000",
+      "formatted_end": "00:59:29.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 16,
+      "start": 3570.0,
+      "end": 3585.0,
+      "formatted_start": "00:59:30.000",
+      "formatted_end": "00:59:45.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 17,
+      "start": 3585.0,
+      "end": 3590.0,
+      "formatted_start": "00:59:45.000",
+      "formatted_end": "00:59:50.000",
+      "text": "باورم کم کرده انگیبه ترید"
+    },
+    {
+      "id": 18,
+      "start": 3590.72,
+      "end": 3594.0,
+      "formatted_start": "00:59:50.720",
+      "formatted_end": "00:59:54.000",
+      "text": "اما تو باورت کن مرا"
+    },
+    {
+      "id": 19,
+      "start": 3594.0,
+      "end": 3599.0,
+      "formatted_start": "00:59:54.000",
+      "formatted_end": "00:59:59.000",
+      "text": "اما تو باورت کن مرا"
+    },
+    {
+      "id": 20,
+      "start": 3599.0,
+      "end": 3600.0,
+      "formatted_start": "00:59:59.000",
+      "formatted_end": "01:00:00.000",
+      "text": "موسیقی"
+    }
+  ],
+  "status": "completed"
+}

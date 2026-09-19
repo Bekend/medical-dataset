@@ -1,0 +1,349 @@
+{
+  "chunk_index": 21,
+  "start_sec": 6300.0,
+  "end_sec": 6600.0,
+  "turns": [
+    {
+      "start": 6555.417,
+      "end": 6558.1,
+      "formatted_start": "01:49:15.417",
+      "formatted_end": "01:49:18.100",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6559.012,
+      "end": 6559.535,
+      "formatted_start": "01:49:19.012",
+      "formatted_end": "01:49:19.535",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 6559.973,
+      "end": 6562.083,
+      "formatted_start": "01:49:19.973",
+      "formatted_end": "01:49:22.083",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6562.201,
+      "end": 6565.222,
+      "formatted_start": "01:49:22.201",
+      "formatted_end": "01:49:25.222",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6565.306,
+      "end": 6568.512,
+      "formatted_start": "01:49:25.306",
+      "formatted_end": "01:49:28.512",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6569.255,
+      "end": 6572.09,
+      "formatted_start": "01:49:29.255",
+      "formatted_end": "01:49:32.090",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6572.41,
+      "end": 6577.777,
+      "formatted_start": "01:49:32.410",
+      "formatted_end": "01:49:37.777",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6578.958,
+      "end": 6582.164,
+      "formatted_start": "01:49:38.958",
+      "formatted_end": "01:49:42.164",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6582.35,
+      "end": 6583.531,
+      "formatted_start": "01:49:42.350",
+      "formatted_end": "01:49:43.531",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6583.531,
+      "end": 6584.577,
+      "formatted_start": "01:49:43.531",
+      "formatted_end": "01:49:44.577",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6586.552,
+      "end": 6595.968,
+      "formatted_start": "01:49:46.552",
+      "formatted_end": "01:49:55.968",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6589.403,
+      "end": 6589.859,
+      "formatted_start": "01:49:49.403",
+      "formatted_end": "01:49:49.859",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 6595.968,
+      "end": 6597.757,
+      "formatted_start": "01:49:55.968",
+      "formatted_end": "01:49:57.757",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6300.0,
+      "end": 6329.98,
+      "formatted_start": "01:45:00.000",
+      "formatted_end": "01:45:29.980",
+      "text": "موسیقی در مطب پزشکی"
+    },
+    {
+      "id": 1,
+      "start": 6330.0,
+      "end": 6358.0,
+      "formatted_start": "01:45:30.000",
+      "formatted_end": "01:45:58.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 2,
+      "start": 6360.0,
+      "end": 6374.0,
+      "formatted_start": "01:46:00.000",
+      "formatted_end": "01:46:14.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 6390.0,
+      "end": 6400.0,
+      "formatted_start": "01:46:30.000",
+      "formatted_end": "01:46:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 6420.0,
+      "end": 6448.0,
+      "formatted_start": "01:47:00.000",
+      "formatted_end": "01:47:28.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 6450.0,
+      "end": 6479.98,
+      "formatted_start": "01:47:30.000",
+      "formatted_end": "01:47:59.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 6,
+      "start": 6480.0,
+      "end": 6509.98,
+      "formatted_start": "01:48:00.000",
+      "formatted_end": "01:48:29.980",
+      "text": "موسیقی در موسیقی"
+    },
+    {
+      "id": 7,
+      "start": 6510.0,
+      "end": 6530.0,
+      "formatted_start": "01:48:30.000",
+      "formatted_end": "01:48:50.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 6530.0,
+      "end": 6555.0,
+      "formatted_start": "01:48:50.000",
+      "formatted_end": "01:49:15.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 6555.0,
+      "end": 6557.0,
+      "formatted_start": "01:49:15.000",
+      "formatted_end": "01:49:17.000",
+      "text": "بخوایید خوش کنید"
+    },
+    {
+      "id": 10,
+      "start": 6557.0,
+      "end": 6559.0,
+      "formatted_start": "01:49:17.000",
+      "formatted_end": "01:49:19.000",
+      "text": "خوب"
+    },
+    {
+      "id": 11,
+      "start": 6559.0,
+      "end": 6561.0,
+      "formatted_start": "01:49:19.000",
+      "formatted_end": "01:49:21.000",
+      "text": "برش یک خوش کنید"
+    },
+    {
+      "id": 12,
+      "start": 6561.0,
+      "end": 6563.0,
+      "formatted_start": "01:49:21.000",
+      "formatted_end": "01:49:23.000",
+      "text": "این همه چیزی نداشت"
+    },
+    {
+      "id": 13,
+      "start": 6563.0,
+      "end": 6565.0,
+      "formatted_start": "01:49:23.000",
+      "formatted_end": "01:49:25.000",
+      "text": "به بلا کنید"
+    },
+    {
+      "id": 14,
+      "start": 6565.0,
+      "end": 6567.0,
+      "formatted_start": "01:49:25.000",
+      "formatted_end": "01:49:27.000",
+      "text": "اینو توی اخشار میزنید"
+    },
+    {
+      "id": 15,
+      "start": 6567.0,
+      "end": 6569.0,
+      "formatted_start": "01:49:27.000",
+      "formatted_end": "01:49:29.000",
+      "text": "روزی یه بار پونزه قطعه"
+    },
+    {
+      "id": 16,
+      "start": 6569.0,
+      "end": 6571.0,
+      "formatted_start": "01:49:29.000",
+      "formatted_end": "01:49:31.000",
+      "text": "اینو روزی سه بار پاشوغ ملکا خورید"
+    },
+    {
+      "id": 17,
+      "start": 6571.0,
+      "end": 6573.0,
+      "formatted_start": "01:49:31.000",
+      "formatted_end": "01:49:33.000",
+      "text": "این بوقایی"
+    },
+    {
+      "id": 18,
+      "start": 6573.0,
+      "end": 6575.0,
+      "formatted_start": "01:49:33.000",
+      "formatted_end": "01:49:35.000",
+      "text": "که در چای شدید داره"
+    },
+    {
+      "id": 19,
+      "start": 6575.0,
+      "end": 6577.0,
+      "formatted_start": "01:49:35.000",
+      "formatted_end": "01:49:37.000",
+      "text": "پونزه قطعه داره"
+    },
+    {
+      "id": 20,
+      "start": 6577.0,
+      "end": 6579.0,
+      "formatted_start": "01:49:37.000",
+      "formatted_end": "01:49:39.000",
+      "text": "درش نداشتن هست؟"
+    },
+    {
+      "id": 21,
+      "start": 6579.0,
+      "end": 6581.0,
+      "formatted_start": "01:49:39.000",
+      "formatted_end": "01:49:41.000",
+      "text": "بله"
+    },
+    {
+      "id": 22,
+      "start": 6581.0,
+      "end": 6583.0,
+      "formatted_start": "01:49:41.000",
+      "formatted_end": "01:49:43.000",
+      "text": "بعد اگر در چای شدید نداشت"
+    },
+    {
+      "id": 23,
+      "start": 6583.0,
+      "end": 6585.0,
+      "formatted_start": "01:49:43.000",
+      "formatted_end": "01:49:45.000",
+      "text": "بردیم"
+    },
+    {
+      "id": 24,
+      "start": 6587.0,
+      "end": 6589.0,
+      "formatted_start": "01:49:47.000",
+      "formatted_end": "01:49:49.000",
+      "text": "این چیز ها اشتراکتاش نوشته داره"
+    },
+    {
+      "id": 25,
+      "start": 6589.0,
+      "end": 6590.0,
+      "formatted_start": "01:49:49.000",
+      "formatted_end": "01:49:50.000",
+      "text": "چقدر بگیم؟"
+    },
+    {
+      "id": 26,
+      "start": 6590.0,
+      "end": 6592.0,
+      "formatted_start": "01:49:50.000",
+      "formatted_end": "01:49:52.000",
+      "text": "برد نان درسته"
+    },
+    {
+      "id": 27,
+      "start": 6592.0,
+      "end": 6594.0,
+      "formatted_start": "01:49:52.000",
+      "formatted_end": "01:49:54.000",
+      "text": "نان نوشته"
+    },
+    {
+      "id": 28,
+      "start": 6594.0,
+      "end": 6596.0,
+      "formatted_start": "01:49:54.000",
+      "formatted_end": "01:49:56.000",
+      "text": "برد نان نوشته"
+    },
+    {
+      "id": 29,
+      "start": 6596.0,
+      "end": 6598.0,
+      "formatted_start": "01:49:56.000",
+      "formatted_end": "01:49:58.000",
+      "text": "برد آقای جدیدون از دو رنگ هایتون بگم"
+    },
+    {
+      "id": 30,
+      "start": 6598.0,
+      "end": 6600.0,
+      "formatted_start": "01:49:58.000",
+      "formatted_end": "01:50:00.000",
+      "text": "برشه صرف هم می کنه"
+    }
+  ],
+  "status": "completed"
+}
