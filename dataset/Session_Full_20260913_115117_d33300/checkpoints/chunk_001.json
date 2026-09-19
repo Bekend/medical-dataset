@@ -1,0 +1,235 @@
+{
+  "chunk_index": 1,
+  "start_sec": 300.0,
+  "end_sec": 600.0,
+  "turns": [
+    {
+      "start": 399.965,
+      "end": 401.905,
+      "formatted_start": "00:06:39.965",
+      "formatted_end": "00:06:41.905",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 401.973,
+      "end": 403.525,
+      "formatted_start": "00:06:41.973",
+      "formatted_end": "00:06:43.525",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 404.487,
+      "end": 414.832,
+      "formatted_start": "00:06:44.487",
+      "formatted_end": "00:06:54.832",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 415.422,
+      "end": 423.033,
+      "formatted_start": "00:06:55.422",
+      "formatted_end": "00:07:03.033",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 540.972,
+      "end": 546.322,
+      "formatted_start": "00:09:00.972",
+      "formatted_end": "00:09:06.322",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 547.199,
+      "end": 552.025,
+      "formatted_start": "00:09:07.199",
+      "formatted_end": "00:09:12.025",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 556.447,
+      "end": 558.033,
+      "formatted_start": "00:09:16.447",
+      "formatted_end": "00:09:18.033",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 560.885,
+      "end": 564.361,
+      "formatted_start": "00:09:20.885",
+      "formatted_end": "00:09:24.361",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 565.407,
+      "end": 568.023,
+      "formatted_start": "00:09:25.407",
+      "formatted_end": "00:09:28.023",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 568.377,
+      "end": 573.929,
+      "formatted_start": "00:09:28.377",
+      "formatted_end": "00:09:33.929",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 574.553,
+      "end": 580.19,
+      "formatted_start": "00:09:34.553",
+      "formatted_end": "00:09:40.190",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 580.207,
+      "end": 585.202,
+      "formatted_start": "00:09:40.207",
+      "formatted_end": "00:09:45.202",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 585.556,
+      "end": 589.488,
+      "formatted_start": "00:09:45.556",
+      "formatted_end": "00:09:49.488",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 589.707,
+      "end": 594.01,
+      "formatted_start": "00:09:49.707",
+      "formatted_end": "00:09:54.010",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 594.618,
+      "end": 599.967,
+      "formatted_start": "00:09:54.618",
+      "formatted_end": "00:09:59.967",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 300.0,
+      "end": 329.98,
+      "formatted_start": "00:05:00.000",
+      "formatted_end": "00:05:29.980",
+      "text": "مردی بیمار"
+    },
+    {
+      "id": 1,
+      "start": 330.0,
+      "end": 359.98,
+      "formatted_start": "00:05:30.000",
+      "formatted_end": "00:05:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 2,
+      "start": 360.0,
+      "end": 381.0,
+      "formatted_start": "00:06:00.000",
+      "formatted_end": "00:06:21.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 3,
+      "start": 390.0,
+      "end": 392.0,
+      "formatted_start": "00:06:30.000",
+      "formatted_end": "00:06:32.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 4,
+      "start": 420.0,
+      "end": 434.0,
+      "formatted_start": "00:07:00.000",
+      "formatted_end": "00:07:14.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 5,
+      "start": 450.0,
+      "end": 479.98,
+      "formatted_start": "00:07:30.000",
+      "formatted_end": "00:07:59.980",
+      "text": "موسیقی در موسیقی درسته"
+    },
+    {
+      "id": 6,
+      "start": 480.0,
+      "end": 509.98,
+      "formatted_start": "00:08:00.000",
+      "formatted_end": "00:08:29.980",
+      "text": "مردم در اینجا"
+    },
+    {
+      "id": 7,
+      "start": 510.0,
+      "end": 520.0,
+      "formatted_start": "00:08:30.000",
+      "formatted_end": "00:08:40.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 8,
+      "start": 540.0,
+      "end": 550.0,
+      "formatted_start": "00:09:00.000",
+      "formatted_end": "00:09:10.000",
+      "text": "موسیقی"
+    },
+    {
+      "id": 9,
+      "start": 570.0,
+      "end": 573.66,
+      "formatted_start": "00:09:30.000",
+      "formatted_end": "00:09:33.660",
+      "text": "تنی من میتونه"
+    },
+    {
+      "id": 10,
+      "start": 573.66,
+      "end": 578.6,
+      "formatted_start": "00:09:33.660",
+      "formatted_end": "00:09:38.600",
+      "text": "به دورتا زنده باشه"
+    },
+    {
+      "id": 11,
+      "start": 578.6,
+      "end": 584.98,
+      "formatted_start": "00:09:38.600",
+      "formatted_end": "00:09:44.980",
+      "text": "ای که توی همه کسم"
+    },
+    {
+      "id": 12,
+      "start": 584.98,
+      "end": 589.32,
+      "formatted_start": "00:09:44.980",
+      "formatted_end": "00:09:49.320",
+      "text": "میتون میگیر نفسم"
+    },
+    {
+      "id": 13,
+      "start": 589.32,
+      "end": 594.02,
+      "formatted_start": "00:09:49.320",
+      "formatted_end": "00:09:54.020",
+      "text": "اگه تو رو داشته باشم"
+    },
+    {
+      "id": 14,
+      "start": 594.02,
+      "end": 598.2,
+      "formatted_start": "00:09:54.020",
+      "formatted_end": "00:09:58.200",
+      "text": "به هرچی میخوام میرسم"
+    }
+  ],
+  "status": "completed"
+}
