@@ -1,0 +1,783 @@
+{
+  "chunk_index": 21,
+  "start_sec": 6300.0,
+  "end_sec": 6600.0,
+  "turns": [
+    {
+      "start": 6300.031,
+      "end": 6300.419,
+      "formatted_start": "01:45:00.031",
+      "formatted_end": "01:45:00.419",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6302.275,
+      "end": 6308.755,
+      "formatted_start": "01:45:02.275",
+      "formatted_end": "01:45:08.755",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6309.565,
+      "end": 6310.814,
+      "formatted_start": "01:45:09.565",
+      "formatted_end": "01:45:10.814",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6311.303,
+      "end": 6311.776,
+      "formatted_start": "01:45:11.303",
+      "formatted_end": "01:45:11.776",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6312.417,
+      "end": 6313.733,
+      "formatted_start": "01:45:12.417",
+      "formatted_end": "01:45:13.733",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6314.712,
+      "end": 6318.205,
+      "formatted_start": "01:45:14.712",
+      "formatted_end": "01:45:18.205",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6318.779,
+      "end": 6324.247,
+      "formatted_start": "01:45:18.779",
+      "formatted_end": "01:45:24.247",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6324.466,
+      "end": 6326.795,
+      "formatted_start": "01:45:24.466",
+      "formatted_end": "01:45:26.795",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6326.963,
+      "end": 6327.419,
+      "formatted_start": "01:45:26.963",
+      "formatted_end": "01:45:27.419",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6327.908,
+      "end": 6329.545,
+      "formatted_start": "01:45:27.908",
+      "formatted_end": "01:45:29.545",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6331.047,
+      "end": 6332.279,
+      "formatted_start": "01:45:31.047",
+      "formatted_end": "01:45:32.279",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6359.971,
+      "end": 6360.511,
+      "formatted_start": "01:45:59.971",
+      "formatted_end": "01:46:00.511",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6361.54,
+      "end": 6363.582,
+      "formatted_start": "01:46:01.540",
+      "formatted_end": "01:46:03.582",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6364.814,
+      "end": 6374.045,
+      "formatted_start": "01:46:04.814",
+      "formatted_end": "01:46:14.045",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6368.51,
+      "end": 6368.898,
+      "formatted_start": "01:46:08.510",
+      "formatted_end": "01:46:08.898",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6374.365,
+      "end": 6376.475,
+      "formatted_start": "01:46:14.365",
+      "formatted_end": "01:46:16.475",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6376.778,
+      "end": 6377.791,
+      "formatted_start": "01:46:16.778",
+      "formatted_end": "01:46:17.791",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6378.888,
+      "end": 6380.035,
+      "formatted_start": "01:46:18.888",
+      "formatted_end": "01:46:20.035",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6380.373,
+      "end": 6380.778,
+      "formatted_start": "01:46:20.373",
+      "formatted_end": "01:46:20.778",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6434.845,
+      "end": 6436.55,
+      "formatted_start": "01:47:14.845",
+      "formatted_end": "01:47:16.550",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6440.431,
+      "end": 6441.41,
+      "formatted_start": "01:47:20.431",
+      "formatted_end": "01:47:21.410",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6444.16,
+      "end": 6445.038,
+      "formatted_start": "01:47:24.160",
+      "formatted_end": "01:47:25.038",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6445.122,
+      "end": 6448.025,
+      "formatted_start": "01:47:25.122",
+      "formatted_end": "01:47:28.025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6448.193,
+      "end": 6452.243,
+      "formatted_start": "01:47:28.193",
+      "formatted_end": "01:47:32.243",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6453.037,
+      "end": 6456.057,
+      "formatted_start": "01:47:33.037",
+      "formatted_end": "01:47:36.057",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6457.188,
+      "end": 6457.897,
+      "formatted_start": "01:47:37.188",
+      "formatted_end": "01:47:37.897",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6488.845,
+      "end": 6490.178,
+      "formatted_start": "01:48:08.845",
+      "formatted_end": "01:48:10.178",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6492.558,
+      "end": 6492.929,
+      "formatted_start": "01:48:12.558",
+      "formatted_end": "01:48:12.929",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6493.385,
+      "end": 6497.03,
+      "formatted_start": "01:48:13.385",
+      "formatted_end": "01:48:17.030",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6497.637,
+      "end": 6498.582,
+      "formatted_start": "01:48:17.637",
+      "formatted_end": "01:48:18.582",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6498.97,
+      "end": 6500.641,
+      "formatted_start": "01:48:18.970",
+      "formatted_end": "01:48:20.641",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6501.029,
+      "end": 6501.839,
+      "formatted_start": "01:48:21.029",
+      "formatted_end": "01:48:21.839",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6506.902,
+      "end": 6508.403,
+      "formatted_start": "01:48:26.902",
+      "formatted_end": "01:48:28.403",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6508.977,
+      "end": 6509.332,
+      "formatted_start": "01:48:28.977",
+      "formatted_end": "01:48:29.332",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6510.631,
+      "end": 6511.441,
+      "formatted_start": "01:48:30.631",
+      "formatted_end": "01:48:31.441",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6511.677,
+      "end": 6514.023,
+      "formatted_start": "01:48:31.677",
+      "formatted_end": "01:48:34.023",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6518.512,
+      "end": 6521.431,
+      "formatted_start": "01:48:38.512",
+      "formatted_end": "01:48:41.431",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6523.777,
+      "end": 6526.274,
+      "formatted_start": "01:48:43.777",
+      "formatted_end": "01:48:46.274",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6527.185,
+      "end": 6528.62,
+      "formatted_start": "01:48:47.185",
+      "formatted_end": "01:48:48.620",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6529.97,
+      "end": 6533.986,
+      "formatted_start": "01:48:49.970",
+      "formatted_end": "01:48:53.986",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6535.859,
+      "end": 6537.361,
+      "formatted_start": "01:48:55.859",
+      "formatted_end": "01:48:57.361",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6538.88,
+      "end": 6542.44,
+      "formatted_start": "01:48:58.880",
+      "formatted_end": "01:49:02.440",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6543.638,
+      "end": 6544.33,
+      "formatted_start": "01:49:03.638",
+      "formatted_end": "01:49:04.330",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6544.668,
+      "end": 6546.22,
+      "formatted_start": "01:49:04.668",
+      "formatted_end": "01:49:06.220",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6546.575,
+      "end": 6552.953,
+      "formatted_start": "01:49:06.575",
+      "formatted_end": "01:49:12.953",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6553.409,
+      "end": 6556.902,
+      "formatted_start": "01:49:13.409",
+      "formatted_end": "01:49:16.902",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6583.396,
+      "end": 6589.792,
+      "formatted_start": "01:49:43.396",
+      "formatted_end": "01:49:49.792",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6590.416,
+      "end": 6591.125,
+      "formatted_start": "01:49:50.416",
+      "formatted_end": "01:49:51.125",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6591.766,
+      "end": 6595.968,
+      "formatted_start": "01:49:51.766",
+      "formatted_end": "01:49:55.968",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6596.423,
+      "end": 6597.655,
+      "formatted_start": "01:49:56.423",
+      "formatted_end": "01:49:57.655",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6598.448,
+      "end": 6599.613,
+      "formatted_start": "01:49:58.448",
+      "formatted_end": "01:49:59.613",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "stt_segments": [
+    {
+      "id": 0,
+      "start": 6300.0,
+      "end": 6330.0,
+      "formatted_start": "01:45:00.000",
+      "formatted_end": "01:45:30.000",
+      "text": "از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از اینجا باید برداری کنید، از ا"
+    },
+    {
+      "id": 1,
+      "start": 6330.0,
+      "end": 6338.0,
+      "formatted_start": "01:45:30.000",
+      "formatted_end": "01:45:38.000",
+      "text": "یک سی بود از آدم ها از دیگر هم میتونن زندگی کنن و هم میتونن بگیرن"
+    },
+    {
+      "id": 2,
+      "start": 6338.0,
+      "end": 6344.0,
+      "formatted_start": "01:45:38.000",
+      "formatted_end": "01:45:44.000",
+      "text": "اون چیزی که صورات از ما میخواست اون چیزی که بودا از ما میخواست"
+    },
+    {
+      "id": 3,
+      "start": 6344.0,
+      "end": 6346.0,
+      "formatted_start": "01:45:44.000",
+      "formatted_end": "01:45:46.000",
+      "text": "اون چیزی که غیب آقی ها میخواستن از ما"
+    },
+    {
+      "id": 4,
+      "start": 6346.0,
+      "end": 6353.0,
+      "formatted_start": "01:45:46.000",
+      "formatted_end": "01:45:53.000",
+      "text": "گفتن یه جوری باشی که زندگی رو عاشقش باشی ولی مرد رو هم دوست بدی"
+    },
+    {
+      "id": 5,
+      "start": 6353.0,
+      "end": 6363.0,
+      "formatted_start": "01:45:53.000",
+      "formatted_end": "01:46:03.000",
+      "text": "جوری زندگی کنی که هم من وقتی به زندگی تو نگاه می کنم ببینم آشق زندگی و هم ببینم من رو هم دوستم"
+    },
+    {
+      "id": 6,
+      "start": 6363.0,
+      "end": 6374.0,
+      "formatted_start": "01:46:03.000",
+      "formatted_end": "01:46:14.000",
+      "text": "و این از طرز زندگی کردن آدمیان پیداست که فلانکه هست که البته کم این افراد میبینی فلانکه هست آشق زندگیه"
+    },
+    {
+      "id": 7,
+      "start": 6374.0,
+      "end": 6378.0,
+      "formatted_start": "01:46:14.000",
+      "formatted_end": "01:46:18.000",
+      "text": "ولی من رو هم دوستم"
+    },
+    {
+      "id": 8,
+      "start": 6378.0,
+      "end": 6387.0,
+      "formatted_start": "01:46:18.000",
+      "formatted_end": "01:46:27.000",
+      "text": "مردم دوست داریم. البته در اینجا توجه میکنید که تکیه بیشتر عشق و دوستی ها."
+    },
+    {
+      "id": 9,
+      "start": 6387.0,
+      "end": 6393.0,
+      "formatted_start": "01:46:27.000",
+      "formatted_end": "01:46:33.000",
+      "text": "بازم ببینید کفه چی؟ سنگی تره؟ کفه زندگی سنگی تره؟ بگیم آشق زندگیه."
+    },
+    {
+      "id": 10,
+      "start": 6393.0,
+      "end": 6399.0,
+      "formatted_start": "01:46:33.000",
+      "formatted_end": "01:46:39.000",
+      "text": "ولی مردم دوست داریم. نفرت نداره از دوست. از مرد. شیعه از مرد نداره."
+    },
+    {
+      "id": 11,
+      "start": 6399.0,
+      "end": 6405.0,
+      "formatted_start": "01:46:39.000",
+      "formatted_end": "01:46:45.000",
+      "text": "بیزار نیست از مرد. خشبود از مرد. این ها دسته سه موقع هستند."
+    },
+    {
+      "id": 12,
+      "start": 6405.0,
+      "end": 6413.0,
+      "formatted_start": "01:46:45.000",
+      "formatted_end": "01:46:53.000",
+      "text": "و این ها کسان هستند که میتونند هزار سال در آلم زندگی کنند و خنده همونه یادند"
+    },
+    {
+      "id": 13,
+      "start": 6413.0,
+      "end": 6424.0,
+      "formatted_start": "01:46:53.000",
+      "formatted_end": "01:47:04.000",
+      "text": "از اون طرف هم میتونند هر وقت مرگشون رسید چه در بیست سالگی بلسته چه در هزار سالگی میتونند از مرگم استقبال مونند و درخواه نموشده"
+    },
+    {
+      "id": 14,
+      "start": 6424.0,
+      "end": 6434.0,
+      "formatted_start": "01:47:04.000",
+      "formatted_end": "01:47:14.000",
+      "text": "این دسته استفاده مقابلت تعدادشون به آزمایی مورد خیلی در دیگران بکنند ولی هستند آدم ها اینجوری کنند"
+    },
+    {
+      "id": 15,
+      "start": 6434.0,
+      "end": 6442.3,
+      "formatted_start": "01:47:14.000",
+      "formatted_end": "01:47:22.300",
+      "text": "که دست چهار متصبر نیست که بگیرون نمیتونن زندگی کنن و نمیتونن بمیرن"
+    },
+    {
+      "id": 16,
+      "start": 6442.3,
+      "end": 6450.46,
+      "formatted_start": "01:47:22.300",
+      "formatted_end": "01:47:30.460",
+      "text": "پس ما از لحاظ این تقسیم چهارمان به سه دست تقسیم میشیم"
+    },
+    {
+      "id": 17,
+      "start": 6450.46,
+      "end": 6456.46,
+      "formatted_start": "01:47:30.460",
+      "formatted_end": "01:47:36.460",
+      "text": "کسانی که نمیتونن زندگی کنن ببخشیم میتونن زندگی کنن ولی نمیتونن بمیرن"
+    },
+    {
+      "id": 18,
+      "start": 6456.46,
+      "end": 6464.12,
+      "formatted_start": "01:47:36.460",
+      "formatted_end": "01:47:44.120",
+      "text": "کسانی که اینا نه میتونن ببینن اما نمیتونن زندگی کنن"
+    },
+    {
+      "id": 19,
+      "start": 6464.12,
+      "end": 6468.0,
+      "formatted_start": "01:47:44.120",
+      "formatted_end": "01:47:48.000",
+      "text": "اینا اینایی هم که به قوت دلشون رو خودخوشی کنن"
+    },
+    {
+      "id": 20,
+      "start": 6468.0,
+      "end": 6472.12,
+      "formatted_start": "01:47:48.000",
+      "formatted_end": "01:47:52.120",
+      "text": "حالا چه به فعال خودخوشی کنن یا به خاطر ممانعی نمیدونن"
+    },
+    {
+      "id": 21,
+      "start": 6472.12,
+      "end": 6479.44,
+      "formatted_start": "01:47:52.120",
+      "formatted_end": "01:47:59.440",
+      "text": "باید در سلسه مرکز هایی هستن که هم میتونن زندگی کنن و هم میتونن ببینن"
+    },
+    {
+      "id": 22,
+      "start": 6479.44,
+      "end": 6482.64,
+      "formatted_start": "01:47:59.440",
+      "formatted_end": "01:48:02.640",
+      "text": "هر دو براشون مطلوبه"
+    },
+    {
+      "id": 23,
+      "start": 6482.64,
+      "end": 6487.64,
+      "formatted_start": "01:48:02.640",
+      "formatted_end": "01:48:07.640",
+      "text": "ممکنه زندگی براشون مطلوب تر از مرگم باشه"
+    },
+    {
+      "id": 24,
+      "start": 6487.64,
+      "end": 6490.64,
+      "formatted_start": "01:48:07.640",
+      "formatted_end": "01:48:10.640",
+      "text": "اما مرگم براشون مطلوبه"
+    },
+    {
+      "id": 25,
+      "start": 6490.64,
+      "end": 6492.64,
+      "formatted_start": "01:48:10.640",
+      "formatted_end": "01:48:12.640",
+      "text": "نامطلوب نیست"
+    },
+    {
+      "id": 26,
+      "start": 6492.64,
+      "end": 6494.64,
+      "formatted_start": "01:48:12.640",
+      "formatted_end": "01:48:14.640",
+      "text": "قدرت هر دو رو دارن"
+    },
+    {
+      "id": 27,
+      "start": 6494.64,
+      "end": 6498.64,
+      "formatted_start": "01:48:14.640",
+      "formatted_end": "01:48:18.640",
+      "text": "بنابراین از هر دو در واقع خوشی میبینن"
+    },
+    {
+      "id": 28,
+      "start": 6498.64,
+      "end": 6501.64,
+      "formatted_start": "01:48:18.640",
+      "formatted_end": "01:48:21.640",
+      "text": "از هر دو با ناخوشی مماجه نمیشه"
+    },
+    {
+      "id": 29,
+      "start": 6501.64,
+      "end": 6504.64,
+      "formatted_start": "01:48:21.640",
+      "formatted_end": "01:48:24.640",
+      "text": "این رو خدمت برنام دسته یه"
+    },
+    {
+      "id": 30,
+      "start": 6504.64,
+      "end": 6506.64,
+      "formatted_start": "01:48:24.640",
+      "formatted_end": "01:48:26.640",
+      "text": "سه مومن"
+    },
+    {
+      "id": 31,
+      "start": 6506.64,
+      "end": 6508.64,
+      "formatted_start": "01:48:26.640",
+      "formatted_end": "01:48:28.640",
+      "text": "دسته یه چهارم هم گفتیم نداریم"
+    },
+    {
+      "id": 32,
+      "start": 6508.64,
+      "end": 6510.64,
+      "formatted_start": "01:48:28.640",
+      "formatted_end": "01:48:30.640",
+      "text": "خب"
+    },
+    {
+      "id": 33,
+      "start": 6510.64,
+      "end": 6514.02,
+      "formatted_start": "01:48:30.640",
+      "formatted_end": "01:48:34.020",
+      "text": "حالا این تقسیم من دیچه ها رو که هم بگیم"
+    },
+    {
+      "id": 34,
+      "start": 6514.02,
+      "end": 6521.22,
+      "formatted_start": "01:48:34.020",
+      "formatted_end": "01:48:41.220",
+      "text": "اگر شما بخواید در این زندگی"
+    },
+    {
+      "id": 35,
+      "start": 6521.22,
+      "end": 6526.08,
+      "formatted_start": "01:48:41.220",
+      "formatted_end": "01:48:46.080",
+      "text": "در این زندگی که الان داریم"
+    },
+    {
+      "id": 36,
+      "start": 6526.08,
+      "end": 6531.92,
+      "formatted_start": "01:48:46.080",
+      "formatted_end": "01:48:51.920",
+      "text": "اگر بخواید در این زندگی بگیم"
+    },
+    {
+      "id": 37,
+      "start": 6531.92,
+      "end": 6533.78,
+      "formatted_start": "01:48:51.920",
+      "formatted_end": "01:48:53.780",
+      "text": "بدتر زندگی رو که"
+    },
+    {
+      "id": 38,
+      "start": 6533.78,
+      "end": 6543.5,
+      "formatted_start": "01:48:53.780",
+      "formatted_end": "01:49:03.500",
+      "text": "ناخوشاینتر زندگی رو کهی کنی؟"
+    },
+    {
+      "id": 39,
+      "start": 6543.5,
+      "end": 6545.72,
+      "formatted_start": "01:49:03.500",
+      "formatted_end": "01:49:05.720",
+      "text": "و جوابشی"
+    },
+    {
+      "id": 40,
+      "start": 6545.72,
+      "end": 6549.86,
+      "formatted_start": "01:49:05.720",
+      "formatted_end": "01:49:09.860",
+      "text": "کسی ناخوشاینتر زندگی رو می کنه"
+    },
+    {
+      "id": 41,
+      "start": 6549.86,
+      "end": 6552.82,
+      "formatted_start": "01:49:09.860",
+      "formatted_end": "01:49:12.820",
+      "text": "که به لحاظ تقسیم بندی اول"
+    },
+    {
+      "id": 42,
+      "start": 6552.82,
+      "end": 6556.72,
+      "formatted_start": "01:49:12.820",
+      "formatted_end": "01:49:16.720",
+      "text": "یعنی به لحاظ این که آهی نازل زندگیه"
+    },
+    {
+      "id": 43,
+      "start": 6556.72,
+      "end": 6559.12,
+      "formatted_start": "01:49:16.720",
+      "formatted_end": "01:49:19.120",
+      "text": "و آمل زندگی"
+    },
+    {
+      "id": 44,
+      "start": 6559.12,
+      "end": 6563.18,
+      "formatted_start": "01:49:19.120",
+      "formatted_end": "01:49:23.180",
+      "text": "یا فقط آمل زندگیه"
+    },
+    {
+      "id": 45,
+      "start": 6563.18,
+      "end": 6569.58,
+      "formatted_start": "01:49:23.180",
+      "formatted_end": "01:49:29.580",
+      "text": "اونی که در زندگی فقط آمن نیست"
+    },
+    {
+      "id": 46,
+      "start": 6569.58,
+      "end": 6574.64,
+      "formatted_start": "01:49:29.580",
+      "formatted_end": "01:49:34.640",
+      "text": "علاوه بر آمن بودن نازر هم هست"
+    },
+    {
+      "id": 47,
+      "start": 6574.64,
+      "end": 6580.38,
+      "formatted_start": "01:49:34.640",
+      "formatted_end": "01:49:40.380",
+      "text": "در تقسیم بندی دو گروه"
+    },
+    {
+      "id": 48,
+      "start": 6580.38,
+      "end": 6584.88,
+      "formatted_start": "01:49:40.380",
+      "formatted_end": "01:49:44.880",
+      "text": "که اهل شهرانیت و اهل معنویت"
+    },
+    {
+      "id": 49,
+      "start": 6584.88,
+      "end": 6586.96,
+      "formatted_start": "01:49:44.880",
+      "formatted_end": "01:49:46.960",
+      "text": "و اهل مغنویت و اهل مغنویت"
+    },
+    {
+      "id": 50,
+      "start": 6586.96,
+      "end": 6593.0,
+      "formatted_start": "01:49:46.960",
+      "formatted_end": "01:49:53.000",
+      "text": "این آدم نه معنویت"
+    },
+    {
+      "id": 51,
+      "start": 6593.0,
+      "end": 6600.0,
+      "formatted_start": "01:49:53.000",
+      "formatted_end": "01:50:00.000",
+      "text": "هم شهابان باشه و هم معنی باشه بلدر رو دوست داریم"
+    }
+  ],
+  "status": "completed"
+}
