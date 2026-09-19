@@ -7,11 +7,6 @@
 [![Tasks: STT & Diarization & Clinical NLP](https://img.shields.io/badge/Tasks-STT%20%7C%20Diarization%20%7C%20NLP-purple.svg)](#)
 
 ---
-### مشخصات پژوهش و دست‌اندرکاران (Research Credits)
-* **پژوهشگر و گردآورنده (Researcher & Data Collector):** سید شهاب‌الدین حسینی بای (*Seyyed Shahabeddin Hosseini Bay*)
-* **اساتید راهنما (Supervisors):**
-  * جناب آقای دکتر رضا یزدی (*Dr. Reza Yazdi*)
-  * جناب آقای دکتر مهدی یعقوبی (*Dr. Mehdi Yaghoobi*)
 ## 📑 فهرست مطالب / Table of Contents
 1. [بخش فارسی / Persian Section](#-بخش-فارسی-persian-documentation)
    - [مقدمه و چکیده](#۱-مقدمه-و-چکیده-dataset-overview--motivation)
@@ -191,6 +186,12 @@ PCCC_Dataset/
 3. **خلاصه‌سازی بالینی و ایجاد پرونده الکترونیک (EHR / SOAP Notes):** تست و ارزیابی توانایی مدل‌های زبانی در استخراج علائم اصلی بیماری (Chief Complaint)، شرح حال و برنامه درمان.
 4. **تحلیل و مطالعه پدیده توهم در پردازش صوت (STT Hallucination Research).**
 
+
+### مشخصات پژوهش و دست‌اندرکاران (Research Credits)
+* **پژوهشگر و گردآورنده (Researcher & Data Collector):** سید شهاب‌الدین حسینی بای (*Seyyed Shahabeddin Hosseini Bay*)
+* **اساتید راهنما (Supervisors):**
+  * جناب آقای دکتر رضا یزدی (*Dr. Reza Yazdi*)
+  * جناب آقای دکتر مهدی یعقوبی (*Dr. Mehdi Yaghoobi*)
 ---
 ---
 
