@@ -16,3 +16,6 @@ venv/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local extraction and dashboard generator scripts (kept locally)
+scripts/
