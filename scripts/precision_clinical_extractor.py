@@ -13,6 +13,12 @@ import re
 import glob
 import json
 import pandas as pd
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(SCRIPT_DIR) if os.path.basename(SCRIPT_DIR) == 'scripts' else SCRIPT_DIR
+if SCRIPT_DIR not in sys.path:
+    sys.path.insert(0, SCRIPT_DIR)
+
 import pharmacopeia_matcher as pm
 
 if sys.stdout and hasattr(sys.stdout, 'reconfigure'):
@@ -296,11 +302,12 @@ def extract_encounter_from_segment(seg, session_id, enc_idx):
     }
 
 def run_extraction():
-    sessions = sorted([s for s in os.listdir('dataset') if os.path.isdir(os.path.join('dataset', s))])
+    dataset_dir = os.path.join(ROOT_DIR, 'dataset')
+    sessions = sorted([s for s in os.listdir(dataset_dir) if os.path.isdir(os.path.join(dataset_dir, s))])
     all_encounters = []
     
     for s in sessions:
-        ref_files = glob.glob(f'dataset/{s}/refined/*ai_refined*.txt')
+        ref_files = glob.glob(os.path.join(dataset_dir, s, 'refined', '*ai_refined*.txt'))
         if not ref_files:
             continue
         lines = parse_session_lines(ref_files[0])
@@ -322,8 +329,12 @@ def run_extraction():
     print(f'TOTAL PURE CLINICAL DIALOGUE: {total_hours:.2f} hours')
     print(f'=============================================')
     
+    out_dir = os.path.join(ROOT_DIR, 'data')
+    os.makedirs(out_dir, exist_ok=True)
+    
     # Save full JSON
-    with open('clinical_encounters_corpus.json', 'w', encoding='utf-8') as f:
+    json_path = os.path.join(out_dir, 'clinical_encounters_corpus.json')
+    with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(all_encounters, f, ensure_ascii=False, indent=2)
         
     # Save CSV
@@ -346,8 +357,9 @@ def run_extraction():
             'SOAP_Plan': e['soap_note']['P_Plan']
         })
     df = pd.DataFrame(rows)
-    df.to_csv('clinical_encounters_summary.csv', index=False, encoding='utf-8-sig')
-    print('Saved updated clinical_encounters_corpus.json and clinical_encounters_summary.csv')
+    csv_path = os.path.join(out_dir, 'clinical_encounters_summary.csv')
+    df.to_csv(csv_path, index=False, encoding='utf-8-sig')
+    print(f'Saved updated {json_path} and {csv_path}')
 
 if __name__ == '__main__':
     run_extraction()

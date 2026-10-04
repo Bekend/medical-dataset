@@ -4,11 +4,19 @@ Generates an interactive, standalone Clinical Analytics Dashboard & Encounter Ex
 Works offline and directly in any modern browser.
 """
 
+import os
 import json
 import sys
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(SCRIPT_DIR) if os.path.basename(SCRIPT_DIR) == 'scripts' else SCRIPT_DIR
+
 def build_dashboard():
-    with open('clinical_encounters_corpus.json', encoding='utf-8') as f:
+    data_path = os.path.join(ROOT_DIR, 'data', 'clinical_encounters_corpus.json')
+    if not os.path.exists(data_path):
+        data_path = os.path.join(ROOT_DIR, 'clinical_encounters_corpus.json')
+
+    with open(data_path, encoding='utf-8') as f:
         encounters = json.load(f)
 
     # Prepare data for dashboard
@@ -712,9 +720,10 @@ ${soap.P_Plan}`;
 </html>
 """
 
-    with open('clinical_dashboard.html', 'w', encoding='utf-8') as f:
+    out_path = os.path.join(ROOT_DIR, 'index.html')
+    with open(out_path, 'w', encoding='utf-8') as f:
         f.write(html_template)
-    print("Successfully generated clinical_dashboard.html!")
+    print(f"Successfully generated {out_path}!")
 
 if __name__ == '__main__':
     build_dashboard()
